@@ -1,0 +1,200 @@
+01:59:05.376857143
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.42%     152.5MiB / 3.852GiB   3.87%     97.7kB / 87.4kB   0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.15%     147MiB / 3.852GiB     3.73%     96.7kB / 93.5kB   0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     1.523MiB / 3.852GiB   0.04%     6kB / 6.25kB      0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        0.00%     1.535MiB / 3.852GiB   0.04%     8.14kB / 8.67kB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.777MiB / 3.852GiB   0.05%     499kB / 703kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.664MiB / 3.852GiB   0.04%     477kB / 673kB     0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     3.02%     161.2MiB / 3.852GiB   4.09%     12.5kB / 7.64kB   7.62MB / 204MB   34
+01:59:13.046356238
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.28%     152.5MiB / 3.852GiB   3.87%     98.3kB / 87.9kB   0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.12%     147MiB / 3.852GiB     3.73%     97.1kB / 94kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     1.523MiB / 3.852GiB   0.04%     6kB / 6.25kB      0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        0.00%     1.535MiB / 3.852GiB   0.04%     8.14kB / 8.67kB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.777MiB / 3.852GiB   0.05%     499kB / 703kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.664MiB / 3.852GiB   0.04%     477kB / 673kB     0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     2.83%     161.2MiB / 3.852GiB   4.09%     12.5kB / 7.64kB   7.62MB / 204MB   34
+01:59:20.712015871
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.31%     152.5MiB / 3.852GiB   3.87%     98.8kB / 88.5kB   0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.09%     147MiB / 3.852GiB     3.73%     97.6kB / 94.4kB   0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     1.523MiB / 3.852GiB   0.04%     6.07kB / 6.38kB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        0.00%     1.535MiB / 3.852GiB   0.04%     8.14kB / 8.67kB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.777MiB / 3.852GiB   0.05%     499kB / 703kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.664MiB / 3.852GiB   0.04%     477kB / 673kB     0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     3.04%     161.2MiB / 3.852GiB   4.09%     12.5kB / 7.64kB   7.62MB / 204MB   34
+01:59:28.378195056
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.33%     152.5MiB / 3.852GiB   3.87%     99.3kB / 88.9kB   0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.11%     147MiB / 3.852GiB     3.73%     98kB / 94.9kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     1.523MiB / 3.852GiB   0.04%     6.07kB / 6.38kB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        0.00%     1.535MiB / 3.852GiB   0.04%     8.14kB / 8.67kB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.777MiB / 3.852GiB   0.05%     499kB / 703kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.664MiB / 3.852GiB   0.04%     477kB / 673kB     0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     2.70%     161.2MiB / 3.852GiB   4.09%     12.5kB / 7.64kB   7.62MB / 204MB   34
+01:59:36.051877552
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.32%     152.5MiB / 3.852GiB   3.87%     99.7kB / 89.4kB   0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.08%     147MiB / 3.852GiB     3.73%     98.6kB / 95.3kB   0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     1.523MiB / 3.852GiB   0.04%     6.07kB / 6.38kB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        0.00%     1.535MiB / 3.852GiB   0.04%     8.25kB / 8.85kB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.777MiB / 3.852GiB   0.05%     499kB / 703kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.664MiB / 3.852GiB   0.04%     477kB / 673kB     0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     2.89%     161.2MiB / 3.852GiB   4.09%     12.5kB / 7.64kB   7.62MB / 204MB   34
+LIGANDO OS CLIENTES
+02:00:09.341286653
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.621MiB / 3.852GiB   0.04%     35.9kB / 70.9kB   0B / 0B          5
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.76%     153.7MiB / 3.852GiB   3.90%     267kB / 203kB     0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     3.60%     147.2MiB / 3.852GiB   3.73%     138kB / 127kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        11.34%    1.934MiB / 3.852GiB   0.05%     897kB / 1.09MB    0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        12.04%    1.84MiB / 3.852GiB    0.05%     143kB / 167kB     0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      6.69%     1.629MiB / 3.852GiB   0.04%     14.5kB / 27.8kB   0B / 0B          5
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.2kB / 70.9kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     20.23%    165.7MiB / 3.852GiB   4.20%     1.23MB / 987kB    7.74MB / 206MB   34
+02:00:17.042962511
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      6.79%     1.652MiB / 3.852GiB   0.04%     18.7kB / 36.4kB   0B / 0B          5
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36kB / 70.9kB     0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.66%     153.7MiB / 3.852GiB   3.90%     277kB / 221kB     0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     3.84%     147.6MiB / 3.852GiB   3.74%     223kB / 176kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        11.72%    2.035MiB / 3.852GiB   0.05%     1.34MB / 1.63MB   0B / 0B          6
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        11.99%    1.93MiB / 3.852GiB    0.05%     407kB / 490kB     0B / 0B          6
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.598MiB / 3.852GiB   0.04%     35.9kB / 70.9kB   0B / 0B          5
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.3kB / 70.9kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     18.80%    167.6MiB / 3.852GiB   4.25%     2.08MB / 1.67MB   7.89MB / 207MB   34
+02:00:24.760627798
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.02%     1.641MiB / 3.852GiB   0.04%     35.8kB / 70.9kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36kB / 70.9kB     0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.42%     153.7MiB / 3.852GiB   3.90%     285kB / 234kB     0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.09%     147.6MiB / 3.852GiB   3.74%     265kB / 205kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        14.03%    2.062MiB / 3.852GiB   0.05%     1.78MB / 2.16MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        4.52%     1.898MiB / 3.852GiB   0.05%     726kB / 881kB     0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36kB / 70.9kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.05%     1.57MiB / 3.852GiB    0.04%     36.4kB / 71kB     0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     18.89%    171.6MiB / 3.852GiB   4.35%     2.99MB / 2.4MB    8.11MB / 209MB   34
+02:00:32.444207837
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     35.9kB / 70.9kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.07%     1.605MiB / 3.852GiB   0.04%     36.2kB / 71kB     0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.73%     153.7MiB / 3.852GiB   3.90%     296kB / 253kB     0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.44%     147.6MiB / 3.852GiB   3.74%     274kB / 221kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        11.65%    2.023MiB / 3.852GiB   0.05%     2.21MB / 2.7MB    0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        11.06%    1.918MiB / 3.852GiB   0.05%     1.16MB / 1.41MB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36kB / 70.9kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.4kB / 71.1kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     23.58%    175.7MiB / 3.852GiB   4.45%     4.04MB / 3.24MB   8.34MB / 210MB   34
+02:00:40.163188983
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     35.9kB / 70.9kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.3kB / 71.1kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.32%     153.7MiB / 3.852GiB   3.90%     304kB / 268kB     0B / 606kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.32%     147.7MiB / 3.852GiB   3.74%     280kB / 232kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        12.60%    1.992MiB / 3.852GiB   0.05%     2.65MB / 3.24MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        12.51%    1.965MiB / 3.852GiB   0.05%     1.48MB / 1.8MB    0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.1kB / 71kB     0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.4kB / 71.1kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     19.77%    179.7MiB / 3.852GiB   4.56%     4.95MB / 3.97MB   8.45MB / 211MB   34
+02:00:47.859785031
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36kB / 71kB       0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.3kB / 71.1kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   2.37%     153.7MiB / 3.852GiB   3.90%     313kB / 283kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     1.40%     147.7MiB / 3.852GiB   3.74%     289kB / 248kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        12.28%    2.203MiB / 3.852GiB   0.06%     3.08MB / 3.77MB   0B / 0B          6
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        12.31%    1.941MiB / 3.852GiB   0.05%     1.91MB / 2.33MB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.2kB / 71.1kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.4kB / 71.1kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     19.62%    183.7MiB / 3.852GiB   4.66%     5.85MB / 4.69MB   8.63MB / 213MB   34
+02:00:55.557614771
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36.1kB / 71.1kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.3kB / 71.1kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.46%     153.7MiB / 3.852GiB   3.90%     323kB / 301kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.16%     147.7MiB / 3.852GiB   3.74%     299kB / 263kB     0B / 594kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        12.98%    2.133MiB / 3.852GiB   0.05%     3.52MB / 4.3MB    0B / 0B          6
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        9.37%     1.949MiB / 3.852GiB   0.05%     2.33MB / 2.85MB   0B / 0B          6
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.2kB / 71.1kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.6kB / 71.2kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     20.83%    187.7MiB / 3.852GiB   4.76%     6.9MB / 5.53MB    8.79MB / 214MB   34
+02:01:03.266575876
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36.1kB / 71.1kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.4kB / 71.3kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.10%     153.7MiB / 3.852GiB   3.90%     332kB / 315kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.34%     147.8MiB / 3.852GiB   3.75%     306kB / 275kB     0B / 606kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        13.61%    2.047MiB / 3.852GiB   0.05%     3.96MB / 4.84MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        6.61%     1.941MiB / 3.852GiB   0.05%     2.61MB / 3.18MB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.2kB / 71.1kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.6kB / 71.3kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     23.19%    191.7MiB / 3.852GiB   4.86%     7.9MB / 6.33MB    9.02MB / 216MB   34
+02:01:10.994593042
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36.1kB / 71.1kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.5kB / 71.3kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.05%     153.7MiB / 3.852GiB   3.90%     333kB / 315kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.30%     147.8MiB / 3.852GiB   3.75%     312kB / 286kB     0B / 606kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     2MiB / 3.852GiB       0.05%     4.03MB / 4.93MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        8.10%     1.992MiB / 3.852GiB   0.05%     2.91MB / 3.55MB   0B / 0B          6
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.2kB / 71.2kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.6kB / 71.3kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     3.51%     191.7MiB / 3.852GiB   4.86%     8.31MB / 6.66MB   9.02MB / 216MB   34
+02:01:18.676584016
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36.2kB / 71.2kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.5kB / 71.3kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.19%     153.7MiB / 3.852GiB   3.90%     333kB / 316kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.36%     147.8MiB / 3.852GiB   3.75%     321kB / 301kB     0B / 606kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.01%     2MiB / 3.852GiB       0.05%     4.03MB / 4.93MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        15.32%    2.039MiB / 3.852GiB   0.05%     3.33MB / 4.07MB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.4kB / 71.3kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.6kB / 71.3kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     19.01%    193.7MiB / 3.852GiB   4.91%     8.86MB / 7.1MB    9.13MB / 217MB   34
+02:01:26.353411234
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36.3kB / 71.3kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.5kB / 71.3kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.06%     153.7MiB / 3.852GiB   3.90%     334kB / 316kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.11%     147.8MiB / 3.852GiB   3.75%     325kB / 309kB     0B / 606kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     2MiB / 3.852GiB       0.05%     4.03MB / 4.93MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        11.35%    1.992MiB / 3.852GiB   0.05%     3.59MB / 4.39MB   0B / 0B          6
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.4kB / 71.3kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.7kB / 71.4kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     14.52%    195.7MiB / 3.852GiB   4.96%     9.17MB / 7.35MB   9.24MB / 217MB   34
+02:01:34.049582642
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36.3kB / 71.3kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.5kB / 71.5kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.17%     153.7MiB / 3.852GiB   3.90%     335kB / 317kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.09%     147.8MiB / 3.852GiB   3.75%     333kB / 322kB     0B / 606kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     2MiB / 3.852GiB       0.05%     4.03MB / 4.93MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        5.62%     1.93MiB / 3.852GiB    0.05%     3.94MB / 4.81MB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.01%     1.582MiB / 3.852GiB   0.04%     36.4kB / 71.3kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.7kB / 71.4kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     12.91%    197.8MiB / 3.852GiB   5.01%     9.56MB / 7.66MB   9.35MB / 218MB   34
+02:01:41.747848406
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.01%     1.641MiB / 3.852GiB   0.04%     36.3kB / 71.3kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.6kB / 71.6kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.06%     153.7MiB / 3.852GiB   3.90%     335kB / 317kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.06%     147.8MiB / 3.852GiB   3.75%     334kB / 323kB     0B / 606kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     2MiB / 3.852GiB       0.05%     4.03MB / 4.93MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        0.00%     1.93MiB / 3.852GiB    0.05%     4.04MB / 4.93MB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.4kB / 71.4kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.7kB / 71.4kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     2.67%     197.8MiB / 3.852GiB   5.01%     9.71MB / 7.78MB   9.35MB / 218MB   34
+02:01:49.438764272
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b1a8979bbe70   stats_client_b.1.bndtrtaldlw80eah9oe5yjfw0      0.00%     1.641MiB / 3.852GiB   0.04%     36.4kB / 71.4kB   0B / 0B          4
+f73042c46c95   stats_client_a.1.qaybvryewmt3ljeqstawso8sl      0.00%     1.605MiB / 3.852GiB   0.04%     36.6kB / 71.6kB   0B / 0B          4
+a128ad79d3bc   stats_mqtt-broker.1.ho9qm63wobeiqc8tu1i8j1z47   0.21%     153.7MiB / 3.852GiB   3.90%     336kB / 319kB     0B / 614kB       32
+9339c09eff78   stats_mqtt-node.1.7rtihgr1e0zp5fypxv1236zyt     0.40%     147.8MiB / 3.852GiB   3.75%     336kB / 324kB     0B / 606kB       32
+6dbeae3c4698   stats_twin_a.1.pjw29z3mnrmsh995b9dkauwes        0.00%     2MiB / 3.852GiB       0.05%     4.03MB / 4.93MB   0B / 0B          3
+2da825f70394   stats_twin_b.1.ri8b12188z0siah3x794lqjy1        0.00%     1.883MiB / 3.852GiB   0.05%     4.04MB / 4.93MB   0B / 0B          3
+fee7a794d74c   stats_client_b.1.mog45pkzyskpd7uwedhrgmkpl      0.00%     1.582MiB / 3.852GiB   0.04%     36.5kB / 71.4kB   0B / 0B          4
+20f887127c54   stats_client_a.1.l2p8squzfs5vpfl20nfg9c3i3      0.00%     1.57MiB / 3.852GiB    0.04%     36.7kB / 71.4kB   0B / 0B          4
+71b8dd92caa0   stats_scylla-db.1.z8n4fxe7sn9i4hdd7g2oojb1f     2.87%     197.8MiB / 3.852GiB   5.01%     9.71MB / 7.78MB   9.35MB / 218MB   34
+02:01:57.124358553
