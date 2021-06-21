@@ -1,14 +1,13 @@
 version: '3'
 
 services:
-  client_a:
-    image: "opendigitaltwin/dt-client-delay:latest"
+  client:
+    image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - mqtt-broker
       - twin
     environment:
       - RUST_LOG=info
-      - MQTT_START_DELAY=20
       - MQTT_BROKER_ADDRESS=mqtt-broker
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
@@ -25,7 +24,7 @@ services:
           - node.labels.name==dtwins1
     command: dt-client-bytes
 
-  twin:
+  twin_1:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
@@ -37,6 +36,28 @@ services:
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
       - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - MQTT_SUBSCRIBED_TOPIC=A/A/A
+    networks:
+      - default
+    restart: always
+    deploy:
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-instance
+
+twin_2:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-broker
+      - scylla-db
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-broker
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7d
       - MQTT_SUBSCRIBED_TOPIC=+/+/+
     networks:
       - default
@@ -47,6 +68,28 @@ services:
           - node.labels.name==dtwins1
     command: dt-instance
     
+twin_3:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-broker
+      - scylla-db
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-broker
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7e
+      - MQTT_SUBSCRIBED_TOPIC=#
+    networks:
+      - default
+    restart: always
+    deploy:
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-instance
+
   mqtt-broker:
     image: "emqx/emqx:latest"
     environment:
