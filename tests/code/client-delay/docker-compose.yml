@@ -8,7 +8,7 @@ services:
       - twin
     environment:
       - RUST_LOG=info
-      - MQTT_START_DELAY=0
+      - MQTT_START_DELAY=20
       - MQTT_BROKER_ADDRESS=mqtt-broker
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
