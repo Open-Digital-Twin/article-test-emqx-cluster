@@ -46,7 +46,7 @@ services:
           - node.labels.name==dtwins1
     command: dt-instance
 
-twin_2:
+  twin_2:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
@@ -68,7 +68,7 @@ twin_2:
           - node.labels.name==dtwins1
     command: dt-instance
     
-twin_3:
+  twin_3:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
