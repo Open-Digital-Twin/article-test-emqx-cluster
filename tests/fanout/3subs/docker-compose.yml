@@ -7,6 +7,7 @@ services:
       - mqtt-broker
       - twin
     environment:
+      - CONTAINER_DELAY_S=30
       - RUST_LOG=info
       - MQTT_BROKER_ADDRESS=mqtt-broker
       - MQTT_BROKER_PORT=1883
