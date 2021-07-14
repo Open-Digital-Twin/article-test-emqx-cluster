@@ -1,18 +1,9 @@
-for c in $(seq 1 5)
+REC=0
+for REC in $(seq 0 20) 
 do
-   date +"%T.%N" >> "stats.log"
-   docker stats --no-stream >> "stats.log"
-   sleep 5
-done
-
-for i in "$*"
-do
-   docker restart $i
-done
-
-while :; do
-   
-   date +"%T.%N" >> "stats.log"
-   docker stats --no-stream >> "stats.log"
-   sleep 5
+date +"%T.%N" >> "stats.log"
+echo "saving n $REC at"; date +"%T.%N"
+docker stats --no-stream >> "stats.log"
+let REC=REC+1
+sleep 5
 done
