@@ -1,0 +1,29 @@
+2021-07-15T02:27:24.631350227Z  listener.ssl.external.acceptors = "32"
+2021-07-15T02:27:24.631435633Z  listener.ssl.external.max_connections = "102400"
+2021-07-15T02:27:24.631449628Z  listener.tcp.external.acceptors = "64"
+2021-07-15T02:27:24.631459792Z  listener.tcp.external.max_connections = "1024000"
+2021-07-15T02:27:24.631493912Z  listener.ws.external.acceptors = "16"
+2021-07-15T02:27:24.631517604Z  listener.ws.external.max_connections = "102400"
+2021-07-15T02:27:24.631526833Z  listener.wss.external.acceptors = "16"
+2021-07-15T02:27:24.631535973Z  listener.wss.external.max_connections = "102400"
+2021-07-15T02:27:24.631545144Z  log.to = "console"
+2021-07-15T02:27:24.631553906Z  node.max_ets_tables = "2097152"
+2021-07-15T02:27:24.631562750Z  node.max_ports = "1048576"
+2021-07-15T02:27:24.631591724Z  node.name = "355b70aab5a5@10.0.44.14"
+2021-07-15T02:27:24.631602241Z  node.process_limit = "2097152"
+2021-07-15T02:27:24.631611053Z  rpc.port_discovery = "manual"
+2021-07-15T02:27:24.631620138Z  zone.external.max_mqueue_len = "0"
+2021-07-15T02:27:24.631629114Z  zone.external.mqueue_priorities = "A/A/A=10,B/B/B=50,C/C/C=100,D/D/D=200"
+2021-07-15T02:27:25.319137748Z  Exec: /opt/emqx/erts-11.1.8/bin/erlexec -noshell -noinput +Bd -boot /opt/emqx/releases/4.3.5/start -mode embedded -boot_var ERTS_LIB_DIR /opt/emqx/erts-11.1.8/../lib -mnesia dir "/opt/emqx/data/mnesia/355b70aab5a5@10.0.44.14" -config /opt/emqx/data/configs/app.2021.07.15.02.27.21.config -args_file /opt/emqx/data/configs/vm.2021.07.15.02.27.21.args -vm_args /opt/emqx/data/configs/vm.2021.07.15.02.27.21.args -start_epmd false -epmd_module ekka_epmd -proto_dist ekka -- foreground
+2021-07-15T02:27:25.319220644Z  Root: /opt/emqx
+2021-07-15T02:27:27.225695140Z  Starting emqx on node 355b70aab5a5@10.0.44.14
+2021-07-15T02:27:29.072872379Z  Start http:management listener on 8081 successfully.
+2021-07-15T02:27:29.132898439Z  Start http:dashboard listener on 18083 successfully.
+2021-07-15T02:27:29.293270089Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-07-15T02:27:29.300091954Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-07-15T02:27:29.301037310Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-07-15T02:27:29.304514443Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-07-15T02:27:29.306854580Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-07-15T02:27:29.307273401Z  EMQ X Broker 4.3.5 is running now!
+2021-07-15T02:28:27.237967346Z  2021-07-15T02:28:27.236596+00:00 [warning] [Alarm Handler] Alarm high_system_memory_usage is activated, System memory usage is higher than 70%
+2021-07-15T02:30:27.248715434Z  2021-07-15T02:30:27.247567+00:00 [warning] [Alarm Handler] Alarm high_system_memory_usage is deactivated
