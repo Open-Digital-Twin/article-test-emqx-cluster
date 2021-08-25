@@ -1,0 +1,25 @@
+2021-08-25T21:30:02.859489003Z  listener.ssl.external.acceptors = "32"
+2021-08-25T21:30:02.859756918Z  listener.ssl.external.max_connections = "102400"
+2021-08-25T21:30:02.859777001Z  listener.tcp.external.acceptors = "64"
+2021-08-25T21:30:02.859787740Z  listener.tcp.external.max_connections = "1024000"
+2021-08-25T21:30:02.859797788Z  listener.ws.external.acceptors = "16"
+2021-08-25T21:30:02.859807539Z  listener.ws.external.max_connections = "102400"
+2021-08-25T21:30:02.859817255Z  listener.wss.external.acceptors = "16"
+2021-08-25T21:30:02.859826924Z  listener.wss.external.max_connections = "102400"
+2021-08-25T21:30:02.859836630Z  log.to = "console"
+2021-08-25T21:30:02.859846113Z  node.max_ets_tables = "2097152"
+2021-08-25T21:30:02.859855633Z  node.max_ports = "1048576"
+2021-08-25T21:30:02.859865095Z  node.name = "2be69cadcede@10.0.49.8"
+2021-08-25T21:30:02.859874587Z  node.process_limit = "2097152"
+2021-08-25T21:30:02.859884099Z  rpc.port_discovery = "manual"
+2021-08-25T21:30:02.859894690Z  zone.external.max_mqueue_len = "0"
+2021-08-25T21:30:02.859904409Z  zone.external.mqueue_priorities = "A/A/A=10,B/B/B=50,C/C/C=100,D/D/D=200"
+2021-08-25T21:30:06.247277260Z  Starting emqx on node 2be69cadcede@10.0.49.8
+2021-08-25T21:30:07.822101971Z  Start http:management listener on 8081 successfully.
+2021-08-25T21:30:07.879453905Z  Start http:dashboard listener on 18083 successfully.
+2021-08-25T21:30:07.997813948Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-08-25T21:30:08.001839746Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-08-25T21:30:08.002686886Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-08-25T21:30:08.006034395Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-08-25T21:30:08.008486986Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-08-25T21:30:08.008625656Z  EMQ X Broker 4.3.7 is running now!
