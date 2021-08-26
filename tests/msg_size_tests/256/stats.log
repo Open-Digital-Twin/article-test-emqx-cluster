@@ -1,0 +1,185 @@
+07:01:29.332253297
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     2.13%     159.5MiB / 3.852GiB   4.04%     6.62kB / 3.86kB   8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.29%     125.1MiB / 3.852GiB   3.17%     413kB / 85.5kB    0B / 287kB       31
+               --                                            0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B          0
+07:01:34.339825667
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.082MiB / 3.852GiB   0.03%     516B / 0B         0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.125MiB / 3.852GiB   0.03%     516B / 0B         0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          0.00%     1.473MiB / 3.852GiB   0.04%     839B / 513B       0B / 0B          4
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     2.27%     159.5MiB / 3.852GiB   4.04%     6.62kB / 3.86kB   8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.30%     125.1MiB / 3.852GiB   3.17%     413kB / 85.8kB    0B / 287kB       31
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.121MiB / 3.852GiB   0.03%     426B / 0B         0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.152MiB / 3.852GiB   0.03%     266B / 0B         0B / 0B          4
+07:01:39.350195821
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.121MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.082MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.137MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.109MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          0.02%     1.457MiB / 3.852GiB   0.04%     951B / 555B       0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     2.64%     159.5MiB / 3.852GiB   4.04%     6.62kB / 3.86kB   8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.38%     125.1MiB / 3.852GiB   3.17%     413kB / 85.9kB    0B / 287kB       31
+07:01:44.359924720
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.121MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.082MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.137MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.109MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          0.00%     1.457MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     2.73%     159.5MiB / 3.852GiB   4.04%     6.62kB / 3.86kB   8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.38%     125.1MiB / 3.852GiB   3.17%     413kB / 85.9kB    0B / 287kB       31
+07:01:49.372474647
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.121MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.082MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.137MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.109MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          0.00%     1.457MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     2.47%     159.5MiB / 3.852GiB   4.04%     6.62kB / 3.86kB   8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.13%     125.1MiB / 3.852GiB   3.17%     413kB / 85.9kB    0B / 287kB       31
+07:01:54.385118501
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.121MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.082MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.137MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.109MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          0.00%     1.457MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     2.55%     159.5MiB / 3.852GiB   4.04%     6.62kB / 3.86kB   8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.16%     125.1MiB / 3.852GiB   3.17%     413kB / 85.9kB    0B / 287kB       31
+07:01:59.396829885
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.121MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.01%     1.082MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.137MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.109MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          0.01%     1.457MiB / 3.852GiB   0.04%     1.09kB / 555B     0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     2.69%     159.5MiB / 3.852GiB   4.04%     6.62kB / 3.86kB   8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.24%     125.1MiB / 3.852GiB   3.17%     414kB / 85.9kB    0B / 287kB       31
+07:02:04.407740091
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       2.19%     1.617MiB / 3.852GiB   0.04%     4.72kB / 19.7kB   0B / 0B          5
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        2.26%     1.547MiB / 3.852GiB   0.04%     7.87kB / 37.3kB   0B / 0B          5
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       2.28%     1.602MiB / 3.852GiB   0.04%     3.25kB / 12.3kB   0B / 0B          5
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       2.21%     1.566MiB / 3.852GiB   0.04%     6.82kB / 31.9kB   0B / 0B          5
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          13.77%    1.863MiB / 3.852GiB   0.05%     253kB / 293kB     0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     19.69%    159.5MiB / 3.852GiB   4.04%     224kB / 171kB     8.01MB / 205MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   4.78%     125.2MiB / 3.852GiB   3.17%     519kB / 135kB     0B / 287kB       31
+07:02:09.414228739
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       2.30%     1.633MiB / 3.852GiB   0.04%     13.2kB / 68.1kB   0B / 0B          5
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        2.43%     1.555MiB / 3.852GiB   0.04%     16.3kB / 85kB     0B / 0B          5
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       2.29%     1.629MiB / 3.852GiB   0.04%     11.6kB / 59.7kB   0B / 0B          5
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       2.33%     1.57MiB / 3.852GiB    0.04%     15.4kB / 80.5kB   0B / 0B          5
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          13.69%    1.867MiB / 3.852GiB   0.05%     558kB / 662kB     0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     21.20%    161.5MiB / 3.852GiB   4.09%     657kB / 505kB     8.05MB / 206MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   5.08%     125.8MiB / 3.852GiB   3.19%     677kB / 184kB     0B / 287kB       31
+07:02:14.423894493
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.64%     1.617MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.6kB / 98.2kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.28%     1.629MiB / 3.852GiB   0.04%     18.6kB / 99.6kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          12.85%    1.875MiB / 3.852GiB   0.05%     867kB / 1.04MB    0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     23.14%    163.5MiB / 3.852GiB   4.14%     1.02MB / 787kB    8.27MB / 207MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.88%     126.1MiB / 3.852GiB   3.20%     827kB / 238kB     0B / 287kB       31
+07:02:19.432141546
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.6kB / 98.2kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.6kB / 99.6kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.04%    2.07MiB / 3.852GiB    0.05%     1.11MB / 1.33MB   0B / 0B          6
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     23.95%    165.5MiB / 3.852GiB   4.20%     1.39MB / 1.07MB   8.39MB / 208MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.95%     126.1MiB / 3.852GiB   3.20%     832kB / 260kB     0B / 287kB       31
+07:02:24.442170306
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B         4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.6kB / 98.2kB   0B / 0B         4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.6kB / 99.6kB   0B / 0B         4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B         4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.15%    2.164MiB / 3.852GiB   0.05%     1.48MB / 1.77MB   0B / 0B         6
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     20.28%    165.5MiB / 3.852GiB   4.20%     1.75MB / 1.35MB   8.5MB / 209MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.78%     126.1MiB / 3.852GiB   3.20%     838kB / 285kB     0B / 287kB      31
+07:02:29.451398684
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.6kB / 98.2kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.6kB / 99.6kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.6kB / 99.3kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.60%    1.98MiB / 3.852GiB    0.05%     1.78MB / 2.14MB   0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     22.56%    167.5MiB / 3.852GiB   4.25%     2.04MB / 1.57MB   8.61MB / 210MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.62%     126.1MiB / 3.852GiB   3.20%     844kB / 307kB     0B / 287kB       31
+07:02:34.462160795
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.7kB / 99.5kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.7kB / 98.4kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.8kB / 99.7kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          13.85%    1.98MiB / 3.852GiB    0.05%     2.08MB / 2.51MB   0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     20.79%    169.5MiB / 3.852GiB   4.30%     2.48MB / 1.91MB   8.72MB / 211MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.76%     126.1MiB / 3.852GiB   3.20%     850kB / 333kB     0B / 287kB       31
+07:02:39.470065546
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.8kB / 98.4kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.8kB / 99.7kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.75%    1.918MiB / 3.852GiB   0.05%     2.39MB / 2.88MB   0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     21.11%    171.5MiB / 3.852GiB   4.35%     2.77MB / 2.13MB   8.84MB / 212MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.66%     126.1MiB / 3.852GiB   3.20%     856kB / 356kB     0B / 287kB       31
+07:02:44.477504587
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.8kB / 98.4kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.8kB / 99.7kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.74%    1.918MiB / 3.852GiB   0.05%     2.7MB / 3.26MB    0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     21.91%    173.9MiB / 3.852GiB   4.41%     3.21MB / 2.47MB   8.95MB / 213MB   35
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.71%     126.1MiB / 3.852GiB   3.20%     861kB / 378kB     0B / 287kB       31
+07:02:49.484921276
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.8kB / 98.4kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.8kB / 99.7kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.29%    1.961MiB / 3.852GiB   0.05%     3MB / 3.63MB      0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     22.77%    176MiB / 3.852GiB     4.46%     3.58MB / 2.76MB   9.12MB / 214MB   35
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.32%     126.1MiB / 3.852GiB   3.20%     866kB / 400kB     0B / 287kB       31
+07:02:54.493083889
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.8kB / 98.4kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.8kB / 99.7kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.19%    1.953MiB / 3.852GiB   0.05%     3.31MB / 4MB      0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     24.76%    175.9MiB / 3.852GiB   4.46%     3.94MB / 3.04MB   9.27MB / 215MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.72%     126.1MiB / 3.852GiB   3.20%     873kB / 432kB     0B / 287kB       31
+07:02:59.500412045
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.8kB / 98.4kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.8kB / 99.7kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.8kB / 99.5kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.12%    2.086MiB / 3.852GiB   0.05%     3.61MB / 4.37MB   0B / 0B          6
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     22.27%    177.9MiB / 3.852GiB   4.51%     4.31MB / 3.32MB   9.38MB / 216MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.47%     126.1MiB / 3.852GiB   3.20%     879kB / 454kB     0B / 287kB       31
+07:03:04.509845225
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.9kB / 99.6kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.9kB / 98.5kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.9kB / 99.9kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.9kB / 99.6kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          14.27%    1.969MiB / 3.852GiB   0.05%     3.91MB / 4.73MB   0B / 0B          3
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     22.05%    179.9MiB / 3.852GiB   4.56%     4.67MB / 3.6MB    9.49MB / 217MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.60%     126.1MiB / 3.852GiB   3.20%     884kB / 473kB     0B / 287kB       31
+07:03:09.520098313
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4b95cc0625de   256_client2.1.k4ci0dsfz7bkboslsgwcrmnl2       0.00%     1.617MiB / 3.852GiB   0.04%     18.9kB / 99.6kB   0B / 0B          4
+40f9feb37c64   256_client.1.0p9wxwyix74a1j0vaf7mj8nzj        0.00%     1.555MiB / 3.852GiB   0.04%     18.9kB / 98.6kB   0B / 0B          4
+8bf0205dde81   256_client3.1.3kmbz7jp41bjwxydvno76shvc       0.00%     1.629MiB / 3.852GiB   0.04%     18.9kB / 99.9kB   0B / 0B          4
+718055e0094e   256_client4.1.diq1lnd6zy9qqb3de99ao7uk8       0.00%     1.574MiB / 3.852GiB   0.04%     18.9kB / 99.6kB   0B / 0B          4
+62c4a665e7ae   256_twin.1.uz48aeyg70vnde1tkgbre7bvm          13.57%    2.016MiB / 3.852GiB   0.05%     4.21MB / 5.11MB   0B / 0B          6
+0a268be02892   256_scylla-db.1.9jhe0wlefumuz5yxc3b7dwn6g     20.75%    181.9MiB / 3.852GiB   4.61%     5.04MB / 3.88MB   9.61MB / 218MB   34
+93ea72b19fa7   256_mqtt-broker.1.vlpltnjq916eju62hjgj8kkjk   0.30%     126.1MiB / 3.852GiB   3.20%     888kB / 492kB     0B / 287kB       31

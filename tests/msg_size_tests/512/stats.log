@@ -1,0 +1,147 @@
+06:47:59.423193685
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.188MiB / 3.852GiB   0.03%     558B / 0B         0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1004KiB / 3.852GiB    0.02%     468B / 0B         0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     2.07%     161.1MiB / 3.852GiB   4.08%     4.05kB / 2.24kB   8.01MB / 205MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.24%     122.8MiB / 3.852GiB   3.11%     182kB / 46.5kB    28.7kB / 266kB   31
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          0.00%     1.531MiB / 3.852GiB   0.04%     749B / 513B       0B / 0B          4
+06:48:04.432147512
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          0.00%     1.531MiB / 3.852GiB   0.04%     951B / 555B       0B / 0B          4
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.172MiB / 3.852GiB   0.03%     628B / 0B         0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1004KiB / 3.852GiB    0.02%     628B / 0B         0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     2.47%     161.1MiB / 3.852GiB   4.08%     4.05kB / 2.24kB   8.01MB / 205MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.55%     122.8MiB / 3.852GiB   3.11%     182kB / 46.6kB    28.7kB / 266kB   31
+06:48:09.444540907
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          0.00%     1.516MiB / 3.852GiB   0.04%     951B / 555B       0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.172MiB / 3.852GiB   0.03%     628B / 0B         0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1004KiB / 3.852GiB    0.02%     698B / 0B         0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     2.71%     161.1MiB / 3.852GiB   4.08%     4.05kB / 2.24kB   8.01MB / 205MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.23%     122.8MiB / 3.852GiB   3.11%     182kB / 46.6kB    28.7kB / 266kB   31
+06:48:14.456765039
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          0.00%     1.516MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.172MiB / 3.852GiB   0.03%     698B / 0B         0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1004KiB / 3.852GiB    0.02%     698B / 0B         0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     3.00%     161.1MiB / 3.852GiB   4.08%     4.05kB / 2.24kB   8.01MB / 205MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.31%     122.8MiB / 3.852GiB   3.11%     182kB / 46.6kB    28.7kB / 266kB   31
+06:48:19.468712400
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          0.00%     1.516MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.172MiB / 3.852GiB   0.03%     698B / 0B         0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1004KiB / 3.852GiB    0.02%     698B / 0B         0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     2.74%     161.1MiB / 3.852GiB   4.08%     4.05kB / 2.24kB   8.01MB / 205MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.34%     122.8MiB / 3.852GiB   3.11%     182kB / 46.6kB    28.7kB / 266kB   31
+06:48:24.481132249
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          0.00%     1.516MiB / 3.852GiB   0.04%     1.09kB / 555B     0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.172MiB / 3.852GiB   0.03%     768B / 0B         0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1004KiB / 3.852GiB    0.02%     768B / 0B         0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     3.04%     161.1MiB / 3.852GiB   4.08%     4.05kB / 2.24kB   8.01MB / 205MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.35%     122.8MiB / 3.852GiB   3.11%     182kB / 46.6kB    28.7kB / 266kB   31
+06:48:29.491519563
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          13.92%    1.973MiB / 3.852GiB   0.05%     209kB / 223kB     0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       3.90%     1.664MiB / 3.852GiB   0.04%     9.78kB / 73.5kB   0B / 0B          5
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        4.14%     1.508MiB / 3.852GiB   0.04%     10.8kB / 82.3kB   0B / 0B          5
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     20.37%    161.1MiB / 3.852GiB   4.08%     147kB / 107kB     8.01MB / 205MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   8.93%     122.8MiB / 3.852GiB   3.11%     342kB / 113kB     28.7kB / 266kB   31
+06:48:34.499007969
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.08%    2.004MiB / 3.852GiB   0.05%     461kB / 525kB    0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       3.92%     1.664MiB / 3.852GiB   0.04%     26.1kB / 211kB   0B / 0B          5
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        3.79%     1.508MiB / 3.852GiB   0.04%     27.3kB / 221kB   0B / 0B          5
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     19.94%    163.1MiB / 3.852GiB   4.13%     597kB / 437kB    8.01MB / 206MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   4.64%     123.1MiB / 3.852GiB   3.12%     623kB / 185kB    28.7kB / 266kB   31
+06:48:39.506554226
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          11.92%    1.953MiB / 3.852GiB   0.05%     852kB / 996kB    0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.23%     1.664MiB / 3.852GiB   0.04%     36.1kB / 295kB   0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.1kB / 295kB   0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     18.41%    165.1MiB / 3.852GiB   4.19%     984kB / 721kB    8.05MB / 207MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.61%     123.4MiB / 3.852GiB   3.13%     788kB / 249kB    28.7kB / 266kB   31
+06:48:44.514349108
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.02%    2.211MiB / 3.852GiB   0.06%     1.18MB / 1.39MB   0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.1kB / 295kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.1kB / 295kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     20.54%    167.1MiB / 3.852GiB   4.24%     1.37MB / 1MB      8.05MB / 208MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.60%     123.5MiB / 3.852GiB   3.13%     792kB / 282kB     28.7kB / 266kB   31
+06:48:49.521412312
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          13.94%    2.148MiB / 3.852GiB   0.05%     1.5MB / 1.77MB    0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.1kB / 295kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.1kB / 295kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     21.60%    167.1MiB / 3.852GiB   4.24%     1.67MB / 1.22MB   8.05MB / 208MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.35%     123.5MiB / 3.852GiB   3.13%     799kB / 333kB     28.7kB / 266kB   31
+06:48:54.529338168
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.38%    2.035MiB / 3.852GiB   0.05%     1.82MB / 2.16MB   0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.01%     1.664MiB / 3.852GiB   0.04%     36.2kB / 295kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.01%     1.508MiB / 3.852GiB   0.04%     36.1kB / 295kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     21.98%    171.1MiB / 3.852GiB   4.34%     2.05MB / 1.51MB   8.22MB / 209MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.58%     123.2MiB / 3.852GiB   3.12%     805kB / 378kB     28.7kB / 266kB   31
+06:48:59.538311942
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          13.71%    2.07MiB / 3.852GiB    0.05%     2.14MB / 2.54MB   0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.2kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.2kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     19.84%    171.1MiB / 3.852GiB   4.34%     2.43MB / 1.79MB   8.22MB / 210MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.52%     123.2MiB / 3.852GiB   3.12%     810kB / 417kB     28.7kB / 266kB   31
+06:49:04.548058628
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          13.71%    2.141MiB / 3.852GiB   0.05%     2.47MB / 2.93MB   0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     20.36%    175.1MiB / 3.852GiB   4.44%     2.89MB / 2.12MB   8.36MB / 211MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.53%     123.2MiB / 3.852GiB   3.12%     815kB / 451kB     28.7kB / 266kB   31
+06:49:09.558999280
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.06%    2.023MiB / 3.852GiB   0.05%     2.78MB / 3.32MB   0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     21.94%    177.1MiB / 3.852GiB   4.49%     3.27MB / 2.4MB    8.36MB / 212MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.48%     123.3MiB / 3.852GiB   3.12%     820kB / 495kB     28.7kB / 266kB   31
+06:49:14.571429428
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.66%    2.023MiB / 3.852GiB   0.05%     3.04MB / 3.63MB   0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     20.90%    179.1MiB / 3.852GiB   4.54%     3.65MB / 2.68MB   8.49MB / 213MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.62%     123.3MiB / 3.852GiB   3.12%     827kB / 546kB     28.7kB / 266kB   31
+06:49:19.579298304
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.26%    2.023MiB / 3.852GiB   0.05%     3.44MB / 4.1MB    0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     20.99%    181.1MiB / 3.852GiB   4.59%     4.05MB / 2.97MB   8.49MB / 214MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.22%     123.3MiB / 3.852GiB   3.12%     831kB / 580kB     28.7kB / 266kB   31
+06:49:24.588861775
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          15.13%    2.016MiB / 3.852GiB   0.05%     3.76MB / 4.49MB   0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.3kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     22.32%    183.2MiB / 3.852GiB   4.64%     4.43MB / 3.25MB   8.63MB / 215MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.57%     123.3MiB / 3.852GiB   3.12%     837kB / 625kB     28.7kB / 266kB   31
+06:49:29.598830670
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.15%    1.984MiB / 3.852GiB   0.05%     4.08MB / 4.87MB   0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.4kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.4kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     22.10%    185.2MiB / 3.852GiB   4.69%     4.73MB / 3.47MB   8.63MB / 216MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.66%     123.3MiB / 3.852GiB   3.13%     844kB / 675kB     28.7kB / 266kB   31
+06:49:34.608241282
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          14.29%    2.016MiB / 3.852GiB   0.05%     4.39MB / 5.26MB   0B / 0B          6
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.4kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.4kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     20.88%    187.2MiB / 3.852GiB   4.75%     5.18MB / 3.8MB    8.76MB / 217MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   1.60%     123.3MiB / 3.852GiB   3.13%     848kB / 708kB     28.7kB / 287kB   31
+06:49:39.617036764
+CONTAINER ID   NAME                                               CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+cba1aa5d3417   512_size_twin.1.jm2lwfnrm238khlrqr5msuwb0          0.00%     1.914MiB / 3.852GiB   0.05%     4.48MB / 5.37MB   0B / 0B          3
+d490f99a8c11   512_size_client2.1.medpsqd6v7smjn89ubfxszklf       0.00%     1.664MiB / 3.852GiB   0.04%     36.4kB / 296kB    0B / 0B          4
+b6af1d39349e   512_size_client.1.n98acrax081er3io8qrmkpi3o        0.00%     1.508MiB / 3.852GiB   0.04%     36.4kB / 296kB    0B / 0B          4
+0ea72588d3bc   512_size_scylla-db.1.o7ag4gl0f0bnuovi9zycimwxh     2.83%     187.2MiB / 3.852GiB   4.75%     5.3MB / 3.89MB    8.76MB / 217MB   34
+b1409b0495c5   512_size_mqtt-broker.1.wg3z29yzt89yukju4jva8dudt   0.30%     123.3MiB / 3.852GiB   3.13%     849kB / 708kB     28.7kB / 287kB   31
