@@ -1,0 +1,126 @@
+07:23:19.027984284
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          0.00%     1.5MiB / 3.852GiB     0.04%     951B / 555B       0B / 0B          4
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.152MiB / 3.852GiB   0.03%     628B / 0B         0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     2.57%     159.6MiB / 3.852GiB   4.05%     4.83kB / 2.78kB   7.93MB / 205MB   35
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.20%     126.5MiB / 3.852GiB   3.21%     1.11MB / 110kB    0B / 266kB       31
+07:23:24.036259269
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          0.00%     1.484MiB / 3.852GiB   0.04%     951B / 555B       0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.152MiB / 3.852GiB   0.03%     628B / 0B         0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     2.95%     159.5MiB / 3.852GiB   4.04%     4.83kB / 2.78kB   7.93MB / 205MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.38%     126.5MiB / 3.852GiB   3.21%     1.11MB / 110kB    0B / 266kB       31
+07:23:29.046061312
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          0.00%     1.484MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.152MiB / 3.852GiB   0.03%     698B / 0B         0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     2.66%     159.6MiB / 3.852GiB   4.05%     4.83kB / 2.78kB   8.02MB / 205MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.32%     126.5MiB / 3.852GiB   3.21%     1.11MB / 110kB    0B / 266kB       31
+07:23:34.052989513
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          0.00%     1.484MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.152MiB / 3.852GiB   0.03%     698B / 0B         0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     3.09%     159.6MiB / 3.852GiB   4.05%     4.83kB / 2.78kB   8.04MB / 205MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.38%     126.5MiB / 3.852GiB   3.21%     1.11MB / 110kB    0B / 266kB       31
+07:23:39.062324767
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          0.00%     1.484MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.152MiB / 3.852GiB   0.03%     698B / 0B         0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     2.45%     159.6MiB / 3.852GiB   4.05%     4.83kB / 2.78kB   8.04MB / 205MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.33%     126.5MiB / 3.852GiB   3.21%     1.11MB / 110kB    0B / 266kB       31
+07:23:44.071597987
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          12.91%    1.898MiB / 3.852GiB   0.05%     247kB / 242kB    0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        7.57%     1.617MiB / 3.852GiB   0.04%     18.8kB / 280kB   0B / 0B          5
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     19.78%    159.6MiB / 3.852GiB   4.05%     162kB / 108kB    8.04MB / 205MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   4.39%     126.5MiB / 3.852GiB   3.21%     1.4MB / 214kB    0B / 266kB       31
+07:23:49.078965572
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.67%    2.047MiB / 3.852GiB   0.05%     606kB / 660kB    0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        7.19%     1.621MiB / 3.852GiB   0.04%     49.6kB / 765kB   0B / 0B          5
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     19.91%    161.6MiB / 3.852GiB   4.10%     655kB / 438kB    8.08MB / 206MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   4.49%     126.8MiB / 3.852GiB   3.21%     1.79MB / 302kB   0B / 266kB       31
+07:23:54.090006985
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          14.43%    1.938MiB / 3.852GiB   0.05%     974kB / 1.09MB   0B / 0B         3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.1kB / 1.1MB   0B / 0B         4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     22.53%    161.6MiB / 3.852GiB   4.10%     1.08MB / 722kB   8.2MB / 207MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   2.43%     127.5MiB / 3.852GiB   3.23%     2.23MB / 413kB   0B / 266kB      31
+07:23:59.098245291
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          14.12%    2.109MiB / 3.852GiB   0.05%     1.34MB / 1.51MB   0B / 0B          6
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.1kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     21.88%    163.6MiB / 3.852GiB   4.15%     1.42MB / 947kB    8.31MB / 208MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.68%     127.5MiB / 3.852GiB   3.23%     2.24MB / 518kB    0B / 266kB       31
+07:24:04.108045619
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.73%    2.008MiB / 3.852GiB   0.05%     1.63MB / 1.85MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.1kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     22.27%    167.6MiB / 3.852GiB   4.25%     1.92MB / 1.29MB   8.52MB / 209MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.50%     127.4MiB / 3.852GiB   3.23%     2.24MB / 602kB    0B / 266kB       31
+07:24:09.119762769
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.57%    2.078MiB / 3.852GiB   0.05%     2.07MB / 2.37MB   0B / 0B          6
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.01%     1.621MiB / 3.852GiB   0.04%     71.1kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     22.36%    169.6MiB / 3.852GiB   4.30%     2.34MB / 1.57MB   8.65MB / 210MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.72%     127.3MiB / 3.852GiB   3.23%     2.25MB / 674kB    0B / 266kB       31
+07:24:14.127179729
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.88%    2.09MiB / 3.852GiB    0.05%     2.43MB / 2.79MB   0B / 0B          6
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.2kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     21.52%    171.6MiB / 3.852GiB   4.35%     2.76MB / 1.84MB   8.76MB / 211MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.72%     127.5MiB / 3.852GiB   3.23%     2.25MB / 758kB    0B / 266kB       31
+07:24:19.137227802
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.78%    1.965MiB / 3.852GiB   0.05%     2.72MB / 3.12MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.2kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     21.09%    171.7MiB / 3.852GiB   4.35%     3.18MB / 2.12MB   8.87MB / 212MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   2.01%     127.2MiB / 3.852GiB   3.22%     2.26MB / 853kB    0B / 266kB       31
+07:24:24.146121752
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          14.54%    1.996MiB / 3.852GiB   0.05%     3.09MB / 3.55MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.2kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     21.95%    173.7MiB / 3.852GiB   4.40%     3.6MB / 2.41MB    8.98MB / 213MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.80%     127MiB / 3.852GiB     3.22%     2.26MB / 926kB    0B / 266kB       31
+07:24:29.153970149
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.99%    1.98MiB / 3.852GiB    0.05%     3.53MB / 4.07MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.2kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     20.61%    175.7MiB / 3.852GiB   4.45%     4.02MB / 2.69MB   9.05MB / 214MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.76%     127.1MiB / 3.852GiB   3.22%     2.27MB / 1.01MB   0B / 266kB       31
+07:24:34.163615228
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          14.73%    2.02MiB / 3.852GiB    0.05%     3.89MB / 4.49MB   0B / 0B          6
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.2kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     21.28%    175.7MiB / 3.852GiB   4.45%     4.44MB / 2.97MB   9.09MB / 215MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.47%     127.1MiB / 3.852GiB   3.22%     2.27MB / 1.1MB    0B / 266kB       31
+07:24:39.170694824
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.18%    2.129MiB / 3.852GiB   0.05%     4.27MB / 4.93MB   0B / 0B          6
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.2kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     18.08%    177.7MiB / 3.852GiB   4.50%     4.78MB / 3.2MB    9.22MB / 216MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.68%     127.1MiB / 3.852GiB   3.22%     2.28MB / 1.2MB    0B / 266kB       31
+07:24:44.177264231
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.49%    1.973MiB / 3.852GiB   0.05%     4.64MB / 5.36MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.3kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     23.78%    179.7MiB / 3.852GiB   4.56%     5.3MB / 3.54MB    9.44MB / 217MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.72%     127.1MiB / 3.852GiB   3.22%     2.28MB / 1.28MB   0B / 266kB       31
+07:24:49.186136788
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          13.70%    2.027MiB / 3.852GiB   0.05%     4.98MB / 5.78MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.3kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     21.16%    181.7MiB / 3.852GiB   4.61%     5.71MB / 3.82MB   9.55MB / 218MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.56%     127.1MiB / 3.852GiB   3.22%     2.29MB / 1.34MB   0B / 266kB       31
+07:24:54.196993220
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          0.00%     1.934MiB / 3.852GiB   0.05%     5.05MB / 5.88MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.3kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     2.70%     181.7MiB / 3.852GiB   4.61%     5.81MB / 3.89MB   9.55MB / 218MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.33%     127.1MiB / 3.852GiB   3.22%     2.29MB / 1.34MB   0B / 266kB       31
+07:24:59.206716742
+CONTAINER ID   NAME                                              CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+dfcc2123dc99   buffer2_twin.1.2n53ssl9s61l6x6wtwlvdtbfc          0.00%     1.902MiB / 3.852GiB   0.05%     5.05MB / 5.88MB   0B / 0B          3
+f5398b607b89   buffer2_client.1.rzwul996olsa547uon7xocv3b        0.00%     1.621MiB / 3.852GiB   0.04%     71.3kB / 1.1MB    0B / 0B          4
+b894204b436e   buffer2_scylla-db.1.prj4nblz7qyhkptad08hits2v     2.59%     181.7MiB / 3.852GiB   4.61%     5.81MB / 3.89MB   9.55MB / 218MB   34
+6e49b5911c9e   buffer2_mqtt-broker.1.u0u7mpbe93o99m031qs8y8l4r   0.36%     127.1MiB / 3.852GiB   3.22%     2.29MB / 1.34MB   0B / 266kB       31
