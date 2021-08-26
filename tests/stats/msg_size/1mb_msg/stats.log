@@ -99,7 +99,7 @@ CONTAINER ID   NAME                                            CPU %     MEM USA
 6a68140bf73c   10000_twin.1.uddu3iop3471drbwlyy00d65s          14.25%    2.094MiB / 3.852GiB   0.05%     13.2MB / 13.7MB   0B / 0B          6
 b36a2d62a96e   10000_client.1.cefdzx8l63020y1ipervy45ug        0.00%     1.695MiB / 3.852GiB   0.04%     137kB / 10.1MB    0B / 0B          4
 ddde5764512e   10000_scylla-db.1.q3pf7jxaqyj1bscgf97cxpuu3     20.48%    184.1MiB / 3.852GiB   4.67%     13.6MB / 3.63MB   8.46MB / 216MB   34
-2be69cadcede   10000_mqtt-broker.1.ju2upnec20xxjjeesswjryotw   0.71%     127.7MiB / 3.852GiB   3.24%     20.3MB / 10MB     0B / 287kB       31
+2be69cadcede   10000_mqtt-broker.1.ju2upnec20xxjjeesswjryotw   0.71%     127.7MiB / 3.852GiB   3.24%     20.3MB / 10.0MB     0B / 287kB       31
 21:33:18.786681732
 CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
 6a68140bf73c   10000_twin.1.uddu3iop3471drbwlyy00d65s          14.48%    2.023MiB / 3.852GiB   0.05%     14.2MB / 14.8MB   0B / 0B          3
