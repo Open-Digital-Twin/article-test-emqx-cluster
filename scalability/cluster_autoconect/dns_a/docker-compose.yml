@@ -54,12 +54,10 @@ services:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=dns
-      - EMQX_CLUSTER__DNS__NAME=mqtt-emqx
-      - EMQX_CLUSTER__DNS_APP=emqx
+      - EMQX_CLUSTER__DNS__NAME=mqtt_n2.mq.tt
+      - EMQX_CLUSTER__DNS__APP=node
     networks:
       default:
-        aliases:
-          - emqx_n1.mq.tt
     restart: always
     deploy:
       placement:
@@ -74,12 +72,10 @@ services:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=dns
-      - EMQX_CLUSTER__DNS__NAME=mqtt-emqx
-      - EMQX_CLUSTER__DNS_APP=emqx
+      - EMQX_CLUSTER__DNS__NAME=mqtt_n1.mq.tt
+      - EMQX_CLUSTER__DNS__APP=emqx
     networks:
       default:
-        aliases:
-          - emqx_n2.mq.tt
     restart: always
     deploy:
       placement:
