@@ -242,7 +242,6 @@ services:
         constraints:
           - node.labels.name==dtwins1
 
-
   mqtt-node4:
     image: "emqx/emqx:latest"
     environment:
