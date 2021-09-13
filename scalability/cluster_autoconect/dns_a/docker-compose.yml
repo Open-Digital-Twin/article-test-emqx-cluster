@@ -76,7 +76,7 @@ services:
     networks:
       default:
         aliases:
-	        - emqx_n2.mq.tt
+          - emqx_n2.mq.tt
     restart: always
     deploy:
       placement:
