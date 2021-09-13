@@ -55,8 +55,8 @@ services:
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
     networks:
       default:
-	aliases:
-	  - emqx_n1.mq.tt
+	      aliases:
+	        - emqx_n1.mq.tt
     restart: always
     deploy:
       placement:
@@ -76,7 +76,7 @@ services:
     networks:
       default:
         aliases:
-	  - emqx_n2.mq.tt
+	        - emqx_n2.mq.tt
     restart: always
     deploy:
       placement:
