@@ -53,9 +53,6 @@ services:
       - EMQX_HOST=emqx_n1.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
-      - EMQX_CLUSTER__DISCOVERY=dns
-      - EMQX_CLUSTER__DNS__NAME=mqtt_n2.mq.tt
-      - EMQX_CLUSTER__DNS__APP=node
     networks:
       default:
     restart: always
