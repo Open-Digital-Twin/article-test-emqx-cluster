@@ -2,6 +2,20 @@ version: '3'
 
 services:
 
+
+  mqtt-dns-server:
+    image: "store/internetsystemsconsortium/bind9:9.11"
+    enviroment:
+    networks:
+      default:
+        aliases:
+          - dns_server
+    restart: always
+    deploy:
+      placement:
+        constraints:
+          -node.labels.name==dtwins1
+
   mqtt-emqx:
     image: "emqx/emqx:latest"
     environment:
@@ -10,7 +24,7 @@ services:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=dns
-      - EMQX_CLUSTER__DNS__APP=emqx_n2.mq.tt
+      - EMQX_CLUSTER__DNS__APP=mqtt_n2.mq.tt
       - EMQX_CLUSTER__DNS__NAME=emqx
     networks:
       default:
@@ -25,12 +39,12 @@ services:
   mqtt-node:
     image: "emqx/emqx:latest"
     environment:
-      - EMQX_NAME=emqx
+      - EMQX_NAME=node
       - EMQX_HOST=emqx_n2.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=dns
-      - EMQX_CLUSTER__DNS__NAME=emqx_n1.mq.tt
+      - EMQX_CLUSTER__DNS__NAME=mqtt_n1.mq.tt
       - EMQX_CLUSTER__DNS__APP=emqx
     networks:
       default:
@@ -41,6 +55,16 @@ services:
       placement:
         constraints:
           - node.labels.name==dtwins1
-          
+
+  scylla-db:
+    image: scylladb/scylla
+    networks:
+      - default
+    volumes:
+      - ~/var/lib/scylla:/var/lib/scylla
+    deploy:
+      placement:
+        constraints:
+         - node.labels.name==dtwins1
 networks:
   default:
