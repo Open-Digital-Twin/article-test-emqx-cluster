@@ -5,7 +5,6 @@ services:
 
   mqtt-dns-server:
     image: "store/internetsystemsconsortium/bind9:9.11"
-    enviroment:
     networks:
       default:
         aliases:
@@ -14,7 +13,7 @@ services:
     deploy:
       placement:
         constraints:
-          -node.labels.name==dtwins1
+          - node.labels.name==dtwins1
 
   mqtt-emqx:
     image: "emqx/emqx:latest"
