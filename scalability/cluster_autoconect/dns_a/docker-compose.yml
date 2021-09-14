@@ -41,16 +41,6 @@ services:
       placement:
         constraints:
           - node.labels.name==dtwins1
-
-  scylla-db:
-    image: scylladb/scylla
-    networks:
-      - default
-    volumes:
-      - ~/var/lib/scylla:/var/lib/scylla
-    deploy:
-      placement:
-        constraints:
-         - node.labels.name==dtwins1
+          
 networks:
   default:
