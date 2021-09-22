@@ -75,7 +75,7 @@ services:
       - mqtt-node
       - scylla-db
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-node
+      - MQTT_BROKER_ADDRESS=mqtt-node1
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -91,16 +91,17 @@ services:
           - node.labels.name==dtwins1
     command: dt-instance
     
-  mqtt-broker:
+  mqtt-node1:
     image: "emqx/emqx:latest"
     environment:
       - EMQX_NAME=node1
       - EMQX_HOST=emqx_n1.mq.tt
-      - EMQX_NODE__PROCESS_LIMIT=2097153
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
-      - EMQX_CLUSTER__DISCOVERY=static
-      - EMQX_CLUSTER__STATIC__SEEDS=node1@emqx_n1.mq.tt, cluster@emqx_n2.mq.tt
+      - EMQX_CLUSTER__DISCOVERY=mcast
+      - EMQX_CLUSTER__MCAST__ADDR=mqtt-node2
+      - EMQX_CLUSTER__MCAST__PORTS=4369,4370
+      - EMQX_CLUSTER__MCAST__IFACE=0.0.0.0
+      - EMQX_CLUSTER__MCAST__LOOP=on
     networks:
       default:
         aliases:
@@ -111,16 +112,12 @@ services:
         constraints:
           - node.labels.name==dtwins1
 
-  mqtt-node:
+  mqtt-node2:
     image: "emqx/emqx:latest"
     environment:
       - EMQX_NAME=node2
       - EMQX_HOST=emqx_n2.mq.tt
-      - EMQX_NODE__PROCESS_LIMIT=2097153
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
-      - EMQX_CLUSTER__DISCOVERY=static
-      - EMQX_CLUSTER__STATIC__SEEDS=node1@emqx_n1.mq.tt, node2@emqx_n2.mq.tt
     networks:
       default:
         aliases:

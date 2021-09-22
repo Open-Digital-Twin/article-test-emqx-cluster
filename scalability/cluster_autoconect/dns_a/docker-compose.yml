@@ -4,7 +4,7 @@ services:
 
 
   mqtt-dns-server:
-    image: "store/internetsystemsconsortium/bind9:9.11"
+    image: "internetsystemsconsortium/bind9:latest"
     enviroment:
     networks:
       default:
