@@ -9,7 +9,7 @@ services:
       - EMQX_HOST=emqx_n1.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_CLUSTER__DISCOVERY=mcast
-      - EMQX_CLUSTER__MCAST__ADDR=mqtt-node2
+      - EMQX_CLUSTER__MCAST__ADDR=239.192.0.1
       - EMQX_CLUSTER__MCAST__TTL=255
       - EMQX_CLUSTER__MCAST__PORTS=4369,4370
       - EMQX_CLUSTER__MCAST__IFACE=0.0.0.0
@@ -30,6 +30,12 @@ services:
       - EMQX_NAME=node2
       - EMQX_HOST=emqx_n2.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_CLUSTER__DISCOVERY=mcast
+      - EMQX_CLUSTER__MCAST__ADDR=239.192.0.1
+      - EMQX_CLUSTER__MCAST__TTL=255
+      - EMQX_CLUSTER__MCAST__PORTS=4369,4370
+      - EMQX_CLUSTER__MCAST__IFACE=0.0.0.0
+      - EMQX_CLUSTER__MCAST__LOOP=on
     networks:
       default:
         aliases:
