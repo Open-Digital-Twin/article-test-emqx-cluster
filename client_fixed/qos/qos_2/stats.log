@@ -1,0 +1,105 @@
+18:13:10.601763874
+18:13:12.611724338
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.168MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     1.336MiB / 3.852GiB   0.03%     1.2kB / 689B      0B / 0B         3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.34%     183.9MiB / 3.852GiB   4.66%     4.85MB / 3.89MB   8.9MB / 217MB   34
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.152MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     1.336MiB / 3.852GiB   0.03%     1.2kB / 689B      0B / 0B         3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.71%     183.9MiB / 3.852GiB   4.66%     4.85MB / 3.89MB   8.9MB / 217MB   34
+18:13:14.623710042
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.152MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     1.336MiB / 3.852GiB   0.03%     1.2kB / 689B      0B / 0B         3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.76%     183.9MiB / 3.852GiB   4.66%     4.85MB / 3.89MB   8.9MB / 217MB   34
+18:13:16.636298781
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.152MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     1.336MiB / 3.852GiB   0.03%     1.27kB / 823B     0B / 0B         3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.76%     183.9MiB / 3.852GiB   4.66%     4.85MB / 3.89MB   8.9MB / 217MB   34
+18:13:18.647718643
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.152MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     1.336MiB / 3.852GiB   0.03%     1.27kB / 823B     0B / 0B         3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.43%     183.9MiB / 3.852GiB   4.66%     4.85MB / 3.89MB   8.9MB / 217MB   34
+18:13:20.659737715
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.01%     1.152MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     1.336MiB / 3.852GiB   0.03%     1.38kB / 865B     0B / 0B         3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.42%     183.9MiB / 3.852GiB   4.66%     4.85MB / 3.89MB   8.9MB / 217MB   34
+18:13:22.671712985
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.152MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     1.336MiB / 3.852GiB   0.03%     1.38kB / 865B     0B / 0B         3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.68%     183.9MiB / 3.852GiB   4.66%     4.85MB / 3.89MB   8.9MB / 217MB   34
+18:13:24.683938898
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      12.66%    1.633MiB / 3.852GiB   0.04%     21.7kB / 30.7kB   0B / 0B         5
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        33.02%    2.043MiB / 3.852GiB   0.05%     202kB / 237kB     0B / 0B         6
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   47.35%    183.9MiB / 3.852GiB   4.66%     5.09MB / 4.07MB   8.9MB / 218MB   34
+18:13:26.693747706
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      16.35%    1.637MiB / 3.852GiB   0.04%     74.1kB / 108kB    0B / 0B          5
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        41.31%    2.184MiB / 3.852GiB   0.06%     694kB / 830kB     0B / 0B          6
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   61.88%    185.9MiB / 3.852GiB   4.71%     5.67MB / 4.54MB   8.91MB / 219MB   34
+18:13:28.709185074
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      14.84%    1.637MiB / 3.852GiB   0.04%     124kB / 182kB     0B / 0B          5
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        43.78%    2.156MiB / 3.852GiB   0.05%     1.19MB / 1.43MB   0B / 0B          6
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   63.00%    187.9MiB / 3.852GiB   4.76%     6.26MB / 5.01MB   8.93MB / 221MB   34
+18:13:30.721301432
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B         5
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        47.45%    2.164MiB / 3.852GiB   0.05%     1.77MB / 2.12MB   0B / 0B         6
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   68.99%    191.9MiB / 3.852GiB   4.87%     6.94MB / 5.56MB   9.1MB / 222MB   34
+18:13:32.728688948
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          5
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        50.14%    2.27MiB / 3.852GiB    0.06%     2.39MB / 2.86MB   0B / 0B          6
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   72.26%    195.9MiB / 3.852GiB   4.97%     7.67MB / 6.15MB   9.23MB / 224MB   34
+18:13:34.742829012
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.02%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        47.02%    2.207MiB / 3.852GiB   0.06%     3.01MB / 3.61MB   0B / 0B          6
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   74.40%    200MiB / 3.852GiB     5.07%     8.41MB / 6.74MB   9.37MB / 226MB   34
+18:13:36.750489563
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B         4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        45.58%    2.223MiB / 3.852GiB   0.06%     3.62MB / 4.34MB   0B / 0B         6
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   75.90%    204MiB / 3.852GiB     5.17%     9.13MB / 7.31MB   9.5MB / 228MB   34
+18:13:38.763877385
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        26.57%    2.176MiB / 3.852GiB   0.06%     4.11MB / 4.93MB   0B / 0B          3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   41.27%    208MiB / 3.852GiB     5.27%     9.7MB / 7.78MB    9.63MB / 229MB   34
+18:13:40.772991649
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     2.082MiB / 3.852GiB   0.05%     4.11MB / 4.93MB   0B / 0B          3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.40%     208MiB / 3.852GiB     5.27%     9.7MB / 7.78MB    9.63MB / 229MB   34
+18:13:42.781996972
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     2.051MiB / 3.852GiB   0.05%     4.11MB / 4.93MB   0B / 0B          3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.73%     208MiB / 3.852GiB     5.27%     9.7MB / 7.78MB    9.63MB / 229MB   34
+18:13:44.793439122
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     2.051MiB / 3.852GiB   0.05%     4.11MB / 4.93MB   0B / 0B          3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.71%     208MiB / 3.852GiB     5.27%     9.7MB / 7.78MB    9.63MB / 229MB   34
+18:13:46.804228746
+18:13:48.813217208
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     2.051MiB / 3.852GiB   0.05%     4.11MB / 4.93MB   0B / 0B          3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.30%     208MiB / 3.852GiB     5.27%     9.7MB / 7.78MB    9.63MB / 229MB   34
+18:13:50.822095468
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     2.051MiB / 3.852GiB   0.05%     4.11MB / 4.93MB   0B / 0B          3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.47%     208MiB / 3.852GiB     5.27%     9.7MB / 7.78MB    9.63MB / 229MB   34
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+80b7e450b319   qos_2_client.1.0ghadhiy2exd9usulufw3anp0      0.00%     1.637MiB / 3.852GiB   0.04%     141kB / 206kB     0B / 0B          4
+3b2011a72bb7   qos_2_twin.1.lxwa5ndqxzz6p35lhb1o11q0h        0.00%     2.051MiB / 3.852GiB   0.05%     4.11MB / 4.93MB   0B / 0B          3
+a5a2917e0ff1   qos_2_scylla-db.1.up08aw21q36xumgx9y655iugd   2.48%     208MiB / 3.852GiB     5.27%     9.7MB / 7.78MB    9.63MB / 229MB   34
