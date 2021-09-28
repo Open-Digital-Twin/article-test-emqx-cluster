@@ -1,0 +1,105 @@
+20:49:08.675762257
+20:49:10.685470207
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.379MiB / 3.852GiB   0.03%     1.16kB / 689B     0B / 0B          3
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     4.45%     157.3MiB / 3.852GiB   3.99%     2.61kB / 1.16kB   6.47MB / 146MB   36
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.09%     125.5MiB / 3.852GiB   3.18%     214kB / 147kB     0B / 262kB       31
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.379MiB / 3.852GiB   0.03%     1.16kB / 689B     0B / 0B         3
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     4.51%     159.3MiB / 3.852GiB   4.04%     2.61kB / 1.16kB   6.5MB / 148MB   36
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   1.37%     125.5MiB / 3.852GiB   3.18%     214kB / 147kB     0B / 262kB      31
+20:49:12.697041392
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.379MiB / 3.852GiB   0.03%     1.2kB / 731B      0B / 0B          3
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     4.78%     159.3MiB / 3.852GiB   4.04%     2.61kB / 1.16kB   6.58MB / 151MB   36
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.94%     125.6MiB / 3.852GiB   3.18%     214kB / 148kB     0B / 262kB       31
+20:49:14.708201098
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.379MiB / 3.852GiB   0.03%     1.2kB / 731B      0B / 0B          3
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     4.35%     159.3MiB / 3.852GiB   4.04%     2.61kB / 1.16kB   6.66MB / 155MB   36
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.11%     125.6MiB / 3.852GiB   3.18%     214kB / 148kB     0B / 262kB       31
+20:49:16.717528798
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.379MiB / 3.852GiB   0.03%     1.2kB / 731B      0B / 0B         3
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.38%     159.3MiB / 3.852GiB   4.04%     2.61kB / 1.16kB   6.7MB / 158MB   36
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.17%     125.6MiB / 3.852GiB   3.18%     214kB / 148kB     0B / 262kB      31
+20:49:18.727682362
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.379MiB / 3.852GiB   0.03%     1.2kB / 731B      0B / 0B          3
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.38%     159.2MiB / 3.852GiB   4.04%     2.61kB / 1.16kB   6.74MB / 161MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.08%     125.6MiB / 3.852GiB   3.18%     214kB / 148kB     0B / 262kB       31
+20:49:20.738634786
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.379MiB / 3.852GiB   0.03%     1.2kB / 731B      0B / 0B          3
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.66%     159.2MiB / 3.852GiB   4.04%     2.61kB / 1.16kB   6.78MB / 164MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.09%     125.6MiB / 3.852GiB   3.18%     214kB / 148kB     0B / 262kB       31
+20:49:22.749220708
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          1.09%     1.562MiB / 3.852GiB   0.04%     6.91kB / 2.72kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     11.48%    159.2MiB / 3.852GiB   4.04%     4.13kB / 2.24kB   6.89MB / 168MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   9.12%     125.6MiB / 3.852GiB   3.18%     247kB / 175kB     0B / 262kB       31
+20:49:24.759100901
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.52%     1.57MiB / 3.852GiB    0.04%     7.99kB / 4.2kB    0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.57%     159.2MiB / 3.852GiB   4.04%     5.61kB / 3.32kB   6.97MB / 171MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   10.42%    125.9MiB / 3.852GiB   3.19%     327kB / 229kB     0B / 262kB       31
+20:49:26.769698267
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.57MiB / 3.852GiB    0.04%     7.99kB / 4.2kB    0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     4.87%     159.4MiB / 3.852GiB   4.04%     5.61kB / 3.32kB   7.07MB / 174MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   11.14%    126.6MiB / 3.852GiB   3.21%     411kB / 286kB     0B / 262kB       31
+20:49:28.780090302
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.50%     1.574MiB / 3.852GiB   0.04%     8.53kB / 4.94kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     5.43%     159.4MiB / 3.852GiB   4.04%     6.44kB / 3.95kB   7.16MB / 177MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.11%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:30.791109738
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.574MiB / 3.852GiB   0.04%     8.53kB / 4.94kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.09%     159.3MiB / 3.852GiB   4.04%     6.44kB / 3.95kB   7.23MB / 179MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.10%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:32.803582472
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.574MiB / 3.852GiB   0.04%     8.53kB / 4.94kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     6.02%     159.3MiB / 3.852GiB   4.04%     6.44kB / 3.95kB   7.32MB / 182MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.09%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:34.815802702
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.43%     1.574MiB / 3.852GiB   0.04%     9.06kB / 5.68kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.57%     159.4MiB / 3.852GiB   4.04%     7.18kB / 4.49kB   7.38MB / 186MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.07%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:36.827036192
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.574MiB / 3.852GiB   0.04%     9.06kB / 5.68kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.93%     159.4MiB / 3.852GiB   4.04%     7.18kB / 4.49kB   7.42MB / 189MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.11%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:38.839087652
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.574MiB / 3.852GiB   0.04%     9.06kB / 5.68kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     4.44%     159.3MiB / 3.852GiB   4.04%     7.18kB / 4.49kB   7.47MB / 192MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.09%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:40.850102960
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.574MiB / 3.852GiB   0.04%     9.06kB / 5.68kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.63%     159.3MiB / 3.852GiB   4.04%     7.18kB / 4.49kB   7.51MB / 195MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.08%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:42.862624902
+20:49:44.871109957
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.574MiB / 3.852GiB   0.04%     9.13kB / 5.68kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     3.53%     159.4MiB / 3.852GiB   4.04%     7.18kB / 4.49kB   7.55MB / 198MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.20%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:46.880497127
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.00%     1.574MiB / 3.852GiB   0.04%     9.13kB / 5.68kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     4.14%     159.4MiB / 3.852GiB   4.04%     7.18kB / 4.49kB   7.61MB / 201MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.10%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+20:49:48.889493873
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          0.22%     1.574MiB / 3.852GiB   0.04%     9.63kB / 6.46kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     6.14%     159.4MiB / 3.852GiB   4.04%     7.18kB / 4.49kB   7.69MB / 204MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   0.08%     126.7MiB / 3.852GiB   3.21%     420kB / 293kB     0B / 262kB       31
+CONTAINER ID   NAME                                          CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+2a0f410c711e   cdd_twin.1.rwjiwz73qjobzln8ybznfimy1          49.42%    2.262MiB / 3.852GiB   0.06%     620kB / 743kB   0B / 0B          6
+506ca175c975   cdd_scylla-db.1.8vgj69cfcl0m7o38s7xq1vqo6     69.83%    161.4MiB / 3.852GiB   4.09%     734kB / 587kB   7.83MB / 206MB   35
+2a60daa12627   cdd_mqtt-broker.1.dm3gj7dmtlp0vb8hq5ep4lozd   1.62%     126.7MiB / 3.852GiB   3.21%     432kB / 323kB   0B / 262kB       31

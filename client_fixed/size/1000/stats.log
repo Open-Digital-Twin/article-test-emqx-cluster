@@ -1,0 +1,207 @@
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.05%     1.348MiB / 3.852GiB   0.03%     1.47kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.73%     157.3MiB / 3.852GiB   3.99%     4.87kB / 2.78kB   4.49MB / 126MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.30%     123.3MiB / 3.852GiB   3.13%     157kB / 207kB     0B / 266kB       31
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.348MiB / 3.852GiB   0.03%     1.47kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.28%     157.3MiB / 3.852GiB   3.99%     4.87kB / 2.78kB   4.49MB / 129MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.41%     123.3MiB / 3.852GiB   3.13%     157kB / 207kB     0B / 266kB       31
+20:53:15.539837132
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.348MiB / 3.852GiB   0.03%     1.47kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.69%     157.3MiB / 3.852GiB   3.99%     4.87kB / 2.78kB   4.49MB / 132MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.35%     123.3MiB / 3.852GiB   3.13%     157kB / 207kB     0B / 266kB       31
+20:53:17.550761425
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.348MiB / 3.852GiB   0.03%     1.47kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.95%     157.3MiB / 3.852GiB   3.99%     4.87kB / 2.78kB   4.49MB / 136MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.35%     123.3MiB / 3.852GiB   3.13%     157kB / 207kB     0B / 266kB       31
+20:53:19.559820527
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.348MiB / 3.852GiB   0.03%     1.47kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.87%     157.3MiB / 3.852GiB   3.99%     4.87kB / 2.78kB   4.49MB / 139MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.31%     123.3MiB / 3.852GiB   3.13%     157kB / 207kB     0B / 266kB       31
+20:53:21.567194392
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.348MiB / 3.852GiB   0.03%     1.47kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.56%     157.3MiB / 3.852GiB   3.99%     4.87kB / 2.78kB   4.49MB / 142MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.26%     123.3MiB / 3.852GiB   3.13%     157kB / 207kB     0B / 266kB       31
+20:53:23.575311167
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.348MiB / 3.852GiB   0.03%     1.47kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.73%     157.3MiB / 3.852GiB   3.99%     4.87kB / 2.78kB   6.12MB / 145MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.36%     123.3MiB / 3.852GiB   3.13%     157kB / 207kB     0B / 266kB       31
+20:53:25.591675691
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          3.63%     1.547MiB / 3.852GiB   0.04%     61.6kB / 5.16kB   0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.51%     157.4MiB / 3.852GiB   3.99%     6.44kB / 3.86kB   6.21MB / 148MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   18.68%    123.3MiB / 3.852GiB   3.13%     220kB / 294kB     0B / 266kB       31
+20:53:27.600258508
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          1.18%     1.551MiB / 3.852GiB   0.04%     140kB / 9.21kB    0B / 0B         6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.25%     157.4MiB / 3.852GiB   3.99%     7.92kB / 4.94kB   6.3MB / 151MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   4.35%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB      31
+20:53:29.610855045
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.551MiB / 3.852GiB   0.04%     140kB / 9.21kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     5.20%     159.4MiB / 3.852GiB   4.04%     7.92kB / 4.94kB   6.38MB / 154MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.09%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:31.620551116
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 9.95kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.85%     159.4MiB / 3.852GiB   4.04%     8.74kB / 5.57kB   6.47MB / 157MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.08%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:33.630800425
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 9.95kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.14%     159.4MiB / 3.852GiB   4.04%     8.74kB / 5.57kB   6.53MB / 161MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.09%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:35.640787254
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 9.95kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.52%     159.4MiB / 3.852GiB   4.04%     8.74kB / 5.57kB   6.57MB / 165MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.21%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:37.650984739
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.58%     1.555MiB / 3.852GiB   0.04%     141kB / 10.7kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.66%     159.4MiB / 3.852GiB   4.04%     9.48kB / 6.11kB   6.62MB / 168MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.09%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:39.663344003
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 10.7kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.82%     159.5MiB / 3.852GiB   4.04%     9.48kB / 6.11kB   6.73MB / 171MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.13%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:41.677089599
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 10.7kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.49%     159.5MiB / 3.852GiB   4.04%     9.48kB / 6.11kB   6.83MB / 174MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.09%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:43.687851840
+20:53:45.700619442
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 10.7kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.58%     159.5MiB / 3.852GiB   4.04%     9.48kB / 6.11kB   6.93MB / 178MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.11%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:47.716923938
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 10.7kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.35%     159.5MiB / 3.852GiB   4.04%     9.48kB / 6.11kB   7.03MB / 180MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.11%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:49.728414706
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     141kB / 10.7kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     5.29%     159.5MiB / 3.852GiB   4.04%     9.48kB / 6.11kB   7.11MB / 183MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.14%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+20:53:51.739402921
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.64%     1.555MiB / 3.852GiB   0.04%     142kB / 11.4kB    0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     4.56%     159.5MiB / 3.852GiB   4.04%     10.2kB / 6.65kB   7.16MB / 186MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.09%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB       31
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+2f8a4ab9c871   djas_twin.1.wlj49r3houcuemwy8dcl8q99m          0.00%     1.555MiB / 3.852GiB   0.04%     142kB / 11.4kB    0B / 0B         6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.47%     159.5MiB / 3.852GiB   4.04%     10.2kB / 6.65kB   7.2MB / 189MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.07%     123.3MiB / 3.852GiB   3.13%     299kB / 407kB     0B / 266kB      31
+20:56:01.680261700
+20:56:03.690549104
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     1.375MiB / 3.852GiB   0.03%     1.27kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.48%     159.6MiB / 3.852GiB   4.05%     10.4kB / 6.65kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.26%     123.3MiB / 3.852GiB   3.13%     301kB / 408kB     0B / 287kB       31
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     1.375MiB / 3.852GiB   0.03%     1.27kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.07%     159.6MiB / 3.852GiB   4.05%     10.4kB / 6.65kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   1.65%     123.3MiB / 3.852GiB   3.13%     301kB / 408kB     0B / 287kB       31
+20:56:05.702521196
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     1.375MiB / 3.852GiB   0.03%     1.34kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.78%     159.6MiB / 3.852GiB   4.05%     10.4kB / 6.65kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   1.12%     123.3MiB / 3.852GiB   3.13%     301kB / 408kB     0B / 287kB       31
+20:56:07.714789797
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     1.375MiB / 3.852GiB   0.03%     1.34kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.84%     159.6MiB / 3.852GiB   4.05%     10.4kB / 6.65kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.32%     123.3MiB / 3.852GiB   3.13%     301kB / 408kB     0B / 287kB       31
+20:56:09.726924522
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     1.375MiB / 3.852GiB   0.03%     1.34kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.73%     159.6MiB / 3.852GiB   4.05%     10.4kB / 6.65kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.33%     123.3MiB / 3.852GiB   3.13%     301kB / 408kB     0B / 287kB       31
+20:56:11.737901120
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     1.375MiB / 3.852GiB   0.03%     1.34kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.69%     159.6MiB / 3.852GiB   4.05%     10.4kB / 6.65kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.34%     123.3MiB / 3.852GiB   3.13%     301kB / 408kB     0B / 287kB       31
+20:56:13.749032408
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     1.375MiB / 3.852GiB   0.03%     1.34kB / 865B     0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.69%     159.6MiB / 3.852GiB   4.05%     10.4kB / 6.65kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.40%     123.3MiB / 3.852GiB   3.13%     301kB / 408kB     0B / 287kB       31
+20:56:15.760079693
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          31.59%    2.109MiB / 3.852GiB   0.05%     221kB / 222kB   0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     45.25%    159.6MiB / 3.852GiB   4.05%     230kB / 183kB   7.54MB / 205MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   10.17%    123.4MiB / 3.852GiB   3.13%     349kB / 472kB   0B / 287kB       31
+20:56:17.771059284
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          47.84%    2.188MiB / 3.852GiB   0.06%     847kB / 891kB   0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     69.79%    161.6MiB / 3.852GiB   4.10%     896kB / 716kB   7.58MB / 207MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   6.37%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB   0B / 287kB       31
+20:56:19.784849850
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          49.52%    2.234MiB / 3.852GiB   0.06%     1.45MB / 1.64MB   0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     74.29%    165.6MiB / 3.852GiB   4.20%     1.64MB / 1.32MB   7.61MB / 209MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.07%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:21.791851269
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          50.17%    2.211MiB / 3.852GiB   0.06%     2.05MB / 2.39MB   0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     74.72%    171.7MiB / 3.852GiB   4.35%     2.4MB / 1.92MB    7.77MB / 210MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.07%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:23.798887390
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          50.05%    2.25MiB / 3.852GiB    0.06%     2.65MB / 3.14MB   0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     73.24%    175.8MiB / 3.852GiB   4.46%     3.14MB / 2.52MB   7.91MB / 212MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.08%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:25.811950422
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          46.49%    2.383MiB / 3.852GiB   0.06%     3.25MB / 3.88MB   0B / 0B          8
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     67.24%    179.7MiB / 3.852GiB   4.56%     3.89MB / 3.12MB   8.03MB / 214MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.08%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:27.820318655
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          50.48%    2.25MiB / 3.852GiB    0.06%     3.85MB / 4.64MB   0B / 0B          6
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     74.02%    183.7MiB / 3.852GiB   4.66%     4.65MB / 3.72MB   8.16MB / 216MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.11%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:29.828371618
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     2.184MiB / 3.852GiB   0.06%     4.02MB / 4.85MB   0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.69%     185.7MiB / 3.852GiB   4.71%     4.86MB / 3.89MB   8.27MB / 217MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.11%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:31.839659669
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     2.121MiB / 3.852GiB   0.05%     4.02MB / 4.85MB   0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.97%     185.7MiB / 3.852GiB   4.71%     4.86MB / 3.89MB   8.27MB / 217MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.10%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:33.851148546
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     2.121MiB / 3.852GiB   0.05%     4.02MB / 4.85MB   0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.73%     185.7MiB / 3.852GiB   4.71%     4.86MB / 3.89MB   8.27MB / 217MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.10%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:35.863165222
+20:56:37.872869850
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     2.121MiB / 3.852GiB   0.05%     4.02MB / 4.85MB   0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.63%     185.7MiB / 3.852GiB   4.71%     4.86MB / 3.89MB   8.27MB / 217MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.11%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:39.887334339
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     2.121MiB / 3.852GiB   0.05%     4.02MB / 4.85MB   0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.02%     185.7MiB / 3.852GiB   4.71%     4.86MB / 3.89MB   8.27MB / 217MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.11%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+20:56:41.899755309
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     2.121MiB / 3.852GiB   0.05%     4.02MB / 4.85MB   0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     3.79%     185.7MiB / 3.852GiB   4.71%     4.86MB / 3.89MB   8.27MB / 217MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.09%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+49bf5ca3ab07   djas_twin.1.yqijfm9hxm2oe7p758wo1a1lf          0.00%     2.121MiB / 3.852GiB   0.05%     4.02MB / 4.85MB   0B / 0B          3
+4b5cafca9c79   djas_scylla-db.1.spzazf3crxy4g50t8c9az3kdv     2.67%     185.7MiB / 3.852GiB   4.71%     4.86MB / 3.89MB   8.27MB / 217MB   34
+f91928ec5757   djas_mqtt-broker.1.o1iu1ka14lyxslv33zhsu4wpr   0.07%     123.4MiB / 3.852GiB   3.13%     443kB / 607kB     0B / 287kB       31
