@@ -1,0 +1,126 @@
+20:00:38.327534353
+20:00:40.337019664
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.105MiB / 3.852GiB   0.03%     586B / 0B       0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     1.41MiB / 3.852GiB    0.04%     1.34kB / 823B   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.38%     129.1MiB / 3.852GiB   3.27%     231kB / 165kB   0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.27%     159.5MiB / 3.852GiB   4.04%     1.09kB / 0B     8.29MB / 205MB   34
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.105MiB / 3.852GiB   0.03%     586B / 0B       0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     1.41MiB / 3.852GiB    0.04%     1.34kB / 823B   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.34%     129.1MiB / 3.852GiB   3.27%     231kB / 165kB   0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.78%     159.5MiB / 3.852GiB   4.04%     1.09kB / 0B     8.29MB / 205MB   34
+20:00:42.350041969
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.105MiB / 3.852GiB   0.03%     586B / 0B       0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     1.41MiB / 3.852GiB    0.04%     1.34kB / 823B   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.46%     129.1MiB / 3.852GiB   3.27%     231kB / 165kB   0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.88%     159.5MiB / 3.852GiB   4.04%     1.09kB / 0B     8.29MB / 205MB   34
+20:00:44.362806272
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.105MiB / 3.852GiB   0.03%     586B / 0B       0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     1.41MiB / 3.852GiB    0.04%     1.34kB / 823B   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.60%     129.1MiB / 3.852GiB   3.27%     231kB / 165kB   0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.49%     159.5MiB / 3.852GiB   4.04%     1.09kB / 0B     8.29MB / 205MB   34
+20:00:46.373179342
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.105MiB / 3.852GiB   0.03%     656B / 0B       0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     1.41MiB / 3.852GiB    0.04%     1.34kB / 823B   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   1.50%     129.2MiB / 3.852GiB   3.28%     231kB / 165kB   0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.98%     159.5MiB / 3.852GiB   4.04%     1.09kB / 0B     8.29MB / 205MB   34
+20:00:48.384030889
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.01%     1.105MiB / 3.852GiB   0.03%     656B / 0B       0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     1.41MiB / 3.852GiB    0.04%     1.34kB / 823B   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.14%     129.2MiB / 3.852GiB   3.28%     231kB / 165kB   0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.46%     159.5MiB / 3.852GiB   4.04%     1.09kB / 0B     8.29MB / 205MB   34
+20:00:50.393861382
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.105MiB / 3.852GiB   0.03%     656B / 0B       0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     1.41MiB / 3.852GiB    0.04%     1.34kB / 823B   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.12%     129.2MiB / 3.852GiB   3.28%     231kB / 165kB   0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.66%     159.5MiB / 3.852GiB   4.04%     1.09kB / 0B     8.29MB / 205MB   34
+20:00:52.402852397
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        12.60%    1.586MiB / 3.852GiB   0.04%     26.5kB / 55.3kB   0B / 0B          5
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          30.59%    2.102MiB / 3.852GiB   0.05%     205kB / 244kB     0B / 0B          6
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   21.58%    129.3MiB / 3.852GiB   3.28%     289kB / 202kB     0B / 344kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     43.56%    159.5MiB / 3.852GiB   4.04%     241kB / 192kB     8.29MB / 205MB   34
+20:00:54.413248395
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        4.66%     1.586MiB / 3.852GiB   0.04%     65.8kB / 138kB   0B / 0B          5
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          43.94%    2.215MiB / 3.852GiB   0.06%     685kB / 832kB    0B / 0B          6
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   8.15%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     63.21%    163.6MiB / 3.852GiB   4.15%     828kB / 663kB    8.51MB / 207MB   34
+20:00:56.430377193
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.8kB / 138kB   0B / 0B          5
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.246MiB / 3.852GiB   0.06%     924kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.35%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     6.34%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   8.79MB / 208MB   34
+20:00:58.437853952
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.8kB / 138kB   0B / 0B          5
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.121MiB / 3.852GiB   0.05%     924kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.27%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     5.51%     163.8MiB / 3.852GiB   4.15%     1.13MB / 902kB   8.97MB / 209MB   34
+20:01:00.447767708
+20:01:02.455733074
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.8kB / 138kB   0B / 0B          5
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.105MiB / 3.852GiB   0.05%     924kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.34%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     3.87%     163.8MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.14MB / 209MB   34
+20:01:04.469796991
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.37%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.64%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+20:01:06.481271041
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.47%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.48%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+20:01:08.493113386
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.19%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.61%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+20:01:10.504803586
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.21%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.64%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+20:01:12.516683057
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.13%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.49%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+20:01:14.527757623
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.13%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.36%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+20:01:16.539731942
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.29%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.18%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+20:01:18.549894284
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   1.24%     129.5MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.36%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+aee2511a2926   qos0_client.1.7s4hvayyh4ruxk93xhte9qogi        0.00%     1.586MiB / 3.852GiB   0.04%     65.9kB / 138kB   0B / 0B          4
+8e4ad95302ad   qos0_twin.1.kod6d0p0e5yuneyu5rqvl5pbw          0.00%     2.09MiB / 3.852GiB    0.05%     925kB / 1.13MB   0B / 0B          3
+7858f35de8bd   qos0_mqtt-broker.1.fxue7gif7fqyvmw3v2bxh8psb   0.25%     129.4MiB / 3.852GiB   3.28%     374kB / 251kB    0B / 483kB       37
+c6877f4ff142   qos0_scylla-db.1.mqv0e5vjldywmtkfn6n4n6gvi     2.36%     163.7MiB / 3.852GiB   4.15%     1.13MB / 902kB   9.23MB / 209MB   34
