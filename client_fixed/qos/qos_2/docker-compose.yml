@@ -22,7 +22,7 @@ services:
       replicas: 1
       placement:    
         constraints:
-          - node.labels.name==dtwins2
+          - node.labels.name==dtwins1
     command: dt-client-bytes
 
   twin:
@@ -52,7 +52,6 @@ services:
     environment:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,B/B/B=50,C/C/C=100,D/D/D=200
-      - EMQX_ZONE__EXTERNAL__PUBLISH_LIMIT=200,1m
     networks:
       - default
     restart: always
