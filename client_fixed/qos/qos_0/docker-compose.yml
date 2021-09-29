@@ -48,10 +48,9 @@ services:
     command: dt-instance
 
   mqtt-broker:
-    image: "emqx/emqx:latest"
+    image: "emqx/emqx:4.3.7"
     environment:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_ZONE__EXTERNAL__PUBLISH_LIMIT=200,1s
     networks:
       - default
     restart: always
