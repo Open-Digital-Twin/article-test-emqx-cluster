@@ -1,0 +1,336 @@
+20:43:24.208209410
+20:43:26.218256644
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.082MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     1.434MiB / 3.852GiB   0.04%     1.3kB / 823B      0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     3.05%     159MiB / 3.852GiB     4.03%     4.83kB / 2.78kB   7.21MB / 204MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.25%     127.7MiB / 3.852GiB   3.24%     1.09MB / 151kB    0B / 487kB       37
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.082MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     1.434MiB / 3.852GiB   0.04%     1.3kB / 823B      0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.29%     159MiB / 3.852GiB     4.03%     4.83kB / 2.78kB   7.21MB / 204MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.51%     127.7MiB / 3.852GiB   3.24%     1.09MB / 151kB    0B / 487kB       37
+20:43:28.229070539
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.082MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     1.434MiB / 3.852GiB   0.04%     1.3kB / 823B      0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.41%     159MiB / 3.852GiB     4.03%     4.83kB / 2.78kB   7.21MB / 204MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.36%     127.7MiB / 3.852GiB   3.24%     1.09MB / 151kB    0B / 487kB       37
+20:43:30.239007311
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.082MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     1.434MiB / 3.852GiB   0.04%     1.3kB / 823B      0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.27%     159MiB / 3.852GiB     4.03%     4.83kB / 2.78kB   7.21MB / 204MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.29%     127.7MiB / 3.852GiB   3.24%     1.09MB / 151kB    0B / 487kB       37
+20:43:32.248625930
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.082MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     1.434MiB / 3.852GiB   0.04%     1.3kB / 823B      0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.27%     159MiB / 3.852GiB     4.03%     4.83kB / 2.78kB   7.21MB / 204MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.72%     127.7MiB / 3.852GiB   3.24%     1.09MB / 151kB    0B / 487kB       37
+20:43:34.258223441
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.082MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     1.434MiB / 3.852GiB   0.04%     1.3kB / 823B      0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.92%     159MiB / 3.852GiB     4.03%     4.83kB / 2.78kB   7.21MB / 204MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.26%     127.7MiB / 3.852GiB   3.24%     1.09MB / 151kB    0B / 487kB       37
+20:43:36.269771601
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        5.83%     1.551MiB / 3.852GiB   0.04%     5.97kB / 165kB   0B / 0B          5
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          13.08%    2.051MiB / 3.852GiB   0.05%     159kB / 119kB    0B / 0B          6
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     19.63%    159MiB / 3.852GiB     4.03%     117kB / 78.5kB   7.21MB / 205MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   8.27%     127.8MiB / 3.852GiB   3.24%     1.25MB / 234kB   0B / 487kB       37
+20:43:38.277854147
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        13.50%    1.559MiB / 3.852GiB   0.04%     33.8kB / 1.08MB   0B / 0B          5
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          32.22%    2.172MiB / 3.852GiB   0.06%     724kB / 732kB     0B / 0B          6
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     46.20%    161MiB / 3.852GiB     4.08%     731kB / 491kB     7.21MB / 206MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   24.89%    127.9MiB / 3.852GiB   3.24%     2.17MB / 418kB    0B / 602kB       37
+20:43:40.285627395
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34kB / 1.08MB    0B / 0B          5
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          12.23%    2.203MiB / 3.852GiB   0.06%     1.1MB / 1.28MB   0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     20.37%    165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB   7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.43%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB   0B / 631kB       37
+20:43:42.295584518
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34kB / 1.08MB    0B / 0B          5
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.109MiB / 3.852GiB   0.05%     1.1MB / 1.28MB   0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.69%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB   7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.34%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB   0B / 631kB       37
+20:43:44.307352232
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34kB / 1.08MB    0B / 0B          5
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.01%     2.078MiB / 3.852GiB   0.05%     1.1MB / 1.28MB   0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.87%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB   7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.22%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB   0B / 631kB       37
+20:43:46.319008489
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.02%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.69%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.29%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:43:48.329682393
+20:43:50.341464016
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.07%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.57%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.56%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:43:52.357936044
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.26%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.37%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:43:54.370771893
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.50%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.19%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:43:56.380617172
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.77%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.26%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:43:58.391272165
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.55%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.20%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:44:00.402590469
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.33%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   2.06%     128MiB / 3.852GiB     3.25%     2.17MB / 420kB    0B / 631kB       37
+20:44:02.412522857
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.37%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   2.27%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:44:04.420568253
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     2.86%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.24%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+6a06527f02e7   1kmg_client.1.41kx4gicckhefoioabhtyn615        0.00%     1.559MiB / 3.852GiB   0.04%     34.1kB / 1.08MB   0B / 0B          4
+2da6d603c447   1kmg_twin.1.t6t3p4eeghfb190ojsozqf7gi          0.00%     2.062MiB / 3.852GiB   0.05%     1.1MB / 1.28MB    0B / 0B          3
+c38cac33d24b   1kmg_scylla-db.1.b5ykwmnjflyu2uz6kxobxes7k     3.23%     165.1MiB / 3.852GiB   4.18%     1.28MB / 862kB    7.25MB / 207MB   34
+3a204bed3bb0   1kmg_mqtt-broker.1.j11gztkx0uy7lotblkeli8osx   0.28%     127.9MiB / 3.852GiB   3.24%     2.17MB / 420kB    0B / 631kB       37
+20:52:38.576384782
+20:52:40.586599369
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     1.387MiB / 3.852GiB   0.04%     1.2kB / 731B      0B / 0B         3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.29%     158.9MiB / 3.852GiB   4.03%     5.49kB / 3.32kB   8.1MB / 205MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.36%     126.3MiB / 3.852GiB   3.20%     1.09MB / 112kB    0B / 475kB      37
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     1.387MiB / 3.852GiB   0.04%     1.2kB / 731B      0B / 0B         3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.53%     158.9MiB / 3.852GiB   4.03%     5.49kB / 3.32kB   8.1MB / 205MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.52%     126.3MiB / 3.852GiB   3.20%     1.09MB / 112kB    0B / 475kB      37
+20:52:42.598369096
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     1.387MiB / 3.852GiB   0.04%     1.2kB / 731B      0B / 0B         3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.26%     158.9MiB / 3.852GiB   4.03%     5.49kB / 3.32kB   8.1MB / 205MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.28%     126.3MiB / 3.852GiB   3.20%     1.09MB / 112kB    0B / 475kB      37
+20:52:44.610845767
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     1.387MiB / 3.852GiB   0.04%     1.2kB / 731B      0B / 0B         3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.50%     158.9MiB / 3.852GiB   4.03%     5.49kB / 3.32kB   8.1MB / 205MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.30%     126.3MiB / 3.852GiB   3.20%     1.09MB / 112kB    0B / 475kB      37
+20:52:46.622977993
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     1.387MiB / 3.852GiB   0.04%     1.2kB / 731B      0B / 0B         3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.47%     158.9MiB / 3.852GiB   4.03%     5.49kB / 3.32kB   8.1MB / 205MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   1.81%     126.4MiB / 3.852GiB   3.20%     1.09MB / 112kB    0B / 475kB      37
+20:52:48.635269775
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     1.387MiB / 3.852GiB   0.04%     1.2kB / 731B      0B / 0B         3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.51%     158.9MiB / 3.852GiB   4.03%     5.49kB / 3.32kB   8.1MB / 205MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.23%     126.3MiB / 3.852GiB   3.20%     1.09MB / 112kB    0B / 475kB      37
+20:52:50.648607740
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.07%     1.387MiB / 3.852GiB   0.04%     1.27kB / 865B     0B / 0B         3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     3.42%     158.9MiB / 3.852GiB   4.03%     5.49kB / 3.32kB   8.1MB / 205MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.42%     126.3MiB / 3.852GiB   3.20%     1.09MB / 113kB    0B / 475kB      37
+20:52:52.659959119
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          31.75%    2.164MiB / 3.852GiB   0.05%     283kB / 291kB    0B / 0B         6
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     47.70%    159MiB / 3.852GiB     4.03%     293kB / 197kB    8.1MB / 206MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   19.46%    126.3MiB / 3.852GiB   3.20%     1.44MB / 223kB   0B / 475kB      37
+20:52:54.671206524
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          41.95%    2.203MiB / 3.852GiB   0.06%     901kB / 1.01MB   0B / 0B          6
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     60.34%    161MiB / 3.852GiB     4.08%     1.01MB / 677kB   8.12MB / 207MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   17.91%    126.4MiB / 3.852GiB   3.20%     2.18MB / 408kB   0B / 614kB       37
+20:52:56.685403072
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.133MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.63%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.28%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:52:58.695496311
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.055MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.61%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.30%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:00.707525134
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     3.23%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.30%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:02.719243325
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.73%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.28%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:04.730940669
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.38%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.35%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:06.742005580
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.47%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.39%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:08.753076220
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.58%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.44%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:10.765276089
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     3.23%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.30%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:12.776388477
+20:53:14.788057430
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.90%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.32%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:16.804463184
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.39%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.45%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+20:53:18.814353513
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.01%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.58%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.35%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+3d5e162eec67   1kmg_twin.1.0ol4wc5vz5wfqkvvxhsgjzdx6          0.00%     2.023MiB / 3.852GiB   0.05%     1.2MB / 1.41MB   0B / 0B          3
+6712fc054cd7   1kmg_scylla-db.1.8xx0ihjldti2g22i688v77shx     2.46%     163MiB / 3.852GiB     4.13%     1.41MB / 944kB   8.13MB / 208MB   34
+bc6f209450b9   1kmg_mqtt-broker.1.y1bpec214d750uqhokkbjt2i2   0.47%     126.4MiB / 3.852GiB   3.20%     2.18MB / 441kB   0B / 614kB       37
+21:19:12.346481702
+21:19:14.357236989
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     1.402MiB / 3.852GiB   0.04%     951B / 555B       0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.27%     131.6MiB / 3.852GiB   3.34%     1.36MB / 306kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     3.95%     159.3MiB / 3.852GiB   4.04%     6.35kB / 3.86kB   8.11MB / 205MB   34
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     1.402MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.32%     131.6MiB / 3.852GiB   3.34%     1.36MB / 306kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.49%     159.3MiB / 3.852GiB   4.04%     6.35kB / 3.86kB   8.11MB / 205MB   34
+21:19:16.367893154
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     1.402MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.39%     131.6MiB / 3.852GiB   3.34%     1.36MB / 306kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.37%     159.3MiB / 3.852GiB   4.04%     6.35kB / 3.86kB   8.11MB / 205MB   34
+21:19:18.378655385
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     1.402MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.26%     131.6MiB / 3.852GiB   3.34%     1.36MB / 306kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.88%     159.3MiB / 3.852GiB   4.04%     6.42kB / 3.86kB   8.11MB / 205MB   34
+21:19:20.390927587
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     1.402MiB / 3.852GiB   0.04%     1.02kB / 555B     0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.28%     131.6MiB / 3.852GiB   3.34%     1.36MB / 306kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.44%     159.3MiB / 3.852GiB   4.04%     6.42kB / 3.86kB   8.11MB / 205MB   34
+21:19:22.404992828
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          6.38%     1.922MiB / 3.852GiB   0.05%     80.6kB / 50.6kB   0B / 0B          6
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   3.13%     131.6MiB / 3.852GiB   3.34%     1.43MB / 356kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     11.75%    159.3MiB / 3.852GiB   4.04%     58.1kB / 38.4kB   8.11MB / 205MB   34
+21:19:24.416442750
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          45.41%    2.195MiB / 3.852GiB   0.06%     754kB / 823kB    0B / 0B          6
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   11.80%    132.9MiB / 3.852GiB   3.37%     2.29MB / 573kB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     67.15%    161.4MiB / 3.852GiB   4.09%     819kB / 550kB    8.23MB / 207MB   34
+21:19:26.423390595
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          47.46%    2.148MiB / 3.852GiB   0.05%     1.49MB / 1.68MB   0B / 0B          6
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   1.05%     133.8MiB / 3.852GiB   3.39%     2.45MB / 744kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     70.88%    165.5MiB / 3.852GiB   4.20%     1.67MB / 1.12MB   8.52MB / 209MB   34
+21:19:28.431650567
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          48.16%    2.215MiB / 3.852GiB   0.06%     2.27MB / 2.57MB   0B / 0B          6
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   1.05%     133.5MiB / 3.852GiB   3.39%     2.46MB / 929kB    3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     71.72%    167.6MiB / 3.852GiB   4.25%     2.55MB / 1.72MB   8.82MB / 211MB   34
+21:19:30.439586145
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          46.82%    2.246MiB / 3.852GiB   0.06%     3MB / 3.43MB      0B / 0B          6
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   1.05%     133.5MiB / 3.852GiB   3.38%     2.47MB / 1.09MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     70.28%    171.6MiB / 3.852GiB   4.35%     3.41MB / 2.29MB   9.07MB / 213MB   34
+21:19:32.448154025
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          38.30%    2.227MiB / 3.852GiB   0.06%     3.65MB / 4.18MB   0B / 0B          6
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.87%     133MiB / 3.852GiB     3.37%     2.47MB / 1.24MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     72.48%    175.7MiB / 3.852GiB   4.45%     4.16MB / 2.79MB   9.37MB / 215MB   34
+21:19:34.456730398
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          48.67%    2.242MiB / 3.852GiB   0.06%     4.41MB / 5.06MB   0B / 0B          6
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   1.04%     133MiB / 3.852GiB     3.37%     2.48MB / 1.42MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     70.09%    177.7MiB / 3.852GiB   4.50%     5.02MB / 3.37MB   9.67MB / 216MB   34
+21:19:36.469633220
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          38.53%    2.195MiB / 3.852GiB   0.06%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.52%     133MiB / 3.852GiB     3.37%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     56.71%    181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   9.94MB / 218MB   34
+21:19:38.482277583
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.102MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.12%     133MiB / 3.852GiB     3.37%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     9.33%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.4MB / 219MB   34
+21:19:40.493318937
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.102MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.09%     133MiB / 3.852GiB     3.37%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     6.17%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.8MB / 220MB   34
+21:19:42.504325565
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.086MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.08%     133MiB / 3.852GiB     3.37%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.48%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.8MB / 220MB   34
+21:19:44.518113165
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.086MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.09%     133MiB / 3.852GiB     3.37%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.47%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.8MB / 220MB   34
+21:19:46.530728347
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.086MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.16%     133MiB / 3.852GiB     3.37%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.56%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.8MB / 220MB   34
+21:19:48.540392654
+21:19:50.548159496
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.086MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.97%     131.6MiB / 3.852GiB   3.34%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.49%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.8MB / 220MB   34
+21:19:52.557089728
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.086MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.22%     131.6MiB / 3.852GiB   3.34%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.57%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.8MB / 220MB   34
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+de0a15ad9bde   1kmg_twin.1.yek9opk5dsyafg68vbr1xuuzl          0.00%     2.086MiB / 3.852GiB   0.05%     5.04MB / 5.84MB   0B / 0B          3
+f9429d2030d3   1kmg_mqtt-broker.1.etf9t12078nxpl3b6y0yt8znh   0.34%     131.6MiB / 3.852GiB   3.34%     2.49MB / 1.53MB   3.84MB / 250kB   31
+42e4ca9f4ced   1kmg_scylla-db.1.ff5xz1a9tttivdozq8pd64xvo     2.53%     181.7MiB / 3.852GiB   4.61%     5.79MB / 3.89MB   10.8MB / 220MB   34
