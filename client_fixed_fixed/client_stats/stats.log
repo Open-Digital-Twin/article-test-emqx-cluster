@@ -1,0 +1,105 @@
+08:16:11.843433414
+08:16:13.855533781
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        0.00%     1.102MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          0.00%     1.34MiB / 3.852GiB    0.03%     1.34kB / 865B     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   0.31%     141.2MiB / 3.852GiB   3.58%     2.12MB / 2.11MB   41.2MB / 291kB   31
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        0.00%     1.102MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          0.00%     1.34MiB / 3.852GiB    0.03%     1.34kB / 865B     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   0.26%     141.2MiB / 3.852GiB   3.58%     2.12MB / 2.11MB   41.2MB / 291kB   31
+08:16:15.864814240
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        0.00%     1.102MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          0.00%     1.34MiB / 3.852GiB    0.03%     1.34kB / 865B     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   0.32%     141.2MiB / 3.852GiB   3.58%     2.12MB / 2.11MB   41.2MB / 291kB   31
+08:16:17.877053887
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        0.00%     1.102MiB / 3.852GiB   0.03%     586B / 0B         0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          0.00%     1.34MiB / 3.852GiB    0.03%     1.34kB / 865B     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   0.20%     141.2MiB / 3.852GiB   3.58%     2.12MB / 2.11MB   41.2MB / 291kB   31
+08:16:19.889837472
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        0.00%     1.102MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          0.00%     1.34MiB / 3.852GiB    0.03%     1.34kB / 865B     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   0.31%     141.2MiB / 3.852GiB   3.58%     2.12MB / 2.11MB   41.2MB / 291kB   31
+08:16:21.901388852
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        0.01%     1.102MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          0.01%     1.34MiB / 3.852GiB    0.03%     1.34kB / 865B     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   0.26%     141.2MiB / 3.852GiB   3.58%     2.12MB / 2.11MB   41.2MB / 291kB   31
+08:16:23.912026998
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        0.00%     1.102MiB / 3.852GiB   0.03%     656B / 0B         0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          0.00%     1.34MiB / 3.852GiB    0.03%     1.34kB / 865B     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   0.36%     141.2MiB / 3.852GiB   3.58%     2.12MB / 2.11MB   41.2MB / 291kB   31
+08:16:25.920641202
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        18.87%    1.57MiB / 3.852GiB    0.04%     23.6kB / 46kB     0B / 0B          5
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          7.37%     1.359MiB / 3.852GiB   0.03%     47.4kB / 23.9kB   0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   19.69%    141.2MiB / 3.852GiB   3.58%     2.19MB / 2.18MB   41.2MB / 291kB   31
+08:16:27.930873577
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        23.83%    1.574MiB / 3.852GiB   0.04%     76.9kB / 153kB    0B / 0B          5
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          8.29%     1.359MiB / 3.852GiB   0.03%     154kB / 76.6kB    0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   22.23%    141.2MiB / 3.852GiB   3.58%     2.35MB / 2.34MB   41.2MB / 291kB   31
+08:16:29.944444097
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        21.33%    1.578MiB / 3.852GiB   0.04%     129kB / 258kB    0B / 0B          5
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          8.42%     1.359MiB / 3.852GiB   0.03%     260kB / 129kB    0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   22.50%    141.2MiB / 3.852GiB   3.58%     2.51MB / 2.5MB   41.2MB / 291kB   31
+08:16:31.952522181
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        20.95%    1.578MiB / 3.852GiB   0.04%     174kB / 348kB     0B / 0B          5
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          7.17%     1.359MiB / 3.852GiB   0.03%     349kB / 173kB     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   20.01%    141.2MiB / 3.852GiB   3.58%     2.64MB / 2.63MB   41.2MB / 291kB   31
+08:16:33.961957959
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        21.89%    1.578MiB / 3.852GiB   0.04%     220kB / 442kB     0B / 0B          5
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          7.93%     1.359MiB / 3.852GiB   0.03%     443kB / 220kB     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   24.39%    141.2MiB / 3.852GiB   3.58%     2.78MB / 2.78MB   41.2MB / 291kB   31
+08:16:35.972738563
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        20.95%    1.578MiB / 3.852GiB   0.04%     268kB / 538kB     0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          8.41%     1.359MiB / 3.852GiB   0.03%     539kB / 267kB     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   20.46%    141.2MiB / 3.852GiB   3.58%     2.93MB / 2.92MB   41.2MB / 291kB   31
+08:16:37.979590009
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        22.40%    1.578MiB / 3.852GiB   0.04%     322kB / 646kB     0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          8.08%     1.359MiB / 3.852GiB   0.03%     646kB / 321kB     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   22.99%    141.2MiB / 3.852GiB   3.58%     3.09MB / 3.08MB   41.2MB / 291kB   31
+08:16:39.987588055
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        23.02%    1.578MiB / 3.852GiB   0.04%     372kB / 748kB     0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          7.78%     1.359MiB / 3.852GiB   0.03%     748kB / 371kB     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   20.69%    141.2MiB / 3.852GiB   3.58%     3.24MB / 3.23MB   41.2MB / 291kB   31
+08:16:41.999686813
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        22.45%    1.578MiB / 3.852GiB   0.04%     427kB / 857kB   0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          9.05%     1.359MiB / 3.852GiB   0.03%     857kB / 425kB   0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   25.53%    141.2MiB / 3.852GiB   3.58%     3.4MB / 3.4MB   41.2MB / 291kB   31
+08:16:44.008357193
+08:16:46.016479665
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        20.73%    1.578MiB / 3.852GiB   0.04%     481kB / 967kB     0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          6.98%     1.359MiB / 3.852GiB   0.03%     967kB / 480kB     0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   21.04%    141.2MiB / 3.852GiB   3.58%     3.57MB / 3.56MB   41.2MB / 291kB   31
+08:16:48.026213728
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        18.36%    1.578MiB / 3.852GiB   0.04%     530kB / 1.06MB    0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          6.98%     1.359MiB / 3.852GiB   0.03%     1.06MB / 528kB    0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   19.35%    141.2MiB / 3.852GiB   3.58%     3.71MB / 3.71MB   41.2MB / 291kB   31
+08:16:50.038287138
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        20.26%    1.578MiB / 3.852GiB   0.04%     580kB / 1.17MB    0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          7.23%     1.359MiB / 3.852GiB   0.03%     1.16MB / 578kB    0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   19.08%    141.2MiB / 3.852GiB   3.58%     3.86MB / 3.86MB   41.2MB / 291kB   31
+08:16:52.047103874
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        21.47%    1.582MiB / 3.852GiB   0.04%     631kB / 1.27MB    0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          7.93%     1.359MiB / 3.852GiB   0.03%     1.27MB / 629kB    0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   21.61%    141.2MiB / 3.852GiB   3.58%     4.02MB / 4.01MB   41.2MB / 291kB   31
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+36c0c4283f0e   cffs_client.1.07oxm7fix5bu3lnm0og3o3pwh        23.07%    1.582MiB / 3.852GiB   0.04%     683kB / 1.37MB    0B / 0B          4
+de719dbe6712   cffs_twin.1.q6cxfdbo4e9cvlbm4jso7uvvf          8.95%     1.359MiB / 3.852GiB   0.03%     1.37MB / 681kB    0B / 0B          3
+cd1640d0c1c4   cffs_mqtt-broker.1.rq0jokidr80zcj7n9u20kkzdz   24.16%    141.2MiB / 3.852GiB   3.58%     4.18MB / 4.17MB   41.2MB / 291kB   31
