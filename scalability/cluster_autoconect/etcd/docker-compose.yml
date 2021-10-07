@@ -1,0 +1,56 @@
+version: '3'
+
+services:
+    
+  mqtt-node1:
+    image: "emqx/emqx:latest"
+    environment:
+      - EMQX_NAME=node1
+      - EMQX_HOST=emqx_n1.mq.tt
+      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
+    networks:
+      default:
+        aliases:
+          - emqx_n1.mq.tt
+    restart: always
+    deploy:
+      placement:
+        constraints:
+          - node.labels.name==dtwins1
+
+  mqtt-node2:
+    image: "emqx/emqx:latest"
+    environment:
+      - EMQX_NAME=node2
+      - EMQX_HOST=emqx_n2.mq.tt
+      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
+    networks:
+      default:
+        aliases:
+          - emqx_n2.mq.tt
+    restart: always
+    deploy:
+      placement:
+        constraints:
+          - node.labels.name==dtwins1
+
+  etcd:
+    image: 'bitnami/etcd:latest'
+    environment:
+      - ALLOW_NONE_AUTHENTICATION=yes
+      - ETCD_ADVERTISE_CLIENT_URLS=http://etcd:2379
+    ports:
+      - 2379:2379
+      - 2380:2380
+    networks:
+      - default
+    restart: always
+    deploy:
+      placement:
+        constraints:
+          - node.labels.name==dtwins1
+
+networks:
+  default:
