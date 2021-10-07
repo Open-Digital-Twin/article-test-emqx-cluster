@@ -5,8 +5,6 @@ services:
   mqtt-node1:
     image: "emqx/emqx:4.3.8"
     environment:
-      - EMQX_NAME=node1
-      - EMQX_HOST=emqx_n1.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_CLUSTER__DISCOVERY=etcd
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
@@ -25,8 +23,6 @@ services:
   mqtt-node2:
     image: "emqx/emqx:4.3.8"
     environment:
-      - EMQX_NAME=node2
-      - EMQX_HOST=emqx_n2.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_CLUSTER__DISCOVERY=etcd
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
