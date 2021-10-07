@@ -9,6 +9,10 @@ services:
       - EMQX_HOST=emqx_n1.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
+      - EMQX_CLUSTER__DISCOVERY=etcd
+      - EMQX_CLUSTER__ETCD__SERVER=etcd:2379
+      - EMQX_CLUSTER__ETCD__PREFIX=emqcl
+      - EMQX_CLUSTER__ETCD__TTL=1m
     networks:
       default:
         aliases:
@@ -26,6 +30,10 @@ services:
       - EMQX_HOST=emqx_n2.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
+      - EMQX_CLUSTER__DISCOVERY=etcd
+      - EMQX_CLUSTER__ETCD__SERVER=etcd:2379
+      - EMQX_CLUSTER__ETCD__PREFIX=emqcl
+      - EMQX_CLUSTER__ETCD__TTL=1m
     networks:
       default:
         aliases:
