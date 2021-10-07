@@ -51,9 +51,9 @@ def parse_twin(twin, output_client, output_final):
       break
 
     split_line = line.split()
-    if len(split_line) == 7 and split_line[5] != "Twin:":
+    if len(split_line) == 6 and split_line[5] != "Twin:":
       end_date = split_line[0]
-      payload = (split_line[5] + " " + split_line[6]).strip("\"")
+      payload = (split_line[5]).strip("\"")
 
       client_line = 0
       found = False
@@ -96,9 +96,9 @@ def parse_client(client, output):
       break
 
     split_line = line.split()
-    if len(split_line) == 7:
+    if len(split_line) == 6 and split_line[4] != "Publish" :
       date = split_line[0]
-      payload = (split_line[5] + " " + split_line[6]).strip("\"")
+      payload = (split_line[5]).strip("\"")
 
       output_file.write(date + " " + payload + "\n")
   
