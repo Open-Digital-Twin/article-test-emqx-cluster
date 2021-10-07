@@ -10,7 +10,7 @@ services:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=etcd
-      - EMQX_CLUSTER__ETCD__SERVER=etcd:2379
+      - EMQX_CLUSTER__ETCD__SERVER=e.t.c.d
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__TTL=1m
     networks:
@@ -31,7 +31,7 @@ services:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
       - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=etcd
-      - EMQX_CLUSTER__ETCD__SERVER=etcd:2379
+      - EMQX_CLUSTER__ETCD__SERVER=e.t.c.d
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__TTL=1m
     networks:
@@ -53,7 +53,9 @@ services:
       - 2379:2379
       - 2380:2380
     networks:
-      - default
+      default:
+        aliases:
+          - e.t.c.d
     restart: always
     deploy:
       placement:
