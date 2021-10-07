@@ -1,14 +1,13 @@
 version: '3'
 
 services:
-    
+
   mqtt-node1:
     image: "emqx/emqx:latest"
     environment:
       - EMQX_NAME=node1
       - EMQX_HOST=emqx_n1.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=etcd
       - EMQX_CLUSTER__ETCD__SERVER=etcd
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
@@ -29,7 +28,6 @@ services:
       - EMQX_NAME=node2
       - EMQX_HOST=emqx_n2.mq.tt
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_MQTT__MAX_PACKET_SIZE=64KB
       - EMQX_CLUSTER__DISCOVERY=etcd
       - EMQX_CLUSTER__ETCD__SERVER=etcd
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
@@ -59,6 +57,6 @@ services:
       placement:
         constraints:
           - node.labels.name==dtwins1
-
+          
 networks:
   default:
