@@ -1,0 +1,316 @@
+09:39:13.749241376
+09:39:15.759139269
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71kB / 141kB      0B / 0B      5
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.85%     9.402MiB / 3.852GiB   0.24%     18.4kB / 44.8kB   0B / 897kB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.33%     128.3MiB / 3.852GiB   3.25%     617kB / 301kB     0B / 262kB   32
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.81%     9.406MiB / 3.852GiB   0.24%     18.4kB / 44.8kB   0B / 905kB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.34%     128.3MiB / 3.852GiB   3.25%     617kB / 301kB     0B / 262kB   32
+09:39:17.770600135
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.62%     9.555MiB / 3.852GiB   0.24%     19.5kB / 47.6kB   0B / 938kB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.40%     128.3MiB / 3.852GiB   3.25%     620kB / 302kB     0B / 262kB   32
+09:39:19.780573029
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.06%     9.555MiB / 3.852GiB   0.24%     19.5kB / 47.6kB   0B / 954kB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.57%     128.3MiB / 3.852GiB   3.25%     620kB / 302kB     0B / 262kB   32
+09:39:21.790871024
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.54%     9.562MiB / 3.852GiB   0.24%     20.6kB / 50.3kB   0B / 987kB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.82%     128.4MiB / 3.852GiB   3.25%     623kB / 303kB     0B / 262kB   32
+09:39:23.800993936
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B      4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.87%     9.578MiB / 3.852GiB   0.24%     20.6kB / 50.3kB   0B / 1MB     10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.38%     128.4MiB / 3.852GiB   3.25%     623kB / 303kB     0B / 262kB   32
+09:39:25.810935970
+09:39:27.818261847
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.96%     9.586MiB / 3.852GiB   0.24%     21.4kB / 51.7kB   0B / 1.02MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.31%     128.4MiB / 3.852GiB   3.25%     623kB / 303kB     0B / 262kB    32
+09:39:29.828244523
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.96%     9.605MiB / 3.852GiB   0.24%     21.6kB / 53.2kB   0B / 1.05MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.34%     128.4MiB / 3.852GiB   3.25%     626kB / 304kB     0B / 262kB    32
+09:39:31.840271621
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.99%     9.73MiB / 3.852GiB    0.25%     22kB / 54.1kB    0B / 1.07MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.35%     128.4MiB / 3.852GiB   3.25%     627kB / 304kB    0B / 262kB    32
+09:39:33.849480173
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B      4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B      4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.06%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B      4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.83%     9.625MiB / 3.852GiB   0.24%     23kB / 56.9kB    0B / 1.1MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.38%     128.4MiB / 3.852GiB   3.25%     630kB / 306kB    0B / 262kB   32
+09:39:35.865679614
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.07%     1.609MiB / 3.852GiB   0.04%     71.1kB / 142kB   0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB   0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.97%     9.629MiB / 3.852GiB   0.24%     23kB / 56.9kB    0B / 1.12MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.39%     128.4MiB / 3.852GiB   3.25%     630kB / 306kB    0B / 262kB    32
+09:39:37.876886434
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.1kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.22%     9.668MiB / 3.852GiB   0.25%     24.1kB / 59.6kB   0B / 1.15MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.78%     128.4MiB / 3.852GiB   3.25%     633kB / 307kB     0B / 262kB    32
+09:39:39.887923572
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.1kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.78%     9.672MiB / 3.852GiB   0.25%     24.1kB / 59.6kB   0B / 1.16MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.33%     128.4MiB / 3.852GiB   3.25%     633kB / 307kB     0B / 262kB    32
+09:39:41.902184652
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.2kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.49%     9.688MiB / 3.852GiB   0.25%     24.1kB / 59.6kB   0B / 1.18MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.32%     128.4MiB / 3.852GiB   3.25%     633kB / 307kB     0B / 262kB    32
+09:39:43.910838519
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.2kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.68%     9.707MiB / 3.852GiB   0.25%     25.2kB / 62.4kB   0B / 1.21MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.31%     128.4MiB / 3.852GiB   3.25%     635kB / 308kB     0B / 262kB    32
+09:39:45.917882264
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.2kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.45%     9.844MiB / 3.852GiB   0.25%     25.2kB / 62.4kB   0B / 1.23MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.32%     128.4MiB / 3.852GiB   3.25%     635kB / 308kB     0B / 262kB    32
+09:39:47.926079876
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.2kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.3kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.57%     9.746MiB / 3.852GiB   0.25%     26.3kB / 65.2kB   0B / 1.26MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   2.47%     128.4MiB / 3.852GiB   3.25%     638kB / 309kB     0B / 262kB    32
+09:39:49.937041076
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.3kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.3kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.92%     9.75MiB / 3.852GiB    0.25%     26.3kB / 65.2kB   0B / 1.28MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.93%     128.4MiB / 3.852GiB   3.25%     638kB / 309kB     0B / 262kB    32
+09:39:51.947171097
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.3kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.3kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           1.40%     9.754MiB / 3.852GiB   0.25%     26.3kB / 65.2kB   0B / 1.29MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   1.17%     128.4MiB / 3.852GiB   3.25%     641kB / 310kB     0B / 262kB    32
+09:39:53.954941148
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+2a08fc8f4c5c   cl1-3_twin.1.k4qhjm12w8ez0ao5oe50jy4td           0.00%     0B / 0B               0.00%     0B / 0B           0B / 0B       0
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.3kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.3kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           2.06%     9.809MiB / 3.852GiB   0.25%     27.4kB / 67.9kB   0B / 1.33MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   1.17%     128.4MiB / 3.852GiB   3.25%     641kB / 310kB     0B / 262kB    32
+CONTAINER ID   NAME                                             CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+fc7273db50e0   cl1-3_client.2.y0y7hut339mee8rf1z0lnfyw8         0.00%     1.609MiB / 3.852GiB   0.04%     71.3kB / 142kB    0B / 0B       4
+8635f7be4ebb   cl1-3_client.3.s93sp38qf6wrhn8b7kvlntqrc         0.00%     1.656MiB / 3.852GiB   0.04%     71.2kB / 141kB    0B / 0B       4
+dd7201a93d34   cl1-3_client.1.xz11y82c9s1ocz5kamnkx4360         0.00%     1.637MiB / 3.852GiB   0.04%     71.3kB / 141kB    0B / 0B       4
+db86fa6faa1c   cl1-3_etcd.1.8zgpyi2ezx7evcqyu5rhidcbo           0.90%     9.824MiB / 3.852GiB   0.25%     27.4kB / 67.9kB   0B / 1.34MB   10
+85b222ea57d4   cl1-3_mqtt-cluster.1.wdc8lgeopgcu52lhapiq6h8k4   0.40%     128.4MiB / 3.852GiB   3.25%     641kB / 310kB     0B / 262kB    32
+09:43:55.152466215
+09:43:57.162229498
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.184MiB / 3.852GiB   0.03%     698B / 0B         0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.07MiB / 3.852GiB    0.03%     698B / 0B         0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         2.02%     1.586MiB / 3.852GiB   0.04%     4.13kB / 6.76kB   0B / 0B          5
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.91%     1.398MiB / 3.852GiB   0.04%     9.67kB / 4.96kB   0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.35%     10.01MiB / 3.852GiB   0.25%     37.9kB / 93.3kB   4.1kB / 1.84MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.13%     127.6MiB / 3.852GiB   3.24%     314kB / 252kB     0B / 270kB       31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.184MiB / 3.852GiB   0.03%     740B / 0B         0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         12.42%    1.547MiB / 3.852GiB   0.04%     20.4kB / 39.5kB   0B / 0B          5
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         17.54%    1.605MiB / 3.852GiB   0.04%     31.8kB / 62.1kB   0B / 0B          5
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           11.41%    1.398MiB / 3.852GiB   0.04%     104kB / 51.3kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.62%     10.01MiB / 3.852GiB   0.25%     38kB / 93.3kB     4.1kB / 1.84MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   28.84%    127.6MiB / 3.852GiB   3.24%     466kB / 403kB     0B / 270kB       31
+09:43:59.168878188
+09:44:01.179425352
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         24.19%    1.672MiB / 3.852GiB   0.04%     68.5kB / 134kB   0B / 0B          5
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          5
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          5
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           6.18%     1.398MiB / 3.852GiB   0.04%     401kB / 189kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.02%     10.01MiB / 3.852GiB   0.25%     38kB / 93.3kB    4.1kB / 1.87MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   35.33%    127.6MiB / 3.852GiB   3.24%     836kB / 780kB    0B / 270kB       31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         1.53%     1.672MiB / 3.852GiB   0.04%     70.9kB / 139kB    0B / 0B          5
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B          5
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B          5
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.67%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB     0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.72%     10.04MiB / 3.852GiB   0.25%     39.1kB / 96.1kB   4.1kB / 1.89MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   2.15%     127.6MiB / 3.852GiB   3.24%     926kB / 868kB     0B / 270kB       31
+09:44:03.190839059
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O       PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     70.9kB / 139kB    0B / 0B         5
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B         5
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B         5
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB     0B / 0B         3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.89%     10.04MiB / 3.852GiB   0.25%     39.1kB / 96.1kB   4.1kB / 1.9MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.13%     127.6MiB / 3.852GiB   3.24%     926kB / 868kB     0B / 270kB      31
+09:44:05.202995971
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     70.9kB / 139kB    0B / 0B          5
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B          5
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B          5
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB     0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.03%     10.04MiB / 3.852GiB   0.25%     39.1kB / 96.1kB   4.1kB / 1.92MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.09%     127.6MiB / 3.852GiB   3.24%     926kB / 868kB     0B / 270kB       31
+09:44:07.214538722
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     70.9kB / 139kB    0B / 0B          5
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB    0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB     0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.01%     10.07MiB / 3.852GiB   0.26%     40.2kB / 98.9kB   4.1kB / 1.96MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.14%     127.6MiB / 3.852GiB   3.24%     929kB / 869kB     0B / 270kB       31
+09:44:09.226249921
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB      0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB    0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB    0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB     0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.89%     10.08MiB / 3.852GiB   0.26%     40.2kB / 98.9kB   4.1kB / 1.97MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.13%     127.6MiB / 3.852GiB   3.24%     929kB / 869kB     0B / 270kB       31
+09:44:11.237841158
+09:44:13.248053839
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B       4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B       4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B       4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B       3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.55%     10.11MiB / 3.852GiB   0.26%     41.2kB / 102kB   4.1kB / 2MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.86%     127.6MiB / 3.852GiB   3.24%     932kB / 870kB    0B / 270kB    31
+09:44:15.258669946
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.85%     10.15MiB / 3.852GiB   0.26%     41.2kB / 102kB   4.1kB / 2.02MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.13%     127.6MiB / 3.852GiB   3.24%     932kB / 870kB    0B / 270kB       31
+09:44:17.271248115
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.88%     10.15MiB / 3.852GiB   0.26%     41.2kB / 102kB   4.1kB / 2.04MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.10%     127.6MiB / 3.852GiB   3.24%     932kB / 870kB    0B / 270kB       31
+09:44:19.283197316
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.03%     10.16MiB / 3.852GiB   0.26%     42.3kB / 104kB   4.1kB / 2.06MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.15%     127.6MiB / 3.852GiB   3.24%     935kB / 871kB    0B / 270kB       31
+09:44:21.295120693
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.70%     10.18MiB / 3.852GiB   0.26%     42.3kB / 104kB   4.1kB / 2.08MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   1.30%     127.6MiB / 3.852GiB   3.24%     935kB / 871kB    0B / 291kB       31
+09:44:23.305713757
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.87%     10.23MiB / 3.852GiB   0.26%     43.7kB / 108kB   4.1kB / 2.11MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.76%     127.6MiB / 3.852GiB   3.24%     938kB / 873kB    0B / 291kB       31
+09:44:25.317284984
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.90%     10.23MiB / 3.852GiB   0.26%     43.7kB / 108kB   4.1kB / 2.13MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.32%     127.6MiB / 3.852GiB   3.24%     938kB / 873kB    0B / 291kB       31
+09:44:27.328420237
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71kB / 139kB     0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.10%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.04%     10.24MiB / 3.852GiB   0.26%     43.7kB / 108kB   4.1kB / 2.15MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.10%     127.6MiB / 3.852GiB   3.24%     939kB / 873kB    0B / 291kB       31
+09:44:29.340225637
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.10%     1.672MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.58%     10.26MiB / 3.852GiB   0.26%     44.8kB / 111kB   4.1kB / 2.18MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.18%     127.6MiB / 3.852GiB   3.24%     942kB / 874kB    0B / 291kB       31
+09:44:31.350275738
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O       PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B         4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B         4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B         4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B         3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.01%     10.28MiB / 3.852GiB   0.26%     44.8kB / 111kB   4.1kB / 2.2MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.13%     127.6MiB / 3.852GiB   3.24%     942kB / 874kB    0B / 291kB      31
+09:44:33.360160897
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.2kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.03%     10.34MiB / 3.852GiB   0.26%     45.9kB / 114kB   4.1kB / 2.23MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.14%     127.6MiB / 3.852GiB   3.24%     944kB / 875kB    0B / 291kB       31
+09:44:35.370133504
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.2kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           0.95%     10.34MiB / 3.852GiB   0.26%     45.9kB / 114kB   4.1kB / 2.24MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.13%     127.6MiB / 3.852GiB   3.24%     944kB / 875kB    0B / 291kB       31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+4460419537f4   cl13_client.3.olkapnh7ctyxf76o4ay6zryzz         0.00%     1.672MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+e316f0135f54   cl13_client.2.90fy5219p38rfwda7zxwdd87e         0.00%     1.551MiB / 3.852GiB   0.04%     71.1kB / 139kB   0B / 0B          4
+596004810dd2   cl13_client.1.huw85k2nnqamwy6fyah7nhdvc         0.00%     1.613MiB / 3.852GiB   0.04%     71.2kB / 139kB   0B / 0B          4
+5d7bfb565bf0   cl13_twin.1.xpu59al4im9cvf9qlq9v1r17y           0.00%     1.398MiB / 3.852GiB   0.04%     405kB / 191kB    0B / 0B          3
+afc79bb9b08d   cl13_etcd.1.0xkp7o4sffvxjssw8lmukhd4g           1.49%     10.36MiB / 3.852GiB   0.26%     47kB / 116kB     4.1kB / 2.27MB   9
+0371c92ab7df   cl13_mqtt-cluster.1.32tram5xiicro3mm842ciz6rn   0.82%     127.6MiB / 3.852GiB   3.24%     947kB / 876kB    0B / 291kB       31
