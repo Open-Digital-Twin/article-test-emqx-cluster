@@ -1,0 +1,28 @@
+2021-10-14T10:21:02.493302742Z  cluster.discovery = "etcd"
+2021-10-14T10:21:02.493350355Z  cluster.etcd.node_ttl = "1m"
+2021-10-14T10:21:02.493363523Z  cluster.etcd.prefix = "emqcl"
+2021-10-14T10:21:02.493373291Z  cluster.etcd.server = "http://etcd:2379"
+2021-10-14T10:21:02.493393799Z  listener.ssl.external.acceptors = "32"
+2021-10-14T10:21:02.493402971Z  listener.ssl.external.max_connections = "102400"
+2021-10-14T10:21:02.493505115Z  listener.tcp.external.acceptors = "64"
+2021-10-14T10:21:02.493540785Z  listener.tcp.external.max_connections = "1024000"
+2021-10-14T10:21:02.493552064Z  listener.ws.external.acceptors = "16"
+2021-10-14T10:21:02.493561368Z  listener.ws.external.max_connections = "102400"
+2021-10-14T10:21:02.493570432Z  listener.wss.external.acceptors = "16"
+2021-10-14T10:21:02.493579308Z  listener.wss.external.max_connections = "102400"
+2021-10-14T10:21:02.493588328Z  log.to = "console"
+2021-10-14T10:21:02.493597175Z  node.max_ets_tables = "2097152"
+2021-10-14T10:21:02.493606118Z  node.max_ports = "1048576"
+2021-10-14T10:21:02.493614872Z  node.name = "4db4f856469d@10.0.9.10"
+2021-10-14T10:21:02.493623778Z  node.process_limit = "2097152"
+2021-10-14T10:21:02.493632415Z  rpc.port_discovery = "manual"
+2021-10-14T10:21:02.493641179Z  zone.external.max_mqueue_len = "0"
+2021-10-14T10:21:06.309466474Z  Starting emqx on node 4db4f856469d@10.0.9.10
+2021-10-14T10:21:07.039552386Z  Start http:management listener on 8081 successfully.
+2021-10-14T10:21:07.140344852Z  Start http:dashboard listener on 18083 successfully.
+2021-10-14T10:21:07.266052347Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-10-14T10:21:07.276325329Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-10-14T10:21:07.276369207Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-10-14T10:21:07.281255794Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-10-14T10:21:07.289362613Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-10-14T10:21:07.289403227Z  EMQ X Broker 4.3.8 is running now!

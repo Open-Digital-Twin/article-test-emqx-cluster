@@ -1,0 +1,357 @@
+10:24:04.016056590
+10:24:06.522954399
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       15.61%    1.574MiB / 3.852GiB   0.04%     188kB / 375kB     0B / 0B       5
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       15.51%    1.578MiB / 3.852GiB   0.04%     236kB / 473kB     0B / 0B       5
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         6.81%     1.43MiB / 3.852GiB    0.04%     465kB / 226kB     0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         5.40%     1.441MiB / 3.852GiB   0.04%     420kB / 205kB     0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   23.06%    124.6MiB / 3.852GiB   3.16%     2.25MB / 2.36MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.57%     9.996MiB / 3.852GiB   0.25%     17.3kB / 39kB     0B / 1.77MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   25.55%    127.2MiB / 3.852GiB   3.23%     7.03MB / 6.77MB   0B / 565kB    31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       14.24%    1.574MiB / 3.852GiB   0.04%     267kB / 535kB     0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       14.30%    1.578MiB / 3.852GiB   0.04%     288kB / 577kB     0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         5.75%     1.43MiB / 3.852GiB    0.04%     565kB / 275kB     0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         6.25%     1.441MiB / 3.852GiB   0.04%     527kB / 257kB     0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   24.50%    124.6MiB / 3.852GiB   3.16%     2.79MB / 2.88MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.56%     10.02MiB / 3.852GiB   0.25%     17.7kB / 39.8kB   0B / 1.79MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   25.42%    127.3MiB / 3.852GiB   3.23%     7.55MB / 7.31MB   0B / 569kB    31
+10:24:09.038481239
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       15.40%    1.574MiB / 3.852GiB   0.04%     322kB / 644kB     0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       16.12%    1.578MiB / 3.852GiB   0.04%     339kB / 680kB     0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         5.87%     1.43MiB / 3.852GiB    0.04%     668kB / 324kB     0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         6.14%     1.441MiB / 3.852GiB   0.04%     635kB / 309kB     0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   27.10%    124.6MiB / 3.852GiB   3.16%     3.31MB / 3.39MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.47%     10.02MiB / 3.852GiB   0.25%     17.7kB / 39.8kB   0B / 1.81MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   26.46%    127.3MiB / 3.852GiB   3.23%     8.07MB / 7.84MB   0B / 569kB    31
+10:24:11.545289269
+10:24:14.055087969
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       15.49%    1.574MiB / 3.852GiB   0.04%     409kB / 819kB     0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       15.88%    1.582MiB / 3.852GiB   0.04%     425kB / 852kB     0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         5.75%     1.43MiB / 3.852GiB    0.04%     839kB / 408kB     0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         5.67%     1.441MiB / 3.852GiB   0.04%     807kB / 392kB     0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   26.13%    124.6MiB / 3.852GiB   3.16%     4.18MB / 4.26MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.49%     10.02MiB / 3.852GiB   0.25%     17.7kB / 39.8kB   0B / 1.84MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   23.97%    127.3MiB / 3.852GiB   3.23%     8.64MB / 8.42MB   0B / 569kB    31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       14.43%    1.574MiB / 3.852GiB   0.04%     458kB / 918kB     0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       14.33%    1.582MiB / 3.852GiB   0.04%     473kB / 949kB     0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         5.12%     1.43MiB / 3.852GiB    0.04%     933kB / 453kB     0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         6.14%     1.441MiB / 3.852GiB   0.04%     904kB / 438kB     0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   22.29%    124.6MiB / 3.852GiB   3.16%     4.66MB / 4.73MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.67%     10.05MiB / 3.852GiB   0.25%     17.7kB / 39.8kB   0B / 1.86MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   22.81%    127.3MiB / 3.852GiB   3.23%     9.4MB / 9.18MB    0B / 569kB    31
+10:24:16.564681799
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       15.00%    1.574MiB / 3.852GiB   0.04%     509kB / 1.02MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       15.42%    1.582MiB / 3.852GiB   0.04%     526kB / 1.06MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         5.67%     1.43MiB / 3.852GiB    0.04%     1.04MB / 504kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         6.23%     1.441MiB / 3.852GiB   0.04%     1MB / 488kB       0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   23.42%    124.6MiB / 3.852GiB   3.16%     5.17MB / 5.25MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.69%     10.05MiB / 3.852GiB   0.25%     17.7kB / 39.8kB   0B / 1.88MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   25.64%    127.3MiB / 3.852GiB   3.23%     9.91MB / 9.69MB   0B / 569kB    31
+10:24:19.071367159
+10:24:21.584273789
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       15.92%    1.574MiB / 3.852GiB   0.04%     599kB / 1.2MB     0B / 0B      4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       15.00%    1.582MiB / 3.852GiB   0.04%     613kB / 1.23MB    0B / 0B      4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         4.73%     1.43MiB / 3.852GiB    0.04%     1.21MB / 589kB    0B / 0B      3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         6.90%     1.441MiB / 3.852GiB   0.04%     1.18MB / 576kB    0B / 0B      3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   25.38%    124.7MiB / 3.852GiB   3.16%     6.05MB / 6.12MB   0B / 586kB   31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.64%     10.05MiB / 3.852GiB   0.25%     17.7kB / 39.8kB   0B / 1.9MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   26.21%    127.3MiB / 3.852GiB   3.23%     10.5MB / 10.3MB   0B / 569kB   31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       14.71%    1.574MiB / 3.852GiB   0.04%     651kB / 1.31MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       15.33%    1.582MiB / 3.852GiB   0.04%     668kB / 1.34MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         5.81%     1.43MiB / 3.852GiB    0.04%     1.32MB / 642kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         6.05%     1.441MiB / 3.852GiB   0.04%     1.29MB / 626kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   23.85%    124.7MiB / 3.852GiB   3.16%     6.57MB / 6.66MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.58%     10.07MiB / 3.852GiB   0.26%     17.7kB / 39.8kB   0B / 1.92MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   25.64%    127.3MiB / 3.852GiB   3.23%     11.3MB / 11.1MB   0B / 569kB    31
+10:24:24.092875865
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       19.43%    1.574MiB / 3.852GiB   0.04%     700kB / 1.4MB     0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       2.54%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.80%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         6.87%     1.441MiB / 3.852GiB   0.04%     1.38MB / 673kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   15.28%    124.7MiB / 3.852GiB   3.16%     7.01MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           1.21%     10.07MiB / 3.852GiB   0.26%     18kB / 40.6kB     0B / 1.94MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   18.91%    127.3MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB    31
+10:24:26.601352848
+10:24:29.112168021
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.09%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.31%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           2.06%     10.1MiB / 3.852GiB    0.26%     18kB / 40.6kB     0B / 1.97MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.23%     127.3MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB    31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.12%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           1.02%     10.13MiB / 3.852GiB   0.26%     18kB / 40.6kB     0B / 1.99MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.15%     127.3MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB    31
+10:24:31.622601656
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B      4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B      4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B      3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B      3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.06%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB   31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.99%     10.14MiB / 3.852GiB   0.26%     18kB / 40.6kB     0B / 2MB     10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.13%     127.3MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB   31
+10:24:34.134663932
+10:24:36.645752687
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.11%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.89%     10.14MiB / 3.852GiB   0.26%     18kB / 40.6kB     0B / 2.04MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.19%     127.3MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB    31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.16%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.97%     10.18MiB / 3.852GiB   0.26%     18.3kB / 41.4kB   0B / 2.06MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.29%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB    31
+10:24:39.156934656
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.08%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.88%     10.2MiB / 3.852GiB    0.26%     18.3kB / 41.4kB   0B / 2.07MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.13%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB    31
+10:24:41.669156910
+10:24:44.181100294
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B      4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B      4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B      3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B      3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.07%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB   31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.95%     10.25MiB / 3.852GiB   0.26%     18.3kB / 41.4kB   0B / 2.1MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.13%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.5MB   0B / 569kB   31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.25%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.88%     10.25MiB / 3.852GiB   0.26%     18.3kB / 41.4kB   0B / 2.12MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.14%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.6MB   0B / 569kB    31
+10:24:46.693583910
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.26%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 586kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.95%     10.25MiB / 3.852GiB   0.26%     18.3kB / 41.4kB   0B / 2.13MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.07%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.6MB   0B / 569kB    31
+10:24:49.206127737
+10:24:51.718122179
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.01%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 674kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.36%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 598kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.93%     10.25MiB / 3.852GiB   0.26%     18.3kB / 41.4kB   0B / 2.17MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.09%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.6MB   0B / 569kB    31
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.00%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.01%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B       4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B       3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 675kB    0B / 0B       3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.10%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 598kB    31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.79%     10.27MiB / 3.852GiB   0.26%     18.3kB / 41.4kB   0B / 2.18MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.09%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.6MB   0B / 569kB    31
+10:24:54.229179796
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+731bc0ef5be4   e2-2_client_A.1.tqyv7owg2gqj6sdz6gt50l8o0       0.01%     1.574MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B      4
+0ae7a9d9f080   e2-2_client_B.1.t8zseoywkfez6qzrd193h2518       0.00%     1.582MiB / 3.852GiB   0.04%     701kB / 1.41MB    0B / 0B      4
+11f81995d1ac   e2-2_twin_B.1.em79kkcww5axi36ei714ej4wy         0.00%     1.43MiB / 3.852GiB    0.04%     1.38MB / 673kB    0B / 0B      3
+3a3da0eb482f   e2-2_twin_A.1.lh2bylf4zlpv26zhv77hkitny         0.00%     1.441MiB / 3.852GiB   0.04%     1.39MB / 675kB    0B / 0B      3
+56f6c7e439f3   e2-2_mqtt-cluster.2.mdrsp2tnchmnv4ixd10skj5o4   0.34%     124.7MiB / 3.852GiB   3.16%     7.02MB / 7.02MB   0B / 598kB   31
+5d13fc7955b7   e2-2_etcd.1.lo68km90gzsna3x6qtfovm8a8           0.69%     10.27MiB / 3.852GiB   0.26%     18.6kB / 42.1kB   0B / 2.2MB   10
+4db4f856469d   e2-2_mqtt-cluster.1.yqlmd1lc6ih350qhrhw0ffqwr   0.11%     127.2MiB / 3.852GiB   3.23%     11.7MB / 11.6MB   0B / 569kB   31
+10:31:41.518496848
+10:31:44.031092073
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   74.79%    57.75MiB / 3.852GiB   1.46%     407kB / 297kB     0B / 0B       22
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.42%     1.422MiB / 3.852GiB   0.04%     9.62kB / 9.84kB   0B / 0B       4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.44%     1.469MiB / 3.852GiB   0.04%     16.1kB / 16.2kB   0B / 0B       4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       21.52%    1.531MiB / 3.852GiB   0.04%     367kB / 402kB     0B / 0B       5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       24.63%    1.66MiB / 3.852GiB    0.04%     843kB / 914kB     0B / 0B       7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           3.71%     8.727MiB / 3.852GiB   0.22%     1.03kB / 0B       0B / 81.9kB   10
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   66.77%    38.33MiB / 3.852GiB   0.97%     551kB / 401kB     0B / 4.1kB    22
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.41%     1.422MiB / 3.852GiB   0.04%     10.3kB / 10.8kB   0B / 0B       4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.36%     1.469MiB / 3.852GiB   0.04%     16.8kB / 17.1kB   0B / 0B       4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       27.97%    1.535MiB / 3.852GiB   0.04%     419kB / 474kB     0B / 0B       5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       22.19%    1.664MiB / 3.852GiB   0.04%     894kB / 984kB     0B / 0B       7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.43%     8.727MiB / 3.852GiB   0.22%     1.03kB / 0B       0B / 81.9kB   10
+10:31:46.544841403
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   77.07%    106.9MiB / 3.852GiB   2.71%     695kB / 506kB     0B / 4.1kB    25
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.42%     1.422MiB / 3.852GiB   0.04%     11.1kB / 11.8kB   0B / 0B       4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.45%     1.469MiB / 3.852GiB   0.04%     17.6kB / 18.2kB   0B / 0B       4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       22.27%    1.539MiB / 3.852GiB   0.04%     468kB / 541kB     0B / 0B       5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       25.66%    1.664MiB / 3.852GiB   0.04%     949kB / 1.06MB    0B / 0B       7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           3.74%     8.746MiB / 3.852GiB   0.22%     1.03kB / 0B       0B / 81.9kB   10
+10:31:49.051191409
+10:31:51.557782860
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   43.68%    134.2MiB / 3.852GiB   3.40%     960kB / 709kB     0B / 270kB    29
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.36%     1.422MiB / 3.852GiB   0.04%     12kB / 12.9kB     0B / 0B       4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         1.76%     1.5MiB / 3.852GiB     0.04%     30.4kB / 25.6kB   0B / 0B       4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       19.53%    1.598MiB / 3.852GiB   0.04%     554kB / 663kB     0B / 0B       5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       22.70%    1.727MiB / 3.852GiB   0.04%     1.04MB / 1.18MB   0B / 0B       7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.44%     8.715MiB / 3.852GiB   0.22%     1.03kB / 0B       0B / 81.9kB   10
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   31.51%    130.4MiB / 3.852GiB   3.31%     1.28MB / 1.03MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         6.68%     1.457MiB / 3.852GiB   0.04%     132kB / 72.1kB    0B / 0B      4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         5.48%     1.504MiB / 3.852GiB   0.04%     133kB / 75.7kB    0B / 0B      4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       16.20%    1.602MiB / 3.852GiB   0.04%     609kB / 772kB     0B / 0B      5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       14.56%    1.73MiB / 3.852GiB    0.04%     1.09MB / 1.29MB   0B / 0B      7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           4.15%     8.902MiB / 3.852GiB   0.23%     2.81kB / 3.62kB   0B / 111kB   10
+10:31:54.064444564
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   32.74%    127.7MiB / 3.852GiB   3.24%     1.62MB / 1.37MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         6.08%     1.457MiB / 3.852GiB   0.04%     246kB / 128kB     0B / 0B      4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         4.87%     1.504MiB / 3.852GiB   0.04%     245kB / 131kB     0B / 0B      4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       15.44%    1.605MiB / 3.852GiB   0.04%     664kB / 884kB     0B / 0B      5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       16.36%    1.73MiB / 3.852GiB    0.04%     1.14MB / 1.4MB    0B / 0B      7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.55%     8.922MiB / 3.852GiB   0.23%     2.88kB / 3.62kB   0B / 127kB   10
+10:31:56.571294901
+10:31:59.082805030
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   31.38%    127.3MiB / 3.852GiB   3.23%     2MB / 1.74MB      0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         6.25%     1.457MiB / 3.852GiB   0.04%     429kB / 219kB     0B / 0B      4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         5.56%     1.504MiB / 3.852GiB   0.04%     417kB / 216kB     0B / 0B      4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       16.68%    1.609MiB / 3.852GiB   0.04%     757kB / 1.07MB    0B / 0B      5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       14.36%    1.73MiB / 3.852GiB    0.04%     1.23MB / 1.57MB   0B / 0B      7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           3.60%     9.047MiB / 3.852GiB   0.23%     3.97kB / 6.38kB   0B / 168kB   10
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   29.85%    127.3MiB / 3.852GiB   3.23%     2.46MB / 2.21MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         6.32%     1.457MiB / 3.852GiB   0.04%     529kB / 268kB     0B / 0B      4
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         6.08%     1.504MiB / 3.852GiB   0.04%     523kB / 268kB     0B / 0B      4
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       13.90%    1.609MiB / 3.852GiB   0.04%     807kB / 1.17MB    0B / 0B      5
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       16.22%    1.73MiB / 3.852GiB    0.04%     1.28MB / 1.68MB   0B / 0B      7
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.50%     9.062MiB / 3.852GiB   0.23%     3.97kB / 6.38kB   0B / 184kB   10
+10:32:01.589985582
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   29.22%    127.1MiB / 3.852GiB   3.22%     2.77MB / 2.51MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         5.95%     1.457MiB / 3.852GiB   0.04%     623kB / 314kB     0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         5.72%     1.488MiB / 3.852GiB   0.04%     629kB / 321kB     0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       14.15%    1.609MiB / 3.852GiB   0.04%     854kB / 1.27MB    0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       16.26%    1.73MiB / 3.852GiB    0.04%     1.34MB / 1.79MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           2.20%     11.69MiB / 3.852GiB   0.30%     5.05kB / 9.15kB   0B / 217kB   13
+10:32:04.096862141
+10:32:06.604505318
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   31.11%    127.1MiB / 3.852GiB   3.22%     3.27MB / 3.01MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         5.44%     1.457MiB / 3.852GiB   0.04%     783kB / 394kB     0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         6.78%     1.488MiB / 3.852GiB   0.04%     806kB / 408kB     0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       13.93%    1.609MiB / 3.852GiB   0.04%     933kB / 1.42MB    0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       17.75%    1.73MiB / 3.852GiB    0.04%     1.42MB / 1.96MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.82%     9.168MiB / 3.852GiB   0.23%     5.05kB / 9.15kB   0B / 238kB   10
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   32.29%    127MiB / 3.852GiB     3.22%     3.58MB / 3.32MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         6.10%     1.457MiB / 3.852GiB   0.04%     887kB / 445kB     0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         5.90%     1.488MiB / 3.852GiB   0.04%     908kB / 458kB     0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       15.75%    1.609MiB / 3.852GiB   0.04%     986kB / 1.53MB    0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       15.15%    1.73MiB / 3.852GiB    0.04%     1.47MB / 2.06MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           4.69%     9.262MiB / 3.852GiB   0.23%     6.14kB / 11.9kB   0B / 274kB   10
+10:32:09.115719373
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   31.04%    127MiB / 3.852GiB     3.22%     3.89MB / 3.63MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         5.87%     1.457MiB / 3.852GiB   0.04%     988kB / 495kB     0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         6.05%     1.488MiB / 3.852GiB   0.04%     1.01MB / 509kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       15.01%    1.613MiB / 3.852GiB   0.04%     1.04MB / 1.63MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       14.84%    1.73MiB / 3.852GiB    0.04%     1.53MB / 2.17MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.60%     9.285MiB / 3.852GiB   0.24%     6.14kB / 11.9kB   0B / 295kB   10
+10:32:11.628288765
+10:32:14.134867301
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   34.00%    127.1MiB / 3.852GiB   3.22%     4.4MB / 4.14MB    0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         4.23%     1.457MiB / 3.852GiB   0.04%     1.16MB / 578kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         5.77%     1.488MiB / 3.852GiB   0.04%     1.18MB / 594kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       15.92%    1.613MiB / 3.852GiB   0.04%     1.12MB / 1.8MB    0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       17.17%    1.734MiB / 3.852GiB   0.04%     1.61MB / 2.34MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.76%     9.316MiB / 3.852GiB   0.24%     7.22kB / 14.7kB   0B / 328kB   10
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   30.76%    127.1MiB / 3.852GiB   3.22%     4.71MB / 4.46MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         6.52%     1.457MiB / 3.852GiB   0.04%     1.27MB / 633kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         4.50%     1.488MiB / 3.852GiB   0.04%     1.28MB / 643kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       17.49%    1.613MiB / 3.852GiB   0.04%     1.18MB / 1.91MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       15.60%    1.734MiB / 3.852GiB   0.04%     1.66MB / 2.44MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.55%     9.371MiB / 3.852GiB   0.24%     7.22kB / 14.7kB   0B / 352kB   10
+10:32:16.641748669
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   29.54%    127.2MiB / 3.852GiB   3.22%     5.02MB / 4.77MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         5.73%     1.457MiB / 3.852GiB   0.04%     1.37MB / 683kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         4.28%     1.488MiB / 3.852GiB   0.04%     1.39MB / 695kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       14.38%    1.613MiB / 3.852GiB   0.04%     1.23MB / 2.01MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       16.65%    1.734MiB / 3.852GiB   0.04%     1.72MB / 2.55MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.55%     9.395MiB / 3.852GiB   0.24%     8.31kB / 17.5kB   0B / 385kB   10
+10:32:19.150434936
+10:32:21.658710342
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   0.09%     127.2MiB / 3.852GiB   3.22%     5.13MB / 4.88MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.07%     1.457MiB / 3.852GiB   0.04%     1.41MB / 703kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.06%     1.488MiB / 3.852GiB   0.04%     1.42MB / 709kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       0.09%     1.613MiB / 3.852GiB   0.04%     1.25MB / 2.06MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       0.10%     1.734MiB / 3.852GiB   0.04%     1.73MB / 2.58MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.86%     9.348MiB / 3.852GiB   0.24%     8.31kB / 17.5kB   0B / 410kB   10
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   0.26%     127.1MiB / 3.852GiB   3.22%     5.14MB / 4.88MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.00%     1.457MiB / 3.852GiB   0.04%     1.41MB / 703kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.00%     1.488MiB / 3.852GiB   0.04%     1.42MB / 709kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       0.00%     1.613MiB / 3.852GiB   0.04%     1.25MB / 2.06MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       0.00%     1.734MiB / 3.852GiB   0.04%     1.73MB / 2.58MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           1.48%     8.375MiB / 3.852GiB   0.21%     9.72kB / 21kB     0B / 442kB   9
+10:32:24.168069740
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   0.31%     127.1MiB / 3.852GiB   3.22%     5.14MB / 4.88MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.00%     1.457MiB / 3.852GiB   0.04%     1.41MB / 703kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.00%     1.488MiB / 3.852GiB   0.04%     1.42MB / 709kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       0.00%     1.613MiB / 3.852GiB   0.04%     1.25MB / 2.06MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       0.00%     1.734MiB / 3.852GiB   0.04%     1.73MB / 2.58MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.95%     8.266MiB / 3.852GiB   0.21%     9.72kB / 21kB     0B / 463kB   9
+10:32:26.679652304
+10:32:29.189596136
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   0.32%     127MiB / 3.852GiB     3.22%     5.14MB / 4.88MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.00%     1.457MiB / 3.852GiB   0.04%     1.41MB / 703kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.00%     1.488MiB / 3.852GiB   0.04%     1.42MB / 709kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       0.00%     1.613MiB / 3.852GiB   0.04%     1.25MB / 2.06MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       0.00%     1.734MiB / 3.852GiB   0.04%     1.73MB / 2.58MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.74%     8.434MiB / 3.852GiB   0.21%     10.9kB / 23.8kB   0B / 504kB   9
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   0.42%     127MiB / 3.852GiB     3.22%     5.14MB / 4.88MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.00%     1.457MiB / 3.852GiB   0.04%     1.41MB / 703kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.00%     1.488MiB / 3.852GiB   0.04%     1.42MB / 709kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       0.00%     1.613MiB / 3.852GiB   0.04%     1.25MB / 2.06MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       0.00%     1.734MiB / 3.852GiB   0.04%     1.73MB / 2.58MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           1.35%     8.34MiB / 3.852GiB    0.21%     10.9kB / 23.8kB   0B / 520kB   9
+10:32:31.699262313
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+7a81594bede3   e2-1_mqtt-cluster.1.vc8k2mjv0zsg072yilynpdnhc   0.43%     127MiB / 3.852GiB     3.22%     5.14MB / 4.88MB   0B / 270kB   31
+f2f093422aa0   e2-1_twin_B.1.aldhtyd0pugh6iharqfipkngr         0.00%     1.457MiB / 3.852GiB   0.04%     1.41MB / 703kB    0B / 0B      3
+b4a44e57f578   e2-1_twin_A.1.031waou07mj02sdjycresoae2         0.00%     1.488MiB / 3.852GiB   0.04%     1.42MB / 709kB    0B / 0B      3
+3185a9d3fb7c   e2-1_client_B.1.anf192jigsmr03djq4pgbb31r       0.00%     1.613MiB / 3.852GiB   0.04%     1.25MB / 2.06MB   0B / 0B      4
+5e94f510b089   e2-1_client_A.1.1dagm06alupgitakfiwj0rszz       0.00%     1.734MiB / 3.852GiB   0.04%     1.73MB / 2.58MB   0B / 0B      4
+b01771f4bc2a   e2-1_etcd.1.ms4djo4lgcxit7neie7d0tp9m           0.96%     8.602MiB / 3.852GiB   0.22%     12kB / 26.6kB     0B / 549kB   9

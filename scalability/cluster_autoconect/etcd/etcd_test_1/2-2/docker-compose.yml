@@ -62,7 +62,7 @@ services:
           - node.labels.name==dtwins1
     command: dt-client-bytes
 
-    client_B:
+  client_B:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - mqtt-broker
@@ -96,7 +96,7 @@ services:
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
-      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7d
       - MQTT_SUBSCRIBED_TOPIC=A/A/A
     networks:
       - default
