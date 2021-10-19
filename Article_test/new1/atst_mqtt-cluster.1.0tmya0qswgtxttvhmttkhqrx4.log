@@ -1,0 +1,29 @@
+2021-10-19T10:42:38.782290599Z  cluster.discovery = "etcd"
+2021-10-19T10:42:38.782551015Z  cluster.etcd.node_ttl = "1m"
+2021-10-19T10:42:38.782569431Z  cluster.etcd.prefix = "emqcl"
+2021-10-19T10:42:38.782579306Z  cluster.etcd.server = "http://etcd:2379"
+2021-10-19T10:42:38.782588535Z  listener.ssl.external.acceptors = "32"
+2021-10-19T10:42:38.782597775Z  listener.ssl.external.max_connections = "102400"
+2021-10-19T10:42:38.782606982Z  listener.tcp.external.acceptors = "64"
+2021-10-19T10:42:38.782615815Z  listener.tcp.external.max_connections = "1024000"
+2021-10-19T10:42:38.782624825Z  listener.ws.external.acceptors = "16"
+2021-10-19T10:42:38.782633646Z  listener.ws.external.max_connections = "102400"
+2021-10-19T10:42:38.782642706Z  listener.wss.external.acceptors = "16"
+2021-10-19T10:42:38.782651468Z  listener.wss.external.max_connections = "102400"
+2021-10-19T10:42:38.782660343Z  log.to = "console"
+2021-10-19T10:42:38.782669109Z  node.max_ets_tables = "2097152"
+2021-10-19T10:42:38.782678306Z  node.max_ports = "1048576"
+2021-10-19T10:42:38.782687299Z  node.name = "6936a07ea83e@10.0.11.17"
+2021-10-19T10:42:38.782696118Z  node.process_limit = "2097152"
+2021-10-19T10:42:38.782704736Z  rpc.port_discovery = "manual"
+2021-10-19T10:42:38.782713606Z  zone.external.max_mqueue_len = "0"
+2021-10-19T10:42:38.782723136Z  zone.external.mqueue_priorities = "A/A/A=0,A/C/C=0,A/A/P=10"
+2021-10-19T10:42:42.396645053Z  Starting emqx on node 6936a07ea83e@10.0.11.17
+2021-10-19T10:42:43.148022550Z  Start http:management listener on 8081 successfully.
+2021-10-19T10:42:43.203871305Z  Start http:dashboard listener on 18083 successfully.
+2021-10-19T10:42:43.318668629Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-10-19T10:42:43.330337379Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-10-19T10:42:43.331422351Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-10-19T10:42:43.334990365Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-10-19T10:42:43.337943781Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-10-19T10:42:43.338130371Z  EMQ X Broker 4.3.8 is running now!
