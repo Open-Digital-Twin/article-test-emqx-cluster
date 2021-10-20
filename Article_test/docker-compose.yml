@@ -10,7 +10,7 @@ services:
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__NODE_TTL=1m
-      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=0,A/C/C=0,A/A/P=10
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,A/E/E=5
     networks:
       default:
         aliases:
@@ -39,7 +39,31 @@ services:
         constraints:
           - node.labels.name==dtwins1
 
-  client_p:
+  client_a:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - mqtt-broker
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=20
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
+      - MQTT_CLIENT_MESSAGES_TO_SEND=100
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=1000
+      - MQTT_CLIENT_TOPIC=A/A/A
+    networks:
+      - default
+    deploy:
+      replicas: 1
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-client-bytes
+
+  client_b:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - mqtt-broker
@@ -52,8 +76,8 @@ services:
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
       - MQTT_CLIENT_MESSAGES_TO_SEND=1000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=3000
-      - MQTT_CLIENT_TOPIC=A/A/P
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
+      - MQTT_CLIENT_TOPIC=A/A/B
     networks:
       - default
     deploy:
@@ -74,10 +98,10 @@ services:
       - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
-      - MQTT_CLIENT_BUFFER_BYTE_SIZE=10000
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
       - MQTT_CLIENT_MESSAGES_TO_SEND=1000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=1
-      - MQTT_CLIENT_TOPIC=A/C/C
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
+      - MQTT_CLIENT_TOPIC=A/A/C
     networks:
       - default
     deploy:
@@ -87,7 +111,57 @@ services:
           - node.labels.name==dtwins1
     command: dt-client-bytes
 
-  client_a:
+  client_d:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - mqtt-broker
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=20
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
+      - MQTT_CLIENT_MESSAGES_TO_SEND=10000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=10
+      - MQTT_CLIENT_TOPIC=A/A/D
+    networks:
+      - default
+    deploy:
+      replicas: 1
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-client-bytes
+
+  client_e:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - mqtt-broker
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=20
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
+      - MQTT_CLIENT_MESSAGES_TO_SEND=100
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=1000
+      - MQTT_CLIENT_TOPIC=A/E/E
+    networks:
+      - default
+    deploy:
+      replicas: 1
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-client-bytes
+
+
+
+  client_f:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - mqtt-broker
@@ -101,7 +175,7 @@ services:
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
       - MQTT_CLIENT_MESSAGES_TO_SEND=1000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=100
-      - MQTT_CLIENT_TOPIC=A/A/A
+      - MQTT_CLIENT_TOPIC=A/E/F
     networks:
       - default
     deploy:
@@ -111,7 +185,55 @@ services:
           - node.labels.name==dtwins1
     command: dt-client-bytes
 
-  twin_ap:
+  client_g:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - mqtt-broker
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=20
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
+      - MQTT_CLIENT_MESSAGES_TO_SEND=1000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
+      - MQTT_CLIENT_TOPIC=A/E/G
+    networks:
+      - default
+    deploy:
+      replicas: 1
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-client-bytes
+
+  client_h:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - mqtt-broker
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=20
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
+      - MQTT_CLIENT_MESSAGES_TO_SEND=10000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=10
+      - MQTT_CLIENT_TOPIC=A/E/H
+    networks:
+      - default
+    deploy:
+      replicas: 1
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-client-bytes
+
+  twin_abcd:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
@@ -132,7 +254,7 @@ services:
           - node.labels.name==dtwins1
     command: dt-instance
 
-  twin_c:
+  twin_efgh:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
@@ -143,7 +265,7 @@ services:
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
       - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
-      - MQTT_SUBSCRIBED_TOPIC=A/C/#
+      - MQTT_SUBSCRIBED_TOPIC=A/E/#
     networks:
       - default
     restart: always
@@ -151,7 +273,27 @@ services:
       placement:    
         constraints:
           - node.labels.name==dtwins1
-    command: dt-instance          
-
+    command: dt-instance
+          
+  twin_#:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-broker
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - MQTT_SUBSCRIBED_TOPIC=A/#/#
+    networks:
+      - default
+    restart: always
+    deploy:
+      placement:    
+        constraints:
+          - node.labels.name==dtwins1
+    command: dt-instance
 networks:
   default:
