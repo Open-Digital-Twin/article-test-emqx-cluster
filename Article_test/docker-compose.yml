@@ -279,7 +279,7 @@ services:
           - node.labels.name==dtwins1
     command: dt-instance
           
-  twin_#:
+  twin_wc:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
