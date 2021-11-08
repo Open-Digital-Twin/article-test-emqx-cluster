@@ -1514,3 +1514,7 @@ CONTAINER ID   NAME                                            CPU %     MEM USA
 CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
 fd88aed6ee3c   ex11_etcd.1.w62o25579m3dm8u2en0ci7tdf           1.82%     9.871MiB / 3.852GiB   0.25%     10.4kB / 23.9kB   0B / 496kB   10
 cbde7ef2c0a6   ex11_mqtt-cluster.1.s08awbuw51cai0fw5jdpfk8kp   0.32%     124.5MiB / 3.852GiB   3.16%     38.4kB / 17.8kB   0B / 270kB   32
+05:33:08.825377027
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+b91c5da97491   ex13_etcd.1.vcpskwvst1jlj4ympf5yedh04           1.04%     9.844MiB / 3.852GiB   0.25%     30kB / 74.1kB     4.1kB / 1.45MB   10
+4d97000fcaea   ex13_mqtt-cluster.1.l4yqqfrdsgrxh2a5j95aiciv7   0.31%     124.8MiB / 3.852GiB   3.16%     83.3kB / 32.2kB   0B / 270kB       31
