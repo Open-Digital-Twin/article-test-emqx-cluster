@@ -1,0 +1,1388 @@
+13:43:09.804597610
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.87%     10.86MiB / 3.852GiB   0.28%     70kB / 176kB     0B / 3.42MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.12%     125.9MiB / 3.852GiB   3.19%     189kB / 74.3kB   0B / 291kB    31
+13:43:14.813513890
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.63%     10.86MiB / 3.852GiB   0.28%     71.1kB / 179kB   0B / 3.47MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.08%     125.9MiB / 3.852GiB   3.19%     192kB / 75.5kB   0B / 291kB    31
+13:43:19.820071170
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.84%     10.86MiB / 3.852GiB   0.28%     72.1kB / 182kB   0B / 3.52MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.15%     125.9MiB / 3.852GiB   3.19%     195kB / 76.7kB   0B / 291kB    31
+13:43:24.826820730
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.85%     10.86MiB / 3.852GiB   0.28%     73.2kB / 185kB   0B / 3.58MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.06%     125.9MiB / 3.852GiB   3.19%     198kB / 77.8kB   0B / 291kB    31
+13:43:29.833490321
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.34%     10.86MiB / 3.852GiB   0.28%     74.3kB / 188kB   0B / 3.63MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.10%     125.9MiB / 3.852GiB   3.19%     201kB / 78.9kB   0B / 291kB    31
+13:43:34.840494125
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.83%     10.86MiB / 3.852GiB   0.28%     75.4kB / 191kB   0B / 3.68MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.22%     125.9MiB / 3.852GiB   3.19%     205kB / 80.1kB   0B / 291kB    31
+13:43:39.867638808
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.11%     10.86MiB / 3.852GiB   0.28%     76.8kB / 195kB   0B / 3.73MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   38.57%    126MiB / 3.852GiB     3.19%     364kB / 237kB    0B / 291kB    31
+13:43:44.887199972
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           6.87%     10.86MiB / 3.852GiB   0.28%     77.9kB / 198kB    0B / 3.79MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   136.02%   127MiB / 3.852GiB     3.22%     1.33MB / 1.27MB   0B / 291kB    31
+13:43:49.897583081
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.04%     10.87MiB / 3.852GiB   0.28%     79kB / 201kB      0B / 3.84MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   192.46%   126.7MiB / 3.852GiB   3.21%     2.66MB / 2.89MB   0B / 291kB    31
+13:43:54.927838362
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.74%     10.87MiB / 3.852GiB   0.28%     80kB / 204kB   0B / 3.9MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   195.09%   127.4MiB / 3.852GiB   3.23%     4MB / 4.51MB   0B / 291kB   31
+13:43:59.942332582
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.17%     10.87MiB / 3.852GiB   0.28%     81.1kB / 206kB   0B / 3.95MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.09%   128.1MiB / 3.852GiB   3.25%     5.46MB / 6.2MB   0B / 291kB    31
+13:44:04.966682219
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.90%     10.87MiB / 3.852GiB   0.28%     82.2kB / 209kB    0B / 4.01MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   301.26%   128.6MiB / 3.852GiB   3.26%     7.48MB / 8.52MB   0B / 291kB    31
+13:44:09.992727459
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.10%     10.87MiB / 3.852GiB   0.28%     83.6kB / 213kB    0B / 4.07MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   290.16%   131.4MiB / 3.852GiB   3.33%     10.1MB / 11.8MB   0B / 291kB    31
+13:44:15.021971455
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.63%     10.87MiB / 3.852GiB   0.28%     84.7kB / 215kB    0B / 4.12MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   263.06%   142.6MiB / 3.852GiB   3.62%     12.7MB / 15.3MB   0B / 291kB    31
+13:44:20.037518079
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.40%     10.87MiB / 3.852GiB   0.28%     85.8kB / 218kB   0B / 4.17MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   283.73%   164MiB / 3.852GiB     4.16%     16MB / 19.9MB    0B / 291kB    31
+13:44:25.046857566
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.05%     10.87MiB / 3.852GiB   0.28%     86.9kB / 221kB    0B / 4.23MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   257.52%   172.9MiB / 3.852GiB   4.38%     19.4MB / 24.8MB   0B / 291kB    31
+13:44:30.062509899
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.36%     10.87MiB / 3.852GiB   0.28%     88kB / 224kB      0B / 4.29MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   258.84%   169.8MiB / 3.852GiB   4.30%     22.8MB / 29.6MB   0B / 291kB    31
+13:44:35.086707348
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.60%     10.87MiB / 3.852GiB   0.28%     89.1kB / 227kB    0B / 4.34MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   263.31%   172.4MiB / 3.852GiB   4.37%     26.2MB / 34.1MB   0B / 291kB    31
+13:44:40.110242062
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.91%     10.88MiB / 3.852GiB   0.28%     90.6kB / 230kB    0B / 4.4MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   267.63%   173.8MiB / 3.852GiB   4.41%     29.5MB / 38.3MB   0B / 291kB   31
+13:44:45.119352327
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.56%     10.88MiB / 3.852GiB   0.28%     91.8kB / 233kB    0B / 4.46MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   280.85%   183.6MiB / 3.852GiB   4.66%     32.8MB / 42.6MB   0B / 291kB    31
+13:44:50.136233272
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.09%     10.88MiB / 3.852GiB   0.28%     92.9kB / 236kB    0B / 4.51MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   255.67%   183.6MiB / 3.852GiB   4.66%     36.1MB / 47.1MB   0B / 291kB    31
+13:44:55.159811943
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.25%     10.88MiB / 3.852GiB   0.28%     94kB / 239kB      0B / 4.57MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   271.10%   200MiB / 3.852GiB     5.07%     39.4MB / 51.3MB   0B / 291kB    31
+13:45:00.176634817
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           5.18%     10.88MiB / 3.852GiB   0.28%     95.1kB / 241kB   0B / 4.62MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.98%   205.4MiB / 3.852GiB   5.21%     42MB / 54.8MB    0B / 291kB    31
+13:45:05.191362095
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.50%     10.88MiB / 3.852GiB   0.28%     96.2kB / 244kB    0B / 4.68MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   275.20%   201.4MiB / 3.852GiB   5.11%     45.2MB / 59.2MB   0B / 291kB    31
+13:45:10.209965192
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.99%     10.88MiB / 3.852GiB   0.28%     97.7kB / 248kB    0B / 4.73MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   261.31%   220.5MiB / 3.852GiB   5.59%     48.5MB / 63.4MB   0B / 291kB    31
+13:45:15.240931792
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.83%     10.88MiB / 3.852GiB   0.28%     98.8kB / 251kB   0B / 4.79MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.10%   225MiB / 3.852GiB     5.70%     52MB / 68.1MB    0B / 291kB    31
+13:45:20.251149082
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.64%     10.91MiB / 3.852GiB   0.28%     99.9kB / 253kB    0B / 4.85MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.81%   237.6MiB / 3.852GiB   6.02%     55.4MB / 73.3MB   0B / 291kB    31
+13:45:25.268139334
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.27%     10.92MiB / 3.852GiB   0.28%     101kB / 256kB     0B / 4.9MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   251.35%   221.9MiB / 3.852GiB   5.63%     58.9MB / 78.4MB   0B / 291kB   31
+13:45:30.293249859
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.11%     10.93MiB / 3.852GiB   0.28%     102kB / 259kB     0B / 4.96MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   236.49%   234.8MiB / 3.852GiB   5.95%     62.4MB / 83.5MB   0B / 291kB    31
+13:45:35.300260303
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.61%     10.93MiB / 3.852GiB   0.28%     103kB / 262kB     0B / 5.01MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.79%   237.3MiB / 3.852GiB   6.01%     65.9MB / 88.6MB   0B / 291kB    31
+13:45:40.311833829
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.28%     10.94MiB / 3.852GiB   0.28%     105kB / 265kB     0B / 5.07MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.39%   239.9MiB / 3.852GiB   6.08%     69.4MB / 93.7MB   0B / 291kB    31
+13:45:45.345818409
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.77%     10.94MiB / 3.852GiB   0.28%     106kB / 268kB   0B / 5.13MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.99%   247.7MiB / 3.852GiB   6.28%     73MB / 98.9MB   0B / 291kB    31
+13:45:50.372621172
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.45%     10.94MiB / 3.852GiB   0.28%     107kB / 271kB    0B / 5.18MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.51%   226.4MiB / 3.852GiB   5.74%     76.4MB / 104MB   0B / 291kB    31
+13:45:55.382541833
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.88%     10.94MiB / 3.852GiB   0.28%     108kB / 274kB    0B / 5.24MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.65%   225.7MiB / 3.852GiB   5.72%     79.9MB / 110MB   0B / 291kB    31
+13:46:00.391903622
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.26%     10.94MiB / 3.852GiB   0.28%     109kB / 276kB    0B / 5.3MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   246.98%   231.6MiB / 3.852GiB   5.87%     83.5MB / 115MB   0B / 291kB   31
+13:46:05.400903948
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.68%     10.94MiB / 3.852GiB   0.28%     109kB / 276kB    0B / 5.33MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.43%   216.4MiB / 3.852GiB   5.49%     86.3MB / 119MB   0B / 291kB    31
+13:46:10.410712859
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.01%     10.94MiB / 3.852GiB   0.28%     110kB / 280kB    0B / 5.39MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   257.68%   220.5MiB / 3.852GiB   5.59%     89.8MB / 125MB   0B / 291kB    31
+13:46:15.431593056
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.03%     10.94MiB / 3.852GiB   0.28%     111kB / 283kB    0B / 5.44MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.90%   237.4MiB / 3.852GiB   6.02%     93.3MB / 130MB   0B / 291kB    31
+13:46:20.440897455
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.51%     10.94MiB / 3.852GiB   0.28%     113kB / 286kB    0B / 5.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.31%   216.8MiB / 3.852GiB   5.50%     96.8MB / 135MB   0B / 291kB   31
+13:46:25.451513188
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.14%     10.94MiB / 3.852GiB   0.28%     114kB / 288kB   0B / 5.56MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.45%   227MiB / 3.852GiB     5.75%     100MB / 141MB   0B / 291kB    31
+13:46:30.465754020
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.04%     10.94MiB / 3.852GiB   0.28%     115kB / 291kB   0B / 5.62MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.28%   234.8MiB / 3.852GiB   5.95%     104MB / 146MB   0B / 291kB    31
+13:46:35.491621528
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.26%     10.94MiB / 3.852GiB   0.28%     116kB / 294kB   0B / 5.67MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.79%   221.1MiB / 3.852GiB   5.60%     107MB / 151MB   0B / 291kB    31
+13:46:40.513837675
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.18%     10.94MiB / 3.852GiB   0.28%     117kB / 298kB   0B / 5.73MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   242.65%   236.2MiB / 3.852GiB   5.99%     111MB / 157MB   0B / 291kB    31
+13:46:45.530324396
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.65%     10.94MiB / 3.852GiB   0.28%     118kB / 300kB   0B / 5.78MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   234.29%   233.9MiB / 3.852GiB   5.93%     114MB / 162MB   0B / 291kB    31
+13:46:50.539320492
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.60%     10.97MiB / 3.852GiB   0.28%     119kB / 303kB   0B / 5.84MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   249.48%   250.9MiB / 3.852GiB   6.36%     118MB / 168MB   0B / 291kB    31
+13:46:55.547269735
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.57%     10.97MiB / 3.852GiB   0.28%     120kB / 306kB   0B / 5.9MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.70%   215.6MiB / 3.852GiB   5.46%     121MB / 173MB   0B / 291kB   31
+13:47:00.564375479
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.85%     10.97MiB / 3.852GiB   0.28%     122kB / 309kB   0B / 5.95MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.82%   228.6MiB / 3.852GiB   5.80%     125MB / 178MB   0B / 291kB    31
+13:47:05.584525692
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.46%     10.98MiB / 3.852GiB   0.28%     123kB / 312kB   0B / 6.01MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   249.51%   225.7MiB / 3.852GiB   5.72%     129MB / 184MB   0B / 291kB    31
+13:47:10.603283259
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.96%     10.98MiB / 3.852GiB   0.28%     124kB / 315kB   0B / 6.06MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.67%   217.4MiB / 3.852GiB   5.51%     131MB / 188MB   0B / 291kB    31
+13:47:15.623886043
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.07%     10.98MiB / 3.852GiB   0.28%     125kB / 318kB   0B / 6.11MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.30%   234.3MiB / 3.852GiB   5.94%     135MB / 194MB   0B / 291kB    31
+13:47:20.644018149
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.29%     10.98MiB / 3.852GiB   0.28%     126kB / 321kB   0B / 6.17MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   243.60%   225.9MiB / 3.852GiB   5.73%     138MB / 199MB   0B / 291kB    31
+13:47:25.661895549
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.59%     10.98MiB / 3.852GiB   0.28%     127kB / 324kB   0B / 6.23MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.11%   217.6MiB / 3.852GiB   5.52%     142MB / 204MB   0B / 291kB    31
+13:47:30.672721152
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.27%     10.98MiB / 3.852GiB   0.28%     128kB / 326kB   0B / 6.28MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   233.48%   210.8MiB / 3.852GiB   5.35%     145MB / 210MB   0B / 291kB    31
+13:47:35.691392982
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.80%     10.98MiB / 3.852GiB   0.28%     130kB / 329kB   0B / 6.34MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.90%   216MiB / 3.852GiB     5.47%     149MB / 215MB   0B / 291kB    31
+13:47:40.699977974
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.76%     10.98MiB / 3.852GiB   0.28%     131kB / 333kB   0B / 6.4MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   219.02%   191.4MiB / 3.852GiB   4.85%     153MB / 221MB   0B / 291kB   31
+13:47:45.707961542
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.29%     10.98MiB / 3.852GiB   0.28%     132kB / 335kB   0B / 6.45MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.81%   195.5MiB / 3.852GiB   4.96%     156MB / 226MB   0B / 291kB    31
+13:47:50.717002309
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.81%     10.98MiB / 3.852GiB   0.28%     133kB / 338kB   0B / 6.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.06%   193.3MiB / 3.852GiB   4.90%     160MB / 232MB   0B / 291kB   31
+13:47:55.726584091
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.78%     10.98MiB / 3.852GiB   0.28%     134kB / 341kB   0B / 6.56MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.53%   179.1MiB / 3.852GiB   4.54%     163MB / 237MB   0B / 291kB    31
+13:48:00.744583449
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.46%     10.98MiB / 3.852GiB   0.28%     135kB / 344kB   0B / 6.62MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   241.79%   184.8MiB / 3.852GiB   4.68%     167MB / 242MB   0B / 291kB    31
+13:48:05.772959250
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.58%     10.98MiB / 3.852GiB   0.28%     136kB / 347kB   0B / 6.67MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.15%   183.3MiB / 3.852GiB   4.65%     170MB / 248MB   0B / 291kB    31
+13:48:10.793801532
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.40%     10.98MiB / 3.852GiB   0.28%     138kB / 350kB   0B / 6.73MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.56%   186.5MiB / 3.852GiB   4.73%     174MB / 253MB   0B / 291kB    31
+13:48:15.804426102
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.01%     10.98MiB / 3.852GiB   0.28%     139kB / 353kB   0B / 6.78MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.10%   182.2MiB / 3.852GiB   4.62%     177MB / 259MB   0B / 291kB    31
+13:48:20.813442242
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.30%     10.98MiB / 3.852GiB   0.28%     140kB / 356kB   0B / 6.84MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   245.30%   185.6MiB / 3.852GiB   4.71%     181MB / 264MB   0B / 291kB    31
+13:48:25.823988935
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.12%     10.98MiB / 3.852GiB   0.28%     141kB / 359kB   0B / 6.89MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.26%   189.1MiB / 3.852GiB   4.79%     184MB / 268MB   0B / 291kB    31
+13:48:30.831546290
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.23%     10.98MiB / 3.852GiB   0.28%     142kB / 362kB   0B / 6.95MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.63%   181.6MiB / 3.852GiB   4.60%     187MB / 274MB   0B / 291kB    31
+13:48:35.877605995
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.22%     10.98MiB / 3.852GiB   0.28%     143kB / 364kB   0B / 7MB     9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.84%   172.1MiB / 3.852GiB   4.36%     191MB / 279MB   0B / 291kB   31
+13:48:40.887100424
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.30%     10.98MiB / 3.852GiB   0.28%     145kB / 368kB   0B / 7.06MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   241.83%   191.2MiB / 3.852GiB   4.85%     194MB / 285MB   0B / 291kB    31
+13:48:45.894259206
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.95%     10.98MiB / 3.852GiB   0.28%     146kB / 371kB   0B / 7.12MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.50%   181.2MiB / 3.852GiB   4.59%     198MB / 290MB   0B / 291kB    31
+13:48:50.914173691
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.55%     10.98MiB / 3.852GiB   0.28%     147kB / 373kB   0B / 7.17MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.47%   198.5MiB / 3.852GiB   5.03%     201MB / 295MB   0B / 291kB    31
+13:48:55.932696577
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.01%     10.98MiB / 3.852GiB   0.28%     148kB / 376kB   0B / 7.23MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.76%   201.3MiB / 3.852GiB   5.10%     205MB / 301MB   0B / 291kB    31
+13:49:00.949222814
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.95%     10.98MiB / 3.852GiB   0.28%     149kB / 379kB   0B / 7.28MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   219.07%   187.4MiB / 3.852GiB   4.75%     208MB / 306MB   0B / 291kB    31
+13:49:05.958550312
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.11%     10.98MiB / 3.852GiB   0.28%     150kB / 382kB   0B / 7.34MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.66%   189.8MiB / 3.852GiB   4.81%     212MB / 312MB   0B / 291kB    31
+13:49:10.983348133
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.09%     10.98MiB / 3.852GiB   0.28%     152kB / 385kB   0B / 7.4MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.02%   192MiB / 3.852GiB     4.87%     216MB / 317MB   0B / 291kB   31
+13:49:16.000271062
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.55%     10.98MiB / 3.852GiB   0.28%     153kB / 388kB   0B / 7.44MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   219.64%   193.3MiB / 3.852GiB   4.90%     218MB / 322MB   0B / 291kB    31
+13:49:21.013059150
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.03%     11MiB / 3.852GiB      0.28%     154kB / 391kB   0B / 7.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   233.59%   186.7MiB / 3.852GiB   4.73%     222MB / 327MB   0B / 291kB   31
+13:49:26.045372886
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.56%     11MiB / 3.852GiB      0.28%     155kB / 394kB   0B / 7.55MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.01%   180.4MiB / 3.852GiB   4.57%     226MB / 333MB   0B / 291kB    31
+13:49:31.053974160
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.39%     11MiB / 3.852GiB      0.28%     156kB / 397kB   0B / 7.61MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   246.75%   159.8MiB / 3.852GiB   4.05%     229MB / 338MB   0B / 291kB    31
+13:49:36.068989568
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.65%     11MiB / 3.852GiB      0.28%     157kB / 400kB   0B / 7.67MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.17%   172.1MiB / 3.852GiB   4.36%     233MB / 344MB   0B / 291kB    31
+13:49:41.089218934
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.45%     11MiB / 3.852GiB    0.28%     158kB / 403kB   0B / 7.73MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   233.47%   174MiB / 3.852GiB   4.41%     236MB / 349MB   0B / 291kB    31
+13:49:46.102108530
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.78%     11MiB / 3.852GiB      0.28%     159kB / 406kB   0B / 7.78MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   252.35%   178.8MiB / 3.852GiB   4.53%     240MB / 354MB   0B / 291kB    31
+13:49:51.110047813
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.46%     11MiB / 3.852GiB      0.28%     160kB / 409kB   0B / 7.84MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.45%   157.7MiB / 3.852GiB   4.00%     243MB / 360MB   0B / 291kB    31
+13:49:56.126717499
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.31%     11MiB / 3.852GiB      0.28%     162kB / 412kB   0B / 7.9MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.11%   171.8MiB / 3.852GiB   4.36%     247MB / 365MB   0B / 291kB   31
+13:50:01.137966391
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.92%     11MiB / 3.852GiB      0.28%     163kB / 414kB   0B / 7.95MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   221.53%   162.6MiB / 3.852GiB   4.12%     250MB / 370MB   0B / 291kB    31
+13:50:06.151365167
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.44%     11MiB / 3.852GiB      0.28%     164kB / 417kB   0B / 8.01MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.30%   164.6MiB / 3.852GiB   4.17%     254MB / 376MB   0B / 291kB    31
+13:50:11.165948911
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.77%     11MiB / 3.852GiB      0.28%     165kB / 421kB   0B / 8.06MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.88%   174.1MiB / 3.852GiB   4.41%     258MB / 381MB   0B / 291kB    31
+13:50:16.182130212
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.59%     11MiB / 3.852GiB      0.28%     166kB / 423kB   0B / 8.11MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   217.93%   165.3MiB / 3.852GiB   4.19%     260MB / 385MB   0B / 291kB    31
+13:50:21.208334849
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.90%     11MiB / 3.852GiB      0.28%     168kB / 426kB   0B / 8.16MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   213.43%   163.3MiB / 3.852GiB   4.14%     264MB / 391MB   0B / 291kB    31
+13:50:26.218227031
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.96%     11MiB / 3.852GiB      0.28%     169kB / 429kB   0B / 8.22MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   242.82%   168.5MiB / 3.852GiB   4.27%     267MB / 396MB   0B / 291kB    31
+13:50:31.227775616
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.27%     11MiB / 3.852GiB      0.28%     170kB / 432kB   0B / 8.28MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.85%   173.5MiB / 3.852GiB   4.40%     271MB / 401MB   0B / 291kB    31
+13:50:36.241026214
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.77%     11MiB / 3.852GiB      0.28%     171kB / 435kB   0B / 8.33MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.18%   173.4MiB / 3.852GiB   4.40%     275MB / 406MB   0B / 291kB    31
+13:50:41.249467854
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.24%     11MiB / 3.852GiB      0.28%     172kB / 438kB   0B / 8.39MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.64%   179.3MiB / 3.852GiB   4.55%     278MB / 412MB   0B / 291kB    31
+13:50:46.261672372
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.49%     11MiB / 3.852GiB      0.28%     173kB / 441kB   0B / 8.44MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.05%   172.2MiB / 3.852GiB   4.37%     282MB / 418MB   0B / 291kB    31
+13:50:51.296208163
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.02%     11MiB / 3.852GiB      0.28%     174kB / 444kB   0B / 8.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.65%   170.8MiB / 3.852GiB   4.33%     285MB / 423MB   0B / 291kB   31
+13:50:56.341530058
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.63%     11.01MiB / 3.852GiB   0.28%     175kB / 447kB   0B / 8.55MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.32%   158.1MiB / 3.852GiB   4.01%     289MB / 428MB   0B / 291kB    31
+13:51:01.349383805
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.00%     11.01MiB / 3.852GiB   0.28%     176kB / 450kB   0B / 8.61MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.21%   178.6MiB / 3.852GiB   4.53%     292MB / 434MB   0B / 291kB    31
+13:51:06.368060972
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.88%     11.01MiB / 3.852GiB   0.28%     178kB / 452kB   0B / 8.66MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.36%   158.4MiB / 3.852GiB   4.02%     296MB / 439MB   0B / 291kB    31
+13:51:11.406200004
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.19%     11.01MiB / 3.852GiB   0.28%     179kB / 456kB   0B / 8.72MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.62%   157.5MiB / 3.852GiB   3.99%     300MB / 444MB   0B / 291kB    31
+13:51:16.425193063
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.19%     11.01MiB / 3.852GiB   0.28%     180kB / 459kB   0B / 8.78MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   208.88%   159.3MiB / 3.852GiB   4.04%     303MB / 450MB   0B / 291kB    31
+13:51:21.432839199
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.56%     11.01MiB / 3.852GiB   0.28%     181kB / 462kB   0B / 8.83MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   219.74%   155.9MiB / 3.852GiB   3.95%     306MB / 454MB   0B / 291kB    31
+13:51:26.440773653
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.67%     11.01MiB / 3.852GiB   0.28%     182kB / 464kB   0B / 8.88MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.59%   155.8MiB / 3.852GiB   3.95%     310MB / 459MB   0B / 291kB    31
+13:51:31.455380579
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.72%     11.01MiB / 3.852GiB   0.28%     183kB / 467kB   0B / 8.94MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.15%   156.7MiB / 3.852GiB   3.97%     313MB / 464MB   0B / 291kB    31
+13:51:36.467068041
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.52%     11.01MiB / 3.852GiB   0.28%     184kB / 470kB   0B / 8.99MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.94%   158.2MiB / 3.852GiB   4.01%     317MB / 470MB   0B / 291kB    31
+13:51:41.475083832
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.10%     11.01MiB / 3.852GiB   0.28%     186kB / 474kB   0B / 9.06MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.98%   160.2MiB / 3.852GiB   4.06%     320MB / 475MB   0B / 291kB    31
+13:51:46.509589315
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.76%     11.01MiB / 3.852GiB   0.28%     187kB / 476kB   0B / 9.11MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.04%   152.2MiB / 3.852GiB   3.86%     324MB / 481MB   0B / 291kB    31
+13:51:51.523170528
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.18%     11.02MiB / 3.852GiB   0.28%     188kB / 479kB   0B / 9.17MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   215.81%   139.7MiB / 3.852GiB   3.54%     327MB / 486MB   0B / 291kB    31
+13:51:56.533575442
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.34%     11.02MiB / 3.852GiB   0.28%     189kB / 482kB   0B / 9.22MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.76%   134.2MiB / 3.852GiB   3.40%     331MB / 491MB   0B / 291kB    31
+13:52:01.550491270
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           5.36%     11.02MiB / 3.852GiB   0.28%     190kB / 485kB   0B / 9.27MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   208.74%   130.5MiB / 3.852GiB   3.31%     335MB / 496MB   0B / 291kB    31
+13:52:06.559861380
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.73%     11.02MiB / 3.852GiB   0.28%     191kB / 488kB   0B / 9.33MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.27%   131.8MiB / 3.852GiB   3.34%     338MB / 501MB   0B / 291kB    31
+13:52:11.578351329
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.44%     11.02MiB / 3.852GiB   0.28%     193kB / 491kB   0B / 9.39MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   246.01%   130.7MiB / 3.852GiB   3.31%     342MB / 506MB   0B / 291kB    31
+13:52:16.588510053
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.65%     11.02MiB / 3.852GiB   0.28%     194kB / 494kB   0B / 9.45MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.64%   130.7MiB / 3.852GiB   3.31%     346MB / 511MB   0B / 291kB    31
+13:52:21.596234719
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.16%     11.02MiB / 3.852GiB   0.28%     194kB / 494kB   0B / 9.48MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   214.23%   131.6MiB / 3.852GiB   3.34%     348MB / 515MB   0B / 291kB    31
+13:52:26.617270594
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.69%     11.02MiB / 3.852GiB   0.28%     195kB / 497kB   0B / 9.53MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   236.47%   131.2MiB / 3.852GiB   3.33%     352MB / 520MB   0B / 291kB    31
+13:52:31.628232207
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.02%     11.02MiB / 3.852GiB   0.28%     196kB / 500kB   0B / 9.59MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.25%   132.5MiB / 3.852GiB   3.36%     356MB / 526MB   0B / 291kB    31
+13:52:36.643985756
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.71%     11.02MiB / 3.852GiB   0.28%     197kB / 502kB   0B / 9.65MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.46%   130MiB / 3.852GiB     3.30%     359MB / 531MB   0B / 291kB    31
+13:52:41.669299018
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.66%     11.02MiB / 3.852GiB   0.28%     199kB / 507kB   0B / 9.71MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   209.91%   129.7MiB / 3.852GiB   3.29%     363MB / 536MB   0B / 291kB    31
+13:52:46.678101389
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.08%     11.02MiB / 3.852GiB   0.28%     201kB / 511kB   0B / 9.77MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   210.59%   129.3MiB / 3.852GiB   3.28%     367MB / 541MB   0B / 291kB    31
+13:52:51.687461189
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.25%     11.02MiB / 3.852GiB   0.28%     202kB / 514kB   0B / 9.83MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.79%   130.4MiB / 3.852GiB   3.30%     370MB / 546MB   0B / 291kB    31
+13:52:56.711376474
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.69%     11.02MiB / 3.852GiB   0.28%     203kB / 517kB   0B / 9.89MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   221.27%   130.9MiB / 3.852GiB   3.32%     374MB / 551MB   0B / 291kB    31
+13:53:01.720420382
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.64%     11.02MiB / 3.852GiB   0.28%     204kB / 520kB   0B / 9.94MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   236.79%   130.2MiB / 3.852GiB   3.30%     377MB / 556MB   0B / 291kB    31
+13:53:06.727850561
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.93%     11.02MiB / 3.852GiB   0.28%     205kB / 523kB   0B / 9.99MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.67%   130.3MiB / 3.852GiB   3.30%     381MB / 561MB   0B / 291kB    31
+13:53:11.740972034
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.73%     11.02MiB / 3.852GiB   0.28%     206kB / 526kB   0B / 10.1MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   221.74%   124.7MiB / 3.852GiB   3.16%     385MB / 566MB   0B / 291kB    31
+13:53:16.748869062
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.15%     11.02MiB / 3.852GiB   0.28%     206kB / 526kB   0B / 10.1MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.80%   125.4MiB / 3.852GiB   3.18%     387MB / 570MB   0B / 291kB    31
+13:53:21.766729240
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.30%     11.02MiB / 3.852GiB   0.28%     207kB / 529kB   0B / 10.1MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.63%   125.8MiB / 3.852GiB   3.19%     391MB / 575MB   0B / 291kB    31
+13:53:26.781296493
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.66%     11.02MiB / 3.852GiB   0.28%     208kB / 532kB   0B / 10.2MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.73%   125.2MiB / 3.852GiB   3.18%     395MB / 580MB   0B / 291kB    31
+13:53:31.799931427
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.73%     11.02MiB / 3.852GiB   0.28%     209kB / 535kB   0B / 10.3MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   216.69%   124.7MiB / 3.852GiB   3.16%     398MB / 585MB   0B / 291kB    31
+13:53:36.809414378
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.74%     11.02MiB / 3.852GiB   0.28%     211kB / 537kB   0B / 10.3MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.73%   126.8MiB / 3.852GiB   3.21%     402MB / 590MB   0B / 291kB    31
+13:53:41.818548167
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.24%     11.02MiB / 3.852GiB   0.28%     212kB / 541kB   0B / 10.4MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.60%   124MiB / 3.852GiB     3.14%     406MB / 595MB   0B / 291kB    31
+13:53:46.854108166
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.82%     11.02MiB / 3.852GiB   0.28%     213kB / 544kB   0B / 10.4MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   208.62%   124.6MiB / 3.852GiB   3.16%     409MB / 600MB   0B / 291kB    31
+13:53:51.873388358
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.26%     11.02MiB / 3.852GiB   0.28%     214kB / 547kB   0B / 10.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   236.79%   122.7MiB / 3.852GiB   3.11%     413MB / 605MB   0B / 291kB    31
+13:53:56.894535676
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.19%     11.02MiB / 3.852GiB   0.28%     215kB / 549kB   0B / 10.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.58%   124.5MiB / 3.852GiB   3.16%     417MB / 610MB   0B / 291kB    31
+13:54:01.902160960
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.99%     11.02MiB / 3.852GiB   0.28%     216kB / 552kB   0B / 10.6MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.84%   124MiB / 3.852GiB     3.14%     420MB / 615MB   0B / 291kB    31
+13:54:06.921486464
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.19%     11.02MiB / 3.852GiB   0.28%     217kB / 555kB   0B / 10.7MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   244.14%   127.4MiB / 3.852GiB   3.23%     424MB / 620MB   0B / 291kB    31
+13:54:11.929137400
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.15%     11.03MiB / 3.852GiB   0.28%     219kB / 559kB   0B / 10.7MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.34%   125.5MiB / 3.852GiB   3.18%     427MB / 625MB   0B / 291kB    31
+13:54:16.940873593
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.22%     11.03MiB / 3.852GiB   0.28%     220kB / 561kB   0B / 10.8MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.30%   125.3MiB / 3.852GiB   3.18%     430MB / 629MB   0B / 291kB    31
+13:54:21.948880722
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.01%     11.03MiB / 3.852GiB   0.28%     221kB / 564kB   0B / 10.8MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.53%   126MiB / 3.852GiB     3.20%     434MB / 634MB   0B / 291kB    31
+13:54:26.964685876
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           4.02%     11.03MiB / 3.852GiB   0.28%     222kB / 567kB   0B / 10.9MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.29%   125.7MiB / 3.852GiB   3.19%     437MB / 639MB   0B / 291kB    31
+13:54:31.977658585
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.27%     11.03MiB / 3.852GiB   0.28%     223kB / 570kB   0B / 10.9MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.68%   124.7MiB / 3.852GiB   3.16%     441MB / 644MB   0B / 291kB    31
+13:54:37.003715251
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.65%     11.03MiB / 3.852GiB   0.28%     224kB / 573kB   0B / 11MB    9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   211.60%   123.3MiB / 3.852GiB   3.12%     445MB / 649MB   0B / 291kB   31
+13:54:42.018140281
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.13%     11.03MiB / 3.852GiB   0.28%     226kB / 576kB   0B / 11MB    9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   236.69%   127MiB / 3.852GiB     3.22%     448MB / 655MB   0B / 291kB   31
+13:54:47.040909278
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.99%     11.03MiB / 3.852GiB   0.28%     227kB / 579kB   0B / 11.1MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   247.08%   128.7MiB / 3.852GiB   3.26%     452MB / 660MB   0B / 291kB    31
+13:54:52.050262215
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.02%     11.03MiB / 3.852GiB   0.28%     228kB / 582kB   0B / 11.1MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.04%   129.5MiB / 3.852GiB   3.28%     456MB / 665MB   0B / 291kB    31
+13:54:57.079290219
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.89%     11.03MiB / 3.852GiB   0.28%     229kB / 584kB   0B / 11.2MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   218.21%   125.8MiB / 3.852GiB   3.19%     459MB / 670MB   0B / 291kB    31
+13:55:02.096047011
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.76%     11.03MiB / 3.852GiB   0.28%     230kB / 587kB   0B / 11.3MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.53%   124.3MiB / 3.852GiB   3.15%     463MB / 675MB   0B / 291kB    31
+13:55:07.110317042
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.53%     11.03MiB / 3.852GiB   0.28%     231kB / 590kB   0B / 11.3MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   216.66%   124.7MiB / 3.852GiB   3.16%     466MB / 680MB   0B / 291kB    31
+13:55:12.120791364
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.01%     11.03MiB / 3.852GiB   0.28%     232kB / 594kB   0B / 11.4MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   246.76%   124.1MiB / 3.852GiB   3.15%     470MB / 685MB   0B / 291kB    31
+13:55:17.129297508
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.18%     11.03MiB / 3.852GiB   0.28%     234kB / 596kB   0B / 11.4MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   212.36%   124.3MiB / 3.852GiB   3.15%     473MB / 689MB   0B / 291kB    31
+13:55:22.138556493
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.22%     11.03MiB / 3.852GiB   0.28%     235kB / 599kB   0B / 11.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.01%   125.2MiB / 3.852GiB   3.18%     477MB / 694MB   0B / 291kB    31
+13:55:27.149785485
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.90%     11.03MiB / 3.852GiB   0.28%     236kB / 602kB   0B / 11.5MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.56%   124.3MiB / 3.852GiB   3.15%     480MB / 699MB   0B / 291kB    31
+13:55:32.164367136
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.27%     11.03MiB / 3.852GiB   0.28%     237kB / 605kB   0B / 11.6MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.11%   123.6MiB / 3.852GiB   3.13%     484MB / 704MB   0B / 291kB    31
+13:55:37.184272831
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.89%     11.03MiB / 3.852GiB   0.28%     238kB / 608kB   0B / 11.6MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.99%   124.4MiB / 3.852GiB   3.15%     487MB / 709MB   0B / 291kB    31
+13:55:42.212747340
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.74%     11.04MiB / 3.852GiB   0.28%     239kB / 611kB   0B / 11.7MB   9
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.46%   124.5MiB / 3.852GiB   3.16%     491MB / 714MB   0B / 291kB    31
+13:55:47.241085539
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.28%     11.04MiB / 3.852GiB   0.28%     240kB / 614kB   0B / 11.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.89%   123.7MiB / 3.852GiB   3.13%     495MB / 719MB   0B / 291kB    31
+13:55:52.261875198
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.37%     11.04MiB / 3.852GiB   0.28%     241kB / 617kB   0B / 11.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.12%   123.8MiB / 3.852GiB   3.14%     498MB / 725MB   0B / 291kB    31
+13:55:57.273132329
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.51%     11.04MiB / 3.852GiB   0.28%     243kB / 620kB   0B / 11.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   218.88%   125.6MiB / 3.852GiB   3.19%     502MB / 730MB   0B / 291kB    31
+13:56:02.311073456
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.94%     11.04MiB / 3.852GiB   0.28%     244kB / 622kB   0B / 11.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.41%   124.4MiB / 3.852GiB   3.15%     505MB / 735MB   0B / 291kB    31
+13:56:07.323946593
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.75%     11.05MiB / 3.852GiB   0.28%     245kB / 625kB   0B / 12MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   213.48%   124.2MiB / 3.852GiB   3.15%     509MB / 740MB   0B / 291kB   31
+13:56:12.340869779
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.98%     11.05MiB / 3.852GiB   0.28%     246kB / 629kB   0B / 12MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   213.85%   125.7MiB / 3.852GiB   3.19%     513MB / 745MB   0B / 291kB   31
+13:56:17.368745654
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.01%     11.05MiB / 3.852GiB   0.28%     247kB / 632kB   0B / 12.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.00%   126.7MiB / 3.852GiB   3.21%     516MB / 749MB   0B / 291kB    31
+13:56:22.388215296
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.79%     11.05MiB / 3.852GiB   0.28%     248kB / 634kB   0B / 12.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.82%   125.3MiB / 3.852GiB   3.18%     519MB / 754MB   0B / 291kB    31
+13:56:27.405582313
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.84%     11.05MiB / 3.852GiB   0.28%     249kB / 637kB   0B / 12.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   242.14%   124.1MiB / 3.852GiB   3.15%     523MB / 759MB   0B / 291kB    31
+13:56:32.424218330
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.39%     11.05MiB / 3.852GiB   0.28%     250kB / 640kB   0B / 12.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   256.99%   124.4MiB / 3.852GiB   3.15%     527MB / 764MB   0B / 291kB    31
+13:56:37.437475337
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.91%     11.05MiB / 3.852GiB   0.28%     252kB / 643kB   0B / 12.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.21%   123.9MiB / 3.852GiB   3.14%     530MB / 769MB   0B / 291kB    31
+13:56:42.452334312
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.02%     11.05MiB / 3.852GiB   0.28%     253kB / 647kB   0B / 12.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   212.88%   126.3MiB / 3.852GiB   3.20%     534MB / 774MB   0B / 291kB    31
+13:56:47.494572653
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.38%     11.05MiB / 3.852GiB   0.28%     254kB / 649kB   0B / 12.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.11%   124.4MiB / 3.852GiB   3.15%     537MB / 779MB   0B / 291kB    31
+13:56:52.504432905
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.10%     11.05MiB / 3.852GiB   0.28%     255kB / 652kB   0B / 12.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.00%   123.8MiB / 3.852GiB   3.14%     541MB / 784MB   0B / 291kB    31
+13:56:57.515863318
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.13%     11.05MiB / 3.852GiB   0.28%     256kB / 655kB   0B / 12.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.97%   125.2MiB / 3.852GiB   3.17%     545MB / 789MB   0B / 291kB    31
+13:57:02.533337463
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.48%     11.05MiB / 3.852GiB   0.28%     257kB / 658kB   0B / 12.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   234.81%   126.7MiB / 3.852GiB   3.21%     548MB / 794MB   0B / 291kB    31
+13:57:07.552789466
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.93%     11.05MiB / 3.852GiB   0.28%     258kB / 661kB   0B / 12.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.72%   123.8MiB / 3.852GiB   3.14%     552MB / 799MB   0B / 291kB    31
+13:57:12.566811511
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.29%     11.05MiB / 3.852GiB   0.28%     260kB / 664kB   0B / 12.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.51%   125MiB / 3.852GiB     3.17%     555MB / 805MB   0B / 291kB    31
+13:57:17.574816740
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.81%     11.05MiB / 3.852GiB   0.28%     261kB / 667kB   0B / 12.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   249.04%   124.6MiB / 3.852GiB   3.16%     559MB / 810MB   0B / 291kB    31
+13:57:22.584607714
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.85%     11.05MiB / 3.852GiB   0.28%     262kB / 670kB   0B / 12.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.92%   125.6MiB / 3.852GiB   3.18%     562MB / 814MB   0B / 291kB    31
+13:57:27.609163297
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.97%     11.05MiB / 3.852GiB   0.28%     263kB / 673kB   0B / 12.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.63%   127.4MiB / 3.852GiB   3.23%     565MB / 819MB   0B / 291kB    31
+13:57:32.617591446
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.81%     11.05MiB / 3.852GiB   0.28%     264kB / 676kB   0B / 12.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.36%   124.6MiB / 3.852GiB   3.16%     569MB / 824MB   0B / 291kB    31
+13:57:37.634147590
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.35%     11.05MiB / 3.852GiB   0.28%     265kB / 678kB   0B / 13MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.72%   124.3MiB / 3.852GiB   3.15%     573MB / 829MB   0B / 291kB   31
+13:57:42.652438599
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.70%     11.05MiB / 3.852GiB   0.28%     267kB / 682kB   0B / 13MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   233.30%   124.9MiB / 3.852GiB   3.17%     576MB / 834MB   0B / 291kB   31
+13:57:47.660400420
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.14%     11.05MiB / 3.852GiB   0.28%     268kB / 685kB   0B / 13.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.69%   124.4MiB / 3.852GiB   3.15%     580MB / 839MB   0B / 291kB    31
+13:57:52.670941690
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.75%     11.06MiB / 3.852GiB   0.28%     269kB / 688kB   0B / 13.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   242.60%   124.9MiB / 3.852GiB   3.17%     583MB / 844MB   0B / 291kB    31
+13:57:57.683641121
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.63%     11.06MiB / 3.852GiB   0.28%     270kB / 690kB   0B / 13.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.44%   124.1MiB / 3.852GiB   3.15%     587MB / 849MB   0B / 291kB    31
+13:58:02.717185167
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.16%     11.06MiB / 3.852GiB   0.28%     271kB / 693kB   0B / 13.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   222.64%   122.7MiB / 3.852GiB   3.11%     591MB / 854MB   0B / 291kB    31
+13:58:07.744834102
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.94%     11.06MiB / 3.852GiB   0.28%     272kB / 696kB   0B / 13.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.42%   123.7MiB / 3.852GiB   3.14%     594MB / 859MB   0B / 291kB    31
+13:58:12.784282046
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.45%     11.06MiB / 3.852GiB   0.28%     273kB / 700kB   0B / 13.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.21%   125.1MiB / 3.852GiB   3.17%     598MB / 864MB   0B / 291kB    31
+13:58:17.825074109
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.31%     11.06MiB / 3.852GiB   0.28%     275kB / 702kB   0B / 13.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.52%   125MiB / 3.852GiB     3.17%     602MB / 869MB   0B / 291kB    31
+13:58:22.834253586
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.06%     11.06MiB / 3.852GiB   0.28%     276kB / 705kB   0B / 13.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.00%   123.4MiB / 3.852GiB   3.13%     605MB / 873MB   0B / 291kB    31
+13:58:27.845848489
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.87%     11.06MiB / 3.852GiB   0.28%     277kB / 708kB   0B / 13.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   218.95%   123.8MiB / 3.852GiB   3.14%     608MB / 879MB   0B / 291kB    31
+13:58:32.868827663
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.03%     11.06MiB / 3.852GiB   0.28%     278kB / 711kB   0B / 13.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.24%   125.2MiB / 3.852GiB   3.18%     612MB / 884MB   0B / 291kB    31
+13:58:37.895686573
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.06%     11.07MiB / 3.852GiB   0.28%     279kB / 714kB   0B / 13.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.72%   123.5MiB / 3.852GiB   3.13%     615MB / 889MB   0B / 291kB    31
+13:58:42.914964484
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.01%     11.07MiB / 3.852GiB   0.28%     280kB / 717kB   0B / 13.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   223.62%   126.8MiB / 3.852GiB   3.21%     619MB / 894MB   0B / 291kB    31
+13:58:47.923052301
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.10%     11.07MiB / 3.852GiB   0.28%     281kB / 720kB   0B / 13.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.80%   126.2MiB / 3.852GiB   3.20%     623MB / 899MB   0B / 291kB    31
+13:58:52.933783464
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.11%     11.07MiB / 3.852GiB   0.28%     283kB / 723kB   0B / 13.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.83%   124.6MiB / 3.852GiB   3.16%     626MB / 904MB   0B / 291kB    31
+13:58:57.949420647
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.46%     11.07MiB / 3.852GiB   0.28%     284kB / 726kB   0B / 13.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   210.57%   124.1MiB / 3.852GiB   3.15%     630MB / 909MB   0B / 291kB    31
+13:59:02.968551197
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.23%     11.07MiB / 3.852GiB   0.28%     285kB / 728kB   0B / 13.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   217.01%   125.3MiB / 3.852GiB   3.18%     633MB / 915MB   0B / 291kB    31
+13:59:07.978311689
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.40%     11.07MiB / 3.852GiB   0.28%     286kB / 731kB   0B / 14MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.22%   125.2MiB / 3.852GiB   3.17%     637MB / 920MB   0B / 291kB   31
+13:59:12.988095697
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.07%     11.07MiB / 3.852GiB   0.28%     287kB / 735kB   0B / 14MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   233.56%   125MiB / 3.852GiB     3.17%     641MB / 925MB   0B / 291kB   31
+13:59:18.014856128
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.18%     11.07MiB / 3.852GiB   0.28%     288kB / 738kB   0B / 14.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.32%   125.1MiB / 3.852GiB   3.17%     644MB / 930MB   0B / 291kB    31
+13:59:23.068562339
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.14%     11.07MiB / 3.852GiB   0.28%     289kB / 740kB   0B / 14.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.47%   125.8MiB / 3.852GiB   3.19%     648MB / 935MB   0B / 291kB    31
+13:59:28.111193666
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.41%     11.07MiB / 3.852GiB   0.28%     290kB / 743kB   0B / 14.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   236.18%   124.5MiB / 3.852GiB   3.16%     651MB / 939MB   0B / 291kB    31
+13:59:33.129830430
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.51%     11.07MiB / 3.852GiB   0.28%     292kB / 746kB   0B / 14.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.15%   124.6MiB / 3.852GiB   3.16%     654MB / 944MB   0B / 291kB    31
+13:59:38.139959330
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.75%     11.07MiB / 3.852GiB   0.28%     293kB / 749kB   0B / 14.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.93%   126.1MiB / 3.852GiB   3.20%     658MB / 949MB   0B / 291kB    31
+13:59:43.160618554
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.34%     11.08MiB / 3.852GiB   0.28%     294kB / 752kB   0B / 14.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.69%   125.4MiB / 3.852GiB   3.18%     661MB / 954MB   0B / 291kB    31
+13:59:48.170951780
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.00%     11.08MiB / 3.852GiB   0.28%     295kB / 755kB   0B / 14.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.88%   124.4MiB / 3.852GiB   3.15%     665MB / 959MB   0B / 291kB    31
+13:59:53.190157988
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.94%     11.08MiB / 3.852GiB   0.28%     296kB / 758kB   0B / 14.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.62%   127.4MiB / 3.852GiB   3.23%     669MB / 964MB   0B / 291kB    31
+13:59:58.209712438
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.65%     11.08MiB / 3.852GiB   0.28%     297kB / 761kB   0B / 14.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   202.57%   126MiB / 3.852GiB     3.19%     672MB / 969MB   0B / 291kB    31
+14:00:03.220048826
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.45%     11.08MiB / 3.852GiB   0.28%     298kB / 763kB   0B / 14.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.25%   123.7MiB / 3.852GiB   3.14%     676MB / 974MB   0B / 291kB    31
+14:00:08.236450875
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.55%     11.08MiB / 3.852GiB   0.28%     299kB / 766kB   0B / 14.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.31%   125.1MiB / 3.852GiB   3.17%     680MB / 979MB   0B / 291kB    31
+14:00:13.246344241
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.02%     11.08MiB / 3.852GiB   0.28%     301kB / 770kB   0B / 14.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.35%   125MiB / 3.852GiB     3.17%     683MB / 984MB   0B / 291kB    31
+14:00:18.264615887
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.26%     11.08MiB / 3.852GiB   0.28%     302kB / 773kB   0B / 14.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.26%   123.4MiB / 3.852GiB   3.13%     687MB / 989MB   0B / 291kB    31
+14:00:23.287608838
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.20%     11.08MiB / 3.852GiB   0.28%     303kB / 775kB   0B / 14.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   245.78%   123.4MiB / 3.852GiB   3.13%     690MB / 994MB   0B / 291kB    31
+14:00:28.308105747
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.03%     11.08MiB / 3.852GiB   0.28%     304kB / 778kB   0B / 14.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.13%   125.4MiB / 3.852GiB   3.18%     694MB / 999MB   0B / 291kB    31
+14:00:33.323546471
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.03%     11.08MiB / 3.852GiB   0.28%     305kB / 781kB   0B / 14.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.46%   125.1MiB / 3.852GiB   3.17%     697MB / 1GB     0B / 291kB    31
+14:00:38.349053115
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.78%     11.08MiB / 3.852GiB   0.28%     306kB / 784kB    0B / 15MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   247.12%   125.5MiB / 3.852GiB   3.18%     700MB / 1.01GB   0B / 291kB   31
+14:00:43.372985111
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.73%     11.08MiB / 3.852GiB   0.28%     308kB / 787kB    0B / 15MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.65%   125.3MiB / 3.852GiB   3.18%     704MB / 1.01GB   0B / 291kB   31
+14:00:48.416109067
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.17%     11.08MiB / 3.852GiB   0.28%     309kB / 790kB    0B / 15.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   242.29%   125.9MiB / 3.852GiB   3.19%     708MB / 1.02GB   0B / 291kB    31
+14:00:53.446451450
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.63%     11.08MiB / 3.852GiB   0.28%     310kB / 793kB    0B / 15.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.73%   124.4MiB / 3.852GiB   3.15%     711MB / 1.02GB   0B / 291kB    31
+14:00:58.501801806
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.23%     11.08MiB / 3.852GiB   0.28%     311kB / 796kB    0B / 15.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   247.23%   124.7MiB / 3.852GiB   3.16%     715MB / 1.03GB   0B / 291kB    31
+14:01:03.511484758
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.74%     11.08MiB / 3.852GiB   0.28%     312kB / 799kB    0B / 15.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   213.91%   125.3MiB / 3.852GiB   3.18%     718MB / 1.03GB   0B / 291kB    31
+14:01:08.559227962
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.22%     11.08MiB / 3.852GiB   0.28%     313kB / 801kB    0B / 15.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.45%   124.8MiB / 3.852GiB   3.16%     722MB / 1.04GB   0B / 291kB    31
+14:01:13.576518180
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.66%     11.08MiB / 3.852GiB   0.28%     314kB / 805kB    0B / 15.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.79%   123.9MiB / 3.852GiB   3.14%     726MB / 1.04GB   0B / 291kB    31
+14:01:18.586167988
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.02%     11.08MiB / 3.852GiB   0.28%     316kB / 808kB    0B / 15.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   246.27%   124.3MiB / 3.852GiB   3.15%     729MB / 1.05GB   0B / 291kB    31
+14:01:23.596100616
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.09%     11.08MiB / 3.852GiB   0.28%     317kB / 810kB    0B / 15.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.11%   124MiB / 3.852GiB     3.14%     733MB / 1.05GB   0B / 291kB    31
+14:01:28.606302953
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.40%     11.08MiB / 3.852GiB   0.28%     318kB / 813kB    0B / 15.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.16%   124.8MiB / 3.852GiB   3.17%     737MB / 1.06GB   0B / 291kB    31
+14:01:33.621500423
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.84%     11.08MiB / 3.852GiB   0.28%     319kB / 816kB    0B / 15.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.20%   123.7MiB / 3.852GiB   3.14%     740MB / 1.06GB   0B / 291kB    31
+14:01:38.640404814
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.21%     11.08MiB / 3.852GiB   0.28%     320kB / 819kB    0B / 15.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.49%   125.7MiB / 3.852GiB   3.19%     744MB / 1.07GB   0B / 291kB    31
+14:01:43.648114459
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.91%     11.08MiB / 3.852GiB   0.28%     321kB / 822kB    0B / 15.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.09%   124.4MiB / 3.852GiB   3.15%     747MB / 1.07GB   0B / 291kB    31
+14:01:48.664230605
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.34%     11.08MiB / 3.852GiB   0.28%     321kB / 822kB    0B / 15.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   233.22%   125.7MiB / 3.852GiB   3.19%     750MB / 1.08GB   0B / 291kB    31
+14:01:53.715818680
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.94%     11.08MiB / 3.852GiB   0.28%     322kB / 825kB    0B / 15.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.56%   124.1MiB / 3.852GiB   3.15%     754MB / 1.08GB   0B / 291kB    31
+14:01:58.740462531
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.90%     11.3MiB / 3.852GiB    0.29%     324kB / 828kB    0B / 15.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.71%   126.5MiB / 3.852GiB   3.21%     757MB / 1.09GB   0B / 291kB    31
+14:02:03.749773568
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.38%     11.3MiB / 3.852GiB    0.29%     325kB / 831kB    0B / 15.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   216.72%   124.2MiB / 3.852GiB   3.15%     761MB / 1.09GB   0B / 291kB    31
+14:02:08.794274613
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.25%     11.3MiB / 3.852GiB    0.29%     326kB / 834kB   0B / 16MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   244.23%   124.7MiB / 3.852GiB   3.16%     765MB / 1.1GB   0B / 291kB   31
+14:02:13.804279985
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.25%     11.3MiB / 3.852GiB    0.29%     327kB / 837kB   0B / 16MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.12%   124.6MiB / 3.852GiB   3.16%     768MB / 1.1GB   0B / 291kB   31
+14:02:18.824865185
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.95%     11.3MiB / 3.852GiB    0.29%     328kB / 840kB    0B / 16.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   241.06%   125.2MiB / 3.852GiB   3.17%     772MB / 1.11GB   0B / 291kB    31
+14:02:23.846735138
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.84%     11.3MiB / 3.852GiB    0.29%     329kB / 843kB    0B / 16.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.25%   123.8MiB / 3.852GiB   3.14%     775MB / 1.11GB   0B / 291kB    31
+14:02:28.861534229
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.62%     11.3MiB / 3.852GiB    0.29%     331kB / 847kB    0B / 16.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   212.16%   124.4MiB / 3.852GiB   3.15%     779MB / 1.12GB   0B / 291kB    31
+14:02:33.885580052
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.48%     11.3MiB / 3.852GiB    0.29%     333kB / 850kB    0B / 16.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.72%   123.5MiB / 3.852GiB   3.13%     783MB / 1.12GB   0B / 291kB    31
+14:02:38.894554610
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.54%     11.3MiB / 3.852GiB    0.29%     334kB / 854kB    0B / 16.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.32%   125.7MiB / 3.852GiB   3.19%     786MB / 1.13GB   0B / 291kB    31
+14:02:43.925290667
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.54%     11.3MiB / 3.852GiB    0.29%     335kB / 858kB    0B / 16.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.11%   125.3MiB / 3.852GiB   3.18%     790MB / 1.13GB   0B / 291kB    31
+14:02:48.948343132
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.99%     11.3MiB / 3.852GiB    0.29%     336kB / 860kB    0B / 16.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   221.25%   126.3MiB / 3.852GiB   3.20%     793MB / 1.14GB   0B / 291kB    31
+14:02:53.974263101
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.32%     11.3MiB / 3.852GiB    0.29%     337kB / 863kB    0B / 16.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   243.30%   126.5MiB / 3.852GiB   3.21%     797MB / 1.14GB   0B / 291kB    31
+14:02:58.996090832
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.05%     11.3MiB / 3.852GiB    0.29%     337kB / 863kB    0B / 16.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.80%   125.5MiB / 3.852GiB   3.18%     800MB / 1.15GB   0B / 291kB    31
+14:03:04.004185196
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.90%     11.3MiB / 3.852GiB    0.29%     338kB / 866kB    0B / 16.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.41%   125.8MiB / 3.852GiB   3.19%     803MB / 1.15GB   0B / 291kB    31
+14:03:09.020364894
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.77%     11.3MiB / 3.852GiB    0.29%     340kB / 869kB    0B / 16.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   213.53%   123.7MiB / 3.852GiB   3.14%     807MB / 1.16GB   0B / 291kB    31
+14:03:14.030098852
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.19%     11.3MiB / 3.852GiB    0.29%     341kB / 872kB    0B / 16.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.05%   126.4MiB / 3.852GiB   3.21%     811MB / 1.16GB   0B / 291kB    31
+14:03:19.037374163
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.62%     11.31MiB / 3.852GiB   0.29%     342kB / 875kB    0B / 16.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.49%   124.2MiB / 3.852GiB   3.15%     814MB / 1.17GB   0B / 291kB    31
+14:03:24.045784424
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.61%     11.35MiB / 3.852GiB   0.29%     343kB / 878kB    0B / 16.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.52%   124.3MiB / 3.852GiB   3.15%     818MB / 1.17GB   0B / 291kB    31
+14:03:29.054796300
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.42%     11.36MiB / 3.852GiB   0.29%     344kB / 881kB    0B / 16.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.62%   125.7MiB / 3.852GiB   3.19%     822MB / 1.18GB   0B / 291kB    31
+14:03:34.084973240
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.66%     11.38MiB / 3.852GiB   0.29%     345kB / 883kB    0B / 16.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   222.51%   125.4MiB / 3.852GiB   3.18%     825MB / 1.18GB   0B / 291kB    31
+14:03:39.136813566
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.61%     11.39MiB / 3.852GiB   0.29%     347kB / 887kB    0B / 17MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   226.05%   124.8MiB / 3.852GiB   3.16%     829MB / 1.19GB   0B / 291kB   31
+14:03:44.146616196
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.26%     11.41MiB / 3.852GiB   0.29%     348kB / 890kB    0B / 17MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.64%   124.2MiB / 3.852GiB   3.15%     832MB / 1.19GB   0B / 291kB   31
+14:03:49.196209691
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.08%     11.44MiB / 3.852GiB   0.29%     349kB / 893kB   0B / 17.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   219.00%   125.2MiB / 3.852GiB   3.17%     835MB / 1.2GB   0B / 291kB    31
+14:03:54.247234025
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.15%     11.44MiB / 3.852GiB   0.29%     350kB / 896kB   0B / 17.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.70%   125.4MiB / 3.852GiB   3.18%     839MB / 1.2GB   0B / 291kB    31
+14:03:59.257999487
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           4.03%     11.46MiB / 3.852GiB   0.29%     351kB / 898kB    0B / 17.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   210.80%   124.5MiB / 3.852GiB   3.16%     842MB / 1.21GB   0B / 291kB    31
+14:04:04.286694532
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.04%     11.51MiB / 3.852GiB   0.29%     352kB / 901kB    0B / 17.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.43%   124.6MiB / 3.852GiB   3.16%     846MB / 1.21GB   0B / 291kB    31
+14:04:09.309386442
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.98%     11.52MiB / 3.852GiB   0.29%     353kB / 904kB    0B / 17.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.19%   125.8MiB / 3.852GiB   3.19%     850MB / 1.22GB   0B / 291kB    31
+14:04:14.320083059
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.20%     11.54MiB / 3.852GiB   0.29%     355kB / 908kB    0B / 17.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.91%   126.8MiB / 3.852GiB   3.22%     853MB / 1.22GB   0B / 291kB    31
+14:04:19.341010829
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.22%     11.56MiB / 3.852GiB   0.29%     356kB / 910kB    0B / 17.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.37%   126.7MiB / 3.852GiB   3.21%     857MB / 1.23GB   0B / 291kB    31
+14:04:24.349112452
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.89%     11.59MiB / 3.852GiB   0.29%     357kB / 913kB    0B / 17.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.60%   123.9MiB / 3.852GiB   3.14%     860MB / 1.23GB   0B / 291kB    31
+14:04:29.362903162
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.17%     11.59MiB / 3.852GiB   0.29%     358kB / 916kB    0B / 17.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   244.68%   124.9MiB / 3.852GiB   3.17%     864MB / 1.24GB   0B / 291kB    31
+14:04:34.373022581
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.14%     11.59MiB / 3.852GiB   0.29%     359kB / 919kB    0B / 17.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   246.02%   124.5MiB / 3.852GiB   3.16%     868MB / 1.24GB   0B / 291kB    31
+14:04:39.380426827
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.34%     11.6MiB / 3.852GiB    0.29%     360kB / 922kB    0B / 17.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   209.69%   124.8MiB / 3.852GiB   3.16%     871MB / 1.25GB   0B / 291kB    31
+14:04:44.391219595
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.92%     11.6MiB / 3.852GiB    0.29%     361kB / 925kB    0B / 17.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   217.49%   125.1MiB / 3.852GiB   3.17%     875MB / 1.25GB   0B / 291kB    31
+14:04:49.409027481
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.23%     11.6MiB / 3.852GiB    0.29%     363kB / 928kB    0B / 17.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   212.12%   125.4MiB / 3.852GiB   3.18%     878MB / 1.26GB   0B / 291kB    31
+14:04:54.450688739
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.02%     11.6MiB / 3.852GiB    0.29%     364kB / 931kB    0B / 17.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   240.77%   125.8MiB / 3.852GiB   3.19%     881MB / 1.26GB   0B / 291kB    31
+14:04:59.479962740
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.80%     11.6MiB / 3.852GiB    0.29%     365kB / 934kB    0B / 17.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   221.41%   125.6MiB / 3.852GiB   3.19%     885MB / 1.27GB   0B / 291kB    31
+14:05:04.500432173
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.20%     11.6MiB / 3.852GiB    0.29%     366kB / 936kB    0B / 17.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.12%   124.6MiB / 3.852GiB   3.16%     888MB / 1.27GB   0B / 291kB    31
+14:05:09.509263101
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.90%     11.61MiB / 3.852GiB   0.29%     367kB / 939kB    0B / 18MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   202.43%   123.1MiB / 3.852GiB   3.12%     892MB / 1.28GB   0B / 291kB   31
+14:05:14.530796593
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.12%     11.61MiB / 3.852GiB   0.29%     368kB / 943kB    0B / 18MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   237.11%   125.2MiB / 3.852GiB   3.18%     896MB / 1.28GB   0B / 291kB   31
+14:05:19.543472575
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.86%     11.61MiB / 3.852GiB   0.29%     369kB / 946kB    0B / 18.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   247.73%   124.2MiB / 3.852GiB   3.15%     899MB / 1.29GB   0B / 291kB    31
+14:05:24.568902911
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.37%     11.61MiB / 3.852GiB   0.29%     370kB / 948kB    0B / 18.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.50%   124.7MiB / 3.852GiB   3.16%     903MB / 1.29GB   0B / 291kB    31
+14:05:29.592489084
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.04%     11.61MiB / 3.852GiB   0.29%     372kB / 951kB   0B / 18.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.35%   126.5MiB / 3.852GiB   3.21%     907MB / 1.3GB   0B / 291kB    31
+14:05:34.606070438
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.96%     11.61MiB / 3.852GiB   0.29%     373kB / 954kB   0B / 18.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.29%   124.6MiB / 3.852GiB   3.16%     910MB / 1.3GB   0B / 291kB    31
+14:05:39.623854730
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.36%     11.61MiB / 3.852GiB   0.29%     374kB / 958kB    0B / 18.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   222.62%   125.1MiB / 3.852GiB   3.17%     914MB / 1.31GB   0B / 291kB    31
+14:05:44.633372333
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.81%     11.61MiB / 3.852GiB   0.29%     375kB / 961kB    0B / 18.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   219.46%   125.5MiB / 3.852GiB   3.18%     917MB / 1.31GB   0B / 291kB    31
+14:05:49.665116094
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.89%     11.61MiB / 3.852GiB   0.29%     376kB / 963kB    0B / 18.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   218.58%   126.2MiB / 3.852GiB   3.20%     921MB / 1.32GB   0B / 291kB    31
+14:05:54.687816518
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.03%     11.61MiB / 3.852GiB   0.29%     377kB / 966kB    0B / 18.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   232.13%   126.2MiB / 3.852GiB   3.20%     925MB / 1.32GB   0B / 291kB    31
+14:05:59.697424908
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.35%     11.61MiB / 3.852GiB   0.29%     378kB / 969kB    0B / 18.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   248.75%   124.5MiB / 3.852GiB   3.16%     927MB / 1.33GB   0B / 291kB    31
+14:06:04.710920764
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.16%     11.61MiB / 3.852GiB   0.29%     379kB / 972kB    0B / 18.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.96%   124.1MiB / 3.852GiB   3.15%     931MB / 1.33GB   0B / 291kB    31
+14:06:09.718962378
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.92%     11.61MiB / 3.852GiB   0.29%     381kB / 975kB    0B / 18.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   216.10%   124.4MiB / 3.852GiB   3.15%     935MB / 1.34GB   0B / 291kB    31
+14:06:14.736329558
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.25%     11.61MiB / 3.852GiB   0.29%     382kB / 978kB    0B / 18.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.01%   123.9MiB / 3.852GiB   3.14%     938MB / 1.34GB   0B / 291kB    31
+14:06:19.746054255
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.82%     11.61MiB / 3.852GiB   0.29%     383kB / 981kB    0B / 18.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   233.26%   124.3MiB / 3.852GiB   3.15%     942MB / 1.35GB   0B / 291kB    31
+14:06:24.770904332
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.76%     11.61MiB / 3.852GiB   0.29%     384kB / 984kB    0B / 18.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.50%   124.8MiB / 3.852GiB   3.17%     946MB / 1.35GB   0B / 291kB    31
+14:06:29.778551572
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.56%     11.61MiB / 3.852GiB   0.29%     385kB / 987kB    0B / 18.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.62%   124.2MiB / 3.852GiB   3.15%     949MB / 1.36GB   0B / 291kB    31
+14:06:34.787369099
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.17%     11.61MiB / 3.852GiB   0.29%     386kB / 989kB    0B / 18.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   248.84%   125MiB / 3.852GiB     3.17%     953MB / 1.36GB   0B / 291kB    31
+14:06:39.796393043
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.40%     11.61MiB / 3.852GiB   0.29%     388kB / 993kB    0B / 19MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.33%   125.4MiB / 3.852GiB   3.18%     956MB / 1.37GB   0B / 291kB   31
+14:06:44.805368176
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           4.47%     11.61MiB / 3.852GiB   0.29%     389kB / 996kB    0B / 19MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   253.63%   126.4MiB / 3.852GiB   3.21%     960MB / 1.37GB   0B / 291kB   31
+14:06:49.831856998
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.61%     11.61MiB / 3.852GiB   0.29%     390kB / 999kB    0B / 19.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   243.78%   125.2MiB / 3.852GiB   3.17%     964MB / 1.38GB   0B / 291kB    31
+14:06:54.840805340
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.92%     11.61MiB / 3.852GiB   0.29%     391kB / 1MB      0B / 19.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.93%   125MiB / 3.852GiB     3.17%     967MB / 1.38GB   0B / 291kB    31
+14:06:59.863533819
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.00%     11.62MiB / 3.852GiB   0.29%     392kB / 1MB      0B / 19.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   217.10%   124.8MiB / 3.852GiB   3.16%     970MB / 1.39GB   0B / 291kB    31
+14:07:04.871539023
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.31%     11.62MiB / 3.852GiB   0.29%     393kB / 1.01MB   0B / 19.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   211.60%   125.3MiB / 3.852GiB   3.18%     974MB / 1.39GB   0B / 291kB    31
+14:07:09.881954404
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.38%     11.62MiB / 3.852GiB   0.29%     394kB / 1.01MB   0B / 19.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.80%   124.2MiB / 3.852GiB   3.15%     977MB / 1.4GB    0B / 291kB    31
+14:07:14.908952287
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.56%     11.62MiB / 3.852GiB   0.29%     396kB / 1.01MB   0B / 19.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   228.86%   124.1MiB / 3.852GiB   3.15%     981MB / 1.4GB    0B / 291kB    31
+14:07:19.920409757
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.60%     11.62MiB / 3.852GiB   0.29%     397kB / 1.02MB   0B / 19.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   205.14%   124.9MiB / 3.852GiB   3.17%     985MB / 1.41GB   0B / 291kB    31
+14:07:24.936539306
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.77%     11.62MiB / 3.852GiB   0.29%     398kB / 1.02MB   0B / 19.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   203.55%   124MiB / 3.852GiB     3.14%     988MB / 1.41GB   0B / 291kB    31
+14:07:29.945919973
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.04%     11.62MiB / 3.852GiB   0.29%     399kB / 1.02MB   0B / 19.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   234.09%   125MiB / 3.852GiB     3.17%     992MB / 1.42GB   0B / 291kB    31
+14:07:34.954048775
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.56%     11.62MiB / 3.852GiB   0.29%     400kB / 1.02MB   0B / 19.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   231.02%   125.5MiB / 3.852GiB   3.18%     995MB / 1.42GB   0B / 291kB    31
+14:07:39.972563284
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.59%     11.62MiB / 3.852GiB   0.29%     401kB / 1.03MB   0B / 19.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   242.56%   124MiB / 3.852GiB     3.14%     999MB / 1.43GB   0B / 291kB    31
+14:07:44.993410148
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.56%     11.62MiB / 3.852GiB   0.29%     402kB / 1.03MB   0B / 19.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   214.24%   125.2MiB / 3.852GiB   3.17%     1GB / 1.43GB     0B / 291kB    31
+14:07:50.011834222
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.68%     11.62MiB / 3.852GiB   0.29%     403kB / 1.03MB    0B / 19.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   209.89%   125.7MiB / 3.852GiB   3.19%     1.01GB / 1.44GB   0B / 291kB    31
+14:07:55.019210031
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.90%     11.62MiB / 3.852GiB   0.29%     405kB / 1.04MB    0B / 19.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.38%   125MiB / 3.852GiB     3.17%     1.01GB / 1.44GB   0B / 291kB    31
+14:08:00.031580998
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.72%     11.62MiB / 3.852GiB   0.29%     406kB / 1.04MB    0B / 19.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   200.15%   124.4MiB / 3.852GiB   3.15%     1.01GB / 1.45GB   0B / 291kB    31
+14:08:05.043865889
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.91%     11.62MiB / 3.852GiB   0.29%     407kB / 1.04MB    0B / 19.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   217.32%   124.5MiB / 3.852GiB   3.16%     1.02GB / 1.45GB   0B / 291kB    31
+14:08:10.062294530
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.85%     11.62MiB / 3.852GiB   0.29%     408kB / 1.05MB    0B / 20MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   229.63%   125.3MiB / 3.852GiB   3.18%     1.02GB / 1.46GB   0B / 291kB   31
+14:08:15.070916500
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.43%     11.62MiB / 3.852GiB   0.29%     409kB / 1.05MB    0B / 20MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.59%   125.5MiB / 3.852GiB   3.18%     1.02GB / 1.46GB   0B / 291kB   31
+14:08:20.084907214
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.79%     11.62MiB / 3.852GiB   0.29%     410kB / 1.05MB    0B / 20.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   218.29%   124.6MiB / 3.852GiB   3.16%     1.03GB / 1.47GB   0B / 291kB    31
+14:08:25.112704904
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.97%     11.62MiB / 3.852GiB   0.29%     412kB / 1.05MB    0B / 20.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   224.20%   124.8MiB / 3.852GiB   3.16%     1.03GB / 1.47GB   0B / 291kB    31
+14:08:30.130852948
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.71%     11.64MiB / 3.852GiB   0.30%     413kB / 1.06MB    0B / 20.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   239.46%   123.9MiB / 3.852GiB   3.14%     1.03GB / 1.48GB   0B / 291kB    31
+14:08:35.149007207
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.83%     11.64MiB / 3.852GiB   0.30%     414kB / 1.06MB    0B / 20.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   217.80%   123.9MiB / 3.852GiB   3.14%     1.04GB / 1.48GB   0B / 291kB    31
+14:08:40.169025421
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.08%     11.64MiB / 3.852GiB   0.30%     415kB / 1.06MB    0B / 20.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.70%   127.8MiB / 3.852GiB   3.24%     1.04GB / 1.49GB   0B / 291kB    31
+14:08:45.177775202
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.57%     11.64MiB / 3.852GiB   0.30%     416kB / 1.07MB    0B / 20.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   243.09%   125.5MiB / 3.852GiB   3.18%     1.05GB / 1.49GB   0B / 291kB    31
+14:08:50.186389154
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.99%     11.64MiB / 3.852GiB   0.30%     417kB / 1.07MB   0B / 20.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   238.40%   124.2MiB / 3.852GiB   3.15%     1.05GB / 1.5GB   0B / 291kB    31
+14:08:55.195578328
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.42%     11.64MiB / 3.852GiB   0.30%     418kB / 1.07MB   0B / 20.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   235.09%   125.3MiB / 3.852GiB   3.18%     1.05GB / 1.5GB   0B / 291kB    31
+14:09:00.211656493
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.34%     11.64MiB / 3.852GiB   0.30%     419kB / 1.07MB    0B / 20.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   221.40%   124.9MiB / 3.852GiB   3.17%     1.06GB / 1.51GB   0B / 291kB    31
+14:09:05.222737000
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.30%     11.64MiB / 3.852GiB   0.30%     420kB / 1.08MB    0B / 20.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   236.87%   123MiB / 3.852GiB     3.12%     1.06GB / 1.51GB   0B / 291kB    31
+14:09:10.234257798
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.02%     11.64MiB / 3.852GiB   0.30%     422kB / 1.08MB    0B / 20.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   234.68%   124.5MiB / 3.852GiB   3.16%     1.06GB / 1.51GB   0B / 291kB    31
+14:09:15.242408768
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.69%     11.64MiB / 3.852GiB   0.30%     423kB / 1.08MB    0B / 20.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   244.61%   126.1MiB / 3.852GiB   3.20%     1.07GB / 1.52GB   0B / 291kB    31
+14:09:20.264504521
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.06%     11.64MiB / 3.852GiB   0.30%     424kB / 1.09MB    0B / 20.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.23%   126.1MiB / 3.852GiB   3.20%     1.07GB / 1.52GB   0B / 291kB    31
+14:09:25.280701593
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.57%     11.64MiB / 3.852GiB   0.30%     425kB / 1.09MB    0B / 20.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   230.22%   124.2MiB / 3.852GiB   3.15%     1.07GB / 1.53GB   0B / 291kB    31
+14:09:30.299959403
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.22%     11.64MiB / 3.852GiB   0.30%     426kB / 1.09MB    0B / 20.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   253.87%   125.8MiB / 3.852GiB   3.19%     1.08GB / 1.54GB   0B / 291kB    31
+14:09:35.329969312
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.16%     11.64MiB / 3.852GiB   0.30%     427kB / 1.1MB     0B / 20.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   225.82%   125.7MiB / 3.852GiB   3.19%     1.08GB / 1.54GB   0B / 291kB    31
+14:09:40.374292653
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           3.07%     11.64MiB / 3.852GiB   0.30%     429kB / 1.1MB     0B / 21MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   227.65%   124.2MiB / 3.852GiB   3.15%     1.08GB / 1.55GB   0B / 291kB   31
+14:09:45.399173281
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.96%     11.64MiB / 3.852GiB   0.30%     430kB / 1.1MB     0B / 21MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   220.10%   126.8MiB / 3.852GiB   3.21%     1.09GB / 1.55GB   0B / 291kB   31
+14:09:50.419302115
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.84%     11.64MiB / 3.852GiB   0.30%     431kB / 1.1MB     0B / 21.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   241.33%   123.7MiB / 3.852GiB   3.14%     1.09GB / 1.56GB   0B / 291kB    31
+14:09:55.427483019
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.45%     11.64MiB / 3.852GiB   0.30%     432kB / 1.11MB    0B / 21.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   205.92%   123.7MiB / 3.852GiB   3.14%     1.09GB / 1.56GB   0B / 291kB    31
+14:10:00.436636184
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.61%     11.64MiB / 3.852GiB   0.30%     433kB / 1.11MB   0B / 21.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   193.17%   121.9MiB / 3.852GiB   3.09%     1.1GB / 1.56GB   0B / 291kB    31
+14:10:05.444459958
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.59%     11.64MiB / 3.852GiB   0.30%     434kB / 1.11MB   0B / 21.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   203.00%   120.1MiB / 3.852GiB   3.05%     1.1GB / 1.57GB   0B / 291kB    31
+14:10:10.452261259
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           2.25%     11.64MiB / 3.852GiB   0.30%     436kB / 1.12MB   0B / 21.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   192.78%   120.6MiB / 3.852GiB   3.06%     1.1GB / 1.57GB   0B / 291kB    31
+14:10:15.459564106
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.91%     11.64MiB / 3.852GiB   0.30%     437kB / 1.12MB    0B / 21.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   188.60%   120.2MiB / 3.852GiB   3.05%     1.11GB / 1.58GB   0B / 291kB    31
+14:10:20.479861394
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.78%     11.64MiB / 3.852GiB   0.30%     438kB / 1.12MB    0B / 21.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   189.92%   120.5MiB / 3.852GiB   3.05%     1.11GB / 1.58GB   0B / 291kB    31
+14:10:25.497117124
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.91%     11.64MiB / 3.852GiB   0.30%     438kB / 1.12MB    0B / 21.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   194.83%   120.9MiB / 3.852GiB   3.06%     1.11GB / 1.58GB   0B / 291kB    31
+14:10:30.505478538
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.06%     11.64MiB / 3.852GiB   0.30%     439kB / 1.12MB    0B / 21.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   187.35%   120.1MiB / 3.852GiB   3.05%     1.12GB / 1.59GB   0B / 291kB    31
+14:10:35.524534434
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.92%     11.64MiB / 3.852GiB   0.30%     440kB / 1.13MB    0B / 21.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   185.49%   120.1MiB / 3.852GiB   3.05%     1.12GB / 1.59GB   0B / 291kB    31
+14:10:40.544737547
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.94%     11.64MiB / 3.852GiB   0.30%     441kB / 1.13MB    0B / 21.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   182.20%   120.1MiB / 3.852GiB   3.05%     1.12GB / 1.59GB   0B / 291kB    31
+14:10:45.563551034
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           1.30%     11.64MiB / 3.852GiB   0.30%     442kB / 1.13MB   0B / 21.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   150.05%   120.1MiB / 3.852GiB   3.05%     1.12GB / 1.6GB   0B / 291kB    31
+14:10:50.576887069
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.72%     11.64MiB / 3.852GiB   0.30%     443kB / 1.14MB   0B / 21.7MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   139.05%   120.1MiB / 3.852GiB   3.05%     1.13GB / 1.6GB   0B / 291kB    31
+14:10:55.587901613
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.58%     11.64MiB / 3.852GiB   0.30%     445kB / 1.14MB   0B / 21.8MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   116.09%   120.1MiB / 3.852GiB   3.05%     1.13GB / 1.6GB   0B / 291kB    31
+14:11:00.599510855
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.55%     11.65MiB / 3.852GiB   0.30%     446kB / 1.14MB   0B / 21.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   76.04%    120.1MiB / 3.852GiB   3.05%     1.13GB / 1.6GB   0B / 291kB    31
+14:11:05.608701637
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.55%     11.65MiB / 3.852GiB   0.30%     447kB / 1.15MB    0B / 21.9MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   73.41%    120.1MiB / 3.852GiB   3.05%     1.13GB / 1.61GB   0B / 291kB    31
+14:11:10.615219959
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.62%     11.65MiB / 3.852GiB   0.30%     448kB / 1.15MB    0B / 22MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   41.30%    120.1MiB / 3.852GiB   3.05%     1.13GB / 1.61GB   0B / 291kB   31
+14:11:15.623452477
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.53%     11.65MiB / 3.852GiB   0.30%     449kB / 1.15MB    0B / 22MB    10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   42.28%    120.1MiB / 3.852GiB   3.05%     1.13GB / 1.61GB   0B / 291kB   31
+14:11:20.631004008
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.53%     11.65MiB / 3.852GiB   0.30%     450kB / 1.15MB    0B / 22.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   77.23%    120.1MiB / 3.852GiB   3.05%     1.13GB / 1.61GB   0B / 291kB    31
+14:11:25.637976414
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.62%     11.66MiB / 3.852GiB   0.30%     451kB / 1.16MB    0B / 22.1MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   75.51%    120.1MiB / 3.852GiB   3.05%     1.13GB / 1.61GB   0B / 291kB    31
+14:11:30.645212551
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.66%     11.66MiB / 3.852GiB   0.30%     452kB / 1.16MB    0B / 22.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   40.59%    120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
+14:11:35.652332315
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.57%     11.66MiB / 3.852GiB   0.30%     454kB / 1.16MB    0B / 22.2MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   53.56%    120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
+14:11:40.659243350
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.89%     11.66MiB / 3.852GiB   0.30%     455kB / 1.17MB    0B / 22.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   13.78%    120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
+14:11:45.665786928
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.92%     11.66MiB / 3.852GiB   0.30%     456kB / 1.17MB    0B / 22.3MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   1.03%     120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
+14:11:50.674337530
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.96%     11.66MiB / 3.852GiB   0.30%     457kB / 1.17MB    0B / 22.4MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.78%     120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
+14:11:55.686032957
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.87%     11.66MiB / 3.852GiB   0.30%     458kB / 1.18MB    0B / 22.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.80%     120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
+14:12:00.698346038
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.86%     11.66MiB / 3.852GiB   0.30%     459kB / 1.18MB    0B / 22.5MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.20%     120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
+14:12:05.710008612
+CONTAINER ID   NAME                                            CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+215df91d41e5   ex18_etcd.1.tpl2f6hgkzldw234kvfwmla8t           0.91%     11.66MiB / 3.852GiB   0.30%     460kB / 1.18MB    0B / 22.6MB   10
+ec443be1130d   ex18_mqtt-cluster.1.m0d0953pmfbjxqck5cewkdhu6   0.21%     120.1MiB / 3.852GiB   3.05%     1.14GB / 1.61GB   0B / 291kB    31
