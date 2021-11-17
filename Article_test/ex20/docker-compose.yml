@@ -66,7 +66,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-1
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -90,7 +90,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-1
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -114,7 +114,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-2
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -138,7 +138,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-2
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -160,7 +160,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-1
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -182,7 +182,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-1
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -204,7 +204,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-2
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -226,7 +226,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-2
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
