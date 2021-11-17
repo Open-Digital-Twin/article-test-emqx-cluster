@@ -1,0 +1,1240 @@
+10:47:38.765039117
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.14%     126.3MiB / 3.852GiB   3.20%     116kB / 101kB    0B / 655kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.54%     9.266MiB / 3.852GiB   0.23%     8.8kB / 17.4kB   0B / 1.47MB   9
+10:47:43.775622653
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.11%     126.3MiB / 3.852GiB   3.20%     116kB / 101kB    0B / 655kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.87%     9.266MiB / 3.852GiB   0.23%     8.8kB / 17.4kB   0B / 1.52MB   9
+10:47:48.782519431
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.19%     126.3MiB / 3.852GiB   3.20%     117kB / 101kB    0B / 655kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.94%     9.266MiB / 3.852GiB   0.23%     8.8kB / 17.4kB   0B / 1.55MB   9
+10:47:53.789473433
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.16%     126.3MiB / 3.852GiB   3.20%     117kB / 102kB    0B / 655kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.68%     9.266MiB / 3.852GiB   0.23%     8.8kB / 17.4kB   0B / 1.59MB   9
+10:47:58.796443006
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.11%     126.3MiB / 3.852GiB   3.20%     117kB / 102kB    0B / 655kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.76%     9.266MiB / 3.852GiB   0.23%     8.8kB / 17.4kB   0B / 1.63MB   9
+10:48:03.803884653
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   51.86%    126.3MiB / 3.852GiB   3.20%     366kB / 352kB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.77%     9.391MiB / 3.852GiB   0.24%     8.8kB / 17.4kB   0B / 1.68MB   9
+10:48:08.810879459
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   106.10%   126.5MiB / 3.852GiB   3.21%     996kB / 987kB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.72%     9.324MiB / 3.852GiB   0.24%     9.44kB / 19kB   0B / 1.73MB   9
+10:48:13.825595362
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   171.52%   126.6MiB / 3.852GiB   3.21%     2.35MB / 2.42MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.12%     9.324MiB / 3.852GiB   0.24%     9.44kB / 19kB     0B / 1.78MB   9
+10:48:18.846850771
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   260.40%   127.1MiB / 3.852GiB   3.22%     4.3MB / 4.73MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.24%     9.324MiB / 3.852GiB   0.24%     9.44kB / 19kB    0B / 1.81MB   9
+10:48:23.869448425
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   279.20%   135.1MiB / 3.852GiB   3.43%     5.81MB / 6.81MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.31%     9.324MiB / 3.852GiB   0.24%     9.44kB / 19kB     0B / 1.86MB   9
+10:48:28.899146795
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   178.00%   138.9MiB / 3.852GiB   3.52%     8.05MB / 10.4MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.42%     9.324MiB / 3.852GiB   0.24%     9.44kB / 19kB     0B / 1.89MB   9
+10:48:33.918176202
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   221.16%   141.1MiB / 3.852GiB   3.58%     9.69MB / 12.9MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.84%     9.324MiB / 3.852GiB   0.24%     9.44kB / 19kB     0B / 1.94MB   9
+10:48:38.934777902
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   321.93%   135.7MiB / 3.852GiB   3.44%     11.4MB / 15.5MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.40%     9.324MiB / 3.852GiB   0.24%     10.1kB / 20.5kB   0B / 2MB     9
+10:48:43.943474889
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   157.29%   131.8MiB / 3.852GiB   3.34%     13.5MB / 18.4MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.99%     9.324MiB / 3.852GiB   0.24%     10.1kB / 20.5kB   0B / 2.03MB   9
+10:48:48.961441996
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   305.47%   134.8MiB / 3.852GiB   3.42%     15.2MB / 21MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.06%     9.324MiB / 3.852GiB   0.24%     10.1kB / 20.5kB   0B / 2.08MB   9
+10:48:53.990025889
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   325.28%   136.9MiB / 3.852GiB   3.47%     16.9MB / 23.5MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.53%     9.324MiB / 3.852GiB   0.24%     10.2kB / 20.5kB   0B / 2.12MB   9
+10:48:59.014208058
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   323.68%   135.7MiB / 3.852GiB   3.44%     18.8MB / 26.5MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.69%     9.324MiB / 3.852GiB   0.24%     10.2kB / 20.5kB   0B / 2.16MB   9
+10:49:04.035262354
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   189.58%   134.4MiB / 3.852GiB   3.41%     20.6MB / 29.3MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.24%     9.324MiB / 3.852GiB   0.24%     10.5kB / 21.3kB   0B / 2.21MB   9
+10:49:09.052980881
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   268.84%   135.2MiB / 3.852GiB   3.43%     22.6MB / 32.3MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.05%     9.324MiB / 3.852GiB   0.24%     10.8kB / 22.1kB   0B / 2.26MB   9
+10:49:14.064126332
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   160.39%   134.8MiB / 3.852GiB   3.42%     24.2MB / 34.7MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.10%     9.324MiB / 3.852GiB   0.24%     10.8kB / 22.1kB   0B / 2.29MB   9
+10:49:19.073513295
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   364.41%   137.1MiB / 3.852GiB   3.48%     26.2MB / 37.5MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.72%     9.324MiB / 3.852GiB   0.24%     10.8kB / 22.1kB   0B / 2.34MB   9
+10:49:24.090054263
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   278.51%   135.1MiB / 3.852GiB   3.43%     27.9MB / 40MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.07%     9.324MiB / 3.852GiB   0.24%     10.8kB / 22.1kB   0B / 2.38MB   9
+10:49:29.132878883
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   269.72%   138.4MiB / 3.852GiB   3.51%     29.8MB / 42.7MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.39%     9.324MiB / 3.852GiB   0.24%     10.8kB / 22.1kB   0B / 2.42MB   9
+10:49:34.203882047
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   330.77%   144.4MiB / 3.852GiB   3.66%     31.6MB / 45.5MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.26%     9.324MiB / 3.852GiB   0.24%     11.1kB / 22.9kB   0B / 2.48MB   9
+10:49:39.223893251
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   344.12%   147.4MiB / 3.852GiB   3.74%     33.4MB / 48.1MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.25%     9.324MiB / 3.852GiB   0.24%     11.4kB / 23.6kB   0B / 2.53MB   9
+10:49:44.249920439
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   252.16%   148.2MiB / 3.852GiB   3.76%     34.8MB / 50.4MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.77%     9.324MiB / 3.852GiB   0.24%     11.4kB / 23.6kB   0B / 2.56MB   9
+10:49:49.280591359
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   309.33%   145.1MiB / 3.852GiB   3.68%     36.5MB / 53.1MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.07%     9.324MiB / 3.852GiB   0.24%     11.4kB / 23.6kB   0B / 2.6MB   9
+10:49:54.305177794
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   318.94%   135.4MiB / 3.852GiB   3.43%     38.3MB / 55.8MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.43%     9.324MiB / 3.852GiB   0.24%     11.4kB / 23.6kB   0B / 2.65MB   9
+10:49:59.341580990
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   325.18%   139.8MiB / 3.852GiB   3.54%     40.1MB / 58.8MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.66%     9.324MiB / 3.852GiB   0.24%     11.4kB / 23.6kB   0B / 2.69MB   9
+10:50:04.358303848
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   332.54%   134.4MiB / 3.852GiB   3.41%     41.5MB / 60.8MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.28%     9.34MiB / 3.852GiB    0.24%     11.4kB / 23.6kB   0B / 2.72MB   9
+10:50:09.370014783
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   321.01%   138.3MiB / 3.852GiB   3.51%     43.5MB / 63.7MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.60%     9.34MiB / 3.852GiB    0.24%     12.1kB / 25.2kB   0B / 2.78MB   9
+10:50:14.392030496
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   302.23%   138.2MiB / 3.852GiB   3.50%     45.3MB / 66.5MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.16%     9.34MiB / 3.852GiB    0.24%     12.1kB / 25.2kB   0B / 2.82MB   9
+10:50:19.427736953
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   364.98%   136MiB / 3.852GiB    3.45%     47.2MB / 69.4MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          5.01%     9.34MiB / 3.852GiB   0.24%     12.1kB / 25.2kB   0B / 2.86MB   9
+10:50:24.444753521
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   173.30%   141.6MiB / 3.852GiB   3.59%     49MB / 72.2MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.99%     9.34MiB / 3.852GiB    0.24%     12.1kB / 25.2kB   0B / 2.91MB   9
+10:50:29.477340466
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   129.02%   136.4MiB / 3.852GiB   3.46%     50.6MB / 74.7MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          5.79%     9.34MiB / 3.852GiB    0.24%     12.1kB / 25.2kB   0B / 2.95MB   9
+10:50:34.490477412
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   340.51%   140.8MiB / 3.852GiB   3.57%     52.6MB / 77.6MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.01%     9.34MiB / 3.852GiB    0.24%     12.1kB / 25.2kB   0B / 2.99MB   9
+10:50:39.504362959
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   337.20%   140.2MiB / 3.852GiB   3.55%     54.5MB / 80.5MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.40%     9.34MiB / 3.852GiB    0.24%     12.7kB / 26.7kB   0B / 3.04MB   9
+10:50:44.520404161
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   239.90%   142.6MiB / 3.852GiB   3.62%     56.3MB / 83.2MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.51%     9.34MiB / 3.852GiB    0.24%     12.7kB / 26.7kB   0B / 3.08MB   9
+10:50:49.559985899
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   291.77%   136.5MiB / 3.852GiB   3.46%     58.1MB / 86MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.82%     9.34MiB / 3.852GiB    0.24%     12.7kB / 26.7kB   0B / 3.13MB   9
+10:50:54.593071733
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   339.34%   138MiB / 3.852GiB    3.50%     60MB / 88.7MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.22%     9.34MiB / 3.852GiB   0.24%     12.7kB / 26.7kB   0B / 3.17MB   9
+10:50:59.653594296
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   256.18%   142.4MiB / 3.852GiB   3.61%     61.9MB / 91.5MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.42%     9.34MiB / 3.852GiB    0.24%     12.7kB / 26.7kB   0B / 3.22MB   9
+10:51:04.697072071
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   304.94%   140.5MiB / 3.852GiB   3.56%     63.7MB / 94.2MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.38%     9.34MiB / 3.852GiB    0.24%     13kB / 27.5kB     0B / 3.26MB   9
+10:51:09.721097828
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   188.96%   142.7MiB / 3.852GiB   3.62%     65.2MB / 96.5MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.63%     9.34MiB / 3.852GiB    0.24%     13.4kB / 28.3kB   0B / 3.3MB   9
+10:51:14.738063134
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   328.15%   149.8MiB / 3.852GiB   3.80%     67.2MB / 99.4MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.39%     9.34MiB / 3.852GiB    0.24%     13.4kB / 28.3kB   0B / 3.35MB   9
+10:51:19.771122994
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   230.94%   154.7MiB / 3.852GiB   3.92%     69.1MB / 102MB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.66%     9.348MiB / 3.852GiB   0.24%     13.4kB / 28.3kB   0B / 3.39MB   9
+10:51:24.794218146
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   339.72%   148.1MiB / 3.852GiB   3.75%     71.1MB / 105MB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.44%     9.348MiB / 3.852GiB   0.24%     13.4kB / 28.3kB   0B / 3.43MB   9
+10:51:29.822656565
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   244.94%   149.3MiB / 3.852GiB   3.78%     73MB / 108MB      0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.23%     9.348MiB / 3.852GiB   0.24%     13.4kB / 28.3kB   0B / 3.48MB   9
+10:51:34.889211018
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   266.77%   147MiB / 3.852GiB     3.73%     74.5MB / 110MB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.17%     9.348MiB / 3.852GiB   0.24%     13.7kB / 29.1kB   0B / 3.52MB   9
+10:51:39.929304696
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   212.20%   155.5MiB / 3.852GiB   3.94%     76.4MB / 113MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.55%     9.352MiB / 3.852GiB   0.24%     14kB / 29.8kB    0B / 3.56MB   9
+10:51:44.953110093
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   196.04%   154.7MiB / 3.852GiB   3.92%     78.3MB / 116MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.00%     9.352MiB / 3.852GiB   0.24%     14kB / 29.8kB    0B / 3.61MB   9
+10:51:49.966488166
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   324.19%   154.7MiB / 3.852GiB   3.92%     80.2MB / 119MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.77%     9.352MiB / 3.852GiB   0.24%     14kB / 29.8kB    0B / 3.65MB   9
+10:51:54.998882466
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   135.39%   155.2MiB / 3.852GiB   3.93%     82.2MB / 122MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.20%     9.352MiB / 3.852GiB   0.24%     14kB / 29.8kB    0B / 3.69MB   9
+10:52:00.039135682
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   357.41%   155.4MiB / 3.852GiB   3.94%     84MB / 124MB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.63%     9.352MiB / 3.852GiB   0.24%     14kB / 29.8kB   0B / 3.74MB   9
+10:52:05.067947116
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   200.18%   157.5MiB / 3.852GiB   3.99%     85.5MB / 127MB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.38%     9.352MiB / 3.852GiB   0.24%     14.3kB / 30.6kB   0B / 3.78MB   9
+10:52:10.092669569
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   342.92%   155.2MiB / 3.852GiB   3.93%     87.4MB / 129MB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.83%     9.352MiB / 3.852GiB   0.24%     14.6kB / 31.4kB   0B / 3.83MB   9
+10:52:15.127902218
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   280.49%   152.4MiB / 3.852GiB   3.86%     89.2MB / 132MB    0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.08%     9.355MiB / 3.852GiB   0.24%     14.6kB / 31.4kB   0B / 3.87MB   9
+10:52:20.147666266
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   313.12%   155.3MiB / 3.852GiB   3.94%     91MB / 135MB      0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.46%     9.355MiB / 3.852GiB   0.24%     14.6kB / 31.4kB   0B / 3.92MB   9
+10:52:25.176682918
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   191.51%   150.3MiB / 3.852GiB   3.81%     93MB / 138MB      0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.38%     9.355MiB / 3.852GiB   0.24%     14.6kB / 31.4kB   0B / 3.96MB   9
+10:52:30.195425567
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   333.45%   154.3MiB / 3.852GiB   3.91%     94.6MB / 140MB    0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.94%     9.355MiB / 3.852GiB   0.24%     14.6kB / 31.4kB   0B / 4MB     9
+10:52:35.210829407
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   226.49%   156.7MiB / 3.852GiB   3.97%     96.4MB / 143MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.84%     9.355MiB / 3.852GiB   0.24%     15kB / 32.2kB    0B / 4.05MB   9
+10:52:40.240502831
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   296.91%   158.2MiB / 3.852GiB   4.01%     98.3MB / 145MB    0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.35%     9.355MiB / 3.852GiB   0.24%     15.3kB / 32.9kB   0B / 4.1MB   9
+10:52:45.275641986
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   312.32%   159.9MiB / 3.852GiB   4.06%     100MB / 148MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.93%     9.355MiB / 3.852GiB   0.24%     15.3kB / 32.9kB   0B / 4.14MB   9
+10:52:50.297748372
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   250.85%   159MiB / 3.852GiB     4.03%     102MB / 150MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.15%     9.355MiB / 3.852GiB   0.24%     15.3kB / 32.9kB   0B / 4.19MB   9
+10:52:55.306725919
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   200.54%   167.1MiB / 3.852GiB   4.24%     103MB / 153MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.15%     9.355MiB / 3.852GiB   0.24%     15.3kB / 32.9kB   0B / 4.22MB   9
+10:53:00.331660301
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   289.38%   165.6MiB / 3.852GiB   4.20%     105MB / 156MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.34%     9.355MiB / 3.852GiB   0.24%     15.3kB / 32.9kB   0B / 4.26MB   9
+10:53:05.349632994
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   200.69%   160.6MiB / 3.852GiB   4.07%     107MB / 158MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.12%     9.359MiB / 3.852GiB   0.24%     15.6kB / 33.7kB   0B / 4.31MB   9
+10:53:10.365968556
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   218.31%   162.9MiB / 3.852GiB   4.13%     109MB / 161MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.32%     9.359MiB / 3.852GiB   0.24%     15.9kB / 34.5kB   0B / 4.35MB   9
+10:53:15.379740343
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   289.36%   166.8MiB / 3.852GiB   4.23%     111MB / 164MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.39%     9.359MiB / 3.852GiB   0.24%     15.9kB / 34.5kB   0B / 4.4MB   9
+10:53:20.395977366
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   263.91%   164.4MiB / 3.852GiB   4.17%     113MB / 166MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.62%     9.359MiB / 3.852GiB   0.24%     15.9kB / 34.5kB   0B / 4.44MB   9
+10:53:25.413545954
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   322.80%   164.2MiB / 3.852GiB   4.16%     115MB / 169MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.94%     9.359MiB / 3.852GiB   0.24%     15.9kB / 34.5kB   0B / 4.49MB   9
+10:53:30.442986617
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   303.51%   179MiB / 3.852GiB     4.54%     116MB / 172MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.57%     9.359MiB / 3.852GiB   0.24%     16kB / 34.5kB   0B / 4.53MB   9
+10:53:35.477627878
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   376.30%   161.4MiB / 3.852GiB   4.09%     118MB / 174MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.07%     9.359MiB / 3.852GiB   0.24%     16.3kB / 35.3kB   0B / 4.57MB   9
+10:53:40.489133470
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   146.75%   175.3MiB / 3.852GiB   4.44%     120MB / 176MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.84%     9.359MiB / 3.852GiB   0.24%     16.6kB / 36kB   0B / 4.62MB   9
+10:53:45.528813755
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   169.16%   173.1MiB / 3.852GiB   4.39%     122MB / 179MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.62%     9.359MiB / 3.852GiB   0.24%     16.6kB / 36kB   0B / 4.66MB   9
+10:53:50.558687856
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   183.20%   174.7MiB / 3.852GiB   4.43%     124MB / 183MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.42%     9.367MiB / 3.852GiB   0.24%     16.6kB / 36kB   0B / 4.7MB   9
+10:53:55.581517716
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   258.71%   174.2MiB / 3.852GiB   4.42%     126MB / 186MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.16%     9.367MiB / 3.852GiB   0.24%     16.6kB / 36kB   0B / 4.75MB   9
+10:54:00.604346363
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   277.64%   185.6MiB / 3.852GiB   4.71%     128MB / 188MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.14%     9.367MiB / 3.852GiB   0.24%     16.6kB / 36kB   0B / 4.79MB   9
+10:54:05.626636718
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   336.89%   178.2MiB / 3.852GiB   4.52%     130MB / 191MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.61%     9.367MiB / 3.852GiB   0.24%     17kB / 36.8kB   0B / 4.83MB   9
+10:54:10.657570588
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   211.12%   181.7MiB / 3.852GiB   4.61%     131MB / 193MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.98%     9.367MiB / 3.852GiB   0.24%     17.3kB / 37.6kB   0B / 4.89MB   9
+10:54:15.690595986
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   301.46%   191.4MiB / 3.852GiB   4.85%     133MB / 195MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.28%     9.367MiB / 3.852GiB   0.24%     17.3kB / 37.6kB   0B / 4.93MB   9
+10:54:20.712247982
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   250.32%   182.6MiB / 3.852GiB   4.63%     135MB / 198MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.78%     9.367MiB / 3.852GiB   0.24%     17.3kB / 37.6kB   0B / 4.96MB   9
+10:54:25.736882229
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   331.97%   193.1MiB / 3.852GiB   4.90%     137MB / 201MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.26%     9.367MiB / 3.852GiB   0.24%     17.3kB / 37.6kB   0B / 5.01MB   9
+10:54:30.751984186
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   320.96%   178.6MiB / 3.852GiB   4.53%     138MB / 204MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.72%     9.367MiB / 3.852GiB   0.24%     17.3kB / 37.6kB   0B / 5.05MB   9
+10:54:35.770180612
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   351.90%   185MiB / 3.852GiB     4.69%     140MB / 206MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.33%     9.367MiB / 3.852GiB   0.24%     17.6kB / 38.4kB   0B / 5.1MB   9
+10:54:40.783462054
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   361.84%   184.6MiB / 3.852GiB   4.68%     142MB / 208MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          5.36%     9.367MiB / 3.852GiB   0.24%     17.9kB / 39.2kB   0B / 5.14MB   9
+10:54:45.793678564
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   320.80%   180.5MiB / 3.852GiB   4.58%     144MB / 211MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.03%     9.367MiB / 3.852GiB   0.24%     17.9kB / 39.2kB   0B / 5.19MB   9
+10:54:50.808747122
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   343.50%   182.8MiB / 3.852GiB   4.63%     145MB / 213MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.78%     9.367MiB / 3.852GiB   0.24%     17.9kB / 39.2kB   0B / 5.23MB   9
+10:54:55.846286705
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   332.75%   191.6MiB / 3.852GiB   4.86%     147MB / 216MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.86%     9.367MiB / 3.852GiB   0.24%     17.9kB / 39.2kB   0B / 5.27MB   9
+10:55:00.873232977
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   292.05%   190.1MiB / 3.852GiB   4.82%     149MB / 219MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.81%     9.367MiB / 3.852GiB   0.24%     17.9kB / 39.2kB   0B / 5.32MB   9
+10:55:05.890893848
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   279.56%   206.3MiB / 3.852GiB   5.23%     151MB / 221MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.76%     9.367MiB / 3.852GiB   0.24%     18.2kB / 39.9kB   0B / 5.36MB   9
+10:55:10.911535529
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   351.24%   194.7MiB / 3.852GiB   4.93%     153MB / 224MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.21%     9.367MiB / 3.852GiB   0.24%     18.6kB / 40.7kB   0B / 5.4MB   9
+10:55:15.938869159
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   168.95%   193.4MiB / 3.852GiB   4.90%     155MB / 227MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.30%     9.367MiB / 3.852GiB   0.24%     18.6kB / 40.7kB   0B / 5.45MB   9
+10:55:20.953767010
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   165.82%   222.8MiB / 3.852GiB   5.65%     157MB / 230MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.30%     9.367MiB / 3.852GiB   0.24%     18.6kB / 40.7kB   0B / 5.49MB   9
+10:55:25.969487009
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.96%   202MiB / 3.852GiB     5.12%     159MB / 233MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.81%     9.367MiB / 3.852GiB   0.24%     18.6kB / 40.7kB   0B / 5.54MB   9
+10:55:30.984013116
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   122.42%   206.7MiB / 3.852GiB   5.24%     160MB / 235MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.06%     9.367MiB / 3.852GiB   0.24%     18.6kB / 40.7kB   0B / 5.57MB   9
+10:55:36.010900681
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   125.53%   230MiB / 3.852GiB     5.83%     162MB / 238MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.90%     9.367MiB / 3.852GiB   0.24%     18.9kB / 41.5kB   0B / 5.62MB   9
+10:55:41.029839120
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   137.94%   208MiB / 3.852GiB     5.27%     164MB / 241MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.62%     9.367MiB / 3.852GiB   0.24%     19.2kB / 42.3kB   0B / 5.66MB   9
+10:55:46.044163902
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   124.03%   229.8MiB / 3.852GiB   5.83%     166MB / 244MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.36%     9.367MiB / 3.852GiB   0.24%     19.2kB / 42.3kB   0B / 5.71MB   9
+10:55:51.061531736
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   113.31%   215.5MiB / 3.852GiB   5.46%     168MB / 247MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.74%     9.367MiB / 3.852GiB   0.24%     19.2kB / 42.3kB   0B / 5.75MB   9
+10:55:56.078922037
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   110.09%   210.7MiB / 3.852GiB   5.34%     170MB / 251MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.00%     9.367MiB / 3.852GiB   0.24%     19.2kB / 42.3kB   0B / 5.79MB   9
+10:56:01.108052675
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.06%   208.1MiB / 3.852GiB   5.28%     172MB / 253MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.86%     9.445MiB / 3.852GiB   0.24%     19.2kB / 42.3kB   0B / 5.84MB   9
+10:56:06.115471742
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.65%   219MiB / 3.852GiB     5.55%     174MB / 256MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.05%     9.445MiB / 3.852GiB   0.24%     19.5kB / 43kB   0B / 5.88MB   9
+10:56:11.137393751
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   110.71%   209.1MiB / 3.852GiB   5.30%     176MB / 259MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.12%     9.445MiB / 3.852GiB   0.24%     19.9kB / 43.8kB   0B / 5.92MB   9
+10:56:16.159761571
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   134.00%   228.8MiB / 3.852GiB   5.80%     178MB / 262MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.50%     9.445MiB / 3.852GiB   0.24%     19.9kB / 43.8kB   0B / 5.97MB   9
+10:56:21.184774876
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.73%   198.8MiB / 3.852GiB   5.04%     180MB / 265MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.77%     9.445MiB / 3.852GiB   0.24%     19.9kB / 43.8kB   0B / 6.01MB   9
+10:56:26.192660034
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   106.86%   221.7MiB / 3.852GiB   5.62%     181MB / 268MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.79%     9.445MiB / 3.852GiB   0.24%     19.9kB / 43.8kB   0B / 6.05MB   9
+10:56:31.214137310
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   134.23%   195.3MiB / 3.852GiB   4.95%     183MB / 272MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.09%     9.445MiB / 3.852GiB   0.24%     19.9kB / 43.8kB   0B / 6.1MB   9
+10:56:36.235619036
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   272.08%   203.3MiB / 3.852GiB   5.15%     185MB / 274MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.53%     9.445MiB / 3.852GiB   0.24%     20.2kB / 44.6kB   0B / 6.14MB   9
+10:56:41.267595640
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.04%   198MiB / 3.852GiB     5.02%     187MB / 277MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.82%     9.445MiB / 3.852GiB   0.24%     20.5kB / 45.4kB   0B / 6.18MB   9
+10:56:46.281157555
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   132.81%   197.2MiB / 3.852GiB   5.00%     189MB / 280MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.02%     9.445MiB / 3.852GiB   0.24%     20.5kB / 45.4kB   0B / 6.23MB   9
+10:56:51.288664855
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   141.02%   206.7MiB / 3.852GiB   5.24%     191MB / 283MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.13%     9.445MiB / 3.852GiB   0.24%     20.5kB / 45.4kB   0B / 6.27MB   9
+10:56:56.324773534
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   155.17%   202.7MiB / 3.852GiB   5.14%     192MB / 286MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.15%     9.445MiB / 3.852GiB   0.24%     20.5kB / 45.4kB   0B / 6.32MB   9
+10:57:01.352030231
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   125.73%   199.9MiB / 3.852GiB   5.07%     194MB / 289MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.78%     9.445MiB / 3.852GiB   0.24%     20.5kB / 45.4kB   0B / 6.36MB   9
+10:57:06.369143221
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   119.50%   187.3MiB / 3.852GiB   4.75%     196MB / 292MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.73%     9.445MiB / 3.852GiB   0.24%     20.8kB / 46.1kB   0B / 6.41MB   9
+10:57:11.384405135
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   125.21%   199.7MiB / 3.852GiB   5.06%     198MB / 295MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.16%     9.445MiB / 3.852GiB   0.24%     21.1kB / 46.9kB   0B / 6.46MB   9
+10:57:16.406291572
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   141.78%   197.7MiB / 3.852GiB   5.01%     200MB / 298MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.03%     9.445MiB / 3.852GiB   0.24%     21.1kB / 46.9kB   0B / 6.5MB   9
+10:57:21.434302581
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   139.82%   210.7MiB / 3.852GiB   5.34%     202MB / 301MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.94%     9.445MiB / 3.852GiB   0.24%     21.1kB / 46.9kB   0B / 6.54MB   9
+10:57:26.460401826
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   111.32%   184.6MiB / 3.852GiB   4.68%     204MB / 304MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.85%     9.445MiB / 3.852GiB   0.24%     21.1kB / 46.9kB   0B / 6.57MB   9
+10:57:31.481738036
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   109.31%   189.2MiB / 3.852GiB   4.80%     206MB / 307MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.97%     9.445MiB / 3.852GiB   0.24%     21.1kB / 46.9kB   0B / 6.62MB   9
+10:57:36.500704976
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   134.48%   200.6MiB / 3.852GiB   5.08%     208MB / 310MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.78%     9.445MiB / 3.852GiB   0.24%     21.5kB / 47.7kB   0B / 6.66MB   9
+10:57:41.525496990
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.52%   185.6MiB / 3.852GiB   4.71%     210MB / 313MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.69%     9.445MiB / 3.852GiB   0.24%     21.8kB / 48.5kB   0B / 6.71MB   9
+10:57:46.532094517
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   267.11%   201.2MiB / 3.852GiB   5.10%     212MB / 316MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.99%     9.445MiB / 3.852GiB   0.24%     21.8kB / 48.5kB   0B / 6.76MB   9
+10:57:51.548065981
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   398.79%   191.5MiB / 3.852GiB   4.86%     213MB / 319MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.47%     9.445MiB / 3.852GiB   0.24%     21.8kB / 48.5kB   0B / 6.8MB   9
+10:57:56.563478821
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   341.30%   204.9MiB / 3.852GiB   5.19%     215MB / 322MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.04%     9.445MiB / 3.852GiB   0.24%     21.8kB / 48.5kB   0B / 6.84MB   9
+10:58:01.590232523
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   105.72%   189MiB / 3.852GiB     4.79%     217MB / 325MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.32%     9.445MiB / 3.852GiB   0.24%     21.8kB / 48.5kB   0B / 6.89MB   9
+10:58:06.616504303
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   113.93%   188.8MiB / 3.852GiB   4.79%     219MB / 327MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.03%     9.445MiB / 3.852GiB   0.24%     22.1kB / 49.2kB   0B / 6.93MB   9
+10:58:11.625437465
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   106.33%   180.5MiB / 3.852GiB   4.58%     221MB / 331MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.70%     9.445MiB / 3.852GiB   0.24%     22.4kB / 50kB   0B / 6.97MB   9
+10:58:16.670169890
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   134.74%   186.9MiB / 3.852GiB   4.74%     223MB / 334MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.22%     9.445MiB / 3.852GiB   0.24%     22.4kB / 50kB   0B / 7.02MB   9
+10:58:21.691038039
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   109.92%   175MiB / 3.852GiB     4.44%     225MB / 337MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.64%     9.445MiB / 3.852GiB   0.24%     22.4kB / 50kB   0B / 7.06MB   9
+10:58:26.699994784
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   140.11%   174MiB / 3.852GiB     4.41%     227MB / 340MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.18%     9.445MiB / 3.852GiB   0.24%     22.4kB / 50kB   0B / 7.1MB   9
+10:58:31.722867825
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   130.71%   170.5MiB / 3.852GiB   4.32%     229MB / 343MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.73%     9.445MiB / 3.852GiB   0.24%     22.4kB / 50kB   0B / 7.15MB   9
+10:58:36.734012340
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   132.08%   172MiB / 3.852GiB     4.36%     230MB / 346MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.77%     9.445MiB / 3.852GiB   0.24%     22.7kB / 50.8kB   0B / 7.19MB   9
+10:58:41.750305120
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   115.86%   175.6MiB / 3.852GiB   4.45%     232MB / 349MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.60%     9.445MiB / 3.852GiB   0.24%     23.1kB / 51.6kB   0B / 7.23MB   9
+10:58:46.770159486
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   125.25%   165.1MiB / 3.852GiB   4.19%     234MB / 352MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.77%     9.547MiB / 3.852GiB   0.24%     23.1kB / 51.6kB   0B / 7.28MB   9
+10:58:51.778372367
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.57%   160MiB / 3.852GiB     4.06%     236MB / 355MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.33%     9.547MiB / 3.852GiB   0.24%     23.1kB / 51.6kB   0B / 7.32MB   9
+10:58:56.799775632
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   112.14%   166.4MiB / 3.852GiB   4.22%     238MB / 358MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.38%     9.547MiB / 3.852GiB   0.24%     23.1kB / 51.6kB   0B / 7.36MB   9
+10:59:01.825167903
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   119.20%   161.4MiB / 3.852GiB   4.09%     240MB / 361MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.38%     9.555MiB / 3.852GiB   0.24%     23.1kB / 51.6kB   0B / 7.41MB   9
+10:59:06.849024555
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.34%   167.6MiB / 3.852GiB   4.25%     242MB / 364MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.83%     9.555MiB / 3.852GiB   0.24%     23.4kB / 52.4kB   0B / 7.45MB   9
+10:59:11.877965114
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   109.17%   163.2MiB / 3.852GiB   4.14%     244MB / 367MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.89%     9.555MiB / 3.852GiB   0.24%     23.7kB / 53.1kB   0B / 7.5MB   9
+10:59:16.895964096
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   138.58%   161.5MiB / 3.852GiB   4.09%     245MB / 370MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.77%     9.555MiB / 3.852GiB   0.24%     23.7kB / 53.1kB   0B / 7.53MB   9
+10:59:21.909868539
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.86%   157.2MiB / 3.852GiB   3.99%     247MB / 373MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.45%     9.555MiB / 3.852GiB   0.24%     23.7kB / 53.1kB   0B / 7.58MB   9
+10:59:26.937335714
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   137.48%   162.1MiB / 3.852GiB   4.11%     249MB / 376MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.89%     9.555MiB / 3.852GiB   0.24%     23.7kB / 53.1kB   0B / 7.62MB   9
+10:59:31.945239288
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.23%   162.6MiB / 3.852GiB   4.12%     251MB / 379MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.44%     9.555MiB / 3.852GiB   0.24%     23.7kB / 53.1kB   0B / 7.66MB   9
+10:59:36.952987905
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.93%   162.3MiB / 3.852GiB   4.11%     253MB / 382MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.44%     9.555MiB / 3.852GiB   0.24%     24kB / 53.9kB   0B / 7.71MB   9
+10:59:41.962779593
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   140.12%   155.3MiB / 3.852GiB   3.94%     255MB / 386MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.23%     9.555MiB / 3.852GiB   0.24%     24.3kB / 54.7kB   0B / 7.76MB   9
+10:59:46.992265617
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.12%   164.2MiB / 3.852GiB   4.16%     257MB / 389MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.70%     9.555MiB / 3.852GiB   0.24%     24.3kB / 54.7kB   0B / 7.8MB   9
+10:59:52.011810213
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   129.01%   153.1MiB / 3.852GiB   3.88%     259MB / 392MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.74%     9.555MiB / 3.852GiB   0.24%     24.3kB / 54.7kB   0B / 7.84MB   9
+10:59:57.027778818
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.04%   157.3MiB / 3.852GiB   3.99%     261MB / 395MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.78%     9.555MiB / 3.852GiB   0.24%     24.3kB / 54.7kB   0B / 7.89MB   9
+11:00:02.038476316
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   125.48%   156.4MiB / 3.852GiB   3.96%     263MB / 397MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.03%     9.555MiB / 3.852GiB   0.24%     24.3kB / 54.7kB   0B / 7.93MB   9
+11:00:07.046057696
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   119.15%   147.4MiB / 3.852GiB   3.74%     265MB / 401MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.88%     9.555MiB / 3.852GiB   0.24%     24.7kB / 55.5kB   0B / 7.97MB   9
+11:00:12.069283373
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   109.78%   137.8MiB / 3.852GiB   3.49%     267MB / 404MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.47%     9.555MiB / 3.852GiB   0.24%     25kB / 56.2kB   0B / 8.02MB   9
+11:00:17.084059121
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   120.61%   134.4MiB / 3.852GiB   3.41%     268MB / 407MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.46%     9.555MiB / 3.852GiB   0.24%     25kB / 56.2kB   0B / 8.07MB   9
+11:00:22.132881734
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   108.02%   130.2MiB / 3.852GiB   3.30%     270MB / 410MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.66%     9.555MiB / 3.852GiB   0.24%     25kB / 56.2kB   0B / 8.11MB   9
+11:00:27.144928322
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   133.29%   126.4MiB / 3.852GiB   3.20%     272MB / 412MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.89%     9.555MiB / 3.852GiB   0.24%     25kB / 56.2kB   0B / 8.15MB   9
+11:00:32.175459764
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   142.06%   127.3MiB / 3.852GiB   3.23%     274MB / 415MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.98%     9.555MiB / 3.852GiB   0.24%     25kB / 56.2kB   0B / 8.2MB   9
+11:00:37.226750879
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   149.89%   129.4MiB / 3.852GiB   3.28%     275MB / 417MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.46%     9.555MiB / 3.852GiB   0.24%     25.3kB / 57kB   0B / 8.24MB   9
+11:00:42.267840575
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.33%   133.5MiB / 3.852GiB   3.38%     277MB / 420MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.93%     9.555MiB / 3.852GiB   0.24%     25.6kB / 57.9kB   0B / 8.29MB   9
+11:00:47.318206986
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.18%   131.3MiB / 3.852GiB   3.33%     279MB / 422MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.74%     9.555MiB / 3.852GiB   0.24%     25.6kB / 57.9kB   0B / 8.33MB   9
+11:00:52.331509381
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   139.12%   127.6MiB / 3.852GiB   3.24%     281MB / 425MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.05%     9.562MiB / 3.852GiB   0.24%     25.6kB / 57.9kB   0B / 8.37MB   9
+11:00:57.352164566
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   133.39%   126.7MiB / 3.852GiB   3.21%     283MB / 428MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.35%     9.562MiB / 3.852GiB   0.24%     25.6kB / 57.9kB   0B / 8.41MB   9
+11:01:02.364832737
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   117.14%   128.1MiB / 3.852GiB   3.25%     285MB / 431MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.87%     9.562MiB / 3.852GiB   0.24%     25.6kB / 57.9kB   0B / 8.46MB   9
+11:01:07.372918968
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   120.93%   127.2MiB / 3.852GiB   3.23%     286MB / 434MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.11%     9.562MiB / 3.852GiB   0.24%     26kB / 58.6kB   0B / 8.5MB   9
+11:01:12.385238736
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.64%   127.7MiB / 3.852GiB   3.24%     288MB / 436MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.50%     9.562MiB / 3.852GiB   0.24%     26.3kB / 59.5kB   0B / 8.54MB   9
+11:01:17.437608003
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   117.47%   127.1MiB / 3.852GiB   3.22%     290MB / 439MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.78%     9.562MiB / 3.852GiB   0.24%     26.3kB / 59.5kB   0B / 8.59MB   9
+11:01:22.444959562
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   131.27%   126.5MiB / 3.852GiB   3.21%     292MB / 442MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.74%     9.562MiB / 3.852GiB   0.24%     26.3kB / 59.5kB   0B / 8.63MB   9
+11:01:27.457551558
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   120.68%   125.5MiB / 3.852GiB   3.18%     294MB / 445MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.69%     9.562MiB / 3.852GiB   0.24%     26.3kB / 59.5kB   0B / 8.67MB   9
+11:01:32.472258189
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   110.51%   127.4MiB / 3.852GiB   3.23%     296MB / 448MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.95%     9.562MiB / 3.852GiB   0.24%     26.3kB / 59.5kB   0B / 8.72MB   9
+11:01:37.488793622
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   159.45%   125.9MiB / 3.852GiB   3.19%     298MB / 450MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          5.44%     9.562MiB / 3.852GiB   0.24%     26.6kB / 60.3kB   0B / 8.77MB   9
+11:01:42.516513604
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   129.24%   127.6MiB / 3.852GiB   3.24%     300MB / 453MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.51%     9.562MiB / 3.852GiB   0.24%     26.9kB / 61kB   0B / 8.81MB   9
+11:01:47.558239644
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   145.19%   129MiB / 3.852GiB     3.27%     302MB / 456MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          5.24%     9.562MiB / 3.852GiB   0.24%     26.9kB / 61kB   0B / 8.86MB   9
+11:01:52.567267642
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.22%   127.3MiB / 3.852GiB   3.23%     303MB / 459MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.91%     9.562MiB / 3.852GiB   0.24%     26.9kB / 61kB   0B / 8.89MB   9
+11:01:57.599027861
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   134.77%   126.1MiB / 3.852GiB   3.20%     305MB / 461MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.12%     9.562MiB / 3.852GiB   0.24%     26.9kB / 61kB   0B / 8.93MB   9
+11:02:02.606114913
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.93%   126.9MiB / 3.852GiB   3.22%     307MB / 464MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.76%     9.562MiB / 3.852GiB   0.24%     26.9kB / 61kB   0B / 8.98MB   9
+11:02:07.625786339
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   143.99%   127.8MiB / 3.852GiB   3.24%     309MB / 467MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.04%     9.562MiB / 3.852GiB   0.24%     27.2kB / 61.8kB   0B / 9.03MB   9
+11:02:12.649579365
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   110.37%   127MiB / 3.852GiB     3.22%     311MB / 470MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.63%     9.562MiB / 3.852GiB   0.24%     27.6kB / 62.6kB   0B / 9.07MB   9
+11:02:17.660088118
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   134.64%   125.9MiB / 3.852GiB   3.19%     313MB / 473MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.06%     9.562MiB / 3.852GiB   0.24%     27.6kB / 62.6kB   0B / 9.12MB   9
+11:02:22.692327127
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   119.09%   126MiB / 3.852GiB    3.20%     315MB / 475MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.43%     9.57MiB / 3.852GiB   0.24%     27.6kB / 62.6kB   0B / 9.15MB   9
+11:02:27.699646312
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   146.77%   128.4MiB / 3.852GiB   3.26%     317MB / 478MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.95%     9.57MiB / 3.852GiB    0.24%     27.6kB / 62.6kB   0B / 9.2MB   9
+11:02:32.714660733
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   129.10%   127.3MiB / 3.852GiB   3.23%     319MB / 481MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.03%     9.574MiB / 3.852GiB   0.24%     27.6kB / 62.6kB   0B / 9.24MB   9
+11:02:37.733740124
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.23%   128.2MiB / 3.852GiB   3.25%     321MB / 484MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.86%     9.574MiB / 3.852GiB   0.24%     27.9kB / 63.4kB   0B / 9.29MB   9
+11:02:42.774190469
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   121.31%   127.1MiB / 3.852GiB   3.22%     322MB / 487MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.84%     9.574MiB / 3.852GiB   0.24%     28.2kB / 64.1kB   0B / 9.33MB   9
+11:02:47.791547616
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.99%   127.5MiB / 3.852GiB   3.23%     324MB / 490MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.04%     9.574MiB / 3.852GiB   0.24%     28.2kB / 64.1kB   0B / 9.38MB   9
+11:02:52.811791274
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   239.20%   126.3MiB / 3.852GiB   3.20%     326MB / 492MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.43%     9.836MiB / 3.852GiB   0.25%     28.2kB / 64.1kB   0B / 9.42MB   9
+11:02:57.826249984
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   232.93%   126.2MiB / 3.852GiB   3.20%     328MB / 495MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.23%     9.715MiB / 3.852GiB   0.25%     28.2kB / 64.1kB   0B / 9.47MB   9
+11:03:02.858485758
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.63%   127.8MiB / 3.852GiB   3.24%     330MB / 497MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.36%     9.715MiB / 3.852GiB   0.25%     28.3kB / 64.1kB   0B / 9.51MB   9
+11:03:07.897138327
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   105.06%   127.6MiB / 3.852GiB   3.23%     332MB / 500MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.80%     9.715MiB / 3.852GiB   0.25%     28.6kB / 64.9kB   0B / 9.55MB   9
+11:03:12.905294938
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   117.13%   126.4MiB / 3.852GiB   3.20%     333MB / 503MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.86%     9.715MiB / 3.852GiB   0.25%     29kB / 65.7kB   0B / 9.6MB   9
+11:03:17.925367057
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.09%   126.7MiB / 3.852GiB   3.21%     335MB / 505MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.69%     9.715MiB / 3.852GiB   0.25%     29kB / 65.7kB   0B / 9.64MB   9
+11:03:22.952510785
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.54%   128.2MiB / 3.852GiB   3.25%     337MB / 508MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.13%     9.715MiB / 3.852GiB   0.25%     29kB / 65.7kB   0B / 9.68MB   9
+11:03:27.975925661
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   137.17%   126.8MiB / 3.852GiB   3.22%     339MB / 511MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.70%     9.715MiB / 3.852GiB   0.25%     29kB / 65.7kB   0B / 9.72MB   9
+11:03:32.996545875
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   137.51%   125.5MiB / 3.852GiB   3.18%     341MB / 514MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.02%     9.715MiB / 3.852GiB   0.25%     29kB / 65.7kB   0B / 9.77MB   9
+11:03:38.023151571
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   120.11%   125.1MiB / 3.852GiB   3.17%     343MB / 517MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.12%     9.715MiB / 3.852GiB   0.25%     29.3kB / 66.5kB   0B / 9.81MB   9
+11:03:43.038270370
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.90%   125.5MiB / 3.852GiB   3.18%     345MB / 519MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.18%     9.715MiB / 3.852GiB   0.25%     29.6kB / 67.3kB   0B / 9.86MB   9
+11:03:48.058572642
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   147.65%   126.6MiB / 3.852GiB   3.21%     347MB / 522MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.13%     9.715MiB / 3.852GiB   0.25%     29.6kB / 67.3kB   0B / 9.91MB   9
+11:03:53.075149803
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   143.27%   128.3MiB / 3.852GiB   3.25%     349MB / 525MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.84%     9.715MiB / 3.852GiB   0.25%     29.6kB / 67.3kB   0B / 9.94MB   9
+11:03:58.100005043
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   144.98%   127.2MiB / 3.852GiB   3.22%     351MB / 528MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.34%     9.715MiB / 3.852GiB   0.25%     29.6kB / 67.3kB   0B / 9.98MB   9
+11:04:03.114989092
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   124.60%   127MiB / 3.852GiB     3.22%     353MB / 530MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.62%     9.715MiB / 3.852GiB   0.25%     29.6kB / 67.3kB   0B / 10MB    9
+11:04:08.130607650
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   105.41%   127.5MiB / 3.852GiB   3.23%     355MB / 533MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.21%     9.73MiB / 3.852GiB    0.25%     30kB / 68.1kB   0B / 10.1MB   10
+11:04:13.159348249
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   101.60%   127.4MiB / 3.852GiB   3.23%     357MB / 536MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.13%     9.73MiB / 3.852GiB    0.25%     30.3kB / 68.9kB   0B / 10.1MB   10
+11:04:18.172771218
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.62%   126.3MiB / 3.852GiB   3.20%     359MB / 539MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.41%     9.73MiB / 3.852GiB    0.25%     30.3kB / 68.9kB   0B / 10.2MB   10
+11:04:23.200887372
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   123.37%   126MiB / 3.852GiB    3.19%     360MB / 542MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.77%     9.73MiB / 3.852GiB   0.25%     30.3kB / 68.9kB   0B / 10.2MB   10
+11:04:28.209812709
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.31%   127.8MiB / 3.852GiB   3.24%     362MB / 544MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.93%     9.73MiB / 3.852GiB    0.25%     30.3kB / 68.9kB   0B / 10.3MB   10
+11:04:33.221379671
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.00%   127.2MiB / 3.852GiB   3.22%     364MB / 547MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.15%     9.73MiB / 3.852GiB    0.25%     30.3kB / 68.9kB   0B / 10.3MB   10
+11:04:38.229273637
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   135.61%   126.9MiB / 3.852GiB   3.22%     366MB / 549MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.11%     9.73MiB / 3.852GiB    0.25%     30.6kB / 69.7kB   0B / 10.3MB   10
+11:04:43.248302686
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   123.24%   126.4MiB / 3.852GiB   3.20%     368MB / 552MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.25%     9.73MiB / 3.852GiB    0.25%     31kB / 70.5kB   0B / 10.4MB   10
+11:04:48.259264273
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   113.21%   125.2MiB / 3.852GiB   3.17%     370MB / 555MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.31%     9.73MiB / 3.852GiB    0.25%     31kB / 70.5kB   0B / 10.4MB   10
+11:04:53.285789181
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.39%   125.5MiB / 3.852GiB   3.18%     372MB / 558MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.31%     9.73MiB / 3.852GiB    0.25%     31kB / 70.5kB   0B / 10.5MB   10
+11:04:58.301886913
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.54%   127.4MiB / 3.852GiB   3.23%     374MB / 561MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.30%     9.73MiB / 3.852GiB    0.25%     31kB / 70.5kB   0B / 10.5MB   10
+11:05:03.321529515
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.18%   125.3MiB / 3.852GiB   3.18%     376MB / 563MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.37%     9.73MiB / 3.852GiB    0.25%     31kB / 70.5kB   0B / 10.6MB   10
+11:05:08.330245365
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   137.00%   126.2MiB / 3.852GiB   3.20%     378MB / 566MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.82%     9.73MiB / 3.852GiB    0.25%     31.3kB / 71.3kB   0B / 10.6MB   10
+11:05:13.353301028
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   121.35%   127.6MiB / 3.852GiB   3.23%     380MB / 569MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.88%     9.73MiB / 3.852GiB    0.25%     31.7kB / 72.1kB   0B / 10.6MB   10
+11:05:18.363797194
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   137.08%   126.1MiB / 3.852GiB   3.20%     381MB / 572MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.13%     9.73MiB / 3.852GiB    0.25%     31.7kB / 72.1kB   0B / 10.7MB   10
+11:05:23.375758406
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   124.34%   125.3MiB / 3.852GiB   3.18%     383MB / 574MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.02%     9.73MiB / 3.852GiB    0.25%     31.7kB / 72.1kB   0B / 10.7MB   10
+11:05:28.383760948
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   144.21%   128.4MiB / 3.852GiB   3.26%     385MB / 577MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.08%     9.73MiB / 3.852GiB    0.25%     31.7kB / 72.1kB   0B / 10.8MB   10
+11:05:33.399425330
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   122.93%   127.6MiB / 3.852GiB   3.23%     387MB / 580MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.57%     9.73MiB / 3.852GiB    0.25%     31.7kB / 72.1kB   0B / 10.8MB   10
+11:05:38.409954413
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.03%   126.9MiB / 3.852GiB   3.22%     389MB / 583MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.78%     9.73MiB / 3.852GiB    0.25%     32kB / 72.9kB   0B / 10.9MB   10
+11:05:43.425789030
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   132.25%   126.8MiB / 3.852GiB   3.21%     391MB / 585MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.85%     9.73MiB / 3.852GiB    0.25%     32.4kB / 73.7kB   0B / 10.9MB   10
+11:05:48.447058609
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   113.34%   126.8MiB / 3.852GiB   3.21%     393MB / 588MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.29%     9.73MiB / 3.852GiB    0.25%     32.4kB / 73.7kB   0B / 11MB    10
+11:05:53.456312581
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.88%   126.5MiB / 3.852GiB   3.21%     394MB / 591MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.31%     9.73MiB / 3.852GiB    0.25%     32.4kB / 73.7kB   0B / 11MB    10
+11:05:58.481190114
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   117.86%   126.8MiB / 3.852GiB   3.22%     396MB / 594MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.44%     9.73MiB / 3.852GiB    0.25%     32.4kB / 73.7kB   0B / 11MB    10
+11:06:03.505657056
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   115.79%   127.6MiB / 3.852GiB   3.24%     398MB / 596MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.84%     9.73MiB / 3.852GiB    0.25%     32.4kB / 73.7kB   0B / 11.1MB   10
+11:06:08.524784617
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   109.73%   125.7MiB / 3.852GiB   3.19%     400MB / 599MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.66%     9.73MiB / 3.852GiB    0.25%     32.7kB / 74.5kB   0B / 11.1MB   10
+11:06:13.539357055
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   121.51%   126.2MiB / 3.852GiB   3.20%     402MB / 602MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.50%     9.73MiB / 3.852GiB    0.25%     33.1kB / 75.3kB   0B / 11.2MB   10
+11:06:18.561766543
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   124.77%   125.5MiB / 3.852GiB   3.18%     404MB / 605MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.29%     9.73MiB / 3.852GiB    0.25%     33.1kB / 75.3kB   0B / 11.2MB   10
+11:06:23.574324824
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   141.02%   128.8MiB / 3.852GiB   3.27%     406MB / 608MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.36%     9.73MiB / 3.852GiB    0.25%     33.1kB / 75.3kB   0B / 11.2MB   10
+11:06:28.620656839
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   107.09%   126.5MiB / 3.852GiB   3.21%     408MB / 611MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.77%     9.734MiB / 3.852GiB   0.25%     33.1kB / 75.3kB   0B / 11.3MB   10
+11:06:33.633518976
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   130.50%   126.8MiB / 3.852GiB   3.21%     410MB / 613MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.84%     9.734MiB / 3.852GiB   0.25%     33.1kB / 75.3kB   0B / 11.3MB   10
+11:06:38.645589442
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   123.58%   128MiB / 3.852GiB     3.25%     412MB / 616MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.88%     9.734MiB / 3.852GiB   0.25%     33.4kB / 76.1kB   0B / 11.4MB   10
+11:06:43.669318409
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.47%   127.6MiB / 3.852GiB   3.23%     414MB / 619MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.82%     9.734MiB / 3.852GiB   0.25%     33.7kB / 76.9kB   0B / 11.4MB   10
+11:06:48.680775586
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   130.49%   127MiB / 3.852GiB     3.22%     415MB / 621MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.15%     9.734MiB / 3.852GiB   0.25%     33.7kB / 76.9kB   0B / 11.5MB   10
+11:06:53.697512488
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   123.96%   126.8MiB / 3.852GiB   3.21%     417MB / 624MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.66%     9.734MiB / 3.852GiB   0.25%     33.7kB / 76.9kB   0B / 11.5MB   10
+11:06:58.714885008
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   105.04%   127.4MiB / 3.852GiB   3.23%     419MB / 627MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.94%     9.734MiB / 3.852GiB   0.25%     33.7kB / 76.9kB   0B / 11.6MB   10
+11:07:03.729247255
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   117.35%   126.8MiB / 3.852GiB   3.21%     421MB / 630MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.81%     9.734MiB / 3.852GiB   0.25%     33.7kB / 76.9kB   0B / 11.6MB   10
+11:07:08.755539813
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.85%   126.3MiB / 3.852GiB   3.20%     423MB / 632MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.68%     9.734MiB / 3.852GiB   0.25%     34.1kB / 77.7kB   0B / 11.6MB   10
+11:07:13.777953436
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.49%   127.3MiB / 3.852GiB   3.23%     425MB / 635MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.70%     9.734MiB / 3.852GiB   0.25%     34.4kB / 78.5kB   0B / 11.7MB   10
+11:07:18.797221980
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.74%   126.3MiB / 3.852GiB   3.20%     427MB / 638MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.22%     9.734MiB / 3.852GiB   0.25%     34.4kB / 78.5kB   0B / 11.7MB   10
+11:07:23.823501147
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   132.91%   125.1MiB / 3.852GiB   3.17%     429MB / 641MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.23%     9.734MiB / 3.852GiB   0.25%     34.4kB / 78.5kB   0B / 11.8MB   10
+11:07:28.839204829
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   141.11%   128.3MiB / 3.852GiB   3.25%     431MB / 644MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.13%     9.734MiB / 3.852GiB   0.25%     34.4kB / 78.5kB   0B / 11.8MB   10
+11:07:33.865207966
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.66%   126.7MiB / 3.852GiB   3.21%     433MB / 647MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.96%     9.734MiB / 3.852GiB   0.25%     34.4kB / 78.5kB   0B / 11.9MB   10
+11:07:38.872591031
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.56%   128MiB / 3.852GiB     3.24%     435MB / 650MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.76%     9.734MiB / 3.852GiB   0.25%     34.7kB / 79.3kB   0B / 11.9MB   10
+11:07:43.897446717
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   136.44%   127.3MiB / 3.852GiB   3.23%     437MB / 653MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.07%     9.734MiB / 3.852GiB   0.25%     35.1kB / 80.1kB   0B / 12MB    10
+11:07:48.913527886
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   115.00%   126.8MiB / 3.852GiB   3.21%     438MB / 655MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.26%     9.734MiB / 3.852GiB   0.25%     35.1kB / 80.1kB   0B / 12MB    10
+11:07:53.945232014
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   129.52%   126.7MiB / 3.852GiB   3.21%     440MB / 658MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.31%     9.734MiB / 3.852GiB   0.25%     35.1kB / 80.1kB   0B / 12MB    10
+11:07:58.963414827
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   121.18%   125.4MiB / 3.852GiB   3.18%     442MB / 660MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.80%     9.734MiB / 3.852GiB   0.25%     35.1kB / 80.1kB   0B / 12.1MB   10
+11:08:03.977256728
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   138.33%   126.4MiB / 3.852GiB   3.20%     444MB / 663MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          4.88%     9.734MiB / 3.852GiB   0.25%     35.1kB / 80.1kB   0B / 12.1MB   10
+11:08:08.985119193
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   141.91%   126.6MiB / 3.852GiB   3.21%     446MB / 666MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          5.65%     9.734MiB / 3.852GiB   0.25%     35.4kB / 80.9kB   0B / 12.2MB   10
+11:08:14.008001015
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   144.43%   126.5MiB / 3.852GiB   3.21%     448MB / 669MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.88%     9.734MiB / 3.852GiB   0.25%     35.8kB / 81.7kB   0B / 12.2MB   10
+11:08:19.035388666
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.31%   127.4MiB / 3.852GiB   3.23%     450MB / 672MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.78%     9.734MiB / 3.852GiB   0.25%     35.8kB / 81.8kB   0B / 12.3MB   10
+11:08:24.048768380
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.98%   126.6MiB / 3.852GiB   3.21%     452MB / 675MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.66%     9.734MiB / 3.852GiB   0.25%     35.8kB / 81.8kB   0B / 12.3MB   10
+11:08:29.072514130
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   142.26%   126.8MiB / 3.852GiB   3.21%     454MB / 677MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.10%     9.734MiB / 3.852GiB   0.25%     35.8kB / 81.8kB   0B / 12.3MB   10
+11:08:34.084917227
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.14%   128.8MiB / 3.852GiB   3.27%     456MB / 680MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.23%     9.734MiB / 3.852GiB   0.25%     35.8kB / 81.8kB   0B / 12.4MB   10
+11:08:39.128087632
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.54%   128.2MiB / 3.852GiB   3.25%     458MB / 683MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.31%     9.734MiB / 3.852GiB   0.25%     36.2kB / 82.5kB   0B / 12.4MB   10
+11:08:44.142803345
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   114.72%   127.6MiB / 3.852GiB   3.23%     460MB / 685MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.11%     9.734MiB / 3.852GiB   0.25%     36.5kB / 83.4kB   0B / 12.5MB   10
+11:08:49.159428727
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   112.21%   127.2MiB / 3.852GiB   3.23%     461MB / 688MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.11%     9.734MiB / 3.852GiB   0.25%     36.6kB / 83.4kB   0B / 12.5MB   10
+11:08:54.176861194
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.39%   127MiB / 3.852GiB     3.22%     463MB / 691MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.64%     9.734MiB / 3.852GiB   0.25%     36.6kB / 83.4kB   0B / 12.6MB   10
+11:08:59.185275390
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   125.61%   126.2MiB / 3.852GiB   3.20%     465MB / 694MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.11%     9.734MiB / 3.852GiB   0.25%     36.6kB / 83.4kB   0B / 12.6MB   10
+11:09:04.192925943
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   130.04%   126.8MiB / 3.852GiB   3.21%     467MB / 697MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.58%     9.738MiB / 3.852GiB   0.25%     36.6kB / 83.4kB   0B / 12.6MB   10
+11:09:09.201342908
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   113.40%   127.6MiB / 3.852GiB   3.23%     469MB / 699MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.83%     9.738MiB / 3.852GiB   0.25%     36.9kB / 84.2kB   0B / 12.7MB   10
+11:09:14.211645525
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   148.38%   127.6MiB / 3.852GiB   3.23%     471MB / 702MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.45%     9.738MiB / 3.852GiB   0.25%     37.2kB / 85kB   0B / 12.7MB   10
+11:09:19.235166299
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   103.25%   125.8MiB / 3.852GiB   3.19%     473MB / 705MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.85%     9.738MiB / 3.852GiB   0.25%     37.3kB / 85.1kB   0B / 12.8MB   10
+11:09:24.243607575
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   119.11%   125.5MiB / 3.852GiB   3.18%     475MB / 708MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.61%     9.738MiB / 3.852GiB   0.25%     37.3kB / 85.1kB   0B / 12.8MB   10
+11:09:29.266384441
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   140.39%   128.7MiB / 3.852GiB   3.26%     477MB / 711MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.65%     9.738MiB / 3.852GiB   0.25%     37.3kB / 85.1kB   0B / 12.9MB   10
+11:09:34.304135969
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.35%   125.9MiB / 3.852GiB   3.19%     479MB / 713MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.91%     9.746MiB / 3.852GiB   0.25%     37.3kB / 85.1kB   0B / 12.9MB   10
+11:09:39.315194990
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   333.00%   126.2MiB / 3.852GiB   3.20%     481MB / 716MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.64%     9.746MiB / 3.852GiB   0.25%     37.9kB / 86.6kB   0B / 13MB    10
+11:09:44.324920317
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   136.64%   127.5MiB / 3.852GiB   3.23%     483MB / 719MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.22%     9.746MiB / 3.852GiB   0.25%     38kB / 86.7kB   0B / 13MB    10
+11:09:49.353385381
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   136.91%   127.6MiB / 3.852GiB   3.23%     484MB / 721MB   0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.65%     9.746MiB / 3.852GiB   0.25%     38kB / 86.7kB   0B / 13MB    10
+11:09:54.364107716
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   136.44%   127MiB / 3.852GiB     3.22%     486MB / 724MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.05%     9.746MiB / 3.852GiB   0.25%     38kB / 86.7kB   0B / 13.1MB   10
+11:09:59.390895892
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.23%   126MiB / 3.852GiB     3.19%     488MB / 727MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.11%     9.746MiB / 3.852GiB   0.25%     38kB / 86.7kB   0B / 13.1MB   10
+11:10:04.402311545
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   139.45%   126.6MiB / 3.852GiB   3.21%     490MB / 729MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.56%     9.746MiB / 3.852GiB   0.25%     38kB / 86.7kB   0B / 13.2MB   10
+11:10:09.412929163
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.80%   127.8MiB / 3.852GiB   3.24%     492MB / 732MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.41%     9.746MiB / 3.852GiB   0.25%     38.7kB / 88.3kB   0B / 13.2MB   10
+11:10:14.450508373
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   113.72%   126.5MiB / 3.852GiB   3.21%     494MB / 735MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.81%     9.746MiB / 3.852GiB   0.25%     38.7kB / 88.3kB   0B / 13.3MB   10
+11:10:19.475462727
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.44%   126.2MiB / 3.852GiB   3.20%     496MB / 737MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.25%     9.746MiB / 3.852GiB   0.25%     38.7kB / 88.4kB   0B / 13.3MB   10
+11:10:24.502335200
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   127.22%   127.1MiB / 3.852GiB   3.22%     498MB / 740MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.69%     9.75MiB / 3.852GiB    0.25%     38.7kB / 88.4kB   0B / 13.3MB   10
+11:10:29.522978269
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   122.68%   126MiB / 3.852GiB    3.19%     499MB / 743MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.80%     9.75MiB / 3.852GiB   0.25%     38.7kB / 88.4kB   0B / 13.4MB   10
+11:10:34.534911468
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   122.17%   126.9MiB / 3.852GiB   3.22%     501MB / 746MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.11%     9.75MiB / 3.852GiB    0.25%     38.7kB / 88.4kB   0B / 13.4MB   10
+11:10:39.549256336
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   117.63%   127.6MiB / 3.852GiB   3.23%     503MB / 749MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.91%     9.75MiB / 3.852GiB    0.25%     39.4kB / 89.9kB   0B / 13.5MB   10
+11:10:44.561014484
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   115.43%   125.8MiB / 3.852GiB   3.19%     505MB / 752MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.25%     9.75MiB / 3.852GiB    0.25%     39.5kB / 90kB   0B / 13.5MB   10
+11:10:49.580054586
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   147.02%   125.7MiB / 3.852GiB   3.19%     507MB / 755MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.31%     9.75MiB / 3.852GiB    0.25%     39.5kB / 90kB   0B / 13.6MB   10
+11:10:54.597787332
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.19%   126MiB / 3.852GiB    3.20%     509MB / 757MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.97%     9.75MiB / 3.852GiB   0.25%     39.5kB / 90kB   0B / 13.6MB   10
+11:10:59.619796017
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   119.10%   127.7MiB / 3.852GiB   3.24%     511MB / 760MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.93%     9.75MiB / 3.852GiB    0.25%     39.5kB / 90kB   0B / 13.6MB   10
+11:11:04.629166637
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   128.23%   126.5MiB / 3.852GiB   3.21%     513MB / 762MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.61%     9.75MiB / 3.852GiB    0.25%     39.5kB / 90kB   0B / 13.7MB   10
+11:11:09.644033288
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   105.26%   126.2MiB / 3.852GiB   3.20%     515MB / 765MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          3.26%     9.75MiB / 3.852GiB    0.25%     40.1kB / 91.6kB   0B / 13.7MB   10
+11:11:14.668766846
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   116.59%   126.6MiB / 3.852GiB   3.21%     517MB / 768MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.20%     9.75MiB / 3.852GiB    0.25%     40.2kB / 91.7kB   0B / 13.8MB   10
+11:11:19.680572201
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.02%   126.5MiB / 3.852GiB   3.21%     519MB / 771MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.15%     9.75MiB / 3.852GiB    0.25%     40.2kB / 91.7kB   0B / 13.8MB   10
+11:11:24.704605578
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT    MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   134.76%   127MiB / 3.852GiB    3.22%     521MB / 774MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.97%     9.75MiB / 3.852GiB   0.25%     40.2kB / 91.7kB   0B / 13.9MB   10
+11:11:29.723804441
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   111.72%   129.7MiB / 3.852GiB   3.29%     522MB / 776MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.17%     9.75MiB / 3.852GiB    0.25%     40.2kB / 91.7kB   0B / 13.9MB   10
+11:11:34.737408920
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   143.29%   127.1MiB / 3.852GiB   3.22%     524MB / 779MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.78%     9.754MiB / 3.852GiB   0.25%     40.2kB / 91.7kB   0B / 13.9MB   10
+11:11:39.766764024
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   126.97%   127.1MiB / 3.852GiB   3.22%     526MB / 782MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.52%     9.754MiB / 3.852GiB   0.25%     40.8kB / 93.2kB   0B / 14MB    10
+11:11:44.777213297
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   123.74%   126.7MiB / 3.852GiB   3.21%     528MB / 785MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.20%     9.754MiB / 3.852GiB   0.25%     40.9kB / 93.3kB   0B / 14MB    10
+11:11:49.795105283
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   131.02%   125.9MiB / 3.852GiB   3.19%     530MB / 788MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.12%     9.754MiB / 3.852GiB   0.25%     40.9kB / 93.3kB   0B / 14.1MB   10
+11:11:54.802778279
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   131.99%   125.4MiB / 3.852GiB   3.18%     532MB / 790MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.40%     9.754MiB / 3.852GiB   0.25%     40.9kB / 93.3kB   0B / 14.1MB   10
+11:11:59.811721218
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   141.60%   125.6MiB / 3.852GiB   3.18%     534MB / 793MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.64%     9.754MiB / 3.852GiB   0.25%     40.9kB / 93.3kB   0B / 14.2MB   10
+11:12:04.820577687
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   122.66%   127.5MiB / 3.852GiB   3.23%     536MB / 796MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.43%     9.754MiB / 3.852GiB   0.25%     40.9kB / 93.3kB   0B / 14.2MB   10
+11:12:09.874642772
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   121.83%   126.5MiB / 3.852GiB   3.21%     538MB / 798MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.03%     9.754MiB / 3.852GiB   0.25%     41.6kB / 94.9kB   0B / 14.3MB   10
+11:12:14.884606648
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   117.11%   126.9MiB / 3.852GiB   3.22%     540MB / 801MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.74%     9.754MiB / 3.852GiB   0.25%     41.6kB / 94.9kB   0B / 14.3MB   10
+11:12:19.907724149
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.92%   127MiB / 3.852GiB     3.22%     542MB / 804MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.34%     9.754MiB / 3.852GiB   0.25%     41.6kB / 94.9kB   0B / 14.3MB   10
+11:12:24.925274952
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   144.00%   126.8MiB / 3.852GiB   3.21%     544MB / 807MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          2.17%     9.754MiB / 3.852GiB   0.25%     41.6kB / 94.9kB   0B / 14.4MB   10
+11:12:29.932768657
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   122.51%   126.9MiB / 3.852GiB   3.22%     546MB / 810MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.29%     9.754MiB / 3.852GiB   0.25%     41.6kB / 94.9kB   0B / 14.4MB   10
+11:12:34.941646533
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   118.90%   128.2MiB / 3.852GiB   3.25%     547MB / 813MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.35%     9.754MiB / 3.852GiB   0.25%     42kB / 95.7kB   0B / 14.5MB   10
+11:12:39.957751749
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   119.43%   127.3MiB / 3.852GiB   3.23%     549MB / 815MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.53%     9.754MiB / 3.852GiB   0.25%     42.3kB / 96.5kB   0B / 14.5MB   10
+11:12:44.979826892
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   97.67%    127.8MiB / 3.852GiB   3.24%     551MB / 818MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.29%     9.754MiB / 3.852GiB   0.25%     42.4kB / 96.6kB   0B / 14.6MB   10
+11:12:50.021096913
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   115.85%   125.4MiB / 3.852GiB   3.18%     553MB / 820MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.14%     9.754MiB / 3.852GiB   0.25%     42.4kB / 96.6kB   0B / 14.6MB   10
+11:12:55.033213874
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   90.46%    123.9MiB / 3.852GiB   3.14%     555MB / 822MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.00%     9.754MiB / 3.852GiB   0.25%     42.4kB / 96.6kB   0B / 14.7MB   10
+11:13:00.046285943
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   99.48%    123.9MiB / 3.852GiB   3.14%     556MB / 824MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.78%     9.754MiB / 3.852GiB   0.25%     42.4kB / 96.6kB   0B / 14.7MB   10
+11:13:05.054892652
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   79.97%    123.9MiB / 3.852GiB   3.14%     558MB / 826MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.04%     9.754MiB / 3.852GiB   0.25%     42.7kB / 97.4kB   0B / 14.7MB   10
+11:13:10.062738739
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   14.84%    123.9MiB / 3.852GiB   3.14%     558MB / 827MB   0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          1.34%     9.754MiB / 3.852GiB   0.25%     43kB / 98.2kB   0B / 14.8MB   10
+11:13:15.071298932
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.47%     123.9MiB / 3.852GiB   3.14%     558MB / 827MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.80%     9.758MiB / 3.852GiB   0.25%     43.1kB / 98.2kB   0B / 14.8MB   10
+11:13:20.082478204
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.53%     123.9MiB / 3.852GiB   3.14%     558MB / 827MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.93%     9.758MiB / 3.852GiB   0.25%     43.1kB / 98.2kB   0B / 14.9MB   10
+11:13:25.093905553
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O     PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.52%     123.9MiB / 3.852GiB   3.14%     558MB / 827MB     0B / 659kB    31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.79%     9.758MiB / 3.852GiB   0.25%     43.1kB / 98.2kB   0B / 14.9MB   10
+11:13:30.105752671
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+bd5354ca455d   ex20_mqtt-node-1.1.3pzt5cxu4asdhfczzquz0of97   0.20%     123.9MiB / 3.852GiB   3.14%     558MB / 827MB     0B / 659kB   31
+1c6b6935ccf8   ex20_etcd.1.s3vebggirolbeg4wirll2zedu          0.89%     9.758MiB / 3.852GiB   0.25%     43.1kB / 98.2kB   0B / 15MB    10
