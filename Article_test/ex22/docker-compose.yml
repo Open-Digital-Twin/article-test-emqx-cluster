@@ -20,7 +20,7 @@ services:
       replicas: 0
       placement:
         constraints:
-          - node.labels.name==dtwins1
+          - node.labels.name==dtwins3
 
   mqtt-node-2:
     image: "emqx/emqx:4.3.8"
@@ -40,7 +40,48 @@ services:
       replicas: 0
       placement:
         constraints:
-          - node.labels.name==dtwins2
+          - node.labels.name==dtwins4
+
+  mqtt-node-3:
+    image: "emqx/emqx:4.3.8"
+    environment:
+      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_CLUSTER__DISCOVERY=etcd
+      - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
+      - EMQX_CLUSTER__ETCD__PREFIX=emqcl
+      - EMQX_CLUSTER__ETCD__NODE_TTL=1m
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,A/E/E=5
+    networks:
+      default:
+        aliases:
+          - emqx_n1.mq.tt
+    restart: always
+    deploy:
+      replicas: 0
+      placement:
+        constraints:
+          - node.labels.name==dtwins5
+
+
+  mqtt-node-4:
+    image: "emqx/emqx:4.3.8"
+    environment:
+      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_CLUSTER__DISCOVERY=etcd
+      - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
+      - EMQX_CLUSTER__ETCD__PREFIX=emqcl
+      - EMQX_CLUSTER__ETCD__NODE_TTL=1m
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,A/E/E=5
+    networks:
+      default:
+        aliases:
+          - emqx_n1.mq.tt
+    restart: always
+    deploy:
+      replicas: 0
+      placement:
+        constraints:
+          - node.labels.name==dtwins6
 
   etcd:
     image: 'bitnami/etcd:latest'
@@ -79,7 +120,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins3
+          - node.labels.name==dtwins1
     command: dt-client-bytes
 
   client_h:
@@ -103,7 +144,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins4
+          - node.labels.name==dtwins1
     command: dt-client-bytes
 
   client_x:
@@ -127,7 +168,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins5
+          - node.labels.name==dtwins2
     command: dt-client-bytes
 
   client_y:
@@ -151,7 +192,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins6
+          - node.labels.name==dtwins2
     command: dt-client-bytes
 
 
@@ -174,7 +215,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins3
+          - node.labels.name==dtwins1
     command: dt-instance
 
   twin_h:
@@ -196,7 +237,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins4
+          - node.labels.name==dtwins1
     command: dt-instance
           
   twin_x:
@@ -218,7 +259,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins5
+          - node.labels.name==dtwins2
     command: dt-instance
 
   twin_y:
@@ -240,7 +281,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins6
+          - node.labels.name==dtwins2
     command: dt-instance
 
 networks:
