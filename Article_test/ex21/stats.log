@@ -1,0 +1,972 @@
+09:38:45.755726510
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.28%     134.2MiB / 7.789GiB   1.68%     10.8kB / 4.09kB   32.8kB / 270kB   35
+09:38:50.762482455
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.24%     134.2MiB / 7.789GiB   1.68%     11.4kB / 4.36kB   32.8kB / 270kB   35
+09:38:55.774370536
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.21%     134.2MiB / 7.789GiB   1.68%     11.4kB / 4.36kB   32.8kB / 270kB   35
+09:39:00.781129682
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.26%     134.3MiB / 7.789GiB   1.68%     11.4kB / 4.36kB   32.8kB / 291kB   35
+09:39:05.789983745
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.23%     134.4MiB / 7.789GiB   1.68%     11.4kB / 4.36kB   32.8kB / 291kB   35
+09:39:10.797339728
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.20%     134.4MiB / 7.789GiB   1.68%     11.4kB / 4.36kB   32.8kB / 291kB   35
+09:39:15.818428651
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   18.01%    134.4MiB / 7.789GiB   1.69%     193kB / 186kB   32.8kB / 291kB   35
+09:39:20.825308062
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   156.32%   134.1MiB / 7.789GiB   1.68%     1.4MB / 1.41MB   32.8kB / 291kB   35
+09:39:25.844683908
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   404.86%   134.6MiB / 7.789GiB   1.69%     3.92MB / 4.21MB   32.8kB / 291kB   35
+09:39:30.861765377
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   537.14%   146.7MiB / 7.789GiB   1.84%     7.29MB / 8.55MB   32.8kB / 291kB   35
+09:39:35.900962054
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   718.29%   165.1MiB / 7.789GiB   2.07%     11.2MB / 13.7MB   32.8kB / 291kB   35
+09:39:40.930134891
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   559.08%   184.8MiB / 7.789GiB   2.32%     15MB / 18.8MB   32.8kB / 291kB   35
+09:39:45.950184531
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   701.77%   183.4MiB / 7.789GiB   2.30%     18.8MB / 23.6MB   32.8kB / 291kB   35
+09:39:50.986764404
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   619.23%   189.6MiB / 7.789GiB   2.38%     22.5MB / 28.1MB   32.8kB / 291kB   35
+09:39:56.020760121
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   680.55%   197MiB / 7.789GiB   2.47%     26.2MB / 32.4MB   32.8kB / 291kB   35
+09:40:01.076562877
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   673.68%   211.7MiB / 7.789GiB   2.65%     29.9MB / 36.9MB   32.8kB / 291kB   35
+09:40:06.095508019
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   661.78%   240.8MiB / 7.789GiB   3.02%     33.5MB / 41.2MB   32.8kB / 291kB   35
+09:40:11.106253452
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   713.27%   242MiB / 7.789GiB   3.03%     36.5MB / 44.7MB   32.8kB / 291kB   35
+09:40:16.124047182
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   642.39%   284.3MiB / 7.789GiB   3.56%     40.2MB / 49.3MB   32.8kB / 291kB   35
+09:40:21.145542558
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   656.85%   277.6MiB / 7.789GiB   3.48%     44MB / 54MB   32.8kB / 291kB   35
+09:40:26.174169700
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   673.16%   266.3MiB / 7.789GiB   3.34%     47.8MB / 59MB   32.8kB / 291kB   35
+09:40:31.204908486
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   656.40%   271.6MiB / 7.789GiB   3.41%     51.6MB / 63.6MB   32.8kB / 291kB   35
+09:40:36.235292408
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   641.22%   255.6MiB / 7.789GiB   3.20%     55.2MB / 68.1MB   32.8kB / 291kB   35
+09:40:41.291749710
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   669.55%   224.1MiB / 7.789GiB   2.81%     59MB / 72.8MB   32.8kB / 291kB   35
+09:40:46.339439192
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   691.60%   218.5MiB / 7.789GiB   2.74%     62.7MB / 77.1MB   32.8kB / 291kB   35
+09:40:51.384469835
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   648.41%   208MiB / 7.789GiB   2.61%     66.3MB / 81.3MB   32.8kB / 291kB   35
+09:40:56.418267409
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   640.72%   204.4MiB / 7.789GiB   2.56%     69.2MB / 84.6MB   32.8kB / 291kB   35
+09:41:01.500545224
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   648.36%   222.6MiB / 7.789GiB   2.79%     73MB / 89MB   32.8kB / 291kB   35
+09:41:06.588355164
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   771.46%   243.4MiB / 7.789GiB   3.05%     76.8MB / 93.6MB   32.8kB / 291kB   35
+09:41:11.656744329
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   609.11%   250.7MiB / 7.789GiB   3.14%     80.6MB / 98.2MB   32.8kB / 291kB   35
+09:41:16.679527989
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   608.25%   263.5MiB / 7.789GiB   3.30%     84.3MB / 103MB   32.8kB / 291kB   35
+09:41:21.740218025
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   711.85%   252.6MiB / 7.789GiB   3.17%     88.1MB / 107MB   32.8kB / 291kB   35
+09:41:26.757240380
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   646.98%   234.6MiB / 7.789GiB   2.94%     91.9MB / 112MB   32.8kB / 291kB   35
+09:41:31.775919945
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   626.46%   221.2MiB / 7.789GiB   2.77%     94.9MB / 116MB   32.8kB / 291kB   35
+09:41:36.789630011
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   604.65%   201.7MiB / 7.789GiB   2.53%     98.7MB / 121MB   32.8kB / 291kB   35
+09:41:41.830486400
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   634.54%   212.7MiB / 7.789GiB   2.67%     103MB / 125MB   32.8kB / 291kB   35
+09:41:46.868083980
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   645.23%   233.1MiB / 7.789GiB   2.92%     106MB / 130MB   32.8kB / 291kB   35
+09:41:51.915441822
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   620.60%   237.1MiB / 7.789GiB   2.97%     110MB / 134MB   32.8kB / 291kB   35
+09:41:56.954324193
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   691.17%   250.8MiB / 7.789GiB   3.14%     114MB / 139MB   32.8kB / 291kB   35
+09:42:01.992936945
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   628.67%   265.6MiB / 7.789GiB   3.33%     117MB / 144MB   32.8kB / 291kB   35
+09:42:07.018283639
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   676.83%   227.2MiB / 7.789GiB   2.85%     121MB / 148MB   32.8kB / 291kB   35
+09:42:12.050439158
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   670.90%   231.2MiB / 7.789GiB   2.90%     125MB / 153MB   32.8kB / 291kB   35
+09:42:17.096218770
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   748.19%   223.5MiB / 7.789GiB   2.80%     128MB / 157MB   32.8kB / 291kB   35
+09:42:22.116618538
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   665.59%   224.2MiB / 7.789GiB   2.81%     132MB / 162MB   32.8kB / 291kB   35
+09:42:27.142719636
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   686.65%   243.4MiB / 7.789GiB   3.05%     136MB / 166MB   32.8kB / 291kB   35
+09:42:32.186226963
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   664.29%   226.8MiB / 7.789GiB   2.84%     139MB / 171MB   32.8kB / 291kB   35
+09:42:37.199263260
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   660.20%   221.3MiB / 7.789GiB   2.77%     143MB / 176MB   32.8kB / 291kB   35
+09:42:42.230848955
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   695.16%   245.6MiB / 7.789GiB   3.08%     147MB / 181MB   32.8kB / 291kB   35
+09:42:47.276906829
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   693.16%   222.8MiB / 7.789GiB   2.79%     151MB / 185MB   32.8kB / 291kB   35
+09:42:52.306575086
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   680.63%   222MiB / 7.789GiB   2.78%     154MB / 190MB   32.8kB / 291kB   35
+09:42:57.335701856
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   623.34%   227.7MiB / 7.789GiB   2.86%     158MB / 195MB   32.8kB / 291kB   35
+09:43:02.349617390
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   613.11%   245.4MiB / 7.789GiB   3.08%     162MB / 199MB   32.8kB / 291kB   35
+09:43:07.374356778
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   522.92%   226.5MiB / 7.789GiB   2.84%     165MB / 203MB   32.8kB / 291kB   35
+09:43:12.401657454
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   709.76%   230.5MiB / 7.789GiB   2.89%     169MB / 207MB   32.8kB / 291kB   35
+09:43:17.420151635
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   618.50%   247.3MiB / 7.789GiB   3.10%     173MB / 212MB   32.8kB / 291kB   35
+09:43:22.451226414
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   718.43%   237.8MiB / 7.789GiB   2.98%     176MB / 217MB   32.8kB / 291kB   35
+09:43:27.472699850
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   771.43%   224.6MiB / 7.789GiB   2.82%     180MB / 221MB   32.8kB / 291kB   35
+09:43:32.508485189
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   655.67%   242.5MiB / 7.789GiB   3.04%     184MB / 226MB   32.8kB / 291kB   35
+09:43:37.550482711
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   639.09%   228.7MiB / 7.789GiB   2.87%     188MB / 231MB   32.8kB / 291kB   35
+09:43:42.578707672
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   598.02%   230.4MiB / 7.789GiB   2.89%     191MB / 235MB   32.8kB / 291kB   35
+09:43:47.601720175
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   602.83%   232MiB / 7.789GiB   2.91%     194MB / 239MB   32.8kB / 291kB   35
+09:43:52.615827926
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   653.62%   218.8MiB / 7.789GiB   2.74%     198MB / 244MB   32.8kB / 291kB   35
+09:43:57.635310444
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   643.48%   227.6MiB / 7.789GiB   2.85%     202MB / 248MB   32.8kB / 291kB   35
+09:44:02.669030520
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   536.62%   230.5MiB / 7.789GiB   2.89%     206MB / 253MB   32.8kB / 291kB   35
+09:44:07.689858110
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   618.20%   224.1MiB / 7.789GiB   2.81%     209MB / 257MB   32.8kB / 291kB   35
+09:44:12.721852466
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   684.10%   225.6MiB / 7.789GiB   2.83%     213MB / 262MB   32.8kB / 291kB   35
+09:44:17.761413620
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   663.75%   241.4MiB / 7.789GiB   3.03%     217MB / 267MB   32.8kB / 291kB   35
+09:44:22.782798053
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   629.27%   263.8MiB / 7.789GiB   3.31%     221MB / 271MB   32.8kB / 291kB   35
+09:44:27.795221278
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   710.77%   262MiB / 7.789GiB   3.29%     224MB / 276MB   32.8kB / 291kB   35
+09:44:32.827301167
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   668.12%   240.5MiB / 7.789GiB   3.02%     227MB / 279MB   32.8kB / 291kB   35
+09:44:37.838811981
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   685.59%   246.3MiB / 7.789GiB   3.09%     231MB / 284MB   32.8kB / 291kB   35
+09:44:42.866700830
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   623.93%   226.7MiB / 7.789GiB   2.84%     235MB / 288MB   32.8kB / 291kB   35
+09:44:47.883465265
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   666.16%   228.3MiB / 7.789GiB   2.86%     239MB / 293MB   32.8kB / 291kB   35
+09:44:52.916667041
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   634.71%   248.7MiB / 7.789GiB   3.12%     242MB / 298MB   32.8kB / 291kB   35
+09:44:57.929865557
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   669.04%   263.7MiB / 7.789GiB   3.31%     246MB / 303MB   32.8kB / 291kB   35
+09:45:02.952671701
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   577.58%   280MiB / 7.789GiB   3.51%     250MB / 307MB   32.8kB / 291kB   35
+09:45:08.052019663
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   619.56%   217.3MiB / 7.789GiB   2.72%     253MB / 311MB   32.8kB / 291kB   35
+09:45:13.072113256
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   601.30%   205.8MiB / 7.789GiB   2.58%     257MB / 316MB   32.8kB / 291kB   35
+09:45:18.100205089
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   642.56%   214.8MiB / 7.789GiB   2.69%     261MB / 321MB   32.8kB / 291kB   35
+09:45:23.138390443
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   661.12%   208.7MiB / 7.789GiB   2.62%     265MB / 325MB   32.8kB / 291kB   35
+09:45:28.171404607
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   701.07%   238.3MiB / 7.789GiB   2.99%     268MB / 329MB   32.8kB / 291kB   35
+09:45:33.213040875
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   647.46%   235.4MiB / 7.789GiB   2.95%     271MB / 333MB   32.8kB / 291kB   35
+09:45:38.261500784
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   637.32%   239.4MiB / 7.789GiB   3.00%     275MB / 338MB   32.8kB / 291kB   35
+09:45:43.300541396
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   617.50%   242.5MiB / 7.789GiB   3.04%     279MB / 342MB   32.8kB / 291kB   35
+09:45:48.339669440
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   722.37%   249.2MiB / 7.789GiB   3.12%     282MB / 347MB   32.8kB / 291kB   35
+09:45:53.378281965
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   636.66%   241.1MiB / 7.789GiB   3.02%     286MB / 351MB   32.8kB / 291kB   35
+09:45:58.411735161
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   684.04%   229.4MiB / 7.789GiB   2.88%     290MB / 356MB   32.8kB / 291kB   35
+09:46:03.430947062
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   606.08%   219.7MiB / 7.789GiB   2.75%     294MB / 361MB   32.8kB / 291kB   35
+09:46:08.452349014
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   656.86%   228.2MiB / 7.789GiB   2.86%     298MB / 366MB   32.8kB / 291kB   35
+09:46:13.478689415
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   624.35%   238.2MiB / 7.789GiB   2.99%     301MB / 371MB   32.8kB / 291kB   35
+09:46:18.531386638
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   539.67%   261.3MiB / 7.789GiB   3.28%     305MB / 376MB   32.8kB / 291kB   35
+09:46:23.574903785
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   499.84%   247.1MiB / 7.789GiB   3.10%     308MB / 380MB   32.8kB / 291kB   35
+09:46:28.601745920
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   510.24%   205.5MiB / 7.789GiB   2.58%     312MB / 385MB   32.8kB / 291kB   35
+09:46:33.638666013
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   538.98%   207.9MiB / 7.789GiB   2.61%     316MB / 390MB   32.8kB / 291kB   35
+09:46:38.691553190
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   552.84%   216.6MiB / 7.789GiB   2.72%     320MB / 396MB   32.8kB / 291kB   35
+09:46:43.713575778
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   447.19%   218.1MiB / 7.789GiB   2.73%     323MB / 401MB   32.8kB / 291kB   35
+09:46:48.735412094
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   594.04%   212.6MiB / 7.789GiB   2.67%     327MB / 406MB   32.8kB / 291kB   35
+09:46:53.760397954
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   495.75%   209.9MiB / 7.789GiB   2.63%     331MB / 411MB   32.8kB / 291kB   35
+09:46:58.780875471
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   509.55%   212.4MiB / 7.789GiB   2.66%     335MB / 416MB   32.8kB / 291kB   35
+09:47:03.797616892
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   530.23%   219MiB / 7.789GiB   2.75%     338MB / 421MB   32.8kB / 291kB   35
+09:47:08.815316549
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   488.93%   242.5MiB / 7.789GiB   3.04%     342MB / 427MB   32.8kB / 291kB   35
+09:47:13.837732193
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   511.29%   220.4MiB / 7.789GiB   2.76%     346MB / 432MB   32.8kB / 291kB   35
+09:47:18.853769555
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   470.40%   224.1MiB / 7.789GiB   2.81%     349MB / 437MB   32.8kB / 291kB   35
+09:47:23.864980768
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   465.21%   218.7MiB / 7.789GiB   2.74%     353MB / 442MB   32.8kB / 291kB   35
+09:47:28.879440959
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   541.40%   247MiB / 7.789GiB   3.10%     357MB / 448MB   32.8kB / 291kB   35
+09:47:33.915709070
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   480.72%   207MiB / 7.789GiB   2.60%     361MB / 453MB   32.8kB / 291kB   35
+09:47:38.935364871
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   477.50%   213MiB / 7.789GiB   2.67%     365MB / 458MB   32.8kB / 291kB   35
+09:47:43.954736599
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   438.71%   208.6MiB / 7.789GiB   2.62%     368MB / 464MB   32.8kB / 291kB   35
+09:47:48.983047871
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   436.38%   223.4MiB / 7.789GiB   2.80%     372MB / 469MB   32.8kB / 291kB   35
+09:47:54.024755518
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   473.81%   214.9MiB / 7.789GiB   2.69%     376MB / 474MB   32.8kB / 291kB   35
+09:47:59.040178086
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   476.73%   237.1MiB / 7.789GiB   2.97%     380MB / 479MB   32.8kB / 291kB   35
+09:48:04.064332649
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   511.89%   232.8MiB / 7.789GiB   2.92%     383MB / 483MB   32.8kB / 291kB   35
+09:48:09.074645760
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   567.13%   237.7MiB / 7.789GiB   2.98%     387MB / 489MB   32.8kB / 291kB   35
+09:48:14.114290465
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   459.34%   252.5MiB / 7.789GiB   3.17%     390MB / 494MB   32.8kB / 291kB   35
+09:48:19.126986322
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   505.72%   258.2MiB / 7.789GiB   3.24%     394MB / 499MB   32.8kB / 291kB   35
+09:48:24.151581227
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   432.65%   234MiB / 7.789GiB   2.93%     398MB / 504MB   32.8kB / 291kB   35
+09:48:29.191463300
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   440.91%   222.6MiB / 7.789GiB   2.79%     402MB / 510MB   32.8kB / 291kB   35
+09:48:34.209633334
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   489.42%   227.5MiB / 7.789GiB   2.85%     406MB / 515MB   32.8kB / 291kB   35
+09:48:39.233468873
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   473.86%   244MiB / 7.789GiB   3.06%     409MB / 520MB   32.8kB / 291kB   35
+09:48:44.242436785
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   499.97%   220.5MiB / 7.789GiB   2.76%     413MB / 525MB   32.8kB / 291kB   35
+09:48:49.257655379
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   473.98%   212.2MiB / 7.789GiB   2.66%     416MB / 530MB   32.8kB / 291kB   35
+09:48:54.307538344
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   511.22%   218.8MiB / 7.789GiB   2.74%     421MB / 536MB   32.8kB / 291kB   35
+09:48:59.352416884
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   482.91%   214.2MiB / 7.789GiB   2.69%     424MB / 540MB   32.8kB / 291kB   35
+09:49:04.387239349
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   461.93%   223.1MiB / 7.789GiB   2.80%     428MB / 546MB   32.8kB / 291kB   35
+09:49:09.425746940
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   485.86%   199.5MiB / 7.789GiB   2.50%     432MB / 551MB   32.8kB / 291kB   35
+09:49:14.462034307
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   448.70%   208.3MiB / 7.789GiB   2.61%     436MB / 556MB   32.8kB / 291kB   35
+09:49:19.493796276
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   545.83%   205.9MiB / 7.789GiB   2.58%     439MB / 562MB   32.8kB / 291kB   35
+09:49:24.552354309
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   553.58%   212.1MiB / 7.789GiB   2.66%     443MB / 567MB   32.8kB / 291kB   35
+09:49:29.581537676
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   444.00%   212.1MiB / 7.789GiB   2.66%     447MB / 572MB   32.8kB / 291kB   35
+09:49:34.611153352
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   450.94%   218.4MiB / 7.789GiB   2.74%     450MB / 576MB   32.8kB / 291kB   35
+09:49:39.625931911
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   412.75%   242.2MiB / 7.789GiB   3.04%     454MB / 581MB   32.8kB / 291kB   35
+09:49:44.649336904
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   445.79%   242.1MiB / 7.789GiB   3.04%     458MB / 587MB   32.8kB / 291kB   35
+09:49:49.695555306
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   411.84%   241.5MiB / 7.789GiB   3.03%     461MB / 592MB   32.8kB / 291kB   35
+09:49:54.714921917
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   489.76%   267.1MiB / 7.789GiB   3.35%     465MB / 597MB   32.8kB / 291kB   35
+09:49:59.735153245
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   432.41%   265MiB / 7.789GiB   3.32%     469MB / 603MB   32.8kB / 291kB   35
+09:50:04.770814153
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   504.98%   245.4MiB / 7.789GiB   3.08%     473MB / 608MB   32.8kB / 291kB   35
+09:50:09.809558393
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   469.86%   237.5MiB / 7.789GiB   2.98%     477MB / 613MB   32.8kB / 291kB   35
+09:50:14.876548628
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   428.04%   233.8MiB / 7.789GiB   2.93%     480MB / 618MB   32.8kB / 291kB   35
+09:50:19.917253276
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   450.74%   250.7MiB / 7.789GiB   3.14%     484MB / 624MB   32.8kB / 291kB   35
+09:50:24.943907006
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   448.53%   267.8MiB / 7.789GiB   3.36%     487MB / 628MB   32.8kB / 291kB   35
+09:50:29.958169363
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   547.92%   264.5MiB / 7.789GiB   3.32%     491MB / 634MB   32.8kB / 291kB   35
+09:50:34.987659443
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   461.98%   233MiB / 7.789GiB   2.92%     495MB / 639MB   32.8kB / 291kB   35
+09:50:40.030502336
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   535.72%   245.4MiB / 7.789GiB   3.08%     499MB / 645MB   32.8kB / 291kB   35
+09:50:45.067516827
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   538.07%   238.6MiB / 7.789GiB   2.99%     503MB / 650MB   32.8kB / 291kB   35
+09:50:50.081130221
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   476.48%   240.7MiB / 7.789GiB   3.02%     506MB / 655MB   32.8kB / 291kB   35
+09:50:55.108462863
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   443.48%   199.1MiB / 7.789GiB   2.50%     510MB / 660MB   32.8kB / 291kB   35
+09:51:00.142562860
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   469.90%   190MiB / 7.789GiB   2.38%     514MB / 666MB   32.8kB / 291kB   35
+09:51:05.177381231
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   540.39%   195.2MiB / 7.789GiB   2.45%     518MB / 671MB   32.8kB / 291kB   35
+09:51:10.198084764
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   540.86%   182.1MiB / 7.789GiB   2.28%     522MB / 677MB   32.8kB / 291kB   35
+09:51:15.219609238
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   433.87%   184.7MiB / 7.789GiB   2.32%     525MB / 681MB   32.8kB / 291kB   35
+09:51:20.245298668
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   461.38%   185.8MiB / 7.789GiB   2.33%     529MB / 686MB   32.8kB / 291kB   35
+09:51:25.289159782
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   463.31%   185.8MiB / 7.789GiB   2.33%     533MB / 691MB   32.8kB / 291kB   35
+09:51:30.313494141
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   513.10%   196.1MiB / 7.789GiB   2.46%     536MB / 695MB   32.8kB / 291kB   35
+09:51:35.330679008
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   446.71%   207.1MiB / 7.789GiB   2.60%     539MB / 700MB   32.8kB / 291kB   35
+09:51:40.357738872
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   504.11%   220.9MiB / 7.789GiB   2.77%     543MB / 705MB   32.8kB / 291kB   35
+09:51:45.368374605
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   513.32%   202.9MiB / 7.789GiB   2.54%     547MB / 710MB   32.8kB / 291kB   35
+09:51:50.405455639
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   577.35%   217.7MiB / 7.789GiB   2.73%     551MB / 715MB   32.8kB / 291kB   35
+09:51:55.447381048
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   504.20%   244.5MiB / 7.789GiB   3.07%     554MB / 721MB   32.8kB / 291kB   35
+09:52:00.487960743
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   489.62%   243.4MiB / 7.789GiB   3.05%     558MB / 726MB   32.8kB / 291kB   35
+09:52:05.503313936
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   544.97%   279MiB / 7.789GiB   3.50%     562MB / 731MB   32.8kB / 291kB   35
+09:52:10.539933747
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   510.10%   252MiB / 7.789GiB   3.16%     566MB / 736MB   32.8kB / 291kB   35
+09:52:15.568141653
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   527.82%   251.4MiB / 7.789GiB   3.15%     570MB / 742MB   32.8kB / 291kB   35
+09:52:20.626370605
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   563.17%   248.2MiB / 7.789GiB   3.11%     573MB / 747MB   32.8kB / 291kB   35
+09:52:25.657033576
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   594.29%   226.7MiB / 7.789GiB   2.84%     577MB / 752MB   32.8kB / 291kB   35
+09:52:30.707412503
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   520.17%   227.4MiB / 7.789GiB   2.85%     580MB / 757MB   32.8kB / 291kB   35
+09:52:35.731444061
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   463.61%   236.2MiB / 7.789GiB   2.96%     584MB / 762MB   32.8kB / 291kB   35
+09:52:40.779194968
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   483.52%   165.4MiB / 7.789GiB   2.07%     588MB / 767MB   32.8kB / 291kB   35
+09:52:45.826452156
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   482.35%   189.4MiB / 7.789GiB   2.38%     591MB / 772MB   32.8kB / 291kB   35
+09:52:50.855788262
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   525.89%   186.9MiB / 7.789GiB   2.34%     595MB / 776MB   32.8kB / 291kB   35
+09:52:55.883382470
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   535.29%   185.1MiB / 7.789GiB   2.32%     598MB / 781MB   32.8kB / 291kB   35
+09:53:00.904781198
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   463.65%   196.3MiB / 7.789GiB   2.46%     602MB / 786MB   32.8kB / 291kB   35
+09:53:05.943092973
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   491.80%   193.6MiB / 7.789GiB   2.43%     606MB / 791MB   32.8kB / 291kB   35
+09:53:11.002470644
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   539.39%   208.8MiB / 7.789GiB   2.62%     610MB / 796MB   32.8kB / 291kB   35
+09:53:16.028814212
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   474.51%   217.1MiB / 7.789GiB   2.72%     613MB / 801MB   32.8kB / 291kB   35
+09:53:21.051019504
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   525.88%   230MiB / 7.789GiB   2.88%     617MB / 806MB   32.8kB / 291kB   35
+09:53:26.071417132
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   591.47%   229.8MiB / 7.789GiB   2.88%     621MB / 811MB   32.8kB / 291kB   35
+09:53:31.100028061
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   490.17%   238.6MiB / 7.789GiB   2.99%     624MB / 815MB   32.8kB / 291kB   35
+09:53:36.115529011
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   465.09%   257.8MiB / 7.789GiB   3.23%     627MB / 820MB   32.8kB / 291kB   35
+09:53:41.148993477
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   497.05%   227.7MiB / 7.789GiB   2.85%     631MB / 825MB   32.8kB / 291kB   35
+09:53:46.191289362
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   467.50%   225.1MiB / 7.789GiB   2.82%     635MB / 830MB   32.8kB / 291kB   35
+09:53:51.199424306
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   463.79%   232.3MiB / 7.789GiB   2.91%     639MB / 836MB   32.8kB / 291kB   35
+09:53:56.222536929
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   450.83%   209.9MiB / 7.789GiB   2.63%     642MB / 841MB   32.8kB / 291kB   35
+09:54:01.240281820
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   486.66%   212.9MiB / 7.789GiB   2.67%     646MB / 847MB   32.8kB / 291kB   35
+09:54:06.262628701
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   472.80%   207.7MiB / 7.789GiB   2.60%     650MB / 852MB   32.8kB / 291kB   35
+09:54:11.278141040
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   469.37%   203.1MiB / 7.789GiB   2.55%     654MB / 857MB   32.8kB / 291kB   35
+09:54:16.292028197
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   487.31%   206.2MiB / 7.789GiB   2.59%     657MB / 861MB   32.8kB / 291kB   35
+09:54:21.323006697
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   467.39%   207.9MiB / 7.789GiB   2.61%     660MB / 866MB   32.8kB / 291kB   35
+09:54:26.353972896
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   577.52%   219.6MiB / 7.789GiB   2.75%     664MB / 871MB   32.8kB / 291kB   35
+09:54:31.388235577
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   520.30%   226.7MiB / 7.789GiB   2.84%     668MB / 876MB   32.8kB / 291kB   35
+09:54:36.427765706
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   525.74%   219.7MiB / 7.789GiB   2.75%     671MB / 881MB   32.8kB / 291kB   35
+09:54:41.446509850
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   459.95%   224.6MiB / 7.789GiB   2.82%     675MB / 886MB   32.8kB / 291kB   35
+09:54:46.475549839
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   495.41%   236.4MiB / 7.789GiB   2.96%     679MB / 891MB   32.8kB / 291kB   35
+09:54:51.489905491
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   557.76%   246.1MiB / 7.789GiB   3.09%     683MB / 896MB   32.8kB / 291kB   35
+09:54:56.519636973
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   506.92%   189.9MiB / 7.789GiB   2.38%     686MB / 901MB   32.8kB / 291kB   35
+09:55:01.543215207
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   488.89%   218.4MiB / 7.789GiB   2.74%     690MB / 906MB   32.8kB / 291kB   35
+09:55:06.568555814
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   551.82%   201.2MiB / 7.789GiB   2.52%     694MB / 911MB   32.8kB / 291kB   35
+09:55:11.599462856
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   489.26%   215.4MiB / 7.789GiB   2.70%     697MB / 915MB   32.8kB / 291kB   35
+09:55:16.628349597
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   572.16%   197.7MiB / 7.789GiB   2.48%     701MB / 920MB   32.8kB / 291kB   35
+09:55:21.648224937
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   513.95%   221.4MiB / 7.789GiB   2.78%     704MB / 925MB   32.8kB / 291kB   35
+09:55:26.683169309
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   488.07%   240.5MiB / 7.789GiB   3.02%     708MB / 930MB   32.8kB / 291kB   35
+09:55:31.708739425
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   443.41%   202.2MiB / 7.789GiB   2.54%     712MB / 936MB   32.8kB / 291kB   35
+09:55:36.723777397
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   443.41%   218.1MiB / 7.789GiB   2.73%     716MB / 941MB   32.8kB / 291kB   35
+09:55:41.759237765
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   444.39%   217.7MiB / 7.789GiB   2.73%     720MB / 946MB   32.8kB / 291kB   35
+09:55:46.794621306
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   463.14%   196.6MiB / 7.789GiB   2.47%     723MB / 951MB   32.8kB / 291kB   35
+09:55:51.808151516
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   501.73%   217MiB / 7.789GiB   2.72%     727MB / 956MB   32.8kB / 291kB   35
+09:55:56.840211072
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   450.12%   201.3MiB / 7.789GiB   2.52%     731MB / 961MB   32.8kB / 291kB   35
+09:56:01.863564425
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   485.20%   223.9MiB / 7.789GiB   2.81%     734MB / 966MB   32.8kB / 291kB   35
+09:56:06.870470082
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   510.50%   232.1MiB / 7.789GiB   2.91%     737MB / 970MB   32.8kB / 291kB   35
+09:56:11.888724294
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   472.37%   226.6MiB / 7.789GiB   2.84%     741MB / 975MB   32.8kB / 291kB   35
+09:56:16.943187365
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   495.17%   232.8MiB / 7.789GiB   2.92%     745MB / 980MB   32.8kB / 291kB   35
+09:56:22.018689252
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   570.61%   223.2MiB / 7.789GiB   2.80%     749MB / 985MB   32.8kB / 291kB   35
+09:56:27.036173484
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   547.86%   242.4MiB / 7.789GiB   3.04%     752MB / 990MB   32.8kB / 291kB   35
+09:56:32.056205470
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   501.46%   222.4MiB / 7.789GiB   2.79%     756MB / 995MB   32.8kB / 291kB   35
+09:56:37.072099387
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   468.94%   246.9MiB / 7.789GiB   3.10%     760MB / 1e+03MB   32.8kB / 291kB   35
+09:56:42.095207984
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   513.03%   245.2MiB / 7.789GiB   3.07%     763MB / 1.01GB   32.8kB / 291kB   35
+09:56:47.138825700
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   500.63%   248.3MiB / 7.789GiB   3.11%     767MB / 1.01GB   32.8kB / 291kB   35
+09:56:52.188556469
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   452.97%   241.6MiB / 7.789GiB   3.03%     771MB / 1.02GB   32.8kB / 291kB   35
+09:56:57.215461762
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   529.47%   257.9MiB / 7.789GiB   3.23%     775MB / 1.02GB   32.8kB / 291kB   35
+09:57:02.241797653
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   487.05%   213.1MiB / 7.789GiB   2.67%     778MB / 1.02GB   32.8kB / 291kB   35
+09:57:07.287735167
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   568.24%   205.6MiB / 7.789GiB   2.58%     781MB / 1.03GB   32.8kB / 291kB   35
+09:57:12.295784824
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   483.01%   220.2MiB / 7.789GiB   2.76%     785MB / 1.03GB   32.8kB / 291kB   35
+09:57:17.328738540
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   497.85%   209.5MiB / 7.789GiB   2.63%     789MB / 1.04GB   32.8kB / 291kB   35
+09:57:22.353274931
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   432.12%   235.4MiB / 7.789GiB   2.95%     793MB / 1.04GB   32.8kB / 291kB   35
+09:57:27.393603070
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   488.69%   205MiB / 7.789GiB   2.57%     796MB / 1.05GB   32.8kB / 291kB   35
+09:57:32.413587077
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   532.00%   190.3MiB / 7.789GiB   2.39%     800MB / 1.05GB   32.8kB / 291kB   35
+09:57:37.438983724
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   559.47%   193MiB / 7.789GiB   2.42%     804MB / 1.06GB   32.8kB / 291kB   35
+09:57:42.482787177
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   492.75%   203.2MiB / 7.789GiB   2.55%     808MB / 1.07GB   32.8kB / 291kB   35
+09:57:47.520695610
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   491.97%   214.3MiB / 7.789GiB   2.69%     812MB / 1.07GB   32.8kB / 291kB   35
+09:57:52.558779026
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   453.70%   203.4MiB / 7.789GiB   2.55%     815MB / 1.08GB   32.8kB / 291kB   35
+09:57:57.574339822
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   506.37%   213MiB / 7.789GiB   2.67%     819MB / 1.08GB   32.8kB / 291kB   35
+09:58:02.627364690
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   508.54%   223MiB / 7.789GiB   2.80%     822MB / 1.08GB   32.8kB / 291kB   35
+09:58:07.639258281
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   548.12%   193.5MiB / 7.789GiB   2.43%     826MB / 1.09GB   32.8kB / 291kB   35
+09:58:12.666090568
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   462.08%   207.6MiB / 7.789GiB   2.60%     830MB / 1.1GB   32.8kB / 291kB   35
+09:58:17.707342619
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   505.94%   226.1MiB / 7.789GiB   2.83%     833MB / 1.1GB   32.8kB / 291kB   35
+09:58:22.741345097
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   585.36%   218.3MiB / 7.789GiB   2.74%     837MB / 1.11GB   32.8kB / 291kB   35
+09:58:27.758517756
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   536.74%   227.1MiB / 7.789GiB   2.85%     841MB / 1.11GB   32.8kB / 291kB   35
+09:58:32.782463118
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   484.08%   222.1MiB / 7.789GiB   2.78%     845MB / 1.12GB   32.8kB / 291kB   35
+09:58:37.820992838
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   524.72%   232.4MiB / 7.789GiB   2.91%     849MB / 1.12GB   32.8kB / 291kB   35
+09:58:42.850367806
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   462.22%   234.3MiB / 7.789GiB   2.94%     853MB / 1.13GB   32.8kB / 291kB   35
+09:58:47.872479861
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   516.37%   241MiB / 7.789GiB   3.02%     856MB / 1.13GB   32.8kB / 291kB   35
+09:58:52.895708463
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   459.54%   222.7MiB / 7.789GiB   2.79%     859MB / 1.14GB   32.8kB / 291kB   35
+09:58:57.922604795
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   602.40%   229.6MiB / 7.789GiB   2.88%     863MB / 1.14GB   32.8kB / 291kB   35
+09:59:02.977029671
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   572.22%   239.7MiB / 7.789GiB   3.00%     867MB / 1.15GB   32.8kB / 291kB   35
+09:59:08.014909573
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   498.01%   246.8MiB / 7.789GiB   3.09%     871MB / 1.15GB   32.8kB / 291kB   35
+09:59:13.050598171
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   490.54%   240.3MiB / 7.789GiB   3.01%     875MB / 1.16GB   32.8kB / 291kB   35
+09:59:18.077064269
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   489.37%   260.1MiB / 7.789GiB   3.26%     879MB / 1.16GB   32.8kB / 291kB   35
+09:59:23.090735939
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   435.05%   250.5MiB / 7.789GiB   3.14%     883MB / 1.17GB   32.8kB / 291kB   35
+09:59:28.116416498
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   552.22%   237.3MiB / 7.789GiB   2.97%     886MB / 1.17GB   32.8kB / 291kB   35
+09:59:33.132678462
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   546.92%   255.2MiB / 7.789GiB   3.20%     889MB / 1.18GB   32.8kB / 291kB   35
+09:59:38.156009687
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   467.90%   205.6MiB / 7.789GiB   2.58%     893MB / 1.18GB   32.8kB / 291kB   35
+09:59:43.179813550
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   519.25%   216.4MiB / 7.789GiB   2.71%     897MB / 1.19GB   32.8kB / 291kB   35
+09:59:48.204647650
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   484.56%   202.9MiB / 7.789GiB   2.54%     901MB / 1.19GB   32.8kB / 291kB   35
+09:59:53.243196888
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   504.32%   214MiB / 7.789GiB   2.68%     905MB / 1.2GB   32.8kB / 291kB   35
+09:59:58.290954618
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   529.73%   210.9MiB / 7.789GiB   2.64%     908MB / 1.2GB   32.8kB / 291kB   35
+10:00:03.348659071
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   486.85%   221.1MiB / 7.789GiB   2.77%     912MB / 1.21GB   32.8kB / 291kB   35
+10:00:08.376411150
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   523.34%   212.1MiB / 7.789GiB   2.66%     916MB / 1.22GB   32.8kB / 291kB   35
+10:00:13.401596990
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   488.87%   241.1MiB / 7.789GiB   3.02%     920MB / 1.22GB   32.8kB / 291kB   35
+10:00:18.416775045
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   530.48%   233.5MiB / 7.789GiB   2.93%     924MB / 1.23GB   32.8kB / 291kB   35
+10:00:23.446878463
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   588.42%   208.4MiB / 7.789GiB   2.61%     927MB / 1.23GB   32.8kB / 291kB   35
+10:00:28.471955842
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   518.34%   209.9MiB / 7.789GiB   2.63%     930MB / 1.24GB   32.8kB / 291kB   35
+10:00:33.502790652
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   462.40%   221.5MiB / 7.789GiB   2.78%     934MB / 1.24GB   32.8kB / 291kB   35
+10:00:38.516763196
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   468.81%   231.2MiB / 7.789GiB   2.90%     938MB / 1.25GB   32.8kB / 291kB   35
+10:00:43.542358845
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   502.51%   210MiB / 7.789GiB   2.63%     942MB / 1.25GB   32.8kB / 291kB   35
+10:00:48.560640004
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   477.20%   229.4MiB / 7.789GiB   2.88%     946MB / 1.26GB   32.8kB / 291kB   35
+10:00:53.585691117
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   540.15%   185.8MiB / 7.789GiB   2.33%     950MB / 1.26GB   32.8kB / 291kB   35
+10:00:58.615161600
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   499.15%   213.7MiB / 7.789GiB   2.68%     953MB / 1.27GB   32.8kB / 291kB   35
+10:01:03.648168666
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   450.82%   215.6MiB / 7.789GiB   2.70%     957MB / 1.27GB   32.8kB / 291kB   35
+10:01:08.688063076
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   529.18%   212.3MiB / 7.789GiB   2.66%     961MB / 1.28GB   32.8kB / 291kB   35
+10:01:13.713731578
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   511.66%   194.4MiB / 7.789GiB   2.44%     964MB / 1.28GB   32.8kB / 291kB   35
+10:01:18.727699890
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   545.00%   208.6MiB / 7.789GiB   2.62%     967MB / 1.29GB   32.8kB / 291kB   35
+10:01:23.760237250
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   481.77%   204MiB / 7.789GiB   2.56%     971MB / 1.29GB   32.8kB / 291kB   35
+10:01:28.787781138
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   481.17%   220.4MiB / 7.789GiB   2.76%     975MB / 1.3GB   32.8kB / 291kB   35
+10:01:33.814410817
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   501.77%   207.6MiB / 7.789GiB   2.60%     978MB / 1.3GB   32.8kB / 291kB   35
+10:01:38.845029129
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   529.02%   222.9MiB / 7.789GiB   2.79%     982MB / 1.31GB   32.8kB / 291kB   35
+10:01:43.865951799
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   398.25%   239.3MiB / 7.789GiB   3.00%     986MB / 1.31GB   32.8kB / 291kB   35
+10:01:48.878678720
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   448.36%   241.8MiB / 7.789GiB   3.03%     989MB / 1.32GB   32.8kB / 291kB   35
+10:01:53.933017143
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   447.27%   234.9MiB / 7.789GiB   2.95%     993MB / 1.32GB   32.8kB / 291kB   35
+10:01:58.964303807
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   474.95%   224.6MiB / 7.789GiB   2.82%     996MB / 1.33GB   32.8kB / 291kB   35
+10:02:03.990241612
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O            BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   417.18%   218.2MiB / 7.789GiB   2.74%     1e+03MB / 1.34GB   32.8kB / 291kB   35
+10:02:09.007672665
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   388.73%   219.4MiB / 7.789GiB   2.75%     1GB / 1.34GB   32.8kB / 291kB   35
+10:02:14.032907390
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   376.28%   200.5MiB / 7.789GiB   2.51%     1.01GB / 1.35GB   32.8kB / 291kB   35
+10:02:19.048665466
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   347.86%   216.5MiB / 7.789GiB   2.71%     1.01GB / 1.36GB   32.8kB / 291kB   35
+10:02:24.059762784
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   211.75%   192.4MiB / 7.789GiB   2.41%     1.01GB / 1.36GB   32.8kB / 291kB   35
+10:02:29.066147033
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   131.47%   173.8MiB / 7.789GiB   2.18%     1.01GB / 1.36GB   32.8kB / 291kB   35
+10:02:34.072523267
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   82.48%    159.1MiB / 7.789GiB   2.00%     1.01GB / 1.36GB   32.8kB / 291kB   35
+10:02:39.079282980
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   80.14%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.37GB   32.8kB / 291kB   35
+10:02:44.085464522
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   83.38%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.37GB   32.8kB / 291kB   35
+10:02:49.091873587
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   64.31%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.37GB   32.8kB / 291kB   35
+10:02:54.098304489
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   82.62%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.37GB   32.8kB / 291kB   35
+10:02:59.104568027
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   88.92%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.37GB   32.8kB / 291kB   35
+10:03:04.111147623
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   75.43%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.37GB   32.8kB / 291kB   35
+10:03:09.117440221
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   42.46%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.37GB   32.8kB / 291kB   35
+10:03:14.124029984
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   35.68%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:19.130548976
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   54.30%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:24.137755738
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   23.74%    145.1MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:29.147134818
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   1.78%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:34.158364410
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.59%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:39.170299585
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.36%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:44.180258008
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.70%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:49.191698388
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.46%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:54.203006358
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.28%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:03:59.214361237
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.90%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:04.225210192
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.20%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:09.236466247
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.80%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:14.248689939
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.28%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:19.259258075
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.55%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:24.267233016
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.31%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:29.276887958
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.63%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:34.284696625
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.18%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:39.295577507
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.17%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:44.306786804
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.27%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:49.317953463
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.25%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:54.327285151
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.30%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:04:59.335350000
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   1.37%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:04.345498603
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.18%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:09.355730167
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.21%     145.3MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:14.365486137
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.17%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:19.377176461
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.22%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:24.388695679
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.26%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:29.399240656
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.48%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:34.410422225
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.23%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:39.421513699
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.10%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:44.432012826
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.26%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
+10:05:49.440627440
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O        PIDS
+d901f3ce1280   ex21_mqtt-broker.1.5x8jbodm9pwgql8693tdh7690   0.20%     145.2MiB / 7.789GiB   1.82%     1.02GB / 1.38GB   32.8kB / 291kB   35
