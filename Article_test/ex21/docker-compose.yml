@@ -5,7 +5,7 @@ services:
   mqtt-broker:
     image: "emqx/emqx:4.3.8"
     environment:
-      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=100000000
       - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,A/E/E=5
     networks:
       default:
