@@ -120,7 +120,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins1
+          - node.labels.name==dtwins7
     command: dt-client-bytes
 
   client_h:
@@ -144,7 +144,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins1
+          - node.labels.name==dtwins7
     command: dt-client-bytes
 
   client_x:
@@ -168,7 +168,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins2
+          - node.labels.name==dtwins7
     command: dt-client-bytes
 
   client_y:
@@ -192,7 +192,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins2
+          - node.labels.name==dtwins7
     command: dt-client-bytes
 
 
@@ -215,7 +215,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins1
+          - node.labels.name==dtwins7
     command: dt-instance
 
   twin_h:
@@ -237,7 +237,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins1
+          - node.labels.name==dtwins7
     command: dt-instance
           
   twin_x:
@@ -259,7 +259,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins2
+          - node.labels.name==dtwins7
     command: dt-instance
 
   twin_y:
@@ -281,7 +281,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins2
+          - node.labels.name==dtwins7
     command: dt-instance
 
 networks:
