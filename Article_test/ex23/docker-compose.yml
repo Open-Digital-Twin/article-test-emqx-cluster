@@ -10,7 +10,7 @@ services:
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__NODE_TTL=1m
-      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/xprio=10,A/Y/Yprio=10,A/D/Dprio=10,A/H/Hprio=10
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/Xprio=100,A/Y/Yprio=90,A/D/Dprio=80,A/H/Hprio=70
     networks:
       default:
         aliases:
@@ -30,7 +30,7 @@ services:
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__NODE_TTL=1m
-      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/xprio=10,A/Y/Yprio=10,A/D/Dprio=10,A/H/Hprio=10
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/Xprio=100,A/Y/Yprio=90,A/D/Dprio=80,A/H/Hprio=70
     networks:
       default:
         aliases:
@@ -50,7 +50,7 @@ services:
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__NODE_TTL=1m
-      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/xprio=10,A/Y/Yprio=10,A/D/Dprio=10,A/H/Hprio=10
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/Xprio=100,A/Y/Yprio=90,A/D/Dprio=80,A/H/Hprio=70
     networks:
       default:
         aliases:
@@ -71,7 +71,7 @@ services:
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__NODE_TTL=1m
-      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/xprio=10,A/Y/Yprio=10,A/D/Dprio=10,A/H/Hprio=10
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/X/Xprio=100,A/Y/Yprio=90,A/D/Dprio=80,A/H/Hprio=70
     networks:
       default:
         aliases:
@@ -107,7 +107,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-1
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -131,7 +131,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-1
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -155,7 +155,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-2
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -171,7 +171,7 @@ services:
           - node.labels.name==dtwins7
     command: dt-client-bytes
 
-  client_xprio:
+  client_Xprio:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - mqtt-broker
@@ -179,13 +179,13 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-3
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
       - MQTT_CLIENT_MESSAGES_TO_SEND=10000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=100
-      - MQTT_CLIENT_TOPIC=A/X/xprio
+      - MQTT_CLIENT_TOPIC=A/X/Xprio
     networks:
       - default
     deploy:
@@ -203,7 +203,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-4
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=10000
@@ -227,7 +227,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-2
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -251,7 +251,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-3
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -275,7 +275,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-4
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -297,7 +297,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-1
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -319,7 +319,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-2
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -341,7 +341,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-3
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -363,7 +363,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_ADDRESS=mqtt-node-4
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
