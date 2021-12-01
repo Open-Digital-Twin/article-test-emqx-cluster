@@ -46,7 +46,7 @@ services:
       placement:    
         constraints:
           - node.labels.name==dtwins1
-    command: dt-client-bytes
+    command: dt-client-accel
 
   twin_abcd:
     image: "opendigitaltwin/dt-instance:latest"
