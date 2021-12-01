@@ -1,0 +1,1059 @@
+10:49:49.954288679
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.12%     117.9MiB / 1.946GiB   5.92%     277kB / 314kB   0B / 954kB   29
+10:49:54.962898725
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.13%     117.9MiB / 1.946GiB   5.92%     281kB / 316kB   0B / 954kB   29
+10:49:59.973277423
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.19%     117.9MiB / 1.946GiB   5.92%     282kB / 318kB   0B / 954kB   29
+10:50:04.982269985
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.10%     117.9MiB / 1.946GiB   5.92%     283kB / 319kB   0B / 954kB   29
+10:50:09.989404068
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.14%     117.9MiB / 1.946GiB   5.92%     285kB / 321kB   0B / 954kB   29
+10:50:14.997217994
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.14%     117.9MiB / 1.946GiB   5.92%     286kB / 323kB   0B / 954kB   29
+10:50:20.003915157
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.14%     117.9MiB / 1.946GiB   5.92%     288kB / 325kB   0B / 954kB   29
+10:50:25.010568016
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.21%     117.9MiB / 1.946GiB   5.92%     291kB / 327kB   0B / 954kB   29
+10:50:30.017356611
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.25%     117.9MiB / 1.946GiB   5.92%     296kB / 331kB   0B / 954kB   29
+10:50:35.031446531
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   8.87%     117.9MiB / 1.946GiB   5.92%     461kB / 495kB   0B / 954kB   29
+10:50:40.038668118
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   19.83%    117.9MiB / 1.946GiB   5.92%     859kB / 920kB   0B / 954kB   29
+10:50:45.048169523
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.97%    119.3MiB / 1.946GiB   5.99%     1.58MB / 1.76MB   0B / 958kB   29
+10:50:50.070066692
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   87.90%    119.9MiB / 1.946GiB   6.02%     2.49MB / 2.96MB   0B / 958kB   29
+10:50:55.087600040
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.95%    120MiB / 1.946GiB   6.02%     3.39MB / 4.17MB   0B / 958kB   29
+10:51:00.118451199
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   75.28%    120.8MiB / 1.946GiB   6.06%     4.28MB / 5.43MB   0B / 958kB   29
+10:51:05.129310733
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.09%    120.4MiB / 1.946GiB   6.04%     5.17MB / 6.62MB   0B / 958kB   29
+10:51:10.157690895
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.23%    120.1MiB / 1.946GiB   6.03%     6.01MB / 7.79MB   0B / 958kB   29
+10:51:15.171799732
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.65%    120.8MiB / 1.946GiB   6.06%     6.95MB / 9.04MB   0B / 958kB   29
+10:51:20.186353626
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.28%    120.4MiB / 1.946GiB   6.04%     7.81MB / 10.2MB   0B / 958kB   29
+10:51:25.213998012
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   40.94%    120.5MiB / 1.946GiB   6.04%     8.71MB / 11.5MB   0B / 958kB   29
+10:51:30.264004892
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   72.07%    121.5MiB / 1.946GiB   6.10%     9.6MB / 12.7MB   0B / 958kB   29
+10:51:35.312318024
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.71%    120.5MiB / 1.946GiB   6.05%     10.5MB / 14MB   0B / 958kB   29
+10:51:40.321374435
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.61%    121MiB / 1.946GiB   6.07%     11.4MB / 15.3MB   0B / 958kB   29
+10:51:45.407119910
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   37.58%    120.2MiB / 1.946GiB   6.03%     12.3MB / 16.5MB   0B / 958kB   29
+10:51:50.429221466
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.90%    120.3MiB / 1.946GiB   6.03%     13.2MB / 17.7MB   0B / 958kB   29
+10:51:55.444190125
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   70.19%    120.4MiB / 1.946GiB   6.04%     14.1MB / 18.9MB   0B / 958kB   29
+10:52:00.460371753
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.44%    120.4MiB / 1.946GiB   6.04%     15MB / 20.1MB   0B / 958kB   29
+10:52:05.476429628
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.03%    120.3MiB / 1.946GiB   6.04%     15.9MB / 21.3MB   0B / 958kB   29
+10:52:10.492709321
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.86%    121.1MiB / 1.946GiB   6.07%     16.8MB / 22.6MB   0B / 958kB   29
+10:52:15.511005439
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   73.03%    120.7MiB / 1.946GiB   6.06%     17.7MB / 23.8MB   0B / 958kB   29
+10:52:20.535076098
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.06%    120.9MiB / 1.946GiB   6.06%     18.6MB / 25.1MB   0B / 958kB   29
+10:52:25.553783497
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   43.21%    120.3MiB / 1.946GiB   6.04%     19.5MB / 26.3MB   0B / 958kB   29
+10:52:30.569230140
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.66%    121.4MiB / 1.946GiB   6.09%     20.4MB / 27.5MB   0B / 958kB   29
+10:52:35.598558197
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   61.52%    120.4MiB / 1.946GiB   6.04%     21.3MB / 28.8MB   0B / 958kB   29
+10:52:40.614417735
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.39%    120.3MiB / 1.946GiB   6.04%     22.2MB / 30MB   0B / 958kB   29
+10:52:45.641334173
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.46%    120.9MiB / 1.946GiB   6.06%     23.1MB / 31.2MB   0B / 958kB   29
+10:52:50.673801115
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   99.28%    120.3MiB / 1.946GiB   6.04%     24MB / 32.4MB   0B / 958kB   29
+10:52:55.694310560
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   61.00%    120.4MiB / 1.946GiB   6.04%     24.9MB / 33.7MB   0B / 958kB   29
+10:53:00.704205079
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   72.05%    121MiB / 1.946GiB   6.07%     25.9MB / 34.9MB   0B / 958kB   29
+10:53:05.728119573
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   91.95%    121.4MiB / 1.946GiB   6.09%     26.8MB / 36.2MB   0B / 958kB   29
+10:53:10.748085429
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   42.85%    121.1MiB / 1.946GiB   6.08%     27.6MB / 37.4MB   0B / 958kB   29
+10:53:15.758141736
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.73%    120.5MiB / 1.946GiB   6.04%     28.5MB / 38.6MB   0B / 958kB   29
+10:53:20.776259801
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.65%    121.1MiB / 1.946GiB   6.08%     29.4MB / 39.9MB   0B / 958kB   29
+10:53:25.815251645
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.53%    123.2MiB / 1.946GiB   6.18%     30.3MB / 41.1MB   0B / 958kB   29
+10:53:30.831244243
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.78%    121.3MiB / 1.946GiB   6.09%     31.3MB / 42.5MB   0B / 958kB   29
+10:53:35.852791634
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.77%    120.6MiB / 1.946GiB   6.05%     32.2MB / 43.6MB   0B / 958kB   29
+10:53:40.880408670
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   83.35%    121.6MiB / 1.946GiB   6.10%     33.2MB / 45MB   0B / 958kB   29
+10:53:45.924983262
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.92%    120.6MiB / 1.946GiB   6.05%     34.1MB / 46.3MB   0B / 958kB   29
+10:53:50.938084763
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.03%    120.6MiB / 1.946GiB   6.05%     35MB / 47.5MB   0B / 958kB   29
+10:53:55.950252084
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.75%    121.1MiB / 1.946GiB   6.07%     35.9MB / 48.7MB   0B / 958kB   29
+10:54:00.967515931
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.55%    120.8MiB / 1.946GiB   6.06%     36.7MB / 49.9MB   0B / 958kB   29
+10:54:05.990003961
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   61.97%    120.9MiB / 1.946GiB   6.07%     37.6MB / 51.1MB   0B / 958kB   29
+10:54:11.001157270
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.78%    120.5MiB / 1.946GiB   6.05%     38.5MB / 52.3MB   0B / 958kB   29
+10:54:16.034426804
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.46%    120.8MiB / 1.946GiB   6.06%     39.4MB / 53.5MB   0B / 958kB   29
+10:54:21.060900410
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   44.48%    120.6MiB / 1.946GiB   6.05%     40.2MB / 54.6MB   0B / 958kB   29
+10:54:26.109728783
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.78%    120.6MiB / 1.946GiB   6.05%     41.1MB / 55.8MB   0B / 958kB   29
+10:54:31.136304778
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O       BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.39%    120.6MiB / 1.946GiB   6.05%     42MB / 57MB   0B / 958kB   29
+10:54:36.172406681
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.34%    122.1MiB / 1.946GiB   6.13%     42.9MB / 58.2MB   0B / 958kB   29
+10:54:41.229672805
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   64.28%    120.9MiB / 1.946GiB   6.07%     43.8MB / 59.4MB   0B / 958kB   29
+10:54:46.254659649
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.33%    121.1MiB / 1.946GiB   6.08%     44.6MB / 60.6MB   0B / 958kB   29
+10:54:51.262765224
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.11%    120.8MiB / 1.946GiB   6.06%     45.5MB / 61.9MB   0B / 958kB   29
+10:54:56.300579185
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   82.31%    120.9MiB / 1.946GiB   6.07%     46.5MB / 63.2MB   0B / 958kB   29
+10:55:01.328479870
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.98%    120.7MiB / 1.946GiB   6.05%     47.4MB / 64.3MB   0B / 958kB   29
+10:55:06.354831424
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.72%    120.6MiB / 1.946GiB   6.05%     48.3MB / 65.5MB   0B / 958kB   29
+10:55:11.382321537
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.49%    120.8MiB / 1.946GiB   6.06%     49.2MB / 66.7MB   0B / 958kB   29
+10:55:16.399512654
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.86%    120.7MiB / 1.946GiB   6.05%     50MB / 67.9MB   0B / 958kB   29
+10:55:21.440462459
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   81.25%    121.1MiB / 1.946GiB   6.08%     50.9MB / 69.1MB   0B / 958kB   29
+10:55:26.463699822
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.78%    120.7MiB / 1.946GiB   6.05%     51.8MB / 70.3MB   0B / 958kB   29
+10:55:31.491501620
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.68%    120.6MiB / 1.946GiB   6.05%     52.7MB / 71.5MB   0B / 958kB   29
+10:55:36.533160249
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.89%    121.3MiB / 1.946GiB   6.08%     53.6MB / 72.7MB   0B / 958kB   29
+10:55:41.555433594
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   37.53%    120.6MiB / 1.946GiB   6.05%     54.5MB / 73.9MB   0B / 958kB   29
+10:55:46.600816732
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.61%    121.8MiB / 1.946GiB   6.11%     55.4MB / 75.2MB   0B / 958kB   29
+10:55:51.640761200
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.33%    120.8MiB / 1.946GiB   6.06%     56.3MB / 76.4MB   0B / 958kB   29
+10:55:56.659970264
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   78.70%    120.8MiB / 1.946GiB   6.06%     57.1MB / 77.7MB   0B / 958kB   29
+10:56:01.672062815
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.61%    120.6MiB / 1.946GiB   6.05%     58.1MB / 78.9MB   0B / 958kB   29
+10:56:06.693016625
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.34%    121.3MiB / 1.946GiB   6.09%     59MB / 80.2MB   0B / 958kB   29
+10:56:11.759041055
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   72.50%    120.8MiB / 1.946GiB   6.06%     59.9MB / 81.4MB   0B / 958kB   29
+10:56:16.779877653
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.68%    120.6MiB / 1.946GiB   6.05%     60.8MB / 82.7MB   0B / 958kB   29
+10:56:21.832021364
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   77.21%    120.6MiB / 1.946GiB   6.05%     61.7MB / 83.9MB   0B / 958kB   29
+10:56:26.859849515
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.09%    120.7MiB / 1.946GiB   6.05%     62.6MB / 85.1MB   0B / 958kB   29
+10:56:31.878899687
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.19%    120.7MiB / 1.946GiB   6.06%     63.5MB / 86.3MB   0B / 958kB   29
+10:56:36.896777838
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.90%    120.6MiB / 1.946GiB   6.05%     64.4MB / 87.5MB   0B / 958kB   29
+10:56:41.918486079
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.46%    120.6MiB / 1.946GiB   6.05%     65.2MB / 88.6MB   0B / 958kB   29
+10:56:46.957860420
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   86.26%    121.8MiB / 1.946GiB   6.11%     66.2MB / 89.9MB   0B / 958kB   29
+10:56:51.972060333
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   75.20%    121.1MiB / 1.946GiB   6.08%     67MB / 91.1MB   0B / 958kB   29
+10:56:57.003716028
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.55%    120.7MiB / 1.946GiB   6.06%     68MB / 92.3MB   0B / 958kB   29
+10:57:02.038855557
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.88%    120.8MiB / 1.946GiB   6.06%     68.9MB / 93.6MB   0B / 958kB   29
+10:57:07.068863398
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.36%    120.6MiB / 1.946GiB   6.05%     69.8MB / 94.8MB   0B / 958kB   29
+10:57:12.121591883
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.72%    121.1MiB / 1.946GiB   6.08%     70.7MB / 96MB   0B / 958kB   29
+10:57:17.133665522
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.67%    120.6MiB / 1.946GiB   6.05%     71.6MB / 97.3MB   0B / 958kB   29
+10:57:22.144688349
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.91%    120.6MiB / 1.946GiB   6.05%     72.5MB / 98.4MB   0B / 958kB   29
+10:57:27.171980803
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O           BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.82%    120.6MiB / 1.946GiB   6.05%     73.4MB / 99.6MB   0B / 958kB   29
+10:57:32.196139909
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.22%    120.7MiB / 1.946GiB   6.06%     74.2MB / 101MB   0B / 958kB   29
+10:57:37.232408538
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.34%    120.6MiB / 1.946GiB   6.05%     75.2MB / 102MB   0B / 958kB   29
+10:57:42.246895309
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.08%    120.6MiB / 1.946GiB   6.05%     76MB / 103MB   0B / 958kB   29
+10:57:47.265312433
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.40%    120.8MiB / 1.946GiB   6.06%     76.9MB / 105MB   0B / 958kB   29
+10:57:52.290881229
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.12%    120.6MiB / 1.946GiB   6.05%     77.8MB / 106MB   0B / 958kB   29
+10:57:57.303157376
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.27%    120.7MiB / 1.946GiB   6.06%     78.7MB / 107MB   0B / 958kB   29
+10:58:02.316631193
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   71.29%    120.9MiB / 1.946GiB   6.06%     79.5MB / 108MB   0B / 958kB   29
+10:58:07.346987705
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   75.29%    121.3MiB / 1.946GiB   6.08%     80.4MB / 109MB   0B / 958kB   29
+10:58:12.364897987
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   82.99%    122MiB / 1.946GiB   6.12%     81.3MB / 110MB   0B / 958kB   29
+10:58:17.384318553
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.56%    121.4MiB / 1.946GiB   6.09%     82.2MB / 112MB   0B / 958kB   29
+10:58:22.414272104
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.55%    120.9MiB / 1.946GiB   6.07%     83.1MB / 113MB   0B / 958kB   29
+10:58:27.424915771
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.81%    120.6MiB / 1.946GiB   6.05%     84MB / 114MB   0B / 958kB   29
+10:58:32.447713120
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.31%    120.7MiB / 1.946GiB   6.06%     84.9MB / 115MB   0B / 958kB   29
+10:58:37.456711228
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.57%    120.6MiB / 1.946GiB   6.05%     85.8MB / 117MB   0B / 958kB   29
+10:58:42.489780081
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.09%    120.7MiB / 1.946GiB   6.05%     86.7MB / 118MB   0B / 958kB   29
+10:58:47.510846617
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.38%    121.3MiB / 1.946GiB   6.08%     87.6MB / 119MB   0B / 958kB   29
+10:58:52.551619482
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.29%    121.6MiB / 1.946GiB   6.10%     88.5MB / 120MB   0B / 958kB   29
+10:58:57.571407514
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   64.45%    120.6MiB / 1.946GiB   6.05%     89.3MB / 121MB   0B / 958kB   29
+10:59:02.593748629
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   83.93%    122.3MiB / 1.946GiB   6.14%     90.2MB / 123MB   0B / 958kB   29
+10:59:07.607841143
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   76.45%    121.8MiB / 1.946GiB   6.11%     91MB / 124MB   0B / 958kB   29
+10:59:12.638042263
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.77%    120.9MiB / 1.946GiB   6.07%     91.9MB / 125MB   0B / 958kB   29
+10:59:17.657385826
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   85.17%    120.6MiB / 1.946GiB   6.05%     92.8MB / 126MB   0B / 958kB   29
+10:59:22.683710208
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.23%    120.6MiB / 1.946GiB   6.05%     93.8MB / 128MB   0B / 958kB   29
+10:59:27.704390264
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.18%    121MiB / 1.946GiB   6.07%     94.6MB / 129MB   0B / 958kB   29
+10:59:32.722323692
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   64.34%    120.7MiB / 1.946GiB   6.05%     95.5MB / 130MB   0B / 958kB   29
+10:59:37.745536812
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.94%    120.7MiB / 1.946GiB   6.05%     96.4MB / 131MB   0B / 958kB   29
+10:59:42.770825904
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   81.26%    121.2MiB / 1.946GiB   6.08%     97.3MB / 133MB   0B / 958kB   29
+10:59:47.791953941
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O          BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.28%    120.7MiB / 1.946GiB   6.06%     98.1MB / 134MB   0B / 958kB   29
+10:59:52.816354132
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O        BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.29%    121.2MiB / 1.946GiB   6.08%     99MB / 135MB   0B / 958kB   29
+10:59:57.835168467
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   68.61%    121.7MiB / 1.946GiB   6.11%     100MB / 136MB   0B / 958kB   29
+11:00:02.860858852
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.30%    121.1MiB / 1.946GiB   6.08%     101MB / 137MB   0B / 958kB   29
+11:00:07.872416397
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   43.95%    121.1MiB / 1.946GiB   6.07%     102MB / 139MB   0B / 958kB   29
+11:00:12.880604369
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.80%    120.7MiB / 1.946GiB   6.06%     103MB / 140MB   0B / 958kB   29
+11:00:17.912298293
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.87%    121.5MiB / 1.946GiB   6.10%     104MB / 141MB   0B / 958kB   29
+11:00:22.933535492
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   69.10%    120.7MiB / 1.946GiB   6.05%     104MB / 142MB   0B / 958kB   29
+11:00:27.946814978
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.59%    120.7MiB / 1.946GiB   6.05%     105MB / 144MB   0B / 958kB   29
+11:00:32.963779098
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.16%    120.8MiB / 1.946GiB   6.06%     106MB / 145MB   0B / 958kB   29
+11:00:37.973066140
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.45%    121.4MiB / 1.946GiB   6.09%     107MB / 146MB   0B / 958kB   29
+11:00:43.000260041
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.92%    121.3MiB / 1.946GiB   6.09%     108MB / 147MB   0B / 958kB   29
+11:00:48.015914829
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.93%    120.7MiB / 1.946GiB   6.05%     109MB / 148MB   0B / 958kB   29
+11:00:53.036970803
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   61.27%    121.5MiB / 1.946GiB   6.09%     110MB / 150MB   0B / 958kB   29
+11:00:58.065555971
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.78%    122.1MiB / 1.946GiB   6.13%     111MB / 151MB   0B / 958kB   29
+11:01:03.080972390
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.44%    121.5MiB / 1.946GiB   6.09%     112MB / 152MB   0B / 958kB   29
+11:01:08.099693992
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   40.84%    121.2MiB / 1.946GiB   6.08%     112MB / 153MB   0B / 958kB   29
+11:01:13.120432998
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.20%    120.8MiB / 1.946GiB   6.06%     113MB / 154MB   0B / 958kB   29
+11:01:18.153555233
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.56%    120.8MiB / 1.946GiB   6.06%     114MB / 156MB   0B / 958kB   29
+11:01:23.165621276
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.22%    121MiB / 1.946GiB   6.07%     115MB / 157MB   0B / 958kB   29
+11:01:28.206036592
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.55%    121.2MiB / 1.946GiB   6.08%     116MB / 158MB   0B / 958kB   29
+11:01:33.259900122
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   75.88%    123.1MiB / 1.946GiB   6.18%     117MB / 159MB   0B / 958kB   29
+11:01:38.272059743
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.92%    121.7MiB / 1.946GiB   6.11%     118MB / 161MB   0B / 958kB   29
+11:01:43.316210623
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.08%    121.3MiB / 1.946GiB   6.09%     119MB / 162MB   0B / 958kB   29
+11:01:48.341740625
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.70%    121.5MiB / 1.946GiB   6.10%     120MB / 163MB   0B / 958kB   29
+11:01:53.351317102
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.05%    121.2MiB / 1.946GiB   6.08%     120MB / 164MB   0B / 958kB   29
+11:01:58.367841396
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.71%    121.4MiB / 1.946GiB   6.09%     121MB / 165MB   0B / 958kB   29
+11:02:03.380005875
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.73%    121MiB / 1.946GiB   6.07%     122MB / 167MB   0B / 958kB   29
+11:02:08.406193297
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.82%    121.2MiB / 1.946GiB   6.08%     123MB / 168MB   0B / 958kB   29
+11:02:13.422436701
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.37%    121.4MiB / 1.946GiB   6.09%     124MB / 169MB   0B / 958kB   29
+11:02:18.446489221
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.57%    120.8MiB / 1.946GiB   6.06%     125MB / 170MB   0B / 958kB   29
+11:02:23.481543753
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.51%    121.5MiB / 1.946GiB   6.10%     126MB / 171MB   0B / 958kB   29
+11:02:28.490904740
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   72.75%    121.5MiB / 1.946GiB   6.10%     127MB / 173MB   0B / 958kB   29
+11:02:33.502325932
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   78.50%    121.4MiB / 1.946GiB   6.09%     127MB / 174MB   0B / 958kB   29
+11:02:38.521584070
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.62%    120.8MiB / 1.946GiB   6.06%     128MB / 175MB   0B / 958kB   29
+11:02:43.537761329
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   41.52%    120.8MiB / 1.946GiB   6.06%     129MB / 176MB   0B / 958kB   29
+11:02:48.552149385
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.55%    120.8MiB / 1.946GiB   6.06%     130MB / 177MB   0B / 958kB   29
+11:02:53.576743282
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   64.42%    120MiB / 1.946GiB   6.02%     131MB / 179MB   0B / 958kB   29
+11:02:58.602697236
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.82%    119.1MiB / 1.946GiB   5.98%     132MB / 180MB   0B / 958kB   29
+11:03:03.641464855
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.48%    118.9MiB / 1.946GiB   5.96%     133MB / 181MB   0B / 958kB   29
+11:03:08.675056881
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   70.60%    119MiB / 1.946GiB   5.97%     134MB / 182MB   0B / 958kB   29
+11:03:13.688447493
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.45%    119.9MiB / 1.946GiB   6.02%     135MB / 184MB   0B / 958kB   29
+11:03:18.712219114
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.91%    118.9MiB / 1.946GiB   5.97%     135MB / 185MB   0B / 958kB   29
+11:03:23.767307163
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   88.50%    118.9MiB / 1.946GiB   5.97%     136MB / 186MB   0B / 958kB   29
+11:03:28.781421011
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   43.72%    119.1MiB / 1.946GiB   5.97%     137MB / 187MB   0B / 958kB   29
+11:03:33.796285170
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.99%    118.9MiB / 1.946GiB   5.96%     138MB / 188MB   0B / 958kB   29
+11:03:38.804846970
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.47%    118.9MiB / 1.946GiB   5.96%     139MB / 190MB   0B / 958kB   29
+11:03:43.813139916
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.93%    118.9MiB / 1.946GiB   5.96%     140MB / 191MB   0B / 958kB   29
+11:03:48.824305602
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.60%    118.9MiB / 1.946GiB   5.97%     141MB / 192MB   0B / 958kB   29
+11:03:53.864978671
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.47%    119.6MiB / 1.946GiB   6.00%     142MB / 193MB   0B / 958kB   29
+11:03:58.897717756
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.80%    120MiB / 1.946GiB   6.02%     143MB / 195MB   0B / 958kB   29
+11:04:03.914488683
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.60%    119.2MiB / 1.946GiB   5.98%     144MB / 196MB   0B / 958kB   29
+11:04:08.937980603
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.54%    118.9MiB / 1.946GiB   5.97%     144MB / 197MB   0B / 958kB   29
+11:04:13.976662137
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.78%    119.1MiB / 1.946GiB   5.98%     145MB / 198MB   0B / 958kB   29
+11:04:19.007594465
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.82%    119.1MiB / 1.946GiB   5.98%     146MB / 200MB   0B / 958kB   29
+11:04:24.039727200
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   39.81%    119.7MiB / 1.946GiB   6.00%     147MB / 201MB   0B / 958kB   29
+11:04:29.059947994
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.94%    119.5MiB / 1.946GiB   6.00%     148MB / 202MB   0B / 958kB   29
+11:04:34.082906249
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   69.01%    118.9MiB / 1.946GiB   5.96%     149MB / 203MB   0B / 958kB   29
+11:04:39.107726650
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.17%    118.9MiB / 1.946GiB   5.96%     150MB / 204MB   0B / 958kB   29
+11:04:44.124423616
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   73.22%    119.1MiB / 1.946GiB   5.98%     151MB / 206MB   0B / 958kB   29
+11:04:49.136307328
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.63%    119.5MiB / 1.946GiB   6.00%     152MB / 207MB   0B / 958kB   29
+11:04:54.161008938
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.70%    119.2MiB / 1.946GiB   5.98%     153MB / 208MB   0B / 958kB   29
+11:04:59.183449586
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.66%    120.4MiB / 1.946GiB   6.04%     153MB / 210MB   0B / 958kB   29
+11:05:04.194974913
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   42.30%    119.3MiB / 1.946GiB   5.98%     154MB / 211MB   0B / 958kB   29
+11:05:09.205757844
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.57%    119.1MiB / 1.946GiB   5.98%     155MB / 212MB   0B / 958kB   29
+11:05:14.224327425
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.86%    119.5MiB / 1.946GiB   6.00%     156MB / 213MB   0B / 958kB   29
+11:05:19.233335260
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.21%    119.5MiB / 1.946GiB   6.00%     157MB / 214MB   0B / 958kB   29
+11:05:24.242988047
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   77.83%    119.6MiB / 1.946GiB   6.00%     158MB / 216MB   0B / 958kB   29
+11:05:29.266241975
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.31%    119.7MiB / 1.946GiB   6.01%     159MB / 217MB   0B / 958kB   29
+11:05:34.300734295
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   44.37%    120.1MiB / 1.946GiB   6.03%     160MB / 218MB   0B / 958kB   29
+11:05:39.313697134
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.55%    119.2MiB / 1.946GiB   5.98%     161MB / 220MB   0B / 958kB   29
+11:05:44.324010938
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.34%    118.9MiB / 1.946GiB   5.97%     162MB / 221MB   0B / 958kB   29
+11:05:49.345379570
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.07%    119.1MiB / 1.946GiB   5.98%     162MB / 222MB   0B / 958kB   29
+11:05:54.358493510
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.00%    118.9MiB / 1.946GiB   5.97%     163MB / 223MB   0B / 958kB   29
+11:05:59.379012482
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.99%    118.9MiB / 1.946GiB   5.96%     164MB / 224MB   0B / 958kB   29
+11:06:04.408731002
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   74.24%    119MiB / 1.946GiB   5.97%     165MB / 226MB   0B / 958kB   29
+11:06:09.417253508
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.63%    118.9MiB / 1.946GiB   5.96%     166MB / 227MB   0B / 958kB   29
+11:06:14.435833547
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.13%    118.9MiB / 1.946GiB   5.96%     167MB / 228MB   0B / 958kB   29
+11:06:19.456039424
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.98%    119.5MiB / 1.946GiB   6.00%     168MB / 229MB   0B / 958kB   29
+11:06:24.499925712
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.65%    118.9MiB / 1.946GiB   5.96%     169MB / 230MB   0B / 958kB   29
+11:06:29.523707596
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   38.70%    118.9MiB / 1.946GiB   5.96%     170MB / 232MB   0B / 958kB   29
+11:06:34.551712645
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.26%    119.3MiB / 1.946GiB   5.99%     170MB / 233MB   0B / 958kB   29
+11:06:39.576179778
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.89%    119.7MiB / 1.946GiB   6.01%     171MB / 234MB   0B / 958kB   29
+11:06:44.605808267
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.83%    119.1MiB / 1.946GiB   5.98%     172MB / 235MB   0B / 958kB   29
+11:06:49.636960987
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   41.23%    120MiB / 1.946GiB   6.02%     173MB / 237MB   0B / 958kB   29
+11:06:54.645913868
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.06%    119.6MiB / 1.946GiB   6.00%     174MB / 238MB   0B / 958kB   29
+11:06:59.683695031
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   77.78%    119.7MiB / 1.946GiB   6.01%     175MB / 239MB   0B / 958kB   29
+11:07:04.728521602
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.69%    120.9MiB / 1.946GiB   6.06%     176MB / 240MB   0B / 958kB   29
+11:07:09.741075418
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.76%    119MiB / 1.946GiB   5.97%     177MB / 242MB   0B / 958kB   29
+11:07:14.779911919
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   68.96%    119.2MiB / 1.946GiB   5.98%     178MB / 243MB   0B / 958kB   29
+11:07:19.801261619
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.69%    119.2MiB / 1.946GiB   5.98%     179MB / 244MB   0B / 958kB   29
+11:07:24.820101685
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.93%    119.1MiB / 1.946GiB   5.98%     180MB / 245MB   0B / 958kB   29
+11:07:29.853312583
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   75.55%    119.4MiB / 1.946GiB   5.99%     180MB / 247MB   0B / 958kB   29
+11:07:34.895986629
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.99%    119.5MiB / 1.946GiB   6.00%     181MB / 248MB   0B / 958kB   29
+11:07:39.919614713
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.69%    119MiB / 1.946GiB   5.97%     182MB / 249MB   0B / 958kB   29
+11:07:44.939064367
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.81%    119.2MiB / 1.946GiB   5.98%     183MB / 250MB   0B / 958kB   29
+11:07:49.956659127
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.69%    119MiB / 1.946GiB   5.97%     184MB / 252MB   0B / 958kB   29
+11:07:54.977800836
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   68.33%    119.2MiB / 1.946GiB   5.98%     185MB / 253MB   0B / 958kB   29
+11:07:59.985026734
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.80%    119.3MiB / 1.946GiB   5.99%     186MB / 254MB   0B / 958kB   29
+11:08:05.008370974
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.83%    119.1MiB / 1.946GiB   5.97%     187MB / 255MB   0B / 958kB   29
+11:08:10.030845196
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.20%    118.9MiB / 1.946GiB   5.96%     188MB / 256MB   0B / 958kB   29
+11:08:15.062495695
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.27%    118.9MiB / 1.946GiB   5.96%     188MB / 258MB   0B / 958kB   29
+11:08:20.084417931
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.56%    118.9MiB / 1.946GiB   5.96%     189MB / 259MB   0B / 958kB   29
+11:08:25.112251032
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.77%    118.9MiB / 1.946GiB   5.96%     190MB / 260MB   0B / 958kB   29
+11:08:30.133227832
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   64.17%    118.9MiB / 1.946GiB   5.97%     191MB / 261MB   0B / 958kB   29
+11:08:35.160003295
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   46.96%    118.9MiB / 1.946GiB   5.96%     192MB / 262MB   0B / 958kB   29
+11:08:40.188919703
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.18%    119.3MiB / 1.946GiB   5.99%     193MB / 264MB   0B / 958kB   29
+11:08:45.206001559
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.56%    118.9MiB / 1.946GiB   5.96%     194MB / 265MB   0B / 958kB   29
+11:08:50.235316827
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.52%    119MiB / 1.946GiB   5.97%     195MB / 266MB   0B / 958kB   29
+11:08:55.247465522
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   69.08%    119.8MiB / 1.946GiB   6.01%     196MB / 267MB   0B / 958kB   29
+11:09:00.272463939
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.11%    118.9MiB / 1.946GiB   5.96%     196MB / 269MB   0B / 958kB   29
+11:09:05.283750441
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   41.80%    118.7MiB / 1.946GiB   5.96%     197MB / 270MB   0B / 958kB   29
+11:09:10.299474575
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   44.19%    118.7MiB / 1.946GiB   5.96%     198MB / 271MB   0B / 958kB   29
+11:09:15.312998047
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   79.92%    119.5MiB / 1.946GiB   6.00%     199MB / 272MB   0B / 958kB   29
+11:09:20.334117615
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   42.42%    119.3MiB / 1.946GiB   5.99%     200MB / 273MB   0B / 958kB   29
+11:09:25.357833941
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.35%    118.7MiB / 1.946GiB   5.96%     201MB / 275MB   0B / 958kB   29
+11:09:30.376047202
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.65%    119.3MiB / 1.946GiB   5.98%     202MB / 276MB   0B / 958kB   29
+11:09:35.396227238
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   46.36%    118.8MiB / 1.946GiB   5.96%     203MB / 277MB   0B / 958kB   29
+11:09:40.428630323
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.83%    118.7MiB / 1.946GiB   5.96%     204MB / 278MB   0B / 958kB   29
+11:09:45.484809385
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   38.56%    118.9MiB / 1.946GiB   5.97%     205MB / 280MB   0B / 958kB   29
+11:09:50.497305044
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.34%    118.8MiB / 1.946GiB   5.96%     206MB / 281MB   0B / 958kB   29
+11:09:55.513545433
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.83%    119.7MiB / 1.946GiB   6.00%     207MB / 282MB   0B / 958kB   29
+11:10:00.543292388
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.47%    118.8MiB / 1.946GiB   5.96%     207MB / 283MB   0B / 958kB   29
+11:10:05.564195216
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.85%    118.7MiB / 1.946GiB   5.96%     208MB / 285MB   0B / 958kB   29
+11:10:10.596129061
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   46.62%    118.8MiB / 1.946GiB   5.96%     209MB / 286MB   0B / 958kB   29
+11:10:15.612788790
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.29%    118.7MiB / 1.946GiB   5.96%     210MB / 287MB   0B / 958kB   29
+11:10:20.644862431
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   73.52%    119.1MiB / 1.946GiB   5.97%     211MB / 288MB   0B / 958kB   29
+11:10:25.676146403
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.48%    119.3MiB / 1.946GiB   5.99%     212MB / 290MB   0B / 958kB   29
+11:10:30.692942967
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.36%    118.9MiB / 1.946GiB   5.97%     213MB / 291MB   0B / 958kB   29
+11:10:35.705082204
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   93.16%    119.8MiB / 1.946GiB   6.01%     214MB / 292MB   0B / 958kB   29
+11:10:40.713113443
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.91%    119MiB / 1.946GiB   5.97%     215MB / 293MB   0B / 958kB   29
+11:10:45.732816823
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   89.59%    118.9MiB / 1.946GiB   5.97%     216MB / 294MB   0B / 958kB   29
+11:10:50.777220164
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.52%    119.3MiB / 1.946GiB   5.99%     217MB / 296MB   0B / 958kB   29
+11:10:55.800890629
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   39.19%    119.3MiB / 1.946GiB   5.99%     217MB / 297MB   0B / 958kB   29
+11:11:00.813773595
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.00%    119.4MiB / 1.946GiB   5.99%     218MB / 298MB   0B / 958kB   29
+11:11:05.851673095
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.21%    119.1MiB / 1.946GiB   5.97%     219MB / 299MB   0B / 958kB   29
+11:11:10.864401017
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.21%    118.9MiB / 1.946GiB   5.97%     220MB / 301MB   0B / 958kB   29
+11:11:15.886824519
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.92%    118.9MiB / 1.946GiB   5.96%     221MB / 302MB   0B / 958kB   29
+11:11:20.929679425
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.42%    118.8MiB / 1.946GiB   5.96%     222MB / 303MB   0B / 958kB   29
+11:11:25.946816578
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.49%    119.2MiB / 1.946GiB   5.98%     223MB / 304MB   0B / 958kB   29
+11:11:30.956963652
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.82%    118.7MiB / 1.946GiB   5.96%     224MB / 306MB   0B / 958kB   29
+11:11:35.985201883
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   52.72%    118.7MiB / 1.946GiB   5.96%     225MB / 307MB   0B / 958kB   29
+11:11:41.004232327
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.89%    119MiB / 1.946GiB   5.97%     226MB / 308MB   0B / 958kB   29
+11:11:46.045851977
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   44.06%    118.7MiB / 1.946GiB   5.96%     226MB / 309MB   0B / 958kB   29
+11:11:51.056904573
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.23%    118.7MiB / 1.946GiB   5.96%     227MB / 311MB   0B / 958kB   29
+11:11:56.069410395
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   46.08%    118.7MiB / 1.946GiB   5.96%     228MB / 312MB   0B / 958kB   29
+11:12:01.078123278
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   43.63%    118.8MiB / 1.946GiB   5.96%     229MB / 313MB   0B / 958kB   29
+11:12:06.105964495
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.63%    118.7MiB / 1.946GiB   5.96%     230MB / 314MB   0B / 958kB   29
+11:12:11.119524253
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.67%    118.8MiB / 1.946GiB   5.96%     231MB / 316MB   0B / 958kB   29
+11:12:16.135798934
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   71.87%    119.2MiB / 1.946GiB   5.98%     232MB / 317MB   0B / 958kB   29
+11:12:21.152148818
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   49.07%    118.7MiB / 1.946GiB   5.96%     233MB / 318MB   0B / 958kB   29
+11:12:26.168650434
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.68%    118.7MiB / 1.946GiB   5.96%     234MB / 319MB   0B / 958kB   29
+11:12:31.179470754
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   60.75%    118.7MiB / 1.946GiB   5.96%     235MB / 321MB   0B / 958kB   29
+11:12:36.197552580
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.21%    119.1MiB / 1.946GiB   5.98%     236MB / 322MB   0B / 958kB   29
+11:12:41.229715497
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.07%    118.7MiB / 1.946GiB   5.96%     237MB / 323MB   0B / 958kB   29
+11:12:46.238866296
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   68.42%    118.8MiB / 1.946GiB   5.96%     237MB / 324MB   0B / 958kB   29
+11:12:51.253470716
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.78%    119.1MiB / 1.946GiB   5.97%     238MB / 325MB   0B / 958kB   29
+11:12:56.280792711
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.22%    118.7MiB / 1.946GiB   5.96%     239MB / 327MB   0B / 958kB   29
+11:13:01.292089932
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.43%    118.7MiB / 1.946GiB   5.96%     240MB / 328MB   0B / 958kB   29
+11:13:06.314391207
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.75%    118.7MiB / 1.946GiB   5.96%     241MB / 329MB   0B / 958kB   29
+11:13:11.332271164
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.88%    119.2MiB / 1.946GiB   5.98%     242MB / 330MB   0B / 958kB   29
+11:13:16.352366443
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   54.92%    119.3MiB / 1.946GiB   5.99%     243MB / 332MB   0B / 958kB   29
+11:13:21.376725609
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.65%    119.2MiB / 1.946GiB   5.98%     244MB / 333MB   0B / 958kB   29
+11:13:26.395598854
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   61.88%    118.7MiB / 1.946GiB   5.96%     245MB / 334MB   0B / 958kB   29
+11:13:31.452503250
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.47%    119.5MiB / 1.946GiB   5.99%     246MB / 335MB   0B / 958kB   29
+11:13:36.494987188
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   66.05%    119.3MiB / 1.946GiB   5.99%     246MB / 336MB   0B / 958kB   29
+11:13:41.520671236
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.62%    118.9MiB / 1.946GiB   5.96%     247MB / 338MB   0B / 958kB   29
+11:13:46.543992776
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   71.83%    119.4MiB / 1.946GiB   5.99%     248MB / 339MB   0B / 958kB   29
+11:13:51.577982436
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.84%    118.7MiB / 1.946GiB   5.96%     249MB / 340MB   0B / 958kB   29
+11:13:56.587823880
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.58%    119MiB / 1.946GiB   5.97%     250MB / 341MB   0B / 958kB   29
+11:14:01.601234742
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   50.49%    118.9MiB / 1.946GiB   5.96%     251MB / 343MB   0B / 958kB   29
+11:14:06.611971516
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   83.76%    118.9MiB / 1.946GiB   5.96%     252MB / 344MB   0B / 958kB   29
+11:14:11.647982725
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.44%    118.7MiB / 1.946GiB   5.96%     253MB / 345MB   0B / 958kB   29
+11:14:16.670251958
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   40.31%    118.7MiB / 1.946GiB   5.96%     254MB / 346MB   0B / 958kB   29
+11:14:21.688031556
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   80.56%    119.6MiB / 1.946GiB   6.00%     255MB / 347MB   0B / 958kB   29
+11:14:26.718484936
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.96%    118.7MiB / 1.946GiB   5.96%     255MB / 349MB   0B / 958kB   29
+11:14:31.737562527
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.54%    119.2MiB / 1.946GiB   5.98%     256MB / 350MB   0B / 958kB   29
+11:14:36.770410706
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.64%    119.1MiB / 1.946GiB   5.97%     257MB / 351MB   0B / 958kB   29
+11:14:41.794047195
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.63%    118.9MiB / 1.946GiB   5.97%     258MB / 352MB   0B / 958kB   29
+11:14:46.808466026
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.94%    119.1MiB / 1.946GiB   5.98%     259MB / 354MB   0B / 958kB   29
+11:14:51.833926618
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   62.20%    119.6MiB / 1.946GiB   6.00%     260MB / 355MB   0B / 958kB   29
+11:14:56.861857708
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   82.37%    118.7MiB / 1.946GiB   5.96%     261MB / 356MB   0B / 958kB   29
+11:15:01.913840687
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   38.24%    119.1MiB / 1.946GiB   5.97%     262MB / 357MB   0B / 958kB   29
+11:15:06.950685789
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.16%    118.8MiB / 1.946GiB   5.96%     263MB / 359MB   0B / 958kB   29
+11:15:11.974841379
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   82.08%    118.8MiB / 1.946GiB   5.96%     264MB / 360MB   0B / 958kB   29
+11:15:16.995278485
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.53%    119.4MiB / 1.946GiB   5.99%     264MB / 361MB   0B / 958kB   29
+11:15:22.015770355
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   58.04%    119.2MiB / 1.946GiB   5.98%     265MB / 362MB   0B / 958kB   29
+11:15:27.056805828
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.82%    119MiB / 1.946GiB   5.97%     266MB / 364MB   0B / 958kB   29
+11:15:32.072040184
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.37%    119.2MiB / 1.946GiB   5.98%     267MB / 365MB   0B / 958kB   29
+11:15:37.084554226
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   55.02%    119.3MiB / 1.946GiB   5.99%     268MB / 366MB   0B / 958kB   29
+11:15:42.131115365
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.11%    119MiB / 1.946GiB   5.97%     269MB / 367MB   0B / 958kB   29
+11:15:47.145003615
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   45.56%    119.3MiB / 1.946GiB   5.99%     270MB / 368MB   0B / 958kB   29
+11:15:52.162686983
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   61.36%    120.1MiB / 1.946GiB   6.02%     271MB / 370MB   0B / 958kB   29
+11:15:57.179611385
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   53.51%    118.8MiB / 1.946GiB   5.96%     272MB / 371MB   0B / 958kB   29
+11:16:02.194170462
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   51.50%    119.3MiB / 1.946GiB   5.99%     272MB / 372MB   0B / 958kB   29
+11:16:07.208117986
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   76.33%    118.8MiB / 1.946GiB   5.96%     273MB / 373MB   0B / 958kB   29
+11:16:12.218325146
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   64.17%    118.8MiB / 1.946GiB   5.96%     274MB / 375MB   0B / 958kB   29
+11:16:17.236618959
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   65.95%    119.2MiB / 1.946GiB   5.98%     275MB / 376MB   0B / 958kB   29
+11:16:22.248612290
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT   MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.40%    119MiB / 1.946GiB   5.97%     276MB / 377MB   0B / 958kB   29
+11:16:27.280958081
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   68.81%    120.3MiB / 1.946GiB   6.03%     277MB / 378MB   0B / 958kB   29
+11:16:32.300221688
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   64.67%    119.5MiB / 1.946GiB   5.99%     278MB / 380MB   0B / 958kB   29
+11:16:37.311544331
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   81.72%    119.1MiB / 1.946GiB   5.98%     279MB / 381MB   0B / 958kB   29
+11:16:42.335572661
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   48.13%    119.8MiB / 1.946GiB   6.01%     280MB / 382MB   0B / 958kB   29
+11:16:47.372095440
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   78.50%    118.7MiB / 1.946GiB   5.96%     281MB / 383MB   0B / 958kB   29
+11:16:52.398634097
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.21%    118.7MiB / 1.946GiB   5.96%     281MB / 385MB   0B / 958kB   29
+11:16:57.432461605
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   63.47%    118.7MiB / 1.946GiB   5.96%     282MB / 386MB   0B / 958kB   29
+11:17:02.440999472
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.01%    121.3MiB / 1.946GiB   6.09%     283MB / 387MB   0B / 958kB   29
+11:17:07.456220146
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   56.70%    119.2MiB / 1.946GiB   5.98%     284MB / 388MB   0B / 958kB   29
+11:17:12.476354198
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   67.32%    119.3MiB / 1.946GiB   5.99%     285MB / 390MB   0B / 958kB   29
+11:17:17.506713344
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.50%    118.9MiB / 1.946GiB   5.97%     286MB / 391MB   0B / 958kB   29
+11:17:22.525237071
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   68.04%    118.8MiB / 1.946GiB   5.96%     287MB / 392MB   0B / 958kB   29
+11:17:27.540639244
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   59.05%    118.8MiB / 1.946GiB   5.96%     288MB / 393MB   0B / 958kB   29
+11:17:32.558333386
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   74.27%    118.7MiB / 1.946GiB   5.96%     289MB / 394MB   0B / 958kB   29
+11:17:37.573559634
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   77.39%    118.7MiB / 1.946GiB   5.96%     290MB / 396MB   0B / 958kB   29
+11:17:42.619750473
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   57.51%    118.8MiB / 1.946GiB   5.96%     290MB / 397MB   0B / 958kB   29
+11:17:47.658546979
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.87%    118.6MiB / 1.946GiB   5.95%     291MB / 398MB   0B / 958kB   29
+11:17:52.666290829
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   41.77%    118.6MiB / 1.946GiB   5.95%     292MB / 400MB   0B / 958kB   29
+11:17:57.681505161
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   47.51%    118.6MiB / 1.946GiB   5.95%     293MB / 401MB   0B / 958kB   29
+11:18:02.700757687
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   35.53%    118.6MiB / 1.946GiB   5.95%     294MB / 402MB   0B / 958kB   29
+11:18:07.707829215
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   26.42%    118.6MiB / 1.946GiB   5.95%     295MB / 402MB   0B / 958kB   29
+11:18:12.717215379
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   7.45%     118.6MiB / 1.946GiB   5.95%     295MB / 403MB   0B / 958kB   29
+11:18:17.724602966
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   7.70%     118.6MiB / 1.946GiB   5.95%     295MB / 403MB   0B / 958kB   29
+11:18:22.732134771
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   7.21%     118.6MiB / 1.946GiB   5.95%     295MB / 403MB   0B / 958kB   29
+11:18:27.738972154
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.17%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:18:32.747426846
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.09%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:18:37.755422170
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.16%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:18:42.763796221
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.20%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:18:47.771646106
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   1.16%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:18:52.779439010
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.13%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:18:57.787926445
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.23%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:19:02.802464239
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.09%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:19:07.813101368
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.16%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:19:12.825524653
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.21%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29
+11:19:17.837167321
+CONTAINER ID   NAME                                           CPU %     MEM USAGE / LIMIT     MEM %     NET I/O         BLOCK I/O    PIDS
+789d6507121b   ex22_mqtt-node-3.1.x9vqeyap65va3uyh842kiotjo   0.32%     118.6MiB / 1.946GiB   5.95%     296MB / 403MB   0B / 958kB   29

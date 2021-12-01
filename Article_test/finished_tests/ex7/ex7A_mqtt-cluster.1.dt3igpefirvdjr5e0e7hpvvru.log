@@ -1,0 +1,31 @@
+2021-11-04T01:27:44.420621876Z  cluster.discovery = "etcd"
+2021-11-04T01:27:44.420690089Z  cluster.etcd.node_ttl = "1m"
+2021-11-04T01:27:44.420702167Z  cluster.etcd.prefix = "emqcl"
+2021-11-04T01:27:44.420711557Z  cluster.etcd.server = "http://etcd:2379"
+2021-11-04T01:27:44.420720782Z  listener.ssl.external.acceptors = "32"
+2021-11-04T01:27:44.420730147Z  listener.ssl.external.max_connections = "102400"
+2021-11-04T01:27:44.420739384Z  listener.tcp.external.acceptors = "64"
+2021-11-04T01:27:44.420748387Z  listener.tcp.external.max_connections = "1024000"
+2021-11-04T01:27:44.420757390Z  listener.ws.external.acceptors = "16"
+2021-11-04T01:27:44.420766348Z  listener.ws.external.max_connections = "102400"
+2021-11-04T01:27:44.420775275Z  listener.wss.external.acceptors = "16"
+2021-11-04T01:27:44.420784305Z  listener.wss.external.max_connections = "102400"
+2021-11-04T01:27:44.420793377Z  log.to = "console"
+2021-11-04T01:27:44.420802218Z  node.max_ets_tables = "2097152"
+2021-11-04T01:27:44.420811033Z  node.max_ports = "1048576"
+2021-11-04T01:27:44.420819863Z  node.name = "beacd9e41840@10.0.23.18"
+2021-11-04T01:27:44.420828848Z  node.process_limit = "2097152"
+2021-11-04T01:27:44.420837672Z  rpc.port_discovery = "manual"
+2021-11-04T01:27:44.420846477Z  zone.external.max_mqueue_len = "0"
+2021-11-04T01:27:44.420855378Z  zone.external.mqueue_priorities = "A/A/A=10,A/E/E=5"
+2021-11-04T01:27:52.501569817Z  Starting emqx on node beacd9e41840@10.0.23.18
+2021-11-04T01:27:53.257092266Z  Start http:management listener on 8081 successfully.
+2021-11-04T01:27:53.319997895Z  Start http:dashboard listener on 18083 successfully.
+2021-11-04T01:27:53.454007240Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-11-04T01:27:53.457879398Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-11-04T01:27:53.459017452Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-11-04T01:27:53.463782966Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-11-04T01:27:53.467164350Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-11-04T01:27:53.467445872Z  EMQ X Broker 4.3.8 is running now!
+2021-11-04T01:27:54.180584216Z  2021-11-04T01:27:54.179903+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],econnrefused}]}
+2021-11-04T01:34:52.610303237Z  2021-11-04T01:34:52.609469+00:00 [warning] [Alarm Handler] Alarm high_system_memory_usage is activated, System memory usage is higher than 70%

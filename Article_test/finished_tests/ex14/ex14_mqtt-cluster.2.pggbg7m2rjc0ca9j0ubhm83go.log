@@ -1,0 +1,41 @@
+2021-11-09T19:59:44.428236083Z  cluster.discovery = "etcd"
+2021-11-09T19:59:44.428494920Z  cluster.etcd.node_ttl = "1m"
+2021-11-09T19:59:44.428517509Z  cluster.etcd.prefix = "emqcl"
+2021-11-09T19:59:44.428528689Z  cluster.etcd.server = "http://etcd:2379"
+2021-11-09T19:59:44.428539153Z  listener.ssl.external.acceptors = "32"
+2021-11-09T19:59:44.428549413Z  listener.ssl.external.max_connections = "102400"
+2021-11-09T19:59:44.428559468Z  listener.tcp.external.acceptors = "64"
+2021-11-09T19:59:44.428569513Z  listener.tcp.external.max_connections = "1024000"
+2021-11-09T19:59:44.428579526Z  listener.ws.external.acceptors = "16"
+2021-11-09T19:59:44.428589486Z  listener.ws.external.max_connections = "102400"
+2021-11-09T19:59:44.428599266Z  listener.wss.external.acceptors = "16"
+2021-11-09T19:59:44.428609079Z  listener.wss.external.max_connections = "102400"
+2021-11-09T19:59:44.428619094Z  log.to = "console"
+2021-11-09T19:59:44.428628814Z  node.max_ets_tables = "2097152"
+2021-11-09T19:59:44.428638594Z  node.max_ports = "1048576"
+2021-11-09T19:59:44.428648213Z  node.name = "602cc271268e@10.0.31.18"
+2021-11-09T19:59:44.428658098Z  node.process_limit = "2097152"
+2021-11-09T19:59:44.428667894Z  rpc.port_discovery = "manual"
+2021-11-09T19:59:44.428677728Z  zone.external.max_mqueue_len = "0"
+2021-11-09T19:59:44.428687637Z  zone.external.mqueue_priorities = "A/A/A=10,A/E/E=5"
+2021-11-09T19:59:47.843019427Z  Starting emqx on node 602cc271268e@10.0.31.18
+2021-11-09T19:59:48.854244926Z  Start http:management listener on 8081 successfully.
+2021-11-09T19:59:48.909208108Z  Start http:dashboard listener on 18083 successfully.
+2021-11-09T19:59:49.044861176Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-11-09T19:59:49.051312896Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-11-09T19:59:49.053013989Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-11-09T19:59:49.057657359Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-11-09T19:59:49.060260064Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-11-09T19:59:49.060586663Z  EMQ X Broker 4.3.8 is running now!
+2021-11-09T19:59:49.867979632Z  2021-11-09T19:59:49.866759+00:00 [critical] [EMQ X] emqx shutdown for join
+2021-11-09T19:59:49.873688175Z  Stop http:management listener on 0.0.0.0:8081 successfully.
+2021-11-09T19:59:52.186057874Z  Starting emqx on node 602cc271268e@10.0.31.18
+2021-11-09T19:59:52.367021859Z  Start http:management listener on 8081 successfully.
+2021-11-09T19:59:52.420460297Z  Start http:dashboard listener on 18083 successfully.
+2021-11-09T19:59:52.971833519Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-11-09T19:59:52.975626543Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-11-09T19:59:52.976526651Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-11-09T19:59:52.979405890Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-11-09T19:59:52.981764360Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-11-09T19:59:52.981968797Z  EMQ X Broker 4.3.8 is running now!
+2021-11-09T20:00:47.851146272Z  2021-11-09T20:00:47.850363+00:00 [warning] [Alarm Handler] Alarm high_system_memory_usage is activated, System memory usage is higher than 70%
