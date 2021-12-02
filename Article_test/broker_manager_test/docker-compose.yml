@@ -2,20 +2,6 @@ version: '3'
 
 services:
 
-  mqtt-broker-manager:
-    image: "opendigitaltwin/dt-mqtt-broker:latest"
-    enviroment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
-      - MQTT_BROKER_PORT=8081
-    networks:
-      - default
-    restart: always
-    deploy:
-      replicas: 0
-      placement:
-        constraints:
-          - node.labels.name==dtwins1
-
   etcd:
     image: 'bitnami/etcd:latest'
     environment:
@@ -99,6 +85,20 @@ services:
         constraints:
           - node.labels.name==dtwins1
     command: dt-instance
+    
+  mqtt-broker-manager:
+    image: "opendigitaltwin/dt-mqtt-broker:latest"
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=8081
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:
+        constraints:
+          - node.labels.name==dtwins1
 
 networks:
   default:
