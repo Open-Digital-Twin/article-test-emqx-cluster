@@ -87,10 +87,11 @@ services:
     command: dt-instance
     
   mqtt-broker-manager:
-    image: "opendigitaltwin/dt-mqtt-broker:latest"
+    image: "opendigitaltwin/dt-mqtt-manager:latest"
     environment:
       - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=8081
+      - RUST_LOG=info
     networks:
       - default
     restart: always
@@ -99,6 +100,7 @@ services:
       placement:
         constraints:
           - node.labels.name==dtwins1
+    command: dt-mqtt-manager
 
 networks:
   default:
