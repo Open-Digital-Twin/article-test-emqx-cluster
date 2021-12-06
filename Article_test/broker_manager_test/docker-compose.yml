@@ -87,7 +87,7 @@ services:
     command: dt-instance
     
   mqtt-broker-manager:
-    image: "opendigitaltwin/dt-mqtt-manager:latest"
+    image: "teste:latest"
     environment:
       - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=8081

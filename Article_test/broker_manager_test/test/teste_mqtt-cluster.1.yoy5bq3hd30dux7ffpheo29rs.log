@@ -1,0 +1,70 @@
+2021-12-06T09:52:10.103192756Z  cluster.discovery = "etcd"
+2021-12-06T09:52:10.103251011Z  cluster.etcd.node_ttl = "1m"
+2021-12-06T09:52:10.103262958Z  cluster.etcd.prefix = "emqcl"
+2021-12-06T09:52:10.103272272Z  cluster.etcd.server = "http://etcd:2379"
+2021-12-06T09:52:10.103281085Z  listener.ssl.external.acceptors = "32"
+2021-12-06T09:52:10.103290067Z  listener.ssl.external.max_connections = "102400"
+2021-12-06T09:52:10.103298824Z  listener.tcp.external.acceptors = "64"
+2021-12-06T09:52:10.103308626Z  listener.tcp.external.max_connections = "1024000"
+2021-12-06T09:52:10.103317503Z  listener.ws.external.acceptors = "16"
+2021-12-06T09:52:10.103326413Z  listener.ws.external.max_connections = "102400"
+2021-12-06T09:52:10.103335230Z  listener.wss.external.acceptors = "16"
+2021-12-06T09:52:10.103344072Z  listener.wss.external.max_connections = "102400"
+2021-12-06T09:52:10.103352965Z  log.to = "console"
+2021-12-06T09:52:10.103361557Z  node.max_ets_tables = "2097152"
+2021-12-06T09:52:10.103370096Z  node.max_ports = "1048576"
+2021-12-06T09:52:10.103378744Z  node.name = "bba0dfd627b8@10.0.40.7"
+2021-12-06T09:52:10.103387398Z  node.process_limit = "2097152"
+2021-12-06T09:52:10.103396078Z  rpc.port_discovery = "manual"
+2021-12-06T09:52:10.103404716Z  zone.external.max_mqueue_len = "0"
+2021-12-06T09:52:10.103413467Z  zone.external.mqueue_priorities = "A/A/A=10,A/E/E=5"
+2021-12-06T09:52:12.381545803Z  Starting emqx on node bba0dfd627b8@10.0.40.7
+2021-12-06T09:52:13.020553282Z  Start http:management listener on 8081 successfully.
+2021-12-06T09:52:13.072345634Z  Start http:dashboard listener on 18083 successfully.
+2021-12-06T09:52:13.161961192Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2021-12-06T09:52:13.166265262Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2021-12-06T09:52:13.167389782Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2021-12-06T09:52:13.170554618Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2021-12-06T09:52:13.173333947Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2021-12-06T09:52:13.173639484Z  EMQ X Broker 4.3.8 is running now!
+2021-12-06T09:52:18.982714117Z  2021-12-06T09:52:18.981340+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:52:28.991078388Z  2021-12-06T09:52:28.989795+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:52:38.996835149Z  2021-12-06T09:52:38.996091+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:52:49.003641194Z  2021-12-06T09:52:49.002850+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:52:59.011431609Z  2021-12-06T09:52:59.010453+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:53:09.013511948Z  2021-12-06T09:53:09.012685+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:53:12.396653453Z  2021-12-06T09:53:12.396077+00:00 [warning] [Alarm Handler] Alarm high_system_memory_usage is activated, System memory usage is higher than 70%
+2021-12-06T09:53:19.019740696Z  2021-12-06T09:53:19.018702+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:53:29.027527242Z  2021-12-06T09:53:29.026655+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:53:39.036258534Z  2021-12-06T09:53:39.035157+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:53:49.045241519Z  2021-12-06T09:53:49.044194+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:53:59.050575430Z  2021-12-06T09:53:59.049496+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:54:09.058677080Z  2021-12-06T09:54:09.057765+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:54:19.066619907Z  2021-12-06T09:54:19.065552+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:54:29.070965902Z  2021-12-06T09:54:29.070326+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:54:39.077727625Z  2021-12-06T09:54:39.077057+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:54:49.085222768Z  2021-12-06T09:54:49.084231+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:54:59.092961728Z  2021-12-06T09:54:59.092006+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:55:09.101218440Z  2021-12-06T09:55:09.100202+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:55:19.108948641Z  2021-12-06T09:55:19.107747+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:55:29.117883228Z  2021-12-06T09:55:29.116838+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:55:39.121716028Z  2021-12-06T09:55:39.120650+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:55:49.129289108Z  2021-12-06T09:55:49.128342+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:55:59.137725801Z  2021-12-06T09:55:59.136745+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:56:09.146512075Z  2021-12-06T09:56:09.145550+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:56:19.153297386Z  2021-12-06T09:56:19.152356+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:56:29.160374432Z  2021-12-06T09:56:29.159404+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:56:39.169741332Z  2021-12-06T09:56:39.168745+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:56:49.178842752Z  2021-12-06T09:56:49.177894+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:56:59.186453534Z  2021-12-06T09:56:59.185375+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:57:09.195227903Z  2021-12-06T09:57:09.193364+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:57:19.201532666Z  2021-12-06T09:57:19.199939+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:57:29.206761241Z  2021-12-06T09:57:29.204197+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:57:39.213057358Z  2021-12-06T09:57:39.212013+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:57:49.219549153Z  2021-12-06T09:57:49.218450+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:57:59.228083323Z  2021-12-06T09:57:59.227066+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:58:09.236864926Z  2021-12-06T09:58:09.235867+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:58:19.245250138Z  2021-12-06T09:58:19.244290+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:58:29.253717475Z  2021-12-06T09:58:29.252711+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:58:39.262691780Z  2021-12-06T09:58:39.261717+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
+2021-12-06T09:58:49.271444578Z  2021-12-06T09:58:49.270297+00:00 [error] Ekka(AutoCluster): AutoCluster stopped for lock error: {failed_connect,[{to_address,{"etcd",2379}},{inet,[inet],nxdomain}]}
