@@ -55,7 +55,7 @@ services:
       - MQTT_CLIENT_TOPIC=A/A/A
       - MQTT_CLIENT_ACCEL_FACTOR=2
       - MQTT_CLIENT_ACCEL_EACH=1000
-      - GEOMETRIC=true
+      - GEOMETRIC=truegit
     networks:
       - default
     deploy:
