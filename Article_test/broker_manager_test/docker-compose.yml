@@ -22,7 +22,6 @@ services:
     image: "emqx/emqx:4.3.8"
     environment:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_ZONE__EXTERNAL__MAX_INFLIGHT=0
       - EMQX_CLUSTER__DISCOVERY=etcd
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
@@ -51,11 +50,12 @@ services:
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
-      - MQTT_CLIENT_MESSAGES_TO_SEND=100000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
+      - MQTT_CLIENT_MESSAGES_TO_SEND=50000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=50
       - MQTT_CLIENT_TOPIC=A/A/A
       - MQTT_CLIENT_ACCEL_FACTOR=2
       - MQTT_CLIENT_ACCEL_EACH=1000
+      - GEOMETRIC=true
     networks:
       - default
     deploy:
@@ -92,6 +92,9 @@ services:
     environment:
       - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=8081
+      - MQTT_API_FREQ=1
+      - CLUSTER_SAVES=5
+      - MAX_QUEUE= 200
       - RUST_LOG=info
     networks:
       - default
