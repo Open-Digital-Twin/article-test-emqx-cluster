@@ -1,0 +1,207 @@
+2021-12-08T12:52:13.618444613Z  [2021-12-08T12:52:13Z INFO  dt_instance] Connecting to broker at mqtt-cluster:1883
+2021-12-08T12:52:13.618539933Z  [2021-12-08T12:52:13Z INFO  dt_instance] Using default packet size of 10240 KB.
+2021-12-08T12:52:13.622805927Z  [2021-12-08T12:52:13Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:13.779817443Z  [2021-12-08T12:52:13Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:13.931189215Z  [2021-12-08T12:52:13Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:14.085296664Z  [2021-12-08T12:52:14Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:14.239242070Z  [2021-12-08T12:52:14Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:14.393164233Z  [2021-12-08T12:52:14Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:14.547477385Z  [2021-12-08T12:52:14Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:14.701163758Z  [2021-12-08T12:52:14Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:14.854817899Z  [2021-12-08T12:52:14Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:15.019866504Z  [2021-12-08T12:52:15Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:15.176607083Z  [2021-12-08T12:52:15Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:15.338141291Z  [2021-12-08T12:52:15Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:15.491837677Z  [2021-12-08T12:52:15Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:15.647991955Z  [2021-12-08T12:52:15Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2021-12-08T12:52:15.811496096Z  [2021-12-08T12:52:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:15.987830220Z  [2021-12-08T12:52:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:16.139790970Z  [2021-12-08T12:52:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:16.295916527Z  [2021-12-08T12:52:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:16.435821339Z  [2021-12-08T12:52:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:16.603891711Z  [2021-12-08T12:52:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:16.763282491Z  [2021-12-08T12:52:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:16.923892896Z  [2021-12-08T12:52:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:17.053356234Z  [2021-12-08T12:52:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:17.205556378Z  [2021-12-08T12:52:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:17.357842634Z  [2021-12-08T12:52:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:17.509187606Z  [2021-12-08T12:52:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:17.661619642Z  [2021-12-08T12:52:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:17.813926730Z  [2021-12-08T12:52:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:17.966628022Z  [2021-12-08T12:52:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:18.120823420Z  [2021-12-08T12:52:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:18.272340627Z  [2021-12-08T12:52:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:18.426462251Z  [2021-12-08T12:52:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:18.578879016Z  [2021-12-08T12:52:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:18.730262534Z  [2021-12-08T12:52:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:18.883061905Z  [2021-12-08T12:52:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:19.037258685Z  [2021-12-08T12:52:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:19.205177891Z  [2021-12-08T12:52:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:19.371971317Z  [2021-12-08T12:52:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:19.523872453Z  [2021-12-08T12:52:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:19.703881028Z  [2021-12-08T12:52:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:19.844702109Z  [2021-12-08T12:52:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:19.996041319Z  [2021-12-08T12:52:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:20.148357099Z  [2021-12-08T12:52:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:20.301094459Z  [2021-12-08T12:52:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:20.453488622Z  [2021-12-08T12:52:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:20.605799739Z  [2021-12-08T12:52:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:20.758017966Z  [2021-12-08T12:52:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:20.910370743Z  [2021-12-08T12:52:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:21.062730421Z  [2021-12-08T12:52:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:21.214120596Z  [2021-12-08T12:52:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:21.366169641Z  [2021-12-08T12:52:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:21.518548611Z  [2021-12-08T12:52:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:21.670031901Z  [2021-12-08T12:52:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:21.822422233Z  [2021-12-08T12:52:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:21.974806142Z  [2021-12-08T12:52:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:22.126090657Z  [2021-12-08T12:52:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:22.285008269Z  [2021-12-08T12:52:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:22.437088016Z  [2021-12-08T12:52:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:22.593107032Z  [2021-12-08T12:52:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:22.743854560Z  [2021-12-08T12:52:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:22.895989258Z  [2021-12-08T12:52:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:23.049500852Z  [2021-12-08T12:52:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:23.200595972Z  [2021-12-08T12:52:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:23.352917100Z  [2021-12-08T12:52:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:23.504131003Z  [2021-12-08T12:52:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:23.691000543Z  [2021-12-08T12:52:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:23.856638600Z  [2021-12-08T12:52:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:24.017097136Z  [2021-12-08T12:52:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:24.177015535Z  [2021-12-08T12:52:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:24.332626772Z  [2021-12-08T12:52:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:24.484761378Z  [2021-12-08T12:52:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:24.643083271Z  [2021-12-08T12:52:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:24.795908851Z  [2021-12-08T12:52:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:24.947734880Z  [2021-12-08T12:52:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:25.108291347Z  [2021-12-08T12:52:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:25.272912262Z  [2021-12-08T12:52:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:25.451949879Z  [2021-12-08T12:52:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:25.598886675Z  [2021-12-08T12:52:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:25.760348632Z  [2021-12-08T12:52:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:25.908392202Z  [2021-12-08T12:52:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:26.061587926Z  [2021-12-08T12:52:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:26.214759441Z  [2021-12-08T12:52:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:26.366691660Z  [2021-12-08T12:52:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:26.518591877Z  [2021-12-08T12:52:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:26.677147349Z  [2021-12-08T12:52:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:26.828172284Z  [2021-12-08T12:52:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:26.980415724Z  [2021-12-08T12:52:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:27.135739526Z  [2021-12-08T12:52:27Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:27.287299538Z  [2021-12-08T12:52:27Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:27.462043240Z  [2021-12-08T12:52:27Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:27.612970730Z  [2021-12-08T12:52:27Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2021-12-08T12:52:27.768388444Z  [2021-12-08T12:52:27Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/A/#
+2021-12-08T12:52:27.768440405Z  [2021-12-08T12:52:27Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }
+2021-12-08T12:52:35.091118634Z  [2021-12-08T12:52:35Z INFO  dt_instance] A "0" 12:52:35.082473602
+2021-12-08T12:52:45.097182933Z  [2021-12-08T12:52:45Z INFO  dt_instance] A "10" 12:52:45.095343564
+2021-12-08T12:52:55.109719486Z  [2021-12-08T12:52:55Z INFO  dt_instance] A "20" 12:52:55.107772106
+2021-12-08T12:52:57.769095551Z  [2021-12-08T12:52:57Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:53:05.121974288Z  [2021-12-08T12:53:05Z INFO  dt_instance] A "30" 12:53:05.120011394
+2021-12-08T12:53:15.133036316Z  [2021-12-08T12:53:15Z INFO  dt_instance] A "40" 12:53:15.130922589
+2021-12-08T12:53:25.147221842Z  [2021-12-08T12:53:25Z INFO  dt_instance] A "50" 12:53:25.145164141
+2021-12-08T12:53:27.769930616Z  [2021-12-08T12:53:27Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:53:35.162834951Z  [2021-12-08T12:53:35Z INFO  dt_instance] A "60" 12:53:35.160686832
+2021-12-08T12:53:45.176556002Z  [2021-12-08T12:53:45Z INFO  dt_instance] A "70" 12:53:45.174253581
+2021-12-08T12:53:55.188209638Z  [2021-12-08T12:53:55Z INFO  dt_instance] A "80" 12:53:55.186197338
+2021-12-08T12:53:57.771782115Z  [2021-12-08T12:53:57Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:54:05.202849820Z  [2021-12-08T12:54:05Z INFO  dt_instance] A "90" 12:54:05.200980531
+2021-12-08T12:54:14.715220156Z  [2021-12-08T12:54:14Z INFO  dt_instance] A "100" 12:54:14.713363944
+2021-12-08T12:54:19.728082550Z  [2021-12-08T12:54:19Z INFO  dt_instance] A "110" 12:54:19.726121885
+2021-12-08T12:54:24.740982684Z  [2021-12-08T12:54:24Z INFO  dt_instance] A "120" 12:54:24.739105353
+2021-12-08T12:54:27.772161941Z  [2021-12-08T12:54:27Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:54:29.758227723Z  [2021-12-08T12:54:29Z INFO  dt_instance] A "130" 12:54:29.756474020
+2021-12-08T12:54:34.770601027Z  [2021-12-08T12:54:34Z INFO  dt_instance] A "140" 12:54:34.768783256
+2021-12-08T12:54:39.783321684Z  [2021-12-08T12:54:39Z INFO  dt_instance] A "150" 12:54:39.781357431
+2021-12-08T12:54:44.797373971Z  [2021-12-08T12:54:44Z INFO  dt_instance] A "160" 12:54:44.795491177
+2021-12-08T12:54:49.811265644Z  [2021-12-08T12:54:49Z INFO  dt_instance] A "170" 12:54:49.809232114
+2021-12-08T12:54:54.825679370Z  [2021-12-08T12:54:54Z INFO  dt_instance] A "180" 12:54:54.823759735
+2021-12-08T12:54:57.773819910Z  [2021-12-08T12:54:57Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:54:59.838379814Z  [2021-12-08T12:54:59Z INFO  dt_instance] A "190" 12:54:59.836141629
+2021-12-08T12:55:04.849989554Z  [2021-12-08T12:55:04Z INFO  dt_instance] A "200" 12:55:04.847958135
+2021-12-08T12:55:09.861270662Z  [2021-12-08T12:55:09Z INFO  dt_instance] A "210" 12:55:09.859504690
+2021-12-08T12:55:14.872979830Z  [2021-12-08T12:55:14Z INFO  dt_instance] A "220" 12:55:14.870881513
+2021-12-08T12:55:19.885966487Z  [2021-12-08T12:55:19Z INFO  dt_instance] A "230" 12:55:19.884260056
+2021-12-08T12:55:24.901001645Z  [2021-12-08T12:55:24Z INFO  dt_instance] A "240" 12:55:24.899040417
+2021-12-08T12:55:27.775141017Z  [2021-12-08T12:55:27Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:55:29.915108908Z  [2021-12-08T12:55:29Z INFO  dt_instance] A "250" 12:55:29.913434800
+2021-12-08T12:55:34.926182699Z  [2021-12-08T12:55:34Z INFO  dt_instance] A "260" 12:55:34.924540208
+2021-12-08T12:55:39.938995684Z  [2021-12-08T12:55:39Z INFO  dt_instance] A "270" 12:55:39.937182635
+2021-12-08T12:55:44.952982844Z  [2021-12-08T12:55:44Z INFO  dt_instance] A "280" 12:55:44.950789710
+2021-12-08T12:55:49.965836794Z  [2021-12-08T12:55:49Z INFO  dt_instance] A "290" 12:55:49.963382795
+2021-12-08T12:55:54.729062240Z  [2021-12-08T12:55:54Z INFO  dt_instance] A "300" 12:55:54.727137640
+2021-12-08T12:55:57.241607516Z  [2021-12-08T12:55:57Z INFO  dt_instance] A "310" 12:55:57.239887170
+2021-12-08T12:55:57.776534757Z  [2021-12-08T12:55:57Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:55:59.752075822Z  [2021-12-08T12:55:59Z INFO  dt_instance] A "320" 12:55:59.750299593
+2021-12-08T12:56:02.269136506Z  [2021-12-08T12:56:02Z INFO  dt_instance] A "330" 12:56:02.267349861
+2021-12-08T12:56:04.783823172Z  [2021-12-08T12:56:04Z INFO  dt_instance] A "340" 12:56:04.781825284
+2021-12-08T12:56:07.296278050Z  [2021-12-08T12:56:07Z INFO  dt_instance] A "350" 12:56:07.294574952
+2021-12-08T12:56:09.810173340Z  [2021-12-08T12:56:09Z INFO  dt_instance] A "360" 12:56:09.807223190
+2021-12-08T12:56:12.321443594Z  [2021-12-08T12:56:12Z INFO  dt_instance] A "370" 12:56:12.319838954
+2021-12-08T12:56:14.833762187Z  [2021-12-08T12:56:14Z INFO  dt_instance] A "380" 12:56:14.831590834
+2021-12-08T12:56:17.348053596Z  [2021-12-08T12:56:17Z INFO  dt_instance] A "390" 12:56:17.346077688
+2021-12-08T12:56:19.859540826Z  [2021-12-08T12:56:19Z INFO  dt_instance] A "400" 12:56:19.857753718
+2021-12-08T12:56:22.373801720Z  [2021-12-08T12:56:22Z INFO  dt_instance] A "410" 12:56:22.372038971
+2021-12-08T12:56:24.890813521Z  [2021-12-08T12:56:24Z INFO  dt_instance] A "420" 12:56:24.889112024
+2021-12-08T12:56:27.404095729Z  [2021-12-08T12:56:27Z INFO  dt_instance] A "430" 12:56:27.401904990
+2021-12-08T12:56:27.777818252Z  [2021-12-08T12:56:27Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:56:29.916133774Z  [2021-12-08T12:56:29Z INFO  dt_instance] A "440" 12:56:29.914209229
+2021-12-08T12:56:32.428247998Z  [2021-12-08T12:56:32Z INFO  dt_instance] A "450" 12:56:32.426491877
+2021-12-08T12:56:34.940690068Z  [2021-12-08T12:56:34Z INFO  dt_instance] A "460" 12:56:34.938946634
+2021-12-08T12:56:37.451899583Z  [2021-12-08T12:56:37Z INFO  dt_instance] A "470" 12:56:37.449680296
+2021-12-08T12:56:39.967745205Z  [2021-12-08T12:56:39Z INFO  dt_instance] A "480" 12:56:39.965914676
+2021-12-08T12:56:42.484160521Z  [2021-12-08T12:56:42Z INFO  dt_instance] A "490" 12:56:42.482272949
+2021-12-08T12:56:44.998479041Z  [2021-12-08T12:56:44Z INFO  dt_instance] A "500" 12:56:44.995901758
+2021-12-08T12:56:47.512363384Z  [2021-12-08T12:56:47Z INFO  dt_instance] A "510" 12:56:47.510648313
+2021-12-08T12:56:50.023545725Z  [2021-12-08T12:56:50Z INFO  dt_instance] A "520" 12:56:50.021811386
+2021-12-08T12:56:52.538455948Z  [2021-12-08T12:56:52Z INFO  dt_instance] A "530" 12:56:52.536463781
+2021-12-08T12:56:55.052045711Z  [2021-12-08T12:56:55Z INFO  dt_instance] A "540" 12:56:55.050350911
+2021-12-08T12:56:57.567111111Z  [2021-12-08T12:56:57Z INFO  dt_instance] A "550" 12:56:57.565318084
+2021-12-08T12:56:57.779069117Z  [2021-12-08T12:56:57Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:57:00.078767746Z  [2021-12-08T12:57:00Z INFO  dt_instance] A "560" 12:57:00.077076952
+2021-12-08T12:57:02.590054790Z  [2021-12-08T12:57:02Z INFO  dt_instance] A "570" 12:57:02.588114303
+2021-12-08T12:57:05.104383610Z  [2021-12-08T12:57:05Z INFO  dt_instance] A "580" 12:57:05.101242114
+2021-12-08T12:57:07.618817840Z  [2021-12-08T12:57:07Z INFO  dt_instance] A "590" 12:57:07.616964318
+2021-12-08T12:57:10.129615035Z  [2021-12-08T12:57:10Z INFO  dt_instance] A "600" 12:57:10.127675739
+2021-12-08T12:57:12.644105724Z  [2021-12-08T12:57:12Z INFO  dt_instance] A "610" 12:57:12.642321049
+2021-12-08T12:57:15.158606089Z  [2021-12-08T12:57:15Z INFO  dt_instance] A "620" 12:57:15.156835141
+2021-12-08T12:57:17.670888034Z  [2021-12-08T12:57:17Z INFO  dt_instance] A "630" 12:57:17.668875771
+2021-12-08T12:57:20.186123137Z  [2021-12-08T12:57:20Z INFO  dt_instance] A "640" 12:57:20.184278231
+2021-12-08T12:57:22.700084443Z  [2021-12-08T12:57:22Z INFO  dt_instance] A "650" 12:57:22.698340529
+2021-12-08T12:57:25.213367117Z  [2021-12-08T12:57:25Z INFO  dt_instance] A "660" 12:57:25.211763164
+2021-12-08T12:57:27.728493656Z  [2021-12-08T12:57:27Z INFO  dt_instance] A "670" 12:57:27.725871809
+2021-12-08T12:57:27.780296176Z  [2021-12-08T12:57:27Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:57:30.241198758Z  [2021-12-08T12:57:30Z INFO  dt_instance] A "680" 12:57:30.238953353
+2021-12-08T12:57:32.754145086Z  [2021-12-08T12:57:32Z INFO  dt_instance] A "690" 12:57:32.752158469
+2021-12-08T12:57:35.145005506Z  [2021-12-08T12:57:35Z INFO  dt_instance] A "700" 12:57:35.143111864
+2021-12-08T12:57:36.409414029Z  [2021-12-08T12:57:36Z INFO  dt_instance] A "710" 12:57:36.408066294
+2021-12-08T12:57:37.672880928Z  [2021-12-08T12:57:37Z INFO  dt_instance] A "720" 12:57:37.671153071
+2021-12-08T12:57:38.936491960Z  [2021-12-08T12:57:38Z INFO  dt_instance] A "730" 12:57:38.934735132
+2021-12-08T12:57:40.200003650Z  [2021-12-08T12:57:40Z INFO  dt_instance] A "740" 12:57:40.198345650
+2021-12-08T12:57:41.463028949Z  [2021-12-08T12:57:41Z INFO  dt_instance] A "750" 12:57:41.460798970
+2021-12-08T12:57:42.725370818Z  [2021-12-08T12:57:42Z INFO  dt_instance] A "760" 12:57:42.723167150
+2021-12-08T12:57:43.989123654Z  [2021-12-08T12:57:43Z INFO  dt_instance] A "770" 12:57:43.987269212
+2021-12-08T12:57:45.254910653Z  [2021-12-08T12:57:45Z INFO  dt_instance] A "780" 12:57:45.253211029
+2021-12-08T12:57:46.519146295Z  [2021-12-08T12:57:46Z INFO  dt_instance] A "790" 12:57:46.517459191
+2021-12-08T12:57:47.784837698Z  [2021-12-08T12:57:47Z INFO  dt_instance] A "800" 12:57:47.783058714
+2021-12-08T12:57:49.046283907Z  [2021-12-08T12:57:49Z INFO  dt_instance] A "810" 12:57:49.044757871
+2021-12-08T12:57:50.310961060Z  [2021-12-08T12:57:50Z INFO  dt_instance] A "820" 12:57:50.309188602
+2021-12-08T12:57:51.572370731Z  [2021-12-08T12:57:51Z INFO  dt_instance] A "830" 12:57:51.571099123
+2021-12-08T12:57:52.836168483Z  [2021-12-08T12:57:52Z INFO  dt_instance] A "840" 12:57:52.834625472
+2021-12-08T12:57:54.096228877Z  [2021-12-08T12:57:54Z INFO  dt_instance] A "850" 12:57:54.094681732
+2021-12-08T12:57:55.359673002Z  [2021-12-08T12:57:55Z INFO  dt_instance] A "860" 12:57:55.357758303
+2021-12-08T12:57:56.621147729Z  [2021-12-08T12:57:56Z INFO  dt_instance] A "870" 12:57:56.619161377
+2021-12-08T12:57:57.781786902Z  [2021-12-08T12:57:57Z ERROR dt_instance] Unhandled incoming.
+2021-12-08T12:57:57.882754441Z  [2021-12-08T12:57:57Z INFO  dt_instance] A "880" 12:57:57.880232499
+2021-12-08T12:57:59.145883566Z  [2021-12-08T12:57:59Z INFO  dt_instance] A "890" 12:57:59.143781389
+2021-12-08T12:58:00.408735155Z  [2021-12-08T12:58:00Z INFO  dt_instance] A "900" 12:58:00.406224117
+2021-12-08T12:58:01.670777452Z  [2021-12-08T12:58:01Z INFO  dt_instance] A "910" 12:58:01.668682956
+2021-12-08T12:58:02.932171485Z  [2021-12-08T12:58:02Z INFO  dt_instance] A "920" 12:58:02.930586619
+2021-12-08T12:58:04.194809631Z  [2021-12-08T12:58:04Z INFO  dt_instance] A "930" 12:58:04.192995124
+2021-12-08T12:58:05.458850921Z  [2021-12-08T12:58:05Z INFO  dt_instance] A "940" 12:58:05.457230465
+2021-12-08T12:58:06.724593944Z  [2021-12-08T12:58:06Z INFO  dt_instance] A "950" 12:58:06.722136486
+2021-12-08T12:58:07.984966373Z  [2021-12-08T12:58:07Z INFO  dt_instance] A "960" 12:58:07.983390994
+2021-12-08T12:58:09.247579072Z  [2021-12-08T12:58:09Z INFO  dt_instance] A "970" 12:58:09.245091935
+2021-12-08T12:58:10.508788418Z  [2021-12-08T12:58:10Z INFO  dt_instance] A "980" 12:58:10.507081613
+2021-12-08T12:58:11.774954663Z  [2021-12-08T12:58:11Z INFO  dt_instance] A "990" 12:58:11.773437385
+2021-12-08T12:58:27.782395946Z  [2021-12-08T12:58:27Z ERROR dt_instance] Unhandled incoming.
