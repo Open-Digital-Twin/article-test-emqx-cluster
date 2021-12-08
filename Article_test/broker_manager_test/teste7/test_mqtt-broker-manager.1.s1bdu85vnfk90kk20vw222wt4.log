@@ -1,0 +1,1710 @@
+2021-12-08T12:02:13.607886664Z  [2021-12-08T12:02:13Z INFO  dt_mqtt_manager] Searching for mqtt broker at : mqtt-cluster:8081
+2021-12-08T12:02:13.649683776Z  [2021-12-08T12:02:13Z INFO  dt_mqtt_manager] Latest CPU = "1.71", Used MEM = "130.17M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:13.649732321Z  [2021-12-08T12:02:13Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:13.649743096Z  [2021-12-08T12:02:13Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:14.674361672Z  [2021-12-08T12:02:14Z INFO  dt_mqtt_manager] Latest CPU = "1.71", Used MEM = "130.29M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:14.674408986Z  [2021-12-08T12:02:14Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:14.674420141Z  [2021-12-08T12:02:14Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:15.695593200Z  [2021-12-08T12:02:15Z INFO  dt_mqtt_manager] Latest CPU = "1.71", Used MEM = "130.18M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:15.695757521Z  [2021-12-08T12:02:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:15.695771044Z  [2021-12-08T12:02:15Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:16.711949732Z  [2021-12-08T12:02:16Z INFO  dt_mqtt_manager] Latest CPU = "1.71", Used MEM = "130.30M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:16.712038346Z  [2021-12-08T12:02:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:16.712050750Z  [2021-12-08T12:02:16Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:17.728853815Z  [2021-12-08T12:02:17Z INFO  dt_mqtt_manager] Latest CPU = "1.57", Used MEM = "130.28M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:17.729076483Z  [2021-12-08T12:02:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:17.729090865Z  [2021-12-08T12:02:17Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:18.747139548Z  [2021-12-08T12:02:18Z INFO  dt_mqtt_manager] Latest CPU = "1.57", Used MEM = "130.29M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:18.747384853Z  [2021-12-08T12:02:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:18.747429674Z  [2021-12-08T12:02:18Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:19.761628159Z  [2021-12-08T12:02:19Z INFO  dt_mqtt_manager] Latest CPU = "1.57", Used MEM = "130.16M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:19.761931921Z  [2021-12-08T12:02:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:19.762128629Z  [2021-12-08T12:02:19Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:20.776464480Z  [2021-12-08T12:02:20Z INFO  dt_mqtt_manager] Latest CPU = "1.57", Used MEM = "130.17M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:20.776535465Z  [2021-12-08T12:02:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:20.776602448Z  [2021-12-08T12:02:20Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:21.791464918Z  [2021-12-08T12:02:21Z INFO  dt_mqtt_manager] Latest CPU = "1.57", Used MEM = "130.17M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:21.791576892Z  [2021-12-08T12:02:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:21.791767802Z  [2021-12-08T12:02:21Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:22.805929157Z  [2021-12-08T12:02:22Z INFO  dt_mqtt_manager] Latest CPU = "1.45", Used MEM = "130.21M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:22.806001706Z  [2021-12-08T12:02:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:22.806102083Z  [2021-12-08T12:02:22Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:23.820200366Z  [2021-12-08T12:02:23Z INFO  dt_mqtt_manager] Latest CPU = "1.45", Used MEM = "130.22M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:23.820667215Z  [2021-12-08T12:02:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:23.820685575Z  [2021-12-08T12:02:23Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:24.834408487Z  [2021-12-08T12:02:24Z INFO  dt_mqtt_manager] Latest CPU = "1.45", Used MEM = "130.20M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:24.834457628Z  [2021-12-08T12:02:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:24.834603348Z  [2021-12-08T12:02:24Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:25.849543321Z  [2021-12-08T12:02:25Z INFO  dt_mqtt_manager] Latest CPU = "1.45", Used MEM = "130.35M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:25.849619433Z  [2021-12-08T12:02:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:25.849632959Z  [2021-12-08T12:02:25Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:26.866810307Z  [2021-12-08T12:02:26Z INFO  dt_mqtt_manager] Latest CPU = "1.45", Used MEM = "130.37M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:26.866902799Z  [2021-12-08T12:02:26Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:26.866913304Z  [2021-12-08T12:02:26Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:27.884009144Z  [2021-12-08T12:02:27Z INFO  dt_mqtt_manager] Latest CPU = "1.33", Used MEM = "130.28M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:27.884057313Z  [2021-12-08T12:02:27Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:27.884068293Z  [2021-12-08T12:02:27Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:28.897450596Z  [2021-12-08T12:02:28Z INFO  dt_mqtt_manager] Latest CPU = "1.33", Used MEM = "130.27M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:28.897497163Z  [2021-12-08T12:02:28Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:28.897507319Z  [2021-12-08T12:02:28Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:29.911538943Z  [2021-12-08T12:02:29Z INFO  dt_mqtt_manager] Latest CPU = "1.33", Used MEM = "130.29M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:29.911584812Z  [2021-12-08T12:02:29Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:29.911595541Z  [2021-12-08T12:02:29Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:30.928934409Z  [2021-12-08T12:02:30Z INFO  dt_mqtt_manager] Latest CPU = "1.33", Used MEM = "130.18M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:30.929138758Z  [2021-12-08T12:02:30Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:30.929274559Z  [2021-12-08T12:02:30Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:31.948968071Z  [2021-12-08T12:02:31Z INFO  dt_mqtt_manager] Latest CPU = "1.30", Used MEM = "130.27M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:31.949032043Z  [2021-12-08T12:02:31Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:31.949043426Z  [2021-12-08T12:02:31Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:32.969015536Z  [2021-12-08T12:02:32Z INFO  dt_mqtt_manager] Latest CPU = "1.30", Used MEM = "130.28M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:32.969099571Z  [2021-12-08T12:02:32Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:32.969144885Z  [2021-12-08T12:02:32Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:33.987639851Z  [2021-12-08T12:02:33Z INFO  dt_mqtt_manager] Latest CPU = "1.30", Used MEM = "130.28M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:33.987713158Z  [2021-12-08T12:02:33Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:33.987730162Z  [2021-12-08T12:02:33Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:35.003477774Z  [2021-12-08T12:02:35Z INFO  dt_mqtt_manager] Latest CPU = "1.30", Used MEM = "130.28M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:35.003534278Z  [2021-12-08T12:02:35Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:35.003545472Z  [2021-12-08T12:02:35Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:36.024246603Z  [2021-12-08T12:02:36Z INFO  dt_mqtt_manager] Latest CPU = "1.30", Used MEM = "130.30M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:36.024298851Z  [2021-12-08T12:02:36Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:36.024310023Z  [2021-12-08T12:02:36Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:37.038205983Z  [2021-12-08T12:02:37Z INFO  dt_mqtt_manager] Latest CPU = "1.20", Used MEM = "130.19M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:37.038252161Z  [2021-12-08T12:02:37Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:37.038262804Z  [2021-12-08T12:02:37Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:38.053961584Z  [2021-12-08T12:02:38Z INFO  dt_mqtt_manager] Latest CPU = "1.20", Used MEM = "130.31M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:38.054018277Z  [2021-12-08T12:02:38Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:38.054029557Z  [2021-12-08T12:02:38Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:39.068106509Z  [2021-12-08T12:02:39Z INFO  dt_mqtt_manager] Latest CPU = "1.20", Used MEM = "130.18M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:39.068236651Z  [2021-12-08T12:02:39Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:39.068254293Z  [2021-12-08T12:02:39Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:40.086590615Z  [2021-12-08T12:02:40Z INFO  dt_mqtt_manager] Latest CPU = "1.20", Used MEM = "130.19M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:40.086629123Z  [2021-12-08T12:02:40Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:40.086640267Z  [2021-12-08T12:02:40Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:41.101273449Z  [2021-12-08T12:02:41Z INFO  dt_mqtt_manager] Latest CPU = "1.20", Used MEM = "130.19M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:41.101420666Z  [2021-12-08T12:02:41Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:41.101434990Z  [2021-12-08T12:02:41Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:42.115342459Z  [2021-12-08T12:02:42Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "130.19M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:42.115503704Z  [2021-12-08T12:02:42Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:42.115616431Z  [2021-12-08T12:02:42Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:43.129628089Z  [2021-12-08T12:02:43Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "130.14M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:43.129880639Z  [2021-12-08T12:02:43Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:43.129920242Z  [2021-12-08T12:02:43Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:44.145623608Z  [2021-12-08T12:02:44Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "130.25M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:44.145673893Z  [2021-12-08T12:02:44Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:44.145684321Z  [2021-12-08T12:02:44Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:45.160748819Z  [2021-12-08T12:02:45Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "130.15M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:45.160826640Z  [2021-12-08T12:02:45Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:45.160837882Z  [2021-12-08T12:02:45Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:46.175091010Z  [2021-12-08T12:02:46Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "130.26M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:46.175144966Z  [2021-12-08T12:02:46Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:46.175155179Z  [2021-12-08T12:02:46Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:47.190065351Z  [2021-12-08T12:02:47Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "130.14M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:47.190155216Z  [2021-12-08T12:02:47Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:47.190168933Z  [2021-12-08T12:02:47Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:48.212418614Z  [2021-12-08T12:02:48Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "130.14M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:48.213049789Z  [2021-12-08T12:02:48Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:48.213066465Z  [2021-12-08T12:02:48Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:49.227426487Z  [2021-12-08T12:02:49Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "130.14M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:49.227474145Z  [2021-12-08T12:02:49Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:49.227485176Z  [2021-12-08T12:02:49Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:50.241929335Z  [2021-12-08T12:02:50Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "130.26M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:50.241974884Z  [2021-12-08T12:02:50Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:50.242040093Z  [2021-12-08T12:02:50Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:51.255972605Z  [2021-12-08T12:02:51Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "130.15M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:51.256020131Z  [2021-12-08T12:02:51Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:51.256065214Z  [2021-12-08T12:02:51Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:52.274005950Z  [2021-12-08T12:02:52Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "130.27M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:52.274237599Z  [2021-12-08T12:02:52Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:52.274264113Z  [2021-12-08T12:02:52Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:53.289018684Z  [2021-12-08T12:02:53Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "130.13M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:53.289090833Z  [2021-12-08T12:02:53Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:53.289103655Z  [2021-12-08T12:02:53Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:54.306078526Z  [2021-12-08T12:02:54Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "130.22M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:54.306154858Z  [2021-12-08T12:02:54Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:54.306169153Z  [2021-12-08T12:02:54Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:02:55.323163069Z  [2021-12-08T12:02:55Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "130.22M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:55.323231502Z  [2021-12-08T12:02:55Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:55.323241884Z  [2021-12-08T12:02:55Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:02:56.338543589Z  [2021-12-08T12:02:56Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "130.20M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:56.338940043Z  [2021-12-08T12:02:56Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:56.338951737Z  [2021-12-08T12:02:56Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:02:57.353520148Z  [2021-12-08T12:02:57Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "130.08M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:57.353698082Z  [2021-12-08T12:02:57Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:57.353713272Z  [2021-12-08T12:02:57Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:02:58.368302233Z  [2021-12-08T12:02:58Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "130.26M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:58.368351271Z  [2021-12-08T12:02:58Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:58.368383213Z  [2021-12-08T12:02:58Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:02:59.382689885Z  [2021-12-08T12:02:59Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "130.15M", All Queue = 0, All Inflight = 0
+2021-12-08T12:02:59.382746362Z  [2021-12-08T12:02:59Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:02:59.382781620Z  [2021-12-08T12:02:59Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:00.400696471Z  [2021-12-08T12:03:00Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "130.17M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:00.400741471Z  [2021-12-08T12:03:00Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:00.400751884Z  [2021-12-08T12:03:00Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:01.418333550Z  [2021-12-08T12:03:01Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "130.17M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:01.418405597Z  [2021-12-08T12:03:01Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:01.418416791Z  [2021-12-08T12:03:01Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:02.435115583Z  [2021-12-08T12:03:02Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "130.17M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:02.435184982Z  [2021-12-08T12:03:02Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:02.435195600Z  [2021-12-08T12:03:02Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:03.456865409Z  [2021-12-08T12:03:03Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "130.14M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:03.456931868Z  [2021-12-08T12:03:03Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:03.456944080Z  [2021-12-08T12:03:03Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:04.474336230Z  [2021-12-08T12:03:04Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "130.25M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:04.474424355Z  [2021-12-08T12:03:04Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:04.474477589Z  [2021-12-08T12:03:04Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:05.492683642Z  [2021-12-08T12:03:05Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "130.14M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:05.492752254Z  [2021-12-08T12:03:05Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:05.492767266Z  [2021-12-08T12:03:05Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:06.506743806Z  [2021-12-08T12:03:06Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "130.25M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:06.506835618Z  [2021-12-08T12:03:06Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:06.506854048Z  [2021-12-08T12:03:06Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:07.524388603Z  [2021-12-08T12:03:07Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "130.17M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:07.524434005Z  [2021-12-08T12:03:07Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:07.524444936Z  [2021-12-08T12:03:07Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:08.539471515Z  [2021-12-08T12:03:08Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "130.33M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:08.539543324Z  [2021-12-08T12:03:08Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:08.539556347Z  [2021-12-08T12:03:08Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:09.559540640Z  [2021-12-08T12:03:09Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "130.27M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:09.559626158Z  [2021-12-08T12:03:09Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:09.559638878Z  [2021-12-08T12:03:09Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:10.575780516Z  [2021-12-08T12:03:10Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "130.35M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:10.575844947Z  [2021-12-08T12:03:10Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:10.575855827Z  [2021-12-08T12:03:10Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:11.594721792Z  [2021-12-08T12:03:11Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "130.51M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:11.594768520Z  [2021-12-08T12:03:11Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:11.594779161Z  [2021-12-08T12:03:11Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:12.612166626Z  [2021-12-08T12:03:12Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "130.55M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:12.612270041Z  [2021-12-08T12:03:12Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:12.612548956Z  [2021-12-08T12:03:12Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:13.629270018Z  [2021-12-08T12:03:13Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "130.46M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:13.629462899Z  [2021-12-08T12:03:13Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:13.629571479Z  [2021-12-08T12:03:13Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:14.646783986Z  [2021-12-08T12:03:14Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "130.56M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:14.647146536Z  [2021-12-08T12:03:14Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:14.647172802Z  [2021-12-08T12:03:14Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:15.669653040Z  [2021-12-08T12:03:15Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "130.74M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:15.669860113Z  [2021-12-08T12:03:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:15.670067420Z  [2021-12-08T12:03:15Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:16.691922556Z  [2021-12-08T12:03:16Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "130.78M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:16.692148683Z  [2021-12-08T12:03:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:16.692234142Z  [2021-12-08T12:03:16Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:17.710963109Z  [2021-12-08T12:03:17Z INFO  dt_mqtt_manager] Latest CPU = "0.69", Used MEM = "130.79M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:17.711062662Z  [2021-12-08T12:03:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:17.711078733Z  [2021-12-08T12:03:17Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:18.730956211Z  [2021-12-08T12:03:18Z INFO  dt_mqtt_manager] Latest CPU = "0.69", Used MEM = "130.87M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:18.731029792Z  [2021-12-08T12:03:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:18.731041964Z  [2021-12-08T12:03:18Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:19.748219727Z  [2021-12-08T12:03:19Z INFO  dt_mqtt_manager] Latest CPU = "0.69", Used MEM = "130.91M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:19.748265349Z  [2021-12-08T12:03:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:19.748276463Z  [2021-12-08T12:03:19Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:20.765266335Z  [2021-12-08T12:03:20Z INFO  dt_mqtt_manager] Latest CPU = "0.69", Used MEM = "130.81M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:20.765312038Z  [2021-12-08T12:03:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:20.765322724Z  [2021-12-08T12:03:20Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:21.783032764Z  [2021-12-08T12:03:21Z INFO  dt_mqtt_manager] Latest CPU = "0.69", Used MEM = "130.82M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:21.783079083Z  [2021-12-08T12:03:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:21.783089843Z  [2021-12-08T12:03:21Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:22.801704114Z  [2021-12-08T12:03:22Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.92M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:22.801749511Z  [2021-12-08T12:03:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:22.801760495Z  [2021-12-08T12:03:22Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:23.820520369Z  [2021-12-08T12:03:23Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.90M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:23.820653205Z  [2021-12-08T12:03:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:23.820668767Z  [2021-12-08T12:03:23Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:24.841435185Z  [2021-12-08T12:03:24Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.81M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:24.841506968Z  [2021-12-08T12:03:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:24.841534453Z  [2021-12-08T12:03:24Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:25.860839196Z  [2021-12-08T12:03:25Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:03:25.860910939Z  [2021-12-08T12:03:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:25.861124046Z  [2021-12-08T12:03:25Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:26.879003526Z  [2021-12-08T12:03:26Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.85M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:26.879219450Z  [2021-12-08T12:03:26Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:26.879391296Z  [2021-12-08T12:03:26Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:27.899746325Z  [2021-12-08T12:03:27Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.68M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:27.900086452Z  [2021-12-08T12:03:27Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:27.900284581Z  [2021-12-08T12:03:27Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:28.920174588Z  [2021-12-08T12:03:28Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.81M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:28.920419142Z  [2021-12-08T12:03:28Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:28.920644554Z  [2021-12-08T12:03:28Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:29.937799626Z  [2021-12-08T12:03:29Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.75M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:29.937923632Z  [2021-12-08T12:03:29Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:29.938281801Z  [2021-12-08T12:03:29Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:30.961680790Z  [2021-12-08T12:03:30Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.75M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:30.961751162Z  [2021-12-08T12:03:30Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:30.961967056Z  [2021-12-08T12:03:30Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:31.986449707Z  [2021-12-08T12:03:31Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "130.91M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:31.986682643Z  [2021-12-08T12:03:31Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:31.986862165Z  [2021-12-08T12:03:31Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:33.007778385Z  [2021-12-08T12:03:33Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "131.01M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:33.007853396Z  [2021-12-08T12:03:33Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:33.008038308Z  [2021-12-08T12:03:33Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:34.025411673Z  [2021-12-08T12:03:34Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "130.93M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:34.025649452Z  [2021-12-08T12:03:34Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:34.025844835Z  [2021-12-08T12:03:34Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:35.044155456Z  [2021-12-08T12:03:35Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "131.02M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:35.044207434Z  [2021-12-08T12:03:35Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:35.044476138Z  [2021-12-08T12:03:35Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:36.061708395Z  [2021-12-08T12:03:36Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "130.92M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:36.061778573Z  [2021-12-08T12:03:36Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:36.061993049Z  [2021-12-08T12:03:36Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:37.079931338Z  [2021-12-08T12:03:37Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "131.02M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:37.080188645Z  [2021-12-08T12:03:37Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:37.080356989Z  [2021-12-08T12:03:37Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:38.097315878Z  [2021-12-08T12:03:38Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "130.96M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:38.097555329Z  [2021-12-08T12:03:38Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:38.097755806Z  [2021-12-08T12:03:38Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:39.118982357Z  [2021-12-08T12:03:39Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "131.02M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:39.119237219Z  [2021-12-08T12:03:39Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:39.119426870Z  [2021-12-08T12:03:39Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:40.137034393Z  [2021-12-08T12:03:40Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "131.08M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:40.137106794Z  [2021-12-08T12:03:40Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:40.137253311Z  [2021-12-08T12:03:40Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:41.157966352Z  [2021-12-08T12:03:41Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "130.97M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:41.158185463Z  [2021-12-08T12:03:41Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:41.158348283Z  [2021-12-08T12:03:41Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:42.177779411Z  [2021-12-08T12:03:42Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "131.22M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:42.178100484Z  [2021-12-08T12:03:42Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:42.178333512Z  [2021-12-08T12:03:42Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:43.197406470Z  [2021-12-08T12:03:43Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.96M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:43.197614637Z  [2021-12-08T12:03:43Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:43.197768422Z  [2021-12-08T12:03:43Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:44.217587259Z  [2021-12-08T12:03:44Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.88M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:44.217658339Z  [2021-12-08T12:03:44Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:44.217749011Z  [2021-12-08T12:03:44Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:45.237133854Z  [2021-12-08T12:03:45Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.93M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:45.237330336Z  [2021-12-08T12:03:45Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:45.237536513Z  [2021-12-08T12:03:45Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:46.257994114Z  [2021-12-08T12:03:46Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.97M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:46.258188931Z  [2021-12-08T12:03:46Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:46.258379080Z  [2021-12-08T12:03:46Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:47.279662001Z  [2021-12-08T12:03:47Z INFO  dt_mqtt_manager] Latest CPU = "0.42", Used MEM = "131.08M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:47.280044239Z  [2021-12-08T12:03:47Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:47.280230572Z  [2021-12-08T12:03:47Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:48.301384825Z  [2021-12-08T12:03:48Z INFO  dt_mqtt_manager] Latest CPU = "0.42", Used MEM = "130.96M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:48.301435536Z  [2021-12-08T12:03:48Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:48.301446370Z  [2021-12-08T12:03:48Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:49.321112338Z  [2021-12-08T12:03:49Z INFO  dt_mqtt_manager] Latest CPU = "0.42", Used MEM = "131.01M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:49.321162661Z  [2021-12-08T12:03:49Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:49.321172986Z  [2021-12-08T12:03:49Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:50.337853892Z  [2021-12-08T12:03:50Z INFO  dt_mqtt_manager] Latest CPU = "0.42", Used MEM = "131.02M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:50.337899483Z  [2021-12-08T12:03:50Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:50.337910033Z  [2021-12-08T12:03:50Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:51.354177528Z  [2021-12-08T12:03:51Z INFO  dt_mqtt_manager] Latest CPU = "0.42", Used MEM = "130.94M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:51.354226397Z  [2021-12-08T12:03:51Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:51.354237368Z  [2021-12-08T12:03:51Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:52.370574421Z  [2021-12-08T12:03:52Z INFO  dt_mqtt_manager] Latest CPU = "0.38", Used MEM = "130.96M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:52.370622298Z  [2021-12-08T12:03:52Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:52.370632736Z  [2021-12-08T12:03:52Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:53.388556622Z  [2021-12-08T12:03:53Z INFO  dt_mqtt_manager] Latest CPU = "0.38", Used MEM = "130.93M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:53.388602654Z  [2021-12-08T12:03:53Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:53.388613811Z  [2021-12-08T12:03:53Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:54.408996547Z  [2021-12-08T12:03:54Z INFO  dt_mqtt_manager] Latest CPU = "0.38", Used MEM = "131.07M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:54.409050334Z  [2021-12-08T12:03:54Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:54.409062477Z  [2021-12-08T12:03:54Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:03:55.426222482Z  [2021-12-08T12:03:55Z INFO  dt_mqtt_manager] Latest CPU = "0.38", Used MEM = "131.15M", All Queue = 0, All Inflight = 1
+2021-12-08T12:03:55.426270762Z  [2021-12-08T12:03:55Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:55.426282715Z  [2021-12-08T12:03:55Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:03:56.443904161Z  [2021-12-08T12:03:56Z INFO  dt_mqtt_manager] Latest CPU = "0.38", Used MEM = "131.04M", All Queue = 0, All Inflight = 3
+2021-12-08T12:03:56.443963380Z  [2021-12-08T12:03:56Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:56.443977048Z  [2021-12-08T12:03:56Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:03:57.462902997Z  [2021-12-08T12:03:57Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "131.05M", All Queue = 0, All Inflight = 3
+2021-12-08T12:03:57.462951903Z  [2021-12-08T12:03:57Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:57.462961936Z  [2021-12-08T12:03:57Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:03:58.482830887Z  [2021-12-08T12:03:58Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "130.90M", All Queue = 0, All Inflight = 3
+2021-12-08T12:03:58.482878719Z  [2021-12-08T12:03:58Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:58.482889217Z  [2021-12-08T12:03:58Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:03:59.503883813Z  [2021-12-08T12:03:59Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "130.97M", All Queue = 0, All Inflight = 3
+2021-12-08T12:03:59.503932745Z  [2021-12-08T12:03:59Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:03:59.503943808Z  [2021-12-08T12:03:59Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:00.521989412Z  [2021-12-08T12:04:00Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "130.93M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:00.522041092Z  [2021-12-08T12:04:00Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:00.522051902Z  [2021-12-08T12:04:00Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:01.538437179Z  [2021-12-08T12:04:01Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "130.99M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:01.538485930Z  [2021-12-08T12:04:01Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:01.538496620Z  [2021-12-08T12:04:01Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:02.555643559Z  [2021-12-08T12:04:02Z INFO  dt_mqtt_manager] Latest CPU = "0.40", Used MEM = "130.96M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:02.555688315Z  [2021-12-08T12:04:02Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:02.555729257Z  [2021-12-08T12:04:02Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:03.572504171Z  [2021-12-08T12:04:03Z INFO  dt_mqtt_manager] Latest CPU = "0.40", Used MEM = "130.91M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:03.572553037Z  [2021-12-08T12:04:03Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:03.572563937Z  [2021-12-08T12:04:03Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:04.590114072Z  [2021-12-08T12:04:04Z INFO  dt_mqtt_manager] Latest CPU = "0.40", Used MEM = "130.89M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:04.590162611Z  [2021-12-08T12:04:04Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:04.590173716Z  [2021-12-08T12:04:04Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:05.611906838Z  [2021-12-08T12:04:05Z INFO  dt_mqtt_manager] Latest CPU = "0.40", Used MEM = "130.91M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:05.611974002Z  [2021-12-08T12:04:05Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:05.611986881Z  [2021-12-08T12:04:05Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:06.633659566Z  [2021-12-08T12:04:06Z INFO  dt_mqtt_manager] Latest CPU = "0.40", Used MEM = "130.91M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:06.633705870Z  [2021-12-08T12:04:06Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:06.633716652Z  [2021-12-08T12:04:06Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:07.651820136Z  [2021-12-08T12:04:07Z INFO  dt_mqtt_manager] Latest CPU = "0.37", Used MEM = "130.96M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:07.651866131Z  [2021-12-08T12:04:07Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:07.651876963Z  [2021-12-08T12:04:07Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:08.669751470Z  [2021-12-08T12:04:08Z INFO  dt_mqtt_manager] Latest CPU = "0.37", Used MEM = "130.89M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:08.669824565Z  [2021-12-08T12:04:08Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:08.669836481Z  [2021-12-08T12:04:08Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:09.686392587Z  [2021-12-08T12:04:09Z INFO  dt_mqtt_manager] Latest CPU = "0.37", Used MEM = "130.85M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:09.686438816Z  [2021-12-08T12:04:09Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:09.686450004Z  [2021-12-08T12:04:09Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:10.704415743Z  [2021-12-08T12:04:10Z INFO  dt_mqtt_manager] Latest CPU = "0.37", Used MEM = "130.85M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:10.704499646Z  [2021-12-08T12:04:10Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:10.704533381Z  [2021-12-08T12:04:10Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:11.721349805Z  [2021-12-08T12:04:11Z INFO  dt_mqtt_manager] Latest CPU = "0.37", Used MEM = "130.83M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:11.721395650Z  [2021-12-08T12:04:11Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:11.721406635Z  [2021-12-08T12:04:11Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:12.739953301Z  [2021-12-08T12:04:12Z INFO  dt_mqtt_manager] Latest CPU = "0.34", Used MEM = "130.83M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:12.740000587Z  [2021-12-08T12:04:12Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:12.740011478Z  [2021-12-08T12:04:12Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:13.758514303Z  [2021-12-08T12:04:13Z INFO  dt_mqtt_manager] Latest CPU = "0.34", Used MEM = "130.82M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:13.758564398Z  [2021-12-08T12:04:13Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:13.758575571Z  [2021-12-08T12:04:13Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:14.776795476Z  [2021-12-08T12:04:14Z INFO  dt_mqtt_manager] Latest CPU = "0.34", Used MEM = "130.87M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:14.776878393Z  [2021-12-08T12:04:14Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:14.776892406Z  [2021-12-08T12:04:14Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:15.794880364Z  [2021-12-08T12:04:15Z INFO  dt_mqtt_manager] Latest CPU = "0.34", Used MEM = "130.93M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:15.794927149Z  [2021-12-08T12:04:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:15.794938156Z  [2021-12-08T12:04:15Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:16.814892994Z  [2021-12-08T12:04:16Z INFO  dt_mqtt_manager] Latest CPU = "0.34", Used MEM = "130.81M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:16.815011182Z  [2021-12-08T12:04:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:16.815031719Z  [2021-12-08T12:04:16Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:17.833461281Z  [2021-12-08T12:04:17Z INFO  dt_mqtt_manager] Latest CPU = "0.31", Used MEM = "130.97M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:17.833507464Z  [2021-12-08T12:04:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:17.833593302Z  [2021-12-08T12:04:17Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:18.859059242Z  [2021-12-08T12:04:18Z INFO  dt_mqtt_manager] Latest CPU = "0.31", Used MEM = "130.81M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:18.859160706Z  [2021-12-08T12:04:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:18.859308955Z  [2021-12-08T12:04:18Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:19.894334900Z  [2021-12-08T12:04:19Z INFO  dt_mqtt_manager] Latest CPU = "0.31", Used MEM = "130.91M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:19.894390305Z  [2021-12-08T12:04:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:19.894401465Z  [2021-12-08T12:04:19Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:20.913518332Z  [2021-12-08T12:04:20Z INFO  dt_mqtt_manager] Latest CPU = "0.31", Used MEM = "131.03M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:20.913704831Z  [2021-12-08T12:04:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:20.913839902Z  [2021-12-08T12:04:20Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:21.933359248Z  [2021-12-08T12:04:21Z INFO  dt_mqtt_manager] Latest CPU = "0.31", Used MEM = "130.89M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:21.933544382Z  [2021-12-08T12:04:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:21.933694768Z  [2021-12-08T12:04:21Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:22.957693580Z  [2021-12-08T12:04:22Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "130.89M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:22.957904186Z  [2021-12-08T12:04:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:22.957919006Z  [2021-12-08T12:04:22Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:23.977762222Z  [2021-12-08T12:04:23Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "130.84M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:23.978015423Z  [2021-12-08T12:04:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:23.978190685Z  [2021-12-08T12:04:23Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:24.997437694Z  [2021-12-08T12:04:24Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "130.88M", All Queue = 0, All Inflight = 1
+2021-12-08T12:04:24.997527791Z  [2021-12-08T12:04:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:24.997541374Z  [2021-12-08T12:04:24Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:26.015997755Z  [2021-12-08T12:04:26Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "131.16M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:26.016046301Z  [2021-12-08T12:04:26Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:26.016140426Z  [2021-12-08T12:04:26Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:27.035186206Z  [2021-12-08T12:04:27Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "130.96M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:27.035401250Z  [2021-12-08T12:04:27Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:27.035574733Z  [2021-12-08T12:04:27Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:28.056354746Z  [2021-12-08T12:04:28Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "131.18M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:28.056443077Z  [2021-12-08T12:04:28Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:28.056480255Z  [2021-12-08T12:04:28Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:29.076564621Z  [2021-12-08T12:04:29Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "130.94M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:29.076747740Z  [2021-12-08T12:04:29Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:29.076899306Z  [2021-12-08T12:04:29Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:30.104427915Z  [2021-12-08T12:04:30Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "131.03M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:30.104473188Z  [2021-12-08T12:04:30Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:30.104585887Z  [2021-12-08T12:04:30Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:31.122076423Z  [2021-12-08T12:04:31Z INFO  dt_mqtt_manager] Latest CPU = "0.35", Used MEM = "131.20M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:31.122176833Z  [2021-12-08T12:04:31Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:31.122193711Z  [2021-12-08T12:04:31Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:32.141129465Z  [2021-12-08T12:04:32Z INFO  dt_mqtt_manager] Latest CPU = "0.32", Used MEM = "130.91M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:32.141175863Z  [2021-12-08T12:04:32Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:32.141288679Z  [2021-12-08T12:04:32Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:33.162123588Z  [2021-12-08T12:04:33Z INFO  dt_mqtt_manager] Latest CPU = "0.32", Used MEM = "130.91M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:33.162271404Z  [2021-12-08T12:04:33Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:33.162434036Z  [2021-12-08T12:04:33Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:34.182144456Z  [2021-12-08T12:04:34Z INFO  dt_mqtt_manager] Latest CPU = "0.32", Used MEM = "131.00M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:34.182226772Z  [2021-12-08T12:04:34Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:34.182242785Z  [2021-12-08T12:04:34Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:35.204741579Z  [2021-12-08T12:04:35Z INFO  dt_mqtt_manager] Latest CPU = "0.32", Used MEM = "131.08M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:35.204813379Z  [2021-12-08T12:04:35Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:35.204824816Z  [2021-12-08T12:04:35Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:36.223263613Z  [2021-12-08T12:04:36Z INFO  dt_mqtt_manager] Latest CPU = "0.32", Used MEM = "131.05M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:36.223314644Z  [2021-12-08T12:04:36Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:36.223326415Z  [2021-12-08T12:04:36Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:37.243581376Z  [2021-12-08T12:04:37Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "131.05M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:37.243627209Z  [2021-12-08T12:04:37Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:37.243638193Z  [2021-12-08T12:04:37Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:38.263465111Z  [2021-12-08T12:04:38Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "131.03M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:38.263519897Z  [2021-12-08T12:04:38Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:38.263532005Z  [2021-12-08T12:04:38Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:39.287429558Z  [2021-12-08T12:04:39Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "131.19M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:39.287497144Z  [2021-12-08T12:04:39Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:39.287509866Z  [2021-12-08T12:04:39Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:40.306395862Z  [2021-12-08T12:04:40Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "131.02M", All Queue = 0, All Inflight = 2
+2021-12-08T12:04:40.306442387Z  [2021-12-08T12:04:40Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:40.306453585Z  [2021-12-08T12:04:40Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:41.327851978Z  [2021-12-08T12:04:41Z INFO  dt_mqtt_manager] Latest CPU = "0.29", Used MEM = "131.26M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:41.327900144Z  [2021-12-08T12:04:41Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:41.327911738Z  [2021-12-08T12:04:41Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:42.345461210Z  [2021-12-08T12:04:42Z INFO  dt_mqtt_manager] Latest CPU = "0.43", Used MEM = "131.01M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:42.345652776Z  [2021-12-08T12:04:42Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:42.345802367Z  [2021-12-08T12:04:42Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:43.365896315Z  [2021-12-08T12:04:43Z INFO  dt_mqtt_manager] Latest CPU = "0.43", Used MEM = "131.04M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:43.366116571Z  [2021-12-08T12:04:43Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:43.366143120Z  [2021-12-08T12:04:43Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:44.386044615Z  [2021-12-08T12:04:44Z INFO  dt_mqtt_manager] Latest CPU = "0.43", Used MEM = "130.96M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:44.386250860Z  [2021-12-08T12:04:44Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:44.386440368Z  [2021-12-08T12:04:44Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:45.404859748Z  [2021-12-08T12:04:45Z INFO  dt_mqtt_manager] Latest CPU = "0.43", Used MEM = "130.91M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:45.405040224Z  [2021-12-08T12:04:45Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:45.405212561Z  [2021-12-08T12:04:45Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:46.424576750Z  [2021-12-08T12:04:46Z INFO  dt_mqtt_manager] Latest CPU = "0.43", Used MEM = "130.96M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:46.424772765Z  [2021-12-08T12:04:46Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:46.424815767Z  [2021-12-08T12:04:46Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:47.444081038Z  [2021-12-08T12:04:47Z INFO  dt_mqtt_manager] Latest CPU = "0.39", Used MEM = "131.02M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:47.444340179Z  [2021-12-08T12:04:47Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:47.444366373Z  [2021-12-08T12:04:47Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:48.466046789Z  [2021-12-08T12:04:48Z INFO  dt_mqtt_manager] Latest CPU = "0.39", Used MEM = "130.94M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:48.466269171Z  [2021-12-08T12:04:48Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:48.466444369Z  [2021-12-08T12:04:48Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:49.486379318Z  [2021-12-08T12:04:49Z INFO  dt_mqtt_manager] Latest CPU = "0.39", Used MEM = "130.92M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:49.486451440Z  [2021-12-08T12:04:49Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:49.486592975Z  [2021-12-08T12:04:49Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:50.516291728Z  [2021-12-08T12:04:50Z INFO  dt_mqtt_manager] Latest CPU = "0.39", Used MEM = "131.07M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:50.516482369Z  [2021-12-08T12:04:50Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:50.516526556Z  [2021-12-08T12:04:50Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:51.537472355Z  [2021-12-08T12:04:51Z INFO  dt_mqtt_manager] Latest CPU = "0.39", Used MEM = "130.93M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:51.537705004Z  [2021-12-08T12:04:51Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:51.537907508Z  [2021-12-08T12:04:51Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:52.556839559Z  [2021-12-08T12:04:52Z INFO  dt_mqtt_manager] Latest CPU = "0.36", Used MEM = "130.99M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:52.557086203Z  [2021-12-08T12:04:52Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:52.557275356Z  [2021-12-08T12:04:52Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:53.575774676Z  [2021-12-08T12:04:53Z INFO  dt_mqtt_manager] Latest CPU = "0.36", Used MEM = "131.16M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:53.575908139Z  [2021-12-08T12:04:53Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:53.575926754Z  [2021-12-08T12:04:53Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:54.600404372Z  [2021-12-08T12:04:54Z INFO  dt_mqtt_manager] Latest CPU = "0.36", Used MEM = "131.22M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:54.600503096Z  [2021-12-08T12:04:54Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:54.600669982Z  [2021-12-08T12:04:54Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:04:55.621803156Z  [2021-12-08T12:04:55Z INFO  dt_mqtt_manager] Latest CPU = "0.36", Used MEM = "131.30M", All Queue = 0, All Inflight = 4
+2021-12-08T12:04:55.622017577Z  [2021-12-08T12:04:55Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:55.622128989Z  [2021-12-08T12:04:55Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:04:56.642373719Z  [2021-12-08T12:04:56Z INFO  dt_mqtt_manager] Latest CPU = "0.36", Used MEM = "131.07M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:56.642438945Z  [2021-12-08T12:04:56Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:56.642467809Z  [2021-12-08T12:04:56Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:04:57.664327852Z  [2021-12-08T12:04:57Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "131.10M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:57.664440532Z  [2021-12-08T12:04:57Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:57.664644388Z  [2021-12-08T12:04:57Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:04:58.686935012Z  [2021-12-08T12:04:58Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "130.99M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:58.687138708Z  [2021-12-08T12:04:58Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:58.687204027Z  [2021-12-08T12:04:58Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:04:59.708683343Z  [2021-12-08T12:04:59Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "131.08M", All Queue = 0, All Inflight = 3
+2021-12-08T12:04:59.708918540Z  [2021-12-08T12:04:59Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:04:59.709145419Z  [2021-12-08T12:04:59Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:00.729885995Z  [2021-12-08T12:05:00Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "131.35M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:00.730152662Z  [2021-12-08T12:05:00Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:00.730380192Z  [2021-12-08T12:05:00Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:01.752087704Z  [2021-12-08T12:05:01Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "131.06M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:01.752301997Z  [2021-12-08T12:05:01Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:01.752467273Z  [2021-12-08T12:05:01Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:02.773675770Z  [2021-12-08T12:05:02Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "131.51M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:02.773946577Z  [2021-12-08T12:05:02Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:02.774164224Z  [2021-12-08T12:05:02Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:03.793180808Z  [2021-12-08T12:05:03Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "131.35M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:03.793244223Z  [2021-12-08T12:05:03Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:03.793271792Z  [2021-12-08T12:05:03Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:04.812689801Z  [2021-12-08T12:05:04Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "131.39M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:04.812802945Z  [2021-12-08T12:05:04Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:04.813146572Z  [2021-12-08T12:05:04Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:05.834560043Z  [2021-12-08T12:05:05Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "132.85M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:05.834781819Z  [2021-12-08T12:05:05Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:05.834866108Z  [2021-12-08T12:05:05Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:06.857276051Z  [2021-12-08T12:05:06Z INFO  dt_mqtt_manager] Latest CPU = "0.54", Used MEM = "133.11M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:06.857346901Z  [2021-12-08T12:05:06Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:06.857546017Z  [2021-12-08T12:05:06Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:07.877874291Z  [2021-12-08T12:05:07Z INFO  dt_mqtt_manager] Latest CPU = "0.66", Used MEM = "131.34M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:07.878016651Z  [2021-12-08T12:05:07Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:07.878161458Z  [2021-12-08T12:05:07Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:08.898434009Z  [2021-12-08T12:05:08Z INFO  dt_mqtt_manager] Latest CPU = "0.66", Used MEM = "131.37M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:08.898631377Z  [2021-12-08T12:05:08Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:08.898788146Z  [2021-12-08T12:05:08Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:09.922322828Z  [2021-12-08T12:05:09Z INFO  dt_mqtt_manager] Latest CPU = "0.66", Used MEM = "131.55M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:09.922372137Z  [2021-12-08T12:05:09Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:09.922411710Z  [2021-12-08T12:05:09Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:10.944717623Z  [2021-12-08T12:05:10Z INFO  dt_mqtt_manager] Latest CPU = "0.66", Used MEM = "131.74M", All Queue = 0, All Inflight = 3
+2021-12-08T12:05:10.944911041Z  [2021-12-08T12:05:10Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:10.945093581Z  [2021-12-08T12:05:10Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:11.965358257Z  [2021-12-08T12:05:11Z INFO  dt_mqtt_manager] Latest CPU = "0.66", Used MEM = "131.18M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:11.965648567Z  [2021-12-08T12:05:11Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:11.965883934Z  [2021-12-08T12:05:11Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:12.987546377Z  [2021-12-08T12:05:12Z INFO  dt_mqtt_manager] Latest CPU = "0.77", Used MEM = "131.20M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:12.987845146Z  [2021-12-08T12:05:12Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:12.988067412Z  [2021-12-08T12:05:12Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:14.011355552Z  [2021-12-08T12:05:14Z INFO  dt_mqtt_manager] Latest CPU = "0.77", Used MEM = "131.64M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:14.011584035Z  [2021-12-08T12:05:14Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:14.011816665Z  [2021-12-08T12:05:14Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:15.031259411Z  [2021-12-08T12:05:15Z INFO  dt_mqtt_manager] Latest CPU = "0.77", Used MEM = "131.04M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:15.031484017Z  [2021-12-08T12:05:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:15.031510527Z  [2021-12-08T12:05:15Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:16.050524801Z  [2021-12-08T12:05:16Z INFO  dt_mqtt_manager] Latest CPU = "0.77", Used MEM = "131.23M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:16.050750533Z  [2021-12-08T12:05:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:16.050775005Z  [2021-12-08T12:05:16Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:17.072775699Z  [2021-12-08T12:05:17Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.61M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:17.072820367Z  [2021-12-08T12:05:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:17.072854504Z  [2021-12-08T12:05:17Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:18.095030551Z  [2021-12-08T12:05:18Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.18M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:18.095254440Z  [2021-12-08T12:05:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:18.095451221Z  [2021-12-08T12:05:18Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:19.114704048Z  [2021-12-08T12:05:19Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.13M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:19.114768156Z  [2021-12-08T12:05:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:19.114872227Z  [2021-12-08T12:05:19Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:20.133897953Z  [2021-12-08T12:05:20Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.39M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:20.134204722Z  [2021-12-08T12:05:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:20.134231006Z  [2021-12-08T12:05:20Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:21.157201472Z  [2021-12-08T12:05:21Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.22M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:21.157444501Z  [2021-12-08T12:05:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:21.157623427Z  [2021-12-08T12:05:21Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:22.179425536Z  [2021-12-08T12:05:22Z INFO  dt_mqtt_manager] Latest CPU = "0.65", Used MEM = "131.11M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:22.179621744Z  [2021-12-08T12:05:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:22.179791363Z  [2021-12-08T12:05:22Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:23.199223162Z  [2021-12-08T12:05:23Z INFO  dt_mqtt_manager] Latest CPU = "0.65", Used MEM = "131.12M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:23.199678689Z  [2021-12-08T12:05:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:23.199731427Z  [2021-12-08T12:05:23Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:24.218891788Z  [2021-12-08T12:05:24Z INFO  dt_mqtt_manager] Latest CPU = "0.65", Used MEM = "131.43M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:24.218960844Z  [2021-12-08T12:05:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:24.218983849Z  [2021-12-08T12:05:24Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:25.239312886Z  [2021-12-08T12:05:25Z INFO  dt_mqtt_manager] Latest CPU = "0.65", Used MEM = "131.90M", All Queue = 0, All Inflight = 17
+2021-12-08T12:05:25.239523388Z  [2021-12-08T12:05:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:05:25.239572464Z  [2021-12-08T12:05:25Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:26.272410331Z  [2021-12-08T12:05:26Z INFO  dt_mqtt_manager] Latest CPU = "0.65", Used MEM = "132.19M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:26.272512395Z  [2021-12-08T12:05:26Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:05:26.272565222Z  [2021-12-08T12:05:26Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:27.291384069Z  [2021-12-08T12:05:27Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.58M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:27.291429587Z  [2021-12-08T12:05:27Z INFO  dt_mqtt_manager] Current avg90
+2021-12-08T12:05:27.291564933Z  [2021-12-08T12:05:27Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:28.310445549Z  [2021-12-08T12:05:28Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.08M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:28.310625012Z  [2021-12-08T12:05:28Z INFO  dt_mqtt_manager] Current avg135
+2021-12-08T12:05:28.310775107Z  [2021-12-08T12:05:28Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:29.331999598Z  [2021-12-08T12:05:29Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.12M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:29.332158866Z  [2021-12-08T12:05:29Z INFO  dt_mqtt_manager] Current avg180
+2021-12-08T12:05:29.332378116Z  [2021-12-08T12:05:29Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:30.353574119Z  [2021-12-08T12:05:30Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "130.98M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:30.353737209Z  [2021-12-08T12:05:30Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:30.353894047Z  [2021-12-08T12:05:30Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:30.354063177Z  [2021-12-08T12:05:30Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:31.374237347Z  [2021-12-08T12:05:31Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.16M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:31.374285442Z  [2021-12-08T12:05:31Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:31.374323684Z  [2021-12-08T12:05:31Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:31.374336092Z  [2021-12-08T12:05:31Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:32.398060722Z  [2021-12-08T12:05:32Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "130.97M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:32.398282306Z  [2021-12-08T12:05:32Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:32.398485696Z  [2021-12-08T12:05:32Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:32.398670325Z  [2021-12-08T12:05:32Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:33.418386679Z  [2021-12-08T12:05:33Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.36M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:33.418587185Z  [2021-12-08T12:05:33Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:33.418612548Z  [2021-12-08T12:05:33Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:33.418747272Z  [2021-12-08T12:05:33Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:34.440064378Z  [2021-12-08T12:05:34Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.15M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:34.440139572Z  [2021-12-08T12:05:34Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:34.440153107Z  [2021-12-08T12:05:34Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:34.440271815Z  [2021-12-08T12:05:34Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:35.462299826Z  [2021-12-08T12:05:35Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "132.14M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:35.462499723Z  [2021-12-08T12:05:35Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:35.462580135Z  [2021-12-08T12:05:35Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:35.462749305Z  [2021-12-08T12:05:35Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:36.484562971Z  [2021-12-08T12:05:36Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.39M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:36.484803100Z  [2021-12-08T12:05:36Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:36.484992762Z  [2021-12-08T12:05:36Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:36.485179276Z  [2021-12-08T12:05:36Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:37.517007183Z  [2021-12-08T12:05:37Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.40M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:37.517212397Z  [2021-12-08T12:05:37Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:37.517361630Z  [2021-12-08T12:05:37Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:37.517500746Z  [2021-12-08T12:05:37Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:38.537160535Z  [2021-12-08T12:05:38Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.67M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:38.537372789Z  [2021-12-08T12:05:38Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:38.537431697Z  [2021-12-08T12:05:38Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:38.537630356Z  [2021-12-08T12:05:38Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:39.565288951Z  [2021-12-08T12:05:39Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.31M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:39.565352419Z  [2021-12-08T12:05:39Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:39.565380296Z  [2021-12-08T12:05:39Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:39.565482834Z  [2021-12-08T12:05:39Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:40.586822645Z  [2021-12-08T12:05:40Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.08M", All Queue = 225, All Inflight = 32
+2021-12-08T12:05:40.587119355Z  [2021-12-08T12:05:40Z INFO  dt_mqtt_manager] Current avg225
+2021-12-08T12:05:40.587312116Z  [2021-12-08T12:05:40Z INFO  dt_mqtt_manager] Scale cluster
+2021-12-08T12:05:40.587502101Z  [2021-12-08T12:05:40Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:41.608502176Z  [2021-12-08T12:05:41Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.36M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:41.608799749Z  [2021-12-08T12:05:41Z INFO  dt_mqtt_manager] Current avg189
+2021-12-08T12:05:41.609034023Z  [2021-12-08T12:05:41Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:42.630229031Z  [2021-12-08T12:05:42Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.20M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:42.630525272Z  [2021-12-08T12:05:42Z INFO  dt_mqtt_manager] Current avg153
+2021-12-08T12:05:42.630550984Z  [2021-12-08T12:05:42Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:43.650790706Z  [2021-12-08T12:05:43Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.24M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:43.650845350Z  [2021-12-08T12:05:43Z INFO  dt_mqtt_manager] Current avg117
+2021-12-08T12:05:43.650857364Z  [2021-12-08T12:05:43Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:44.674234861Z  [2021-12-08T12:05:44Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.05M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:44.674279241Z  [2021-12-08T12:05:44Z INFO  dt_mqtt_manager] Current avg81
+2021-12-08T12:05:44.674290475Z  [2021-12-08T12:05:44Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:45.692538341Z  [2021-12-08T12:05:45Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.34M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:45.692606758Z  [2021-12-08T12:05:45Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:45.692618761Z  [2021-12-08T12:05:45Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:46.712605418Z  [2021-12-08T12:05:46Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.09M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:46.712679336Z  [2021-12-08T12:05:46Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:46.712692272Z  [2021-12-08T12:05:46Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:47.734312144Z  [2021-12-08T12:05:47Z INFO  dt_mqtt_manager] Latest CPU = "0.91", Used MEM = "131.20M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:47.734360973Z  [2021-12-08T12:05:47Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:47.734372031Z  [2021-12-08T12:05:47Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:48.757358603Z  [2021-12-08T12:05:48Z INFO  dt_mqtt_manager] Latest CPU = "0.91", Used MEM = "131.30M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:48.757409764Z  [2021-12-08T12:05:48Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:48.757421187Z  [2021-12-08T12:05:48Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:49.778475553Z  [2021-12-08T12:05:49Z INFO  dt_mqtt_manager] Latest CPU = "0.91", Used MEM = "131.52M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:49.778522241Z  [2021-12-08T12:05:49Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:49.778533807Z  [2021-12-08T12:05:49Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:50.799786191Z  [2021-12-08T12:05:50Z INFO  dt_mqtt_manager] Latest CPU = "0.91", Used MEM = "131.43M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:50.799830906Z  [2021-12-08T12:05:50Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:50.799841976Z  [2021-12-08T12:05:50Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:51.819421943Z  [2021-12-08T12:05:51Z INFO  dt_mqtt_manager] Latest CPU = "0.91", Used MEM = "131.40M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:51.819479633Z  [2021-12-08T12:05:51Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:51.819491773Z  [2021-12-08T12:05:51Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:52.840959056Z  [2021-12-08T12:05:52Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.17M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:52.841005005Z  [2021-12-08T12:05:52Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:52.841015978Z  [2021-12-08T12:05:52Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:53.862487648Z  [2021-12-08T12:05:53Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.10M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:53.862534900Z  [2021-12-08T12:05:53Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:53.862546125Z  [2021-12-08T12:05:53Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:54.882162723Z  [2021-12-08T12:05:54Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.15M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:54.882279978Z  [2021-12-08T12:05:54Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:54.882295270Z  [2021-12-08T12:05:54Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:05:55.912290662Z  [2021-12-08T12:05:55Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.09M", All Queue = 46, All Inflight = 32
+2021-12-08T12:05:55.912337814Z  [2021-12-08T12:05:55Z INFO  dt_mqtt_manager] Current avg46
+2021-12-08T12:05:55.912348819Z  [2021-12-08T12:05:55Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:05:56.933192683Z  [2021-12-08T12:05:56Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.15M", All Queue = 10, All Inflight = 32
+2021-12-08T12:05:56.933243846Z  [2021-12-08T12:05:56Z INFO  dt_mqtt_manager] Current avg38
+2021-12-08T12:05:56.933256118Z  [2021-12-08T12:05:56Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:05:57.955279431Z  [2021-12-08T12:05:57Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.20M", All Queue = 10, All Inflight = 32
+2021-12-08T12:05:57.955327041Z  [2021-12-08T12:05:57Z INFO  dt_mqtt_manager] Current avg31
+2021-12-08T12:05:57.955338741Z  [2021-12-08T12:05:57Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:05:58.975853533Z  [2021-12-08T12:05:58Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.13M", All Queue = 10, All Inflight = 32
+2021-12-08T12:05:58.975903619Z  [2021-12-08T12:05:58Z INFO  dt_mqtt_manager] Current avg24
+2021-12-08T12:05:58.975915451Z  [2021-12-08T12:05:58Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:05:59.997762191Z  [2021-12-08T12:05:59Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.02M", All Queue = 10, All Inflight = 32
+2021-12-08T12:05:59.997808555Z  [2021-12-08T12:05:59Z INFO  dt_mqtt_manager] Current avg17
+2021-12-08T12:05:59.997819953Z  [2021-12-08T12:05:59Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:01.018168924Z  [2021-12-08T12:06:01Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.52M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:01.018251897Z  [2021-12-08T12:06:01Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:01.018265217Z  [2021-12-08T12:06:01Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:02.037811271Z  [2021-12-08T12:06:02Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.22M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:02.037857544Z  [2021-12-08T12:06:02Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:02.037868938Z  [2021-12-08T12:06:02Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:03.058862521Z  [2021-12-08T12:06:03Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.89M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:03.058905908Z  [2021-12-08T12:06:03Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:03.058917884Z  [2021-12-08T12:06:03Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:04.080345440Z  [2021-12-08T12:06:04Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.09M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:04.080432994Z  [2021-12-08T12:06:04Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:04.080446216Z  [2021-12-08T12:06:04Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:05.103554189Z  [2021-12-08T12:06:05Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.46M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:05.103598374Z  [2021-12-08T12:06:05Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:05.103609394Z  [2021-12-08T12:06:05Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:06.123468874Z  [2021-12-08T12:06:06Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.42M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:06.123515182Z  [2021-12-08T12:06:06Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:06.123526297Z  [2021-12-08T12:06:06Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:07.142213572Z  [2021-12-08T12:06:07Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.06M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:07.142259617Z  [2021-12-08T12:06:07Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:07.142270821Z  [2021-12-08T12:06:07Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:08.161172701Z  [2021-12-08T12:06:08Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.05M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:08.161219798Z  [2021-12-08T12:06:08Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:08.161231122Z  [2021-12-08T12:06:08Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:09.182129260Z  [2021-12-08T12:06:09Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.23M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:09.182190723Z  [2021-12-08T12:06:09Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:09.182203547Z  [2021-12-08T12:06:09Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:10.201697981Z  [2021-12-08T12:06:10Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.20M", All Queue = 10, All Inflight = 32
+2021-12-08T12:06:10.201741110Z  [2021-12-08T12:06:10Z INFO  dt_mqtt_manager] Current avg10
+2021-12-08T12:06:10.201776886Z  [2021-12-08T12:06:10Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:11.220936080Z  [2021-12-08T12:06:11Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.30M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:11.220983036Z  [2021-12-08T12:06:11Z INFO  dt_mqtt_manager] Current avg8
+2021-12-08T12:06:11.220994066Z  [2021-12-08T12:06:11Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:12.242778430Z  [2021-12-08T12:06:12Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.67M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:12.242825933Z  [2021-12-08T12:06:12Z INFO  dt_mqtt_manager] Current avg6
+2021-12-08T12:06:12.242836948Z  [2021-12-08T12:06:12Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:13.266208656Z  [2021-12-08T12:06:13Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.25M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:13.266255621Z  [2021-12-08T12:06:13Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:13.266298654Z  [2021-12-08T12:06:13Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:14.286738327Z  [2021-12-08T12:06:14Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.27M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:14.286784069Z  [2021-12-08T12:06:14Z INFO  dt_mqtt_manager] Current avg2
+2021-12-08T12:06:14.286819152Z  [2021-12-08T12:06:14Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:15.307343352Z  [2021-12-08T12:06:15Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.73M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:15.307392190Z  [2021-12-08T12:06:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:15.307403592Z  [2021-12-08T12:06:15Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:16.327776820Z  [2021-12-08T12:06:16Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.09M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:16.327825625Z  [2021-12-08T12:06:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:16.327837150Z  [2021-12-08T12:06:16Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:17.350172866Z  [2021-12-08T12:06:17Z INFO  dt_mqtt_manager] Latest CPU = "1.01", Used MEM = "131.10M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:17.350222099Z  [2021-12-08T12:06:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:17.350233378Z  [2021-12-08T12:06:17Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:18.370679298Z  [2021-12-08T12:06:18Z INFO  dt_mqtt_manager] Latest CPU = "1.01", Used MEM = "131.22M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:18.370725245Z  [2021-12-08T12:06:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:18.370736487Z  [2021-12-08T12:06:18Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:19.392002869Z  [2021-12-08T12:06:19Z INFO  dt_mqtt_manager] Latest CPU = "1.01", Used MEM = "131.32M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:19.392047992Z  [2021-12-08T12:06:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:19.392059247Z  [2021-12-08T12:06:19Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:20.413416023Z  [2021-12-08T12:06:20Z INFO  dt_mqtt_manager] Latest CPU = "1.01", Used MEM = "131.04M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:20.413477762Z  [2021-12-08T12:06:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:20.413489253Z  [2021-12-08T12:06:20Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:21.433779852Z  [2021-12-08T12:06:21Z INFO  dt_mqtt_manager] Latest CPU = "1.01", Used MEM = "131.05M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:21.433826149Z  [2021-12-08T12:06:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:21.433837339Z  [2021-12-08T12:06:21Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:22.451439799Z  [2021-12-08T12:06:22Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.32M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:22.451512420Z  [2021-12-08T12:06:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:22.451548676Z  [2021-12-08T12:06:22Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:23.472136981Z  [2021-12-08T12:06:23Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.45M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:23.472182702Z  [2021-12-08T12:06:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:23.472194233Z  [2021-12-08T12:06:23Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:24.492049593Z  [2021-12-08T12:06:24Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.10M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:24.492097396Z  [2021-12-08T12:06:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:24.492108285Z  [2021-12-08T12:06:24Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:25.509950449Z  [2021-12-08T12:06:25Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.34M", All Queue = 0, All Inflight = 12
+2021-12-08T12:06:25.510003206Z  [2021-12-08T12:06:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:25.510014086Z  [2021-12-08T12:06:25Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:26.530633438Z  [2021-12-08T12:06:26Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.17M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:26.530677593Z  [2021-12-08T12:06:26Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:26.530688616Z  [2021-12-08T12:06:26Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:27.553602174Z  [2021-12-08T12:06:27Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.15M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:27.553643861Z  [2021-12-08T12:06:27Z INFO  dt_mqtt_manager] Current avg1
+2021-12-08T12:06:27.553656064Z  [2021-12-08T12:06:27Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:28.571918078Z  [2021-12-08T12:06:28Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.22M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:28.571966647Z  [2021-12-08T12:06:28Z INFO  dt_mqtt_manager] Current avg2
+2021-12-08T12:06:28.571978263Z  [2021-12-08T12:06:28Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:29.590438534Z  [2021-12-08T12:06:29Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.22M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:29.590486230Z  [2021-12-08T12:06:29Z INFO  dt_mqtt_manager] Current avg3
+2021-12-08T12:06:29.590497876Z  [2021-12-08T12:06:29Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:30.610595368Z  [2021-12-08T12:06:30Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.27M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:30.610641860Z  [2021-12-08T12:06:30Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:30.610729226Z  [2021-12-08T12:06:30Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:31.629424906Z  [2021-12-08T12:06:31Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.18M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:31.629483175Z  [2021-12-08T12:06:31Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:31.629494776Z  [2021-12-08T12:06:31Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:32.650198672Z  [2021-12-08T12:06:32Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "131.10M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:32.650243361Z  [2021-12-08T12:06:32Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:32.650272042Z  [2021-12-08T12:06:32Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:33.668475284Z  [2021-12-08T12:06:33Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "131.28M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:33.668546164Z  [2021-12-08T12:06:33Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:33.668563199Z  [2021-12-08T12:06:33Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:34.692367670Z  [2021-12-08T12:06:34Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "131.65M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:34.692415340Z  [2021-12-08T12:06:34Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:34.692426080Z  [2021-12-08T12:06:34Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:35.715938856Z  [2021-12-08T12:06:35Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "131.36M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:35.715986200Z  [2021-12-08T12:06:35Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:35.715997765Z  [2021-12-08T12:06:35Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:36.736822682Z  [2021-12-08T12:06:36Z INFO  dt_mqtt_manager] Latest CPU = "0.79", Used MEM = "131.31M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:36.736867380Z  [2021-12-08T12:06:36Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:36.736879455Z  [2021-12-08T12:06:36Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:37.757152766Z  [2021-12-08T12:06:37Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.39M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:37.757198087Z  [2021-12-08T12:06:37Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:37.757209139Z  [2021-12-08T12:06:37Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:38.778618296Z  [2021-12-08T12:06:38Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.37M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:38.778666235Z  [2021-12-08T12:06:38Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:38.778677079Z  [2021-12-08T12:06:38Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:39.798103800Z  [2021-12-08T12:06:39Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.09M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:39.798147949Z  [2021-12-08T12:06:39Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:39.798158716Z  [2021-12-08T12:06:39Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:40.821727728Z  [2021-12-08T12:06:40Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.24M", All Queue = 4, All Inflight = 32
+2021-12-08T12:06:40.821777162Z  [2021-12-08T12:06:40Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:06:40.821788022Z  [2021-12-08T12:06:40Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:41.841297649Z  [2021-12-08T12:06:41Z INFO  dt_mqtt_manager] Latest CPU = "0.81", Used MEM = "131.21M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:41.841406594Z  [2021-12-08T12:06:41Z INFO  dt_mqtt_manager] Current avg3
+2021-12-08T12:06:41.841418993Z  [2021-12-08T12:06:41Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:42.864095090Z  [2021-12-08T12:06:42Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.12M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:42.864292509Z  [2021-12-08T12:06:42Z INFO  dt_mqtt_manager] Current avg2
+2021-12-08T12:06:42.864443251Z  [2021-12-08T12:06:42Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:43.884628591Z  [2021-12-08T12:06:43Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.62M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:43.884697431Z  [2021-12-08T12:06:43Z INFO  dt_mqtt_manager] Current avg1
+2021-12-08T12:06:43.884710926Z  [2021-12-08T12:06:43Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:44.905996636Z  [2021-12-08T12:06:44Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.33M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:44.906217163Z  [2021-12-08T12:06:44Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:44.906400164Z  [2021-12-08T12:06:44Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:45.925624040Z  [2021-12-08T12:06:45Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.40M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:45.925849400Z  [2021-12-08T12:06:45Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:45.925875463Z  [2021-12-08T12:06:45Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:46.947109318Z  [2021-12-08T12:06:46Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.06M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:46.947179269Z  [2021-12-08T12:06:46Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:46.947266122Z  [2021-12-08T12:06:46Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:47.970859306Z  [2021-12-08T12:06:47Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.16M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:47.970937521Z  [2021-12-08T12:06:47Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:47.970952396Z  [2021-12-08T12:06:47Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:48.992324503Z  [2021-12-08T12:06:48Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.05M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:48.992373364Z  [2021-12-08T12:06:48Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:48.992409361Z  [2021-12-08T12:06:48Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:50.011635798Z  [2021-12-08T12:06:50Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.28M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:50.011872021Z  [2021-12-08T12:06:50Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:50.012068454Z  [2021-12-08T12:06:50Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:51.031598975Z  [2021-12-08T12:06:51Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.67M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:51.031723205Z  [2021-12-08T12:06:51Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:51.031790550Z  [2021-12-08T12:06:51Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:52.053343651Z  [2021-12-08T12:06:52Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.10M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:52.053505362Z  [2021-12-08T12:06:52Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:52.053680113Z  [2021-12-08T12:06:52Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:53.073317055Z  [2021-12-08T12:06:53Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.17M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:53.073462737Z  [2021-12-08T12:06:53Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:53.073681016Z  [2021-12-08T12:06:53Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:54.097047395Z  [2021-12-08T12:06:54Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.34M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:54.097314495Z  [2021-12-08T12:06:54Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:54.097340235Z  [2021-12-08T12:06:54Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:06:55.116905948Z  [2021-12-08T12:06:55Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.40M", All Queue = 0, All Inflight = 11
+2021-12-08T12:06:55.117024750Z  [2021-12-08T12:06:55Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:06:55.117234931Z  [2021-12-08T12:06:55Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:06:56.141456401Z  [2021-12-08T12:06:56Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.34M", All Queue = 68, All Inflight = 32
+2021-12-08T12:06:56.141675269Z  [2021-12-08T12:06:56Z INFO  dt_mqtt_manager] Current avg13
+2021-12-08T12:06:56.141768704Z  [2021-12-08T12:06:56Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:06:57.163186006Z  [2021-12-08T12:06:57Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.22M", All Queue = 68, All Inflight = 32
+2021-12-08T12:06:57.163230835Z  [2021-12-08T12:06:57Z INFO  dt_mqtt_manager] Current avg27
+2021-12-08T12:06:57.163372282Z  [2021-12-08T12:06:57Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:06:58.183854077Z  [2021-12-08T12:06:58Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.04M", All Queue = 68, All Inflight = 32
+2021-12-08T12:06:58.183972453Z  [2021-12-08T12:06:58Z INFO  dt_mqtt_manager] Current avg40
+2021-12-08T12:06:58.184055676Z  [2021-12-08T12:06:58Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:06:59.204408606Z  [2021-12-08T12:06:59Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.68M", All Queue = 68, All Inflight = 32
+2021-12-08T12:06:59.204643176Z  [2021-12-08T12:06:59Z INFO  dt_mqtt_manager] Current avg54
+2021-12-08T12:06:59.204835998Z  [2021-12-08T12:06:59Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:00.225774947Z  [2021-12-08T12:07:00Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.05M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:00.226068393Z  [2021-12-08T12:07:00Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:00.226112704Z  [2021-12-08T12:07:00Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:01.247438645Z  [2021-12-08T12:07:01Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.67M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:01.247570785Z  [2021-12-08T12:07:01Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:01.247656875Z  [2021-12-08T12:07:01Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:02.267419902Z  [2021-12-08T12:07:02Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.43M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:02.267578355Z  [2021-12-08T12:07:02Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:02.267783001Z  [2021-12-08T12:07:02Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:03.288768152Z  [2021-12-08T12:07:03Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.63M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:03.288988403Z  [2021-12-08T12:07:03Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:03.289170752Z  [2021-12-08T12:07:03Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:04.310110570Z  [2021-12-08T12:07:04Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.12M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:04.310175912Z  [2021-12-08T12:07:04Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:04.310269851Z  [2021-12-08T12:07:04Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:05.330537366Z  [2021-12-08T12:07:05Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.22M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:05.330797169Z  [2021-12-08T12:07:05Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:05.330987243Z  [2021-12-08T12:07:05Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:06.350539061Z  [2021-12-08T12:07:06Z INFO  dt_mqtt_manager] Latest CPU = "0.78", Used MEM = "131.17M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:06.350628928Z  [2021-12-08T12:07:06Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:06.350787495Z  [2021-12-08T12:07:06Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:07.371099040Z  [2021-12-08T12:07:07Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.22M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:07.371321269Z  [2021-12-08T12:07:07Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:07.371511006Z  [2021-12-08T12:07:07Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:08.393156737Z  [2021-12-08T12:07:08Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.18M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:08.393353200Z  [2021-12-08T12:07:08Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:08.393544178Z  [2021-12-08T12:07:08Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:09.414553821Z  [2021-12-08T12:07:09Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.20M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:09.414815407Z  [2021-12-08T12:07:09Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:09.414883159Z  [2021-12-08T12:07:09Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:10.434788162Z  [2021-12-08T12:07:10Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.91M", All Queue = 68, All Inflight = 32
+2021-12-08T12:07:10.434911634Z  [2021-12-08T12:07:10Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:07:10.434993674Z  [2021-12-08T12:07:10Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:11.454202282Z  [2021-12-08T12:07:11Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.06M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:11.454308445Z  [2021-12-08T12:07:11Z INFO  dt_mqtt_manager] Current avg54
+2021-12-08T12:07:11.454481703Z  [2021-12-08T12:07:11Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:12.478297036Z  [2021-12-08T12:07:12Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "131.32M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:12.478352922Z  [2021-12-08T12:07:12Z INFO  dt_mqtt_manager] Current avg40
+2021-12-08T12:07:12.478364341Z  [2021-12-08T12:07:12Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:13.499037011Z  [2021-12-08T12:07:13Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "131.12M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:13.499082315Z  [2021-12-08T12:07:13Z INFO  dt_mqtt_manager] Current avg27
+2021-12-08T12:07:13.499093148Z  [2021-12-08T12:07:13Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:14.518572200Z  [2021-12-08T12:07:14Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "131.26M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:14.518624441Z  [2021-12-08T12:07:14Z INFO  dt_mqtt_manager] Current avg13
+2021-12-08T12:07:14.518682641Z  [2021-12-08T12:07:14Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:15.538688343Z  [2021-12-08T12:07:15Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "131.03M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:15.538735466Z  [2021-12-08T12:07:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:15.538746417Z  [2021-12-08T12:07:15Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:16.558197885Z  [2021-12-08T12:07:16Z INFO  dt_mqtt_manager] Latest CPU = "0.73", Used MEM = "131.35M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:16.558241937Z  [2021-12-08T12:07:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:16.558252787Z  [2021-12-08T12:07:16Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:17.576553759Z  [2021-12-08T12:07:17Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.18M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:17.576597482Z  [2021-12-08T12:07:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:17.576608182Z  [2021-12-08T12:07:17Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:18.597371442Z  [2021-12-08T12:07:18Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "130.99M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:18.597416889Z  [2021-12-08T12:07:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:18.597428045Z  [2021-12-08T12:07:18Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:19.617211914Z  [2021-12-08T12:07:19Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.21M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:19.617258666Z  [2021-12-08T12:07:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:19.617269723Z  [2021-12-08T12:07:19Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:20.635988531Z  [2021-12-08T12:07:20Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.11M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:20.636034744Z  [2021-12-08T12:07:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:20.636045481Z  [2021-12-08T12:07:20Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:21.656290908Z  [2021-12-08T12:07:21Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "131.05M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:21.656378114Z  [2021-12-08T12:07:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:21.656390484Z  [2021-12-08T12:07:21Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:22.675470101Z  [2021-12-08T12:07:22Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.05M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:22.675530473Z  [2021-12-08T12:07:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:22.675541949Z  [2021-12-08T12:07:22Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:23.695807562Z  [2021-12-08T12:07:23Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "132.14M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:23.695871495Z  [2021-12-08T12:07:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:23.695882935Z  [2021-12-08T12:07:23Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:24.722574388Z  [2021-12-08T12:07:24Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.28M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:24.722637022Z  [2021-12-08T12:07:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:24.722650183Z  [2021-12-08T12:07:24Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:25.743251595Z  [2021-12-08T12:07:25Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.08M", All Queue = 0, All Inflight = 31
+2021-12-08T12:07:25.743364905Z  [2021-12-08T12:07:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:07:25.743376090Z  [2021-12-08T12:07:25Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:26.765269731Z  [2021-12-08T12:07:26Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.23M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:26.765315800Z  [2021-12-08T12:07:26Z INFO  dt_mqtt_manager] Current avg2
+2021-12-08T12:07:26.765326994Z  [2021-12-08T12:07:26Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:27.787999075Z  [2021-12-08T12:07:27Z INFO  dt_mqtt_manager] Latest CPU = "0.64", Used MEM = "131.31M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:27.788046534Z  [2021-12-08T12:07:27Z INFO  dt_mqtt_manager] Current avg4
+2021-12-08T12:07:27.788058157Z  [2021-12-08T12:07:27Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:28.809896420Z  [2021-12-08T12:07:28Z INFO  dt_mqtt_manager] Latest CPU = "0.64", Used MEM = "131.34M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:28.809945580Z  [2021-12-08T12:07:28Z INFO  dt_mqtt_manager] Current avg6
+2021-12-08T12:07:28.809957202Z  [2021-12-08T12:07:28Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:29.829310405Z  [2021-12-08T12:07:29Z INFO  dt_mqtt_manager] Latest CPU = "0.64", Used MEM = "131.12M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:29.829370374Z  [2021-12-08T12:07:29Z INFO  dt_mqtt_manager] Current avg8
+2021-12-08T12:07:29.829382281Z  [2021-12-08T12:07:29Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:30.851234452Z  [2021-12-08T12:07:30Z INFO  dt_mqtt_manager] Latest CPU = "0.64", Used MEM = "131.59M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:30.851283097Z  [2021-12-08T12:07:30Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:30.851294454Z  [2021-12-08T12:07:30Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:31.873905591Z  [2021-12-08T12:07:31Z INFO  dt_mqtt_manager] Latest CPU = "0.64", Used MEM = "131.50M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:31.873951906Z  [2021-12-08T12:07:31Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:31.873963469Z  [2021-12-08T12:07:31Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:32.891478869Z  [2021-12-08T12:07:32Z INFO  dt_mqtt_manager] Latest CPU = "0.67", Used MEM = "131.36M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:32.891526843Z  [2021-12-08T12:07:32Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:32.891538750Z  [2021-12-08T12:07:32Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:33.913499227Z  [2021-12-08T12:07:33Z INFO  dt_mqtt_manager] Latest CPU = "0.67", Used MEM = "131.48M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:33.913546345Z  [2021-12-08T12:07:33Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:33.913558654Z  [2021-12-08T12:07:33Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:34.934572456Z  [2021-12-08T12:07:34Z INFO  dt_mqtt_manager] Latest CPU = "0.67", Used MEM = "131.84M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:34.934622018Z  [2021-12-08T12:07:34Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:34.934634264Z  [2021-12-08T12:07:34Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:35.955242679Z  [2021-12-08T12:07:35Z INFO  dt_mqtt_manager] Latest CPU = "0.67", Used MEM = "131.14M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:35.955290928Z  [2021-12-08T12:07:35Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:35.955302797Z  [2021-12-08T12:07:35Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:36.976457044Z  [2021-12-08T12:07:36Z INFO  dt_mqtt_manager] Latest CPU = "0.67", Used MEM = "131.06M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:36.976503500Z  [2021-12-08T12:07:36Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:36.976515329Z  [2021-12-08T12:07:36Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:37.997595266Z  [2021-12-08T12:07:37Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.57M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:37.997662909Z  [2021-12-08T12:07:37Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:37.997675566Z  [2021-12-08T12:07:37Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:39.018096483Z  [2021-12-08T12:07:39Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.08M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:39.018142720Z  [2021-12-08T12:07:39Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:39.018153668Z  [2021-12-08T12:07:39Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:40.036916252Z  [2021-12-08T12:07:40Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.24M", All Queue = 11, All Inflight = 32
+2021-12-08T12:07:40.036963749Z  [2021-12-08T12:07:40Z INFO  dt_mqtt_manager] Current avg11
+2021-12-08T12:07:40.036974995Z  [2021-12-08T12:07:40Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:41.058835268Z  [2021-12-08T12:07:41Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.24M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:41.058876228Z  [2021-12-08T12:07:41Z INFO  dt_mqtt_manager] Current avg20
+2021-12-08T12:07:41.058887331Z  [2021-12-08T12:07:41Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:42.077562629Z  [2021-12-08T12:07:42Z INFO  dt_mqtt_manager] Latest CPU = "0.70", Used MEM = "131.13M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:42.077610766Z  [2021-12-08T12:07:42Z INFO  dt_mqtt_manager] Current avg29
+2021-12-08T12:07:42.077621808Z  [2021-12-08T12:07:42Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:43.096278322Z  [2021-12-08T12:07:43Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.34M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:43.096471586Z  [2021-12-08T12:07:43Z INFO  dt_mqtt_manager] Current avg38
+2021-12-08T12:07:43.096656116Z  [2021-12-08T12:07:43Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:44.117117245Z  [2021-12-08T12:07:44Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.09M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:44.117196853Z  [2021-12-08T12:07:44Z INFO  dt_mqtt_manager] Current avg47
+2021-12-08T12:07:44.117211414Z  [2021-12-08T12:07:44Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:45.137648524Z  [2021-12-08T12:07:45Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.21M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:45.137828196Z  [2021-12-08T12:07:45Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:45.137968760Z  [2021-12-08T12:07:45Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:46.155911750Z  [2021-12-08T12:07:46Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "131.26M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:46.156084950Z  [2021-12-08T12:07:46Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:46.156305625Z  [2021-12-08T12:07:46Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:47.178047026Z  [2021-12-08T12:07:47Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.34M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:47.178142259Z  [2021-12-08T12:07:47Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:47.178157125Z  [2021-12-08T12:07:47Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:48.197546267Z  [2021-12-08T12:07:48Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.65M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:48.197612104Z  [2021-12-08T12:07:48Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:48.197738772Z  [2021-12-08T12:07:48Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:49.223953445Z  [2021-12-08T12:07:49Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.40M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:49.224300085Z  [2021-12-08T12:07:49Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:49.224325192Z  [2021-12-08T12:07:49Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:50.249710018Z  [2021-12-08T12:07:50Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.41M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:50.249919331Z  [2021-12-08T12:07:50Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:50.250128314Z  [2021-12-08T12:07:50Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:51.273668030Z  [2021-12-08T12:07:51Z INFO  dt_mqtt_manager] Latest CPU = "0.90", Used MEM = "131.29M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:51.273870236Z  [2021-12-08T12:07:51Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:51.274007323Z  [2021-12-08T12:07:51Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:52.294983112Z  [2021-12-08T12:07:52Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.34M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:52.295289775Z  [2021-12-08T12:07:52Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:52.295556890Z  [2021-12-08T12:07:52Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:53.317801096Z  [2021-12-08T12:07:53Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.67M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:53.317952988Z  [2021-12-08T12:07:53Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:53.318065529Z  [2021-12-08T12:07:53Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:54.340194075Z  [2021-12-08T12:07:54Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.27M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:54.340364585Z  [2021-12-08T12:07:54Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:54.340586183Z  [2021-12-08T12:07:54Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:07:55.362042794Z  [2021-12-08T12:07:55Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.73M", All Queue = 56, All Inflight = 32
+2021-12-08T12:07:55.362218317Z  [2021-12-08T12:07:55Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:07:55.362360199Z  [2021-12-08T12:07:55Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:07:56.381347004Z  [2021-12-08T12:07:56Z INFO  dt_mqtt_manager] Latest CPU = "0.83", Used MEM = "131.25M", All Queue = 45, All Inflight = 32
+2021-12-08T12:07:56.381569779Z  [2021-12-08T12:07:56Z INFO  dt_mqtt_manager] Current avg53
+2021-12-08T12:07:56.381791687Z  [2021-12-08T12:07:56Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:07:57.401967958Z  [2021-12-08T12:07:57Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.20M", All Queue = 45, All Inflight = 32
+2021-12-08T12:07:57.402168888Z  [2021-12-08T12:07:57Z INFO  dt_mqtt_manager] Current avg51
+2021-12-08T12:07:57.402420152Z  [2021-12-08T12:07:57Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:07:58.423745660Z  [2021-12-08T12:07:58Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.27M", All Queue = 45, All Inflight = 32
+2021-12-08T12:07:58.423828209Z  [2021-12-08T12:07:58Z INFO  dt_mqtt_manager] Current avg49
+2021-12-08T12:07:58.423972219Z  [2021-12-08T12:07:58Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:07:59.445251346Z  [2021-12-08T12:07:59Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.14M", All Queue = 45, All Inflight = 32
+2021-12-08T12:07:59.445365976Z  [2021-12-08T12:07:59Z INFO  dt_mqtt_manager] Current avg47
+2021-12-08T12:07:59.445408924Z  [2021-12-08T12:07:59Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:00.467016305Z  [2021-12-08T12:08:00Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.16M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:00.467218779Z  [2021-12-08T12:08:00Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:00.467398893Z  [2021-12-08T12:08:00Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:01.487188398Z  [2021-12-08T12:08:01Z INFO  dt_mqtt_manager] Latest CPU = "0.92", Used MEM = "131.73M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:01.487280426Z  [2021-12-08T12:08:01Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:01.487324847Z  [2021-12-08T12:08:01Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:02.507284380Z  [2021-12-08T12:08:02Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.77M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:02.507354320Z  [2021-12-08T12:08:02Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:02.507444909Z  [2021-12-08T12:08:02Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:03.529832769Z  [2021-12-08T12:08:03Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.51M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:03.530074001Z  [2021-12-08T12:08:03Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:03.530235580Z  [2021-12-08T12:08:03Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:04.551566202Z  [2021-12-08T12:08:04Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.30M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:04.551628847Z  [2021-12-08T12:08:04Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:04.551735419Z  [2021-12-08T12:08:04Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:05.571897131Z  [2021-12-08T12:08:05Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.32M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:05.572175700Z  [2021-12-08T12:08:05Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:05.572254747Z  [2021-12-08T12:08:05Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:06.592946937Z  [2021-12-08T12:08:06Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.22M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:06.593019356Z  [2021-12-08T12:08:06Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:06.593143412Z  [2021-12-08T12:08:06Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:07.614445817Z  [2021-12-08T12:08:07Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.14M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:07.614535088Z  [2021-12-08T12:08:07Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:07.614678010Z  [2021-12-08T12:08:07Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:08.634361870Z  [2021-12-08T12:08:08Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.06M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:08.634435044Z  [2021-12-08T12:08:08Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:08.634590086Z  [2021-12-08T12:08:08Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:09.657666289Z  [2021-12-08T12:08:09Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.48M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:09.657837580Z  [2021-12-08T12:08:09Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:09.657989191Z  [2021-12-08T12:08:09Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:10.679423869Z  [2021-12-08T12:08:10Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.21M", All Queue = 45, All Inflight = 32
+2021-12-08T12:08:10.679570652Z  [2021-12-08T12:08:10Z INFO  dt_mqtt_manager] Current avg45
+2021-12-08T12:08:10.679754930Z  [2021-12-08T12:08:10Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:11.700623166Z  [2021-12-08T12:08:11Z INFO  dt_mqtt_manager] Latest CPU = "0.93", Used MEM = "131.27M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:11.700814498Z  [2021-12-08T12:08:11Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:08:11.700996535Z  [2021-12-08T12:08:11Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:12.722516227Z  [2021-12-08T12:08:12Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.43M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:12.722713771Z  [2021-12-08T12:08:12Z INFO  dt_mqtt_manager] Current avg68
+2021-12-08T12:08:12.722738820Z  [2021-12-08T12:08:12Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:13.743170081Z  [2021-12-08T12:08:13Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.49M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:13.743362992Z  [2021-12-08T12:08:13Z INFO  dt_mqtt_manager] Current avg79
+2021-12-08T12:08:13.743539960Z  [2021-12-08T12:08:13Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:14.765952439Z  [2021-12-08T12:08:14Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.42M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:14.766138765Z  [2021-12-08T12:08:14Z INFO  dt_mqtt_manager] Current avg91
+2021-12-08T12:08:14.766303603Z  [2021-12-08T12:08:14Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:15.786298918Z  [2021-12-08T12:08:15Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.76M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:15.786535699Z  [2021-12-08T12:08:15Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:15.786776315Z  [2021-12-08T12:08:15Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:16.807247992Z  [2021-12-08T12:08:16Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.26M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:16.807441306Z  [2021-12-08T12:08:16Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:16.807623101Z  [2021-12-08T12:08:16Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:17.829313808Z  [2021-12-08T12:08:17Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.70M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:17.829529186Z  [2021-12-08T12:08:17Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:17.829554359Z  [2021-12-08T12:08:17Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:18.852262040Z  [2021-12-08T12:08:18Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.06M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:18.852464416Z  [2021-12-08T12:08:18Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:18.852644401Z  [2021-12-08T12:08:18Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:19.872333808Z  [2021-12-08T12:08:19Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.42M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:19.872525899Z  [2021-12-08T12:08:19Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:19.872706069Z  [2021-12-08T12:08:19Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:20.891364943Z  [2021-12-08T12:08:20Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.33M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:20.891417949Z  [2021-12-08T12:08:20Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:20.891483289Z  [2021-12-08T12:08:20Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:21.914973280Z  [2021-12-08T12:08:21Z INFO  dt_mqtt_manager] Latest CPU = "0.86", Used MEM = "131.39M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:21.915154299Z  [2021-12-08T12:08:21Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:21.915290268Z  [2021-12-08T12:08:21Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:22.937596382Z  [2021-12-08T12:08:22Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.08M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:22.937796698Z  [2021-12-08T12:08:22Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:22.937822137Z  [2021-12-08T12:08:22Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:23.956390097Z  [2021-12-08T12:08:23Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.45M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:23.956573587Z  [2021-12-08T12:08:23Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:23.956724705Z  [2021-12-08T12:08:23Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:24.978085962Z  [2021-12-08T12:08:24Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.09M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:24.978168480Z  [2021-12-08T12:08:24Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:24.978335483Z  [2021-12-08T12:08:24Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:25.995981227Z  [2021-12-08T12:08:25Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "130.97M", All Queue = 103, All Inflight = 32
+2021-12-08T12:08:25.996161483Z  [2021-12-08T12:08:25Z INFO  dt_mqtt_manager] Current avg103
+2021-12-08T12:08:25.996312370Z  [2021-12-08T12:08:25Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:27.020019827Z  [2021-12-08T12:08:27Z INFO  dt_mqtt_manager] Latest CPU = "0.88", Used MEM = "131.35M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:27.020241559Z  [2021-12-08T12:08:27Z INFO  dt_mqtt_manager] Current avg86
+2021-12-08T12:08:27.020317425Z  [2021-12-08T12:08:27Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:28.041776156Z  [2021-12-08T12:08:28Z INFO  dt_mqtt_manager] Latest CPU = "0.97", Used MEM = "131.68M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:28.041888556Z  [2021-12-08T12:08:28Z INFO  dt_mqtt_manager] Current avg70
+2021-12-08T12:08:28.042093186Z  [2021-12-08T12:08:28Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:29.065224967Z  [2021-12-08T12:08:29Z INFO  dt_mqtt_manager] Latest CPU = "0.97", Used MEM = "131.36M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:29.065426796Z  [2021-12-08T12:08:29Z INFO  dt_mqtt_manager] Current avg54
+2021-12-08T12:08:29.065576834Z  [2021-12-08T12:08:29Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:30.087073711Z  [2021-12-08T12:08:30Z INFO  dt_mqtt_manager] Latest CPU = "0.97", Used MEM = "131.19M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:30.087240471Z  [2021-12-08T12:08:30Z INFO  dt_mqtt_manager] Current avg38
+2021-12-08T12:08:30.087427583Z  [2021-12-08T12:08:30Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:31.109016892Z  [2021-12-08T12:08:31Z INFO  dt_mqtt_manager] Latest CPU = "0.97", Used MEM = "131.39M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:31.109294235Z  [2021-12-08T12:08:31Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:31.109315228Z  [2021-12-08T12:08:31Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:32.132261084Z  [2021-12-08T12:08:32Z INFO  dt_mqtt_manager] Latest CPU = "0.97", Used MEM = "131.18M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:32.132485482Z  [2021-12-08T12:08:32Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:32.132535253Z  [2021-12-08T12:08:32Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:33.150983187Z  [2021-12-08T12:08:33Z INFO  dt_mqtt_manager] Latest CPU = "0.89", Used MEM = "131.01M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:33.151306118Z  [2021-12-08T12:08:33Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:33.151379615Z  [2021-12-08T12:08:33Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:34.172907458Z  [2021-12-08T12:08:34Z INFO  dt_mqtt_manager] Latest CPU = "0.89", Used MEM = "131.18M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:34.172978607Z  [2021-12-08T12:08:34Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:34.173101935Z  [2021-12-08T12:08:34Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:35.192351485Z  [2021-12-08T12:08:35Z INFO  dt_mqtt_manager] Latest CPU = "0.89", Used MEM = "131.53M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:35.192589130Z  [2021-12-08T12:08:35Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:35.192614451Z  [2021-12-08T12:08:35Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:36.214503316Z  [2021-12-08T12:08:36Z INFO  dt_mqtt_manager] Latest CPU = "0.89", Used MEM = "131.20M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:36.214734030Z  [2021-12-08T12:08:36Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:36.214939414Z  [2021-12-08T12:08:36Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:37.234075745Z  [2021-12-08T12:08:37Z INFO  dt_mqtt_manager] Latest CPU = "0.82", Used MEM = "131.04M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:37.234142028Z  [2021-12-08T12:08:37Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:37.234317303Z  [2021-12-08T12:08:37Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:38.256266992Z  [2021-12-08T12:08:38Z INFO  dt_mqtt_manager] Latest CPU = "0.82", Used MEM = "131.34M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:38.256520428Z  [2021-12-08T12:08:38Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:38.256730409Z  [2021-12-08T12:08:38Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:39.278904047Z  [2021-12-08T12:08:39Z INFO  dt_mqtt_manager] Latest CPU = "0.82", Used MEM = "131.29M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:39.278957569Z  [2021-12-08T12:08:39Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:39.279135090Z  [2021-12-08T12:08:39Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:40.301154444Z  [2021-12-08T12:08:40Z INFO  dt_mqtt_manager] Latest CPU = "0.82", Used MEM = "131.39M", All Queue = 22, All Inflight = 32
+2021-12-08T12:08:40.301353107Z  [2021-12-08T12:08:40Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:08:40.301397493Z  [2021-12-08T12:08:40Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:41.320478087Z  [2021-12-08T12:08:41Z INFO  dt_mqtt_manager] Latest CPU = "0.82", Used MEM = "131.12M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:41.320547044Z  [2021-12-08T12:08:41Z INFO  dt_mqtt_manager] Current avg39
+2021-12-08T12:08:41.320561244Z  [2021-12-08T12:08:41Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:42.341789830Z  [2021-12-08T12:08:42Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "131.19M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:42.341838650Z  [2021-12-08T12:08:42Z INFO  dt_mqtt_manager] Current avg56
+2021-12-08T12:08:42.341850156Z  [2021-12-08T12:08:42Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:43.361871959Z  [2021-12-08T12:08:43Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "131.15M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:43.361951296Z  [2021-12-08T12:08:43Z INFO  dt_mqtt_manager] Current avg73
+2021-12-08T12:08:43.361964790Z  [2021-12-08T12:08:43Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:44.384870210Z  [2021-12-08T12:08:44Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "131.15M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:44.384915885Z  [2021-12-08T12:08:44Z INFO  dt_mqtt_manager] Current avg90
+2021-12-08T12:08:44.384926931Z  [2021-12-08T12:08:44Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:45.406502036Z  [2021-12-08T12:08:45Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "131.17M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:45.406549203Z  [2021-12-08T12:08:45Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:45.406560649Z  [2021-12-08T12:08:45Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:46.427208739Z  [2021-12-08T12:08:46Z INFO  dt_mqtt_manager] Latest CPU = "0.75", Used MEM = "131.28M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:46.427269120Z  [2021-12-08T12:08:46Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:46.427281461Z  [2021-12-08T12:08:46Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:47.448924019Z  [2021-12-08T12:08:47Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.57M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:47.449018569Z  [2021-12-08T12:08:47Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:47.449032189Z  [2021-12-08T12:08:47Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:48.478488080Z  [2021-12-08T12:08:48Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "132.10M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:48.478534773Z  [2021-12-08T12:08:48Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:48.478560498Z  [2021-12-08T12:08:48Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:49.495688193Z  [2021-12-08T12:08:49Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.71M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:49.495754342Z  [2021-12-08T12:08:49Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:49.495765620Z  [2021-12-08T12:08:49Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:50.517423814Z  [2021-12-08T12:08:50Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "132.13M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:50.517471763Z  [2021-12-08T12:08:50Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:50.517483005Z  [2021-12-08T12:08:50Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:51.538345731Z  [2021-12-08T12:08:51Z INFO  dt_mqtt_manager] Latest CPU = "0.85", Used MEM = "131.27M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:51.538448894Z  [2021-12-08T12:08:51Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:51.538464786Z  [2021-12-08T12:08:51Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:52.561309267Z  [2021-12-08T12:08:52Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.20M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:52.561406976Z  [2021-12-08T12:08:52Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:52.561419291Z  [2021-12-08T12:08:52Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:53.579884453Z  [2021-12-08T12:08:53Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.70M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:53.579977550Z  [2021-12-08T12:08:53Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:53.579989219Z  [2021-12-08T12:08:53Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:54.603416351Z  [2021-12-08T12:08:54Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.08M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:54.603462248Z  [2021-12-08T12:08:54Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:54.603473440Z  [2021-12-08T12:08:54Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:08:55.622119193Z  [2021-12-08T12:08:55Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.12M", All Queue = 107, All Inflight = 32
+2021-12-08T12:08:55.622166767Z  [2021-12-08T12:08:55Z INFO  dt_mqtt_manager] Current avg107
+2021-12-08T12:08:55.622177967Z  [2021-12-08T12:08:55Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:08:56.641600819Z  [2021-12-08T12:08:56Z INFO  dt_mqtt_manager] Latest CPU = "0.94", Used MEM = "131.76M", All Queue = 0, All Inflight = 9
+2021-12-08T12:08:56.641644460Z  [2021-12-08T12:08:56Z INFO  dt_mqtt_manager] Current avg85
+2021-12-08T12:08:56.641655693Z  [2021-12-08T12:08:56Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:08:57.660973951Z  [2021-12-08T12:08:57Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.35M", All Queue = 0, All Inflight = 9
+2021-12-08T12:08:57.661022621Z  [2021-12-08T12:08:57Z INFO  dt_mqtt_manager] Current avg64
+2021-12-08T12:08:57.661035114Z  [2021-12-08T12:08:57Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:08:58.678845138Z  [2021-12-08T12:08:58Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.12M", All Queue = 0, All Inflight = 9
+2021-12-08T12:08:58.678896592Z  [2021-12-08T12:08:58Z INFO  dt_mqtt_manager] Current avg42
+2021-12-08T12:08:58.678907942Z  [2021-12-08T12:08:58Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:08:59.701097890Z  [2021-12-08T12:08:59Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.28M", All Queue = 0, All Inflight = 9
+2021-12-08T12:08:59.701142882Z  [2021-12-08T12:08:59Z INFO  dt_mqtt_manager] Current avg21
+2021-12-08T12:08:59.701153945Z  [2021-12-08T12:08:59Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:00.720323946Z  [2021-12-08T12:09:00Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.52M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:00.720370364Z  [2021-12-08T12:09:00Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:00.720382009Z  [2021-12-08T12:09:00Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:01.739519522Z  [2021-12-08T12:09:01Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.49M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:01.739587719Z  [2021-12-08T12:09:01Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:01.739599684Z  [2021-12-08T12:09:01Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:02.759141981Z  [2021-12-08T12:09:02Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.48M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:02.759233917Z  [2021-12-08T12:09:02Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:02.759247952Z  [2021-12-08T12:09:02Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:03.780301401Z  [2021-12-08T12:09:03Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.08M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:03.780364093Z  [2021-12-08T12:09:03Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:03.780378343Z  [2021-12-08T12:09:03Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:04.801250818Z  [2021-12-08T12:09:04Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.23M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:04.801338779Z  [2021-12-08T12:09:04Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:04.801349753Z  [2021-12-08T12:09:04Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:05.821412517Z  [2021-12-08T12:09:05Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.07M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:05.821457750Z  [2021-12-08T12:09:05Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:05.821469145Z  [2021-12-08T12:09:05Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:06.842642555Z  [2021-12-08T12:09:06Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.13M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:06.842843160Z  [2021-12-08T12:09:06Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:06.843027106Z  [2021-12-08T12:09:06Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:07.864484359Z  [2021-12-08T12:09:07Z INFO  dt_mqtt_manager] Latest CPU = "1.18", Used MEM = "131.25M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:07.864529982Z  [2021-12-08T12:09:07Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:07.864639053Z  [2021-12-08T12:09:07Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:08.885043002Z  [2021-12-08T12:09:08Z INFO  dt_mqtt_manager] Latest CPU = "1.18", Used MEM = "131.10M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:08.885367353Z  [2021-12-08T12:09:08Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:08.885388826Z  [2021-12-08T12:09:08Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:09.905476869Z  [2021-12-08T12:09:09Z INFO  dt_mqtt_manager] Latest CPU = "1.18", Used MEM = "131.37M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:09.905588140Z  [2021-12-08T12:09:09Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:09.905629075Z  [2021-12-08T12:09:09Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:10.928585126Z  [2021-12-08T12:09:10Z INFO  dt_mqtt_manager] Latest CPU = "1.18", Used MEM = "131.10M", All Queue = 0, All Inflight = 9
+2021-12-08T12:09:10.928656550Z  [2021-12-08T12:09:10Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:10.928742016Z  [2021-12-08T12:09:10Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:11.950337005Z  [2021-12-08T12:09:11Z INFO  dt_mqtt_manager] Latest CPU = "1.18", Used MEM = "131.40M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:11.950459551Z  [2021-12-08T12:09:11Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:11.950502196Z  [2021-12-08T12:09:11Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:12.970396901Z  [2021-12-08T12:09:12Z INFO  dt_mqtt_manager] Latest CPU = "1.08", Used MEM = "131.17M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:12.970443416Z  [2021-12-08T12:09:12Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:12.970454957Z  [2021-12-08T12:09:12Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:13.990980022Z  [2021-12-08T12:09:13Z INFO  dt_mqtt_manager] Latest CPU = "1.08", Used MEM = "131.61M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:13.991050223Z  [2021-12-08T12:09:13Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:13.991063690Z  [2021-12-08T12:09:13Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:15.012128265Z  [2021-12-08T12:09:15Z INFO  dt_mqtt_manager] Latest CPU = "1.08", Used MEM = "131.13M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:15.012187956Z  [2021-12-08T12:09:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:15.012201891Z  [2021-12-08T12:09:15Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:16.033969255Z  [2021-12-08T12:09:16Z INFO  dt_mqtt_manager] Latest CPU = "1.08", Used MEM = "131.25M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:16.034042975Z  [2021-12-08T12:09:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:16.034055502Z  [2021-12-08T12:09:16Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:17.053020117Z  [2021-12-08T12:09:17Z INFO  dt_mqtt_manager] Latest CPU = "1.08", Used MEM = "131.71M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:17.053060404Z  [2021-12-08T12:09:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:17.053072035Z  [2021-12-08T12:09:17Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:18.072430035Z  [2021-12-08T12:09:18Z INFO  dt_mqtt_manager] Latest CPU = "1.00", Used MEM = "131.52M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:18.072477843Z  [2021-12-08T12:09:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:18.072489447Z  [2021-12-08T12:09:18Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:19.093813576Z  [2021-12-08T12:09:19Z INFO  dt_mqtt_manager] Latest CPU = "1.00", Used MEM = "131.48M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:19.093860300Z  [2021-12-08T12:09:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:19.093872040Z  [2021-12-08T12:09:19Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:20.116112498Z  [2021-12-08T12:09:20Z INFO  dt_mqtt_manager] Latest CPU = "1.00", Used MEM = "131.27M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:20.116177904Z  [2021-12-08T12:09:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:20.116191469Z  [2021-12-08T12:09:20Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:21.136475811Z  [2021-12-08T12:09:21Z INFO  dt_mqtt_manager] Latest CPU = "1.00", Used MEM = "131.14M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:21.136551749Z  [2021-12-08T12:09:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:21.136565072Z  [2021-12-08T12:09:21Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:22.158497738Z  [2021-12-08T12:09:22Z INFO  dt_mqtt_manager] Latest CPU = "1.00", Used MEM = "131.18M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:22.158544620Z  [2021-12-08T12:09:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:22.158556789Z  [2021-12-08T12:09:22Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:23.178711604Z  [2021-12-08T12:09:23Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.18M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:23.178789778Z  [2021-12-08T12:09:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:23.178802971Z  [2021-12-08T12:09:23Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:24.200581803Z  [2021-12-08T12:09:24Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.30M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:24.200628059Z  [2021-12-08T12:09:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:24.200639308Z  [2021-12-08T12:09:24Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:25.219793960Z  [2021-12-08T12:09:25Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.40M", All Queue = 0, All Inflight = 30
+2021-12-08T12:09:25.219838782Z  [2021-12-08T12:09:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:25.219849626Z  [2021-12-08T12:09:25Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:26.241057233Z  [2021-12-08T12:09:26Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.19M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:26.241101627Z  [2021-12-08T12:09:26Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:26.241113113Z  [2021-12-08T12:09:26Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:27.260927755Z  [2021-12-08T12:09:27Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.35M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:27.260977784Z  [2021-12-08T12:09:27Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:27.260989191Z  [2021-12-08T12:09:27Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:28.278927030Z  [2021-12-08T12:09:28Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.32M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:28.279124268Z  [2021-12-08T12:09:28Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:28.279144563Z  [2021-12-08T12:09:28Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:29.299074403Z  [2021-12-08T12:09:29Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.73M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:29.299130423Z  [2021-12-08T12:09:29Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:29.299141404Z  [2021-12-08T12:09:29Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:30.320656205Z  [2021-12-08T12:09:30Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.00M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:30.320699436Z  [2021-12-08T12:09:30Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:30.320710601Z  [2021-12-08T12:09:30Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:31.340090611Z  [2021-12-08T12:09:31Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.06M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:31.340136422Z  [2021-12-08T12:09:31Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:31.340147199Z  [2021-12-08T12:09:31Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:32.361370928Z  [2021-12-08T12:09:32Z INFO  dt_mqtt_manager] Latest CPU = "1.13", Used MEM = "131.02M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:32.361416465Z  [2021-12-08T12:09:32Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:32.361427499Z  [2021-12-08T12:09:32Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:33.380339859Z  [2021-12-08T12:09:33Z INFO  dt_mqtt_manager] Latest CPU = "1.13", Used MEM = "130.96M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:33.380387913Z  [2021-12-08T12:09:33Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:33.380399053Z  [2021-12-08T12:09:33Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:34.401457068Z  [2021-12-08T12:09:34Z INFO  dt_mqtt_manager] Latest CPU = "1.13", Used MEM = "131.13M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:34.401501493Z  [2021-12-08T12:09:34Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:34.401512368Z  [2021-12-08T12:09:34Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:35.420774719Z  [2021-12-08T12:09:35Z INFO  dt_mqtt_manager] Latest CPU = "1.13", Used MEM = "131.09M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:35.420822720Z  [2021-12-08T12:09:35Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:35.420833779Z  [2021-12-08T12:09:35Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:36.441717884Z  [2021-12-08T12:09:36Z INFO  dt_mqtt_manager] Latest CPU = "1.13", Used MEM = "131.19M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:36.441765271Z  [2021-12-08T12:09:36Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:36.441776277Z  [2021-12-08T12:09:36Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:37.473057577Z  [2021-12-08T12:09:37Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.14M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:37.473106712Z  [2021-12-08T12:09:37Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:37.473117891Z  [2021-12-08T12:09:37Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:38.493636600Z  [2021-12-08T12:09:38Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.27M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:38.493683772Z  [2021-12-08T12:09:38Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:38.493695046Z  [2021-12-08T12:09:38Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:39.513540515Z  [2021-12-08T12:09:39Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.07M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:39.513611293Z  [2021-12-08T12:09:39Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:39.513623285Z  [2021-12-08T12:09:39Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:40.533794085Z  [2021-12-08T12:09:40Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.39M", All Queue = 0, All Inflight = 4
+2021-12-08T12:09:40.533867960Z  [2021-12-08T12:09:40Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:09:40.533881251Z  [2021-12-08T12:09:40Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:41.556093017Z  [2021-12-08T12:09:41Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.11M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:41.556140871Z  [2021-12-08T12:09:41Z INFO  dt_mqtt_manager] Current avg7
+2021-12-08T12:09:41.556151623Z  [2021-12-08T12:09:41Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:42.575837243Z  [2021-12-08T12:09:42Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.00M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:42.575974080Z  [2021-12-08T12:09:42Z INFO  dt_mqtt_manager] Current avg14
+2021-12-08T12:09:42.576171218Z  [2021-12-08T12:09:42Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:43.597660412Z  [2021-12-08T12:09:43Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.01M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:43.597825681Z  [2021-12-08T12:09:43Z INFO  dt_mqtt_manager] Current avg22
+2021-12-08T12:09:43.598054633Z  [2021-12-08T12:09:43Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:44.620138407Z  [2021-12-08T12:09:44Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.16M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:44.620336872Z  [2021-12-08T12:09:44Z INFO  dt_mqtt_manager] Current avg29
+2021-12-08T12:09:44.620505980Z  [2021-12-08T12:09:44Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:45.644076834Z  [2021-12-08T12:09:45Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.06M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:45.644127362Z  [2021-12-08T12:09:45Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:45.644277195Z  [2021-12-08T12:09:45Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:46.665620773Z  [2021-12-08T12:09:46Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.01M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:46.665687761Z  [2021-12-08T12:09:46Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:46.665727641Z  [2021-12-08T12:09:46Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:47.687229278Z  [2021-12-08T12:09:47Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "131.20M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:47.687448968Z  [2021-12-08T12:09:47Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:47.687606411Z  [2021-12-08T12:09:47Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:48.710345498Z  [2021-12-08T12:09:48Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "131.43M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:48.710571225Z  [2021-12-08T12:09:48Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:48.710785479Z  [2021-12-08T12:09:48Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:49.729943302Z  [2021-12-08T12:09:49Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "131.74M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:49.730141608Z  [2021-12-08T12:09:49Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:49.730270262Z  [2021-12-08T12:09:49Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:50.748212928Z  [2021-12-08T12:09:50Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "131.59M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:50.748289179Z  [2021-12-08T12:09:50Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:50.748408037Z  [2021-12-08T12:09:50Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:51.767228702Z  [2021-12-08T12:09:51Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "131.47M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:51.767513522Z  [2021-12-08T12:09:51Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:51.767761118Z  [2021-12-08T12:09:51Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:52.790165313Z  [2021-12-08T12:09:52Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.22M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:52.790212294Z  [2021-12-08T12:09:52Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:52.790300095Z  [2021-12-08T12:09:52Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:53.810749308Z  [2021-12-08T12:09:53Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.35M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:53.810803880Z  [2021-12-08T12:09:53Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:53.810821326Z  [2021-12-08T12:09:53Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:54.834796302Z  [2021-12-08T12:09:54Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.40M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:54.835029826Z  [2021-12-08T12:09:54Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:54.835084512Z  [2021-12-08T12:09:54Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:09:55.853792528Z  [2021-12-08T12:09:55Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.11M", All Queue = 37, All Inflight = 32
+2021-12-08T12:09:55.854163391Z  [2021-12-08T12:09:55Z INFO  dt_mqtt_manager] Current avg37
+2021-12-08T12:09:55.854433030Z  [2021-12-08T12:09:55Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:09:56.876718493Z  [2021-12-08T12:09:56Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.24M", All Queue = 30, All Inflight = 32
+2021-12-08T12:09:56.876920643Z  [2021-12-08T12:09:56Z INFO  dt_mqtt_manager] Current avg35
+2021-12-08T12:09:56.877122672Z  [2021-12-08T12:09:56Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:09:57.899529551Z  [2021-12-08T12:09:57Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.13M", All Queue = 30, All Inflight = 32
+2021-12-08T12:09:57.899763259Z  [2021-12-08T12:09:57Z INFO  dt_mqtt_manager] Current avg34
+2021-12-08T12:09:57.899943702Z  [2021-12-08T12:09:57Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:09:58.919004012Z  [2021-12-08T12:09:58Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.08M", All Queue = 30, All Inflight = 32
+2021-12-08T12:09:58.919050875Z  [2021-12-08T12:09:58Z INFO  dt_mqtt_manager] Current avg32
+2021-12-08T12:09:58.919139164Z  [2021-12-08T12:09:58Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:09:59.942064782Z  [2021-12-08T12:09:59Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "130.99M", All Queue = 30, All Inflight = 32
+2021-12-08T12:09:59.942176037Z  [2021-12-08T12:09:59Z INFO  dt_mqtt_manager] Current avg31
+2021-12-08T12:09:59.942258046Z  [2021-12-08T12:09:59Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:00.963376972Z  [2021-12-08T12:10:00Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.22M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:00.963603652Z  [2021-12-08T12:10:00Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:00.963621827Z  [2021-12-08T12:10:00Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:01.985157978Z  [2021-12-08T12:10:01Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.10M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:01.985362714Z  [2021-12-08T12:10:01Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:01.985513334Z  [2021-12-08T12:10:01Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:03.012913866Z  [2021-12-08T12:10:03Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.31M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:03.012957372Z  [2021-12-08T12:10:03Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:03.012968421Z  [2021-12-08T12:10:03Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:04.032860080Z  [2021-12-08T12:10:04Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.07M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:04.032908972Z  [2021-12-08T12:10:04Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:04.032920808Z  [2021-12-08T12:10:04Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:05.053370961Z  [2021-12-08T12:10:05Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.32M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:05.053408710Z  [2021-12-08T12:10:05Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:05.053419692Z  [2021-12-08T12:10:05Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:06.074915563Z  [2021-12-08T12:10:06Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.24M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:06.074961132Z  [2021-12-08T12:10:06Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:06.074972272Z  [2021-12-08T12:10:06Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:07.093886299Z  [2021-12-08T12:10:07Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.28M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:07.093933072Z  [2021-12-08T12:10:07Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:07.094028842Z  [2021-12-08T12:10:07Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:08.112276770Z  [2021-12-08T12:10:08Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.13M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:08.112322287Z  [2021-12-08T12:10:08Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:08.112333692Z  [2021-12-08T12:10:08Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:09.132970945Z  [2021-12-08T12:10:09Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.05M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:09.133032872Z  [2021-12-08T12:10:09Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:09.133045838Z  [2021-12-08T12:10:09Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:10.154761706Z  [2021-12-08T12:10:10Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.42M", All Queue = 30, All Inflight = 32
+2021-12-08T12:10:10.154807586Z  [2021-12-08T12:10:10Z INFO  dt_mqtt_manager] Current avg30
+2021-12-08T12:10:10.154818764Z  [2021-12-08T12:10:10Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:11.175800147Z  [2021-12-08T12:10:11Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.43M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:11.175885468Z  [2021-12-08T12:10:11Z INFO  dt_mqtt_manager] Current avg24
+2021-12-08T12:10:11.175900000Z  [2021-12-08T12:10:11Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:12.200772765Z  [2021-12-08T12:10:12Z INFO  dt_mqtt_manager] Latest CPU = "1.11", Used MEM = "131.45M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:12.200817352Z  [2021-12-08T12:10:12Z INFO  dt_mqtt_manager] Current avg18
+2021-12-08T12:10:12.200828083Z  [2021-12-08T12:10:12Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:13.221290406Z  [2021-12-08T12:10:13Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.13M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:13.221490388Z  [2021-12-08T12:10:13Z INFO  dt_mqtt_manager] Current avg12
+2021-12-08T12:10:13.221676218Z  [2021-12-08T12:10:13Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:14.286911221Z  [2021-12-08T12:10:14Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.31M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:14.287207128Z  [2021-12-08T12:10:14Z INFO  dt_mqtt_manager] Current avg6
+2021-12-08T12:10:14.287395798Z  [2021-12-08T12:10:14Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:15.310468761Z  [2021-12-08T12:10:15Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.45M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:15.310726004Z  [2021-12-08T12:10:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:15.310950760Z  [2021-12-08T12:10:15Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:16.331751668Z  [2021-12-08T12:10:16Z INFO  dt_mqtt_manager] Latest CPU = "1.02", Used MEM = "131.22M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:16.331854380Z  [2021-12-08T12:10:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:16.331952324Z  [2021-12-08T12:10:16Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:17.351336592Z  [2021-12-08T12:10:17Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.22M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:17.351407387Z  [2021-12-08T12:10:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:17.351493285Z  [2021-12-08T12:10:17Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:18.373126229Z  [2021-12-08T12:10:18Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.79M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:18.373297028Z  [2021-12-08T12:10:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:18.373475633Z  [2021-12-08T12:10:18Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:19.394740491Z  [2021-12-08T12:10:19Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.76M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:19.394785927Z  [2021-12-08T12:10:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:19.394885316Z  [2021-12-08T12:10:19Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:20.415007737Z  [2021-12-08T12:10:20Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.24M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:20.415156478Z  [2021-12-08T12:10:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:20.415360887Z  [2021-12-08T12:10:20Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:21.432882350Z  [2021-12-08T12:10:21Z INFO  dt_mqtt_manager] Latest CPU = "1.10", Used MEM = "131.42M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:21.433060581Z  [2021-12-08T12:10:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:21.433222465Z  [2021-12-08T12:10:21Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:22.452777167Z  [2021-12-08T12:10:22Z INFO  dt_mqtt_manager] Latest CPU = "1.09", Used MEM = "131.18M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:22.452854171Z  [2021-12-08T12:10:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:22.452947786Z  [2021-12-08T12:10:22Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:23.470611434Z  [2021-12-08T12:10:23Z INFO  dt_mqtt_manager] Latest CPU = "1.09", Used MEM = "131.47M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:23.470675333Z  [2021-12-08T12:10:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:23.470793606Z  [2021-12-08T12:10:23Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:24.490787688Z  [2021-12-08T12:10:24Z INFO  dt_mqtt_manager] Latest CPU = "1.09", Used MEM = "131.39M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:24.490902549Z  [2021-12-08T12:10:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:24.490945669Z  [2021-12-08T12:10:24Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:25.512377617Z  [2021-12-08T12:10:25Z INFO  dt_mqtt_manager] Latest CPU = "1.09", Used MEM = "131.24M", All Queue = 0, All Inflight = 18
+2021-12-08T12:10:25.512582559Z  [2021-12-08T12:10:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:25.512753056Z  [2021-12-08T12:10:25Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:26.536166480Z  [2021-12-08T12:10:26Z INFO  dt_mqtt_manager] Latest CPU = "1.09", Used MEM = "131.49M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:26.536390868Z  [2021-12-08T12:10:26Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:26.536586472Z  [2021-12-08T12:10:26Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:27.558086979Z  [2021-12-08T12:10:27Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.07M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:27.558293449Z  [2021-12-08T12:10:27Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:27.558472266Z  [2021-12-08T12:10:27Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:28.576646869Z  [2021-12-08T12:10:28Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.38M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:28.576856062Z  [2021-12-08T12:10:28Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:28.577038046Z  [2021-12-08T12:10:28Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:29.596689059Z  [2021-12-08T12:10:29Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.09M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:29.596882037Z  [2021-12-08T12:10:29Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:29.597069084Z  [2021-12-08T12:10:29Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:30.614262027Z  [2021-12-08T12:10:30Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.79M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:30.614381004Z  [2021-12-08T12:10:30Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:30.614396773Z  [2021-12-08T12:10:30Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:31.636938656Z  [2021-12-08T12:10:31Z INFO  dt_mqtt_manager] Latest CPU = "1.16", Used MEM = "131.18M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:31.637139645Z  [2021-12-08T12:10:31Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:31.637332391Z  [2021-12-08T12:10:31Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:32.659172858Z  [2021-12-08T12:10:32Z INFO  dt_mqtt_manager] Latest CPU = "1.15", Used MEM = "131.14M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:32.659347876Z  [2021-12-08T12:10:32Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:32.659512438Z  [2021-12-08T12:10:32Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:33.682993049Z  [2021-12-08T12:10:33Z INFO  dt_mqtt_manager] Latest CPU = "1.15", Used MEM = "131.12M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:33.683186607Z  [2021-12-08T12:10:33Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:33.683360733Z  [2021-12-08T12:10:33Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:34.704784211Z  [2021-12-08T12:10:34Z INFO  dt_mqtt_manager] Latest CPU = "1.15", Used MEM = "131.14M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:34.704948100Z  [2021-12-08T12:10:34Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:34.705109977Z  [2021-12-08T12:10:34Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:35.724858294Z  [2021-12-08T12:10:35Z INFO  dt_mqtt_manager] Latest CPU = "1.15", Used MEM = "131.21M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:35.725211223Z  [2021-12-08T12:10:35Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:35.725285186Z  [2021-12-08T12:10:35Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:36.745679025Z  [2021-12-08T12:10:36Z INFO  dt_mqtt_manager] Latest CPU = "1.15", Used MEM = "131.33M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:36.745846539Z  [2021-12-08T12:10:36Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:36.746073168Z  [2021-12-08T12:10:36Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:37.767621564Z  [2021-12-08T12:10:37Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.32M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:37.767803730Z  [2021-12-08T12:10:37Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:37.767940725Z  [2021-12-08T12:10:37Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:38.787051717Z  [2021-12-08T12:10:38Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.06M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:38.787121744Z  [2021-12-08T12:10:38Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:38.787238840Z  [2021-12-08T12:10:38Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:39.808872048Z  [2021-12-08T12:10:39Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.13M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:39.808933737Z  [2021-12-08T12:10:39Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:39.809034938Z  [2021-12-08T12:10:39Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:40.828381763Z  [2021-12-08T12:10:40Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.10M", All Queue = 0, All Inflight = 15
+2021-12-08T12:10:40.828434283Z  [2021-12-08T12:10:40Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:40.828467786Z  [2021-12-08T12:10:40Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:41.851780112Z  [2021-12-08T12:10:41Z INFO  dt_mqtt_manager] Latest CPU = "1.14", Used MEM = "131.04M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:41.852011032Z  [2021-12-08T12:10:41Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:41.852063559Z  [2021-12-08T12:10:41Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:42.874171550Z  [2021-12-08T12:10:42Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.05M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:42.874342038Z  [2021-12-08T12:10:42Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:42.874483031Z  [2021-12-08T12:10:42Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:43.898196727Z  [2021-12-08T12:10:43Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.06M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:43.898387627Z  [2021-12-08T12:10:43Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:43.898588488Z  [2021-12-08T12:10:43Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:44.929118831Z  [2021-12-08T12:10:44Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.03M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:44.929385508Z  [2021-12-08T12:10:44Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:44.929665368Z  [2021-12-08T12:10:44Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:45.953682718Z  [2021-12-08T12:10:45Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.13M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:45.953828657Z  [2021-12-08T12:10:45Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:45.954070445Z  [2021-12-08T12:10:45Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:46.977665661Z  [2021-12-08T12:10:46Z INFO  dt_mqtt_manager] Latest CPU = "1.12", Used MEM = "131.14M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:46.977706024Z  [2021-12-08T12:10:46Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:46.977715863Z  [2021-12-08T12:10:46Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:47.996490195Z  [2021-12-08T12:10:47Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.00M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:47.996712604Z  [2021-12-08T12:10:47Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:47.996880847Z  [2021-12-08T12:10:47Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:49.015261405Z  [2021-12-08T12:10:49Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.02M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:49.015518338Z  [2021-12-08T12:10:49Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:49.015681379Z  [2021-12-08T12:10:49Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:50.033007054Z  [2021-12-08T12:10:50Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.01M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:50.033127032Z  [2021-12-08T12:10:50Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:50.033283786Z  [2021-12-08T12:10:50Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:51.058805909Z  [2021-12-08T12:10:51Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.13M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:51.058841254Z  [2021-12-08T12:10:51Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:51.058852371Z  [2021-12-08T12:10:51Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:52.078033232Z  [2021-12-08T12:10:52Z INFO  dt_mqtt_manager] Latest CPU = "1.03", Used MEM = "131.02M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:52.078072881Z  [2021-12-08T12:10:52Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:52.078084110Z  [2021-12-08T12:10:52Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:53.098640194Z  [2021-12-08T12:10:53Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "130.99M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:53.098680184Z  [2021-12-08T12:10:53Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:53.098691493Z  [2021-12-08T12:10:53Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:54.118249421Z  [2021-12-08T12:10:54Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "131.01M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:54.118301988Z  [2021-12-08T12:10:54Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:54.118344139Z  [2021-12-08T12:10:54Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:10:55.136915021Z  [2021-12-08T12:10:55Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "130.97M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:55.136959685Z  [2021-12-08T12:10:55Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:55.136989238Z  [2021-12-08T12:10:55Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:10:56.158508344Z  [2021-12-08T12:10:56Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "130.88M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:56.158549066Z  [2021-12-08T12:10:56Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:56.158559074Z  [2021-12-08T12:10:56Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:10:57.178835737Z  [2021-12-08T12:10:57Z INFO  dt_mqtt_manager] Latest CPU = "0.95", Used MEM = "130.84M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:57.179121178Z  [2021-12-08T12:10:57Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:57.179145296Z  [2021-12-08T12:10:57Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:10:58.203896491Z  [2021-12-08T12:10:58Z INFO  dt_mqtt_manager] Latest CPU = "0.87", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:58.204025369Z  [2021-12-08T12:10:58Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:58.204038317Z  [2021-12-08T12:10:58Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:10:59.223324023Z  [2021-12-08T12:10:59Z INFO  dt_mqtt_manager] Latest CPU = "0.87", Used MEM = "130.83M", All Queue = 0, All Inflight = 0
+2021-12-08T12:10:59.223565972Z  [2021-12-08T12:10:59Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:10:59.223832424Z  [2021-12-08T12:10:59Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:00.249718081Z  [2021-12-08T12:11:00Z INFO  dt_mqtt_manager] Latest CPU = "0.87", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:00.249757524Z  [2021-12-08T12:11:00Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:00.249767545Z  [2021-12-08T12:11:00Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:01.269719718Z  [2021-12-08T12:11:01Z INFO  dt_mqtt_manager] Latest CPU = "0.87", Used MEM = "130.82M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:01.269759271Z  [2021-12-08T12:11:01Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:01.269825227Z  [2021-12-08T12:11:01Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:02.293294813Z  [2021-12-08T12:11:02Z INFO  dt_mqtt_manager] Latest CPU = "0.87", Used MEM = "130.89M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:02.293335335Z  [2021-12-08T12:11:02Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:02.293358417Z  [2021-12-08T12:11:02Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:03.317440097Z  [2021-12-08T12:11:03Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "130.88M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:03.317708373Z  [2021-12-08T12:11:03Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:03.317732131Z  [2021-12-08T12:11:03Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:04.338576048Z  [2021-12-08T12:11:04Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "130.77M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:04.338819187Z  [2021-12-08T12:11:04Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:04.338866475Z  [2021-12-08T12:11:04Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:05.359493498Z  [2021-12-08T12:11:05Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "130.76M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:05.359632266Z  [2021-12-08T12:11:05Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:05.359821647Z  [2021-12-08T12:11:05Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:06.389821575Z  [2021-12-08T12:11:06Z INFO  dt_mqtt_manager] Latest CPU = "0.80", Used MEM = "130.86M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:06.389998473Z  [2021-12-08T12:11:06Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:06.390113698Z  [2021-12-08T12:11:06Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:07.410875023Z  [2021-12-08T12:11:07Z INFO  dt_mqtt_manager] Latest CPU = "0.74", Used MEM = "130.84M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:07.411100748Z  [2021-12-08T12:11:07Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:07.411332692Z  [2021-12-08T12:11:07Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:08.441865310Z  [2021-12-08T12:11:08Z INFO  dt_mqtt_manager] Latest CPU = "0.74", Used MEM = "130.88M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:08.441969366Z  [2021-12-08T12:11:08Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:08.441980956Z  [2021-12-08T12:11:08Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:09.470863480Z  [2021-12-08T12:11:09Z INFO  dt_mqtt_manager] Latest CPU = "0.74", Used MEM = "130.89M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:09.470963092Z  [2021-12-08T12:11:09Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:09.471082351Z  [2021-12-08T12:11:09Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:10.490912951Z  [2021-12-08T12:11:10Z INFO  dt_mqtt_manager] Latest CPU = "0.74", Used MEM = "130.85M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:10.491202996Z  [2021-12-08T12:11:10Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:10.491228216Z  [2021-12-08T12:11:10Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:11.511931783Z  [2021-12-08T12:11:11Z INFO  dt_mqtt_manager] Latest CPU = "0.74", Used MEM = "130.77M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:11.512098556Z  [2021-12-08T12:11:11Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:11.512241588Z  [2021-12-08T12:11:11Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:12.538092192Z  [2021-12-08T12:11:12Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "130.87M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:12.538386153Z  [2021-12-08T12:11:12Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:12.538592538Z  [2021-12-08T12:11:12Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:13.555994140Z  [2021-12-08T12:11:13Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "130.77M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:13.556209836Z  [2021-12-08T12:11:13Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:13.556395584Z  [2021-12-08T12:11:13Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:14.575768489Z  [2021-12-08T12:11:14Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "130.89M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:14.575882304Z  [2021-12-08T12:11:14Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:14.575983621Z  [2021-12-08T12:11:14Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:15.601416650Z  [2021-12-08T12:11:15Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:15.601472217Z  [2021-12-08T12:11:15Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:15.601562701Z  [2021-12-08T12:11:15Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:16.621925357Z  [2021-12-08T12:11:16Z INFO  dt_mqtt_manager] Latest CPU = "0.68", Used MEM = "130.83M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:16.622126240Z  [2021-12-08T12:11:16Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:16.622151101Z  [2021-12-08T12:11:16Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:17.647605317Z  [2021-12-08T12:11:17Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:17.647770881Z  [2021-12-08T12:11:17Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:17.647944926Z  [2021-12-08T12:11:17Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:18.669163824Z  [2021-12-08T12:11:18Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.85M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:18.669323423Z  [2021-12-08T12:11:18Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:18.669471310Z  [2021-12-08T12:11:18Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:19.694403205Z  [2021-12-08T12:11:19Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.86M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:19.694536942Z  [2021-12-08T12:11:19Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:19.694669858Z  [2021-12-08T12:11:19Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:20.718624209Z  [2021-12-08T12:11:20Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.98M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:20.718666829Z  [2021-12-08T12:11:20Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:20.718677296Z  [2021-12-08T12:11:20Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:21.740726039Z  [2021-12-08T12:11:21Z INFO  dt_mqtt_manager] Latest CPU = "0.63", Used MEM = "130.87M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:21.740766333Z  [2021-12-08T12:11:21Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:21.740776695Z  [2021-12-08T12:11:21Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:22.761680110Z  [2021-12-08T12:11:22Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.84M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:22.761737931Z  [2021-12-08T12:11:22Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:22.761748592Z  [2021-12-08T12:11:22Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:23.782042481Z  [2021-12-08T12:11:23Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.86M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:23.782093147Z  [2021-12-08T12:11:23Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:23.782103808Z  [2021-12-08T12:11:23Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:24.802235730Z  [2021-12-08T12:11:24Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.97M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:24.802272129Z  [2021-12-08T12:11:24Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:24.802281948Z  [2021-12-08T12:11:24Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:25.823672067Z  [2021-12-08T12:11:25Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.89M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:25.823735765Z  [2021-12-08T12:11:25Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:25.823747261Z  [2021-12-08T12:11:25Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:26.845646481Z  [2021-12-08T12:11:26Z INFO  dt_mqtt_manager] Latest CPU = "0.58", Used MEM = "130.87M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:26.845687387Z  [2021-12-08T12:11:26Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:26.845697895Z  [2021-12-08T12:11:26Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:27.867927533Z  [2021-12-08T12:11:27Z INFO  dt_mqtt_manager] Latest CPU = "0.53", Used MEM = "130.81M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:27.867965754Z  [2021-12-08T12:11:27Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:27.867975829Z  [2021-12-08T12:11:27Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:28.889112572Z  [2021-12-08T12:11:28Z INFO  dt_mqtt_manager] Latest CPU = "0.53", Used MEM = "130.82M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:28.889151715Z  [2021-12-08T12:11:28Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:28.889161262Z  [2021-12-08T12:11:28Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:29.911033560Z  [2021-12-08T12:11:29Z INFO  dt_mqtt_manager] Latest CPU = "0.53", Used MEM = "130.93M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:29.911074648Z  [2021-12-08T12:11:29Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:29.911084925Z  [2021-12-08T12:11:29Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:30.932761005Z  [2021-12-08T12:11:30Z INFO  dt_mqtt_manager] Latest CPU = "0.53", Used MEM = "130.84M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:30.932800628Z  [2021-12-08T12:11:30Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:30.932810247Z  [2021-12-08T12:11:30Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:31.955254870Z  [2021-12-08T12:11:31Z INFO  dt_mqtt_manager] Latest CPU = "0.53", Used MEM = "130.84M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:31.955296849Z  [2021-12-08T12:11:31Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:31.955401733Z  [2021-12-08T12:11:31Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:32.979597814Z  [2021-12-08T12:11:32Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:32.979636192Z  [2021-12-08T12:11:32Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:32.979646164Z  [2021-12-08T12:11:32Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:34.003909026Z  [2021-12-08T12:11:34Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:34.003953227Z  [2021-12-08T12:11:34Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:34.003963398Z  [2021-12-08T12:11:34Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:35.029292823Z  [2021-12-08T12:11:35Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:35.029333626Z  [2021-12-08T12:11:35Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:35.029343497Z  [2021-12-08T12:11:35Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:36.053102589Z  [2021-12-08T12:11:36Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "130.85M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:36.053133486Z  [2021-12-08T12:11:36Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:36.053143341Z  [2021-12-08T12:11:36Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:37.076020230Z  [2021-12-08T12:11:37Z INFO  dt_mqtt_manager] Latest CPU = "0.49", Used MEM = "130.85M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:37.076057617Z  [2021-12-08T12:11:37Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:37.076067457Z  [2021-12-08T12:11:37Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:38.099354780Z  [2021-12-08T12:11:38Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.96M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:38.099394460Z  [2021-12-08T12:11:38Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:38.099404077Z  [2021-12-08T12:11:38Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:39.121734396Z  [2021-12-08T12:11:39Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.85M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:39.121773584Z  [2021-12-08T12:11:39Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:39.121783821Z  [2021-12-08T12:11:39Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:40.142479854Z  [2021-12-08T12:11:40Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.94M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:40.142518587Z  [2021-12-08T12:11:40Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:40.142528581Z  [2021-12-08T12:11:40Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:41.166524734Z  [2021-12-08T12:11:41Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.86M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:41.166562404Z  [2021-12-08T12:11:41Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:41.166590417Z  [2021-12-08T12:11:41Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:42.186918170Z  [2021-12-08T12:11:42Z INFO  dt_mqtt_manager] Latest CPU = "0.45", Used MEM = "130.87M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:42.186956875Z  [2021-12-08T12:11:42Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:42.186967416Z  [2021-12-08T12:11:42Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:43.206984344Z  [2021-12-08T12:11:43Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "130.88M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:43.207036247Z  [2021-12-08T12:11:43Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:43.207047425Z  [2021-12-08T12:11:43Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:44.227923179Z  [2021-12-08T12:11:44Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "130.87M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:44.227967805Z  [2021-12-08T12:11:44Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:44.227978480Z  [2021-12-08T12:11:44Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:45.250023337Z  [2021-12-08T12:11:45Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "131.00M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:45.250063011Z  [2021-12-08T12:11:45Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:45.250072859Z  [2021-12-08T12:11:45Z INFO  dt_mqtt_manager] index 1
+2021-12-08T12:11:46.271275319Z  [2021-12-08T12:11:46Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "131.00M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:46.271440359Z  [2021-12-08T12:11:46Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:46.271572033Z  [2021-12-08T12:11:46Z INFO  dt_mqtt_manager] index 2
+2021-12-08T12:11:47.296370199Z  [2021-12-08T12:11:47Z INFO  dt_mqtt_manager] Latest CPU = "0.41", Used MEM = "131.02M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:47.296477705Z  [2021-12-08T12:11:47Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:47.296515763Z  [2021-12-08T12:11:47Z INFO  dt_mqtt_manager] index 3
+2021-12-08T12:11:48.320387865Z  [2021-12-08T12:11:48Z INFO  dt_mqtt_manager] Latest CPU = "0.46", Used MEM = "131.02M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:48.320573297Z  [2021-12-08T12:11:48Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:48.320793514Z  [2021-12-08T12:11:48Z INFO  dt_mqtt_manager] index 4
+2021-12-08T12:11:49.341991921Z  [2021-12-08T12:11:49Z INFO  dt_mqtt_manager] Latest CPU = "0.46", Used MEM = "130.91M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:49.342099016Z  [2021-12-08T12:11:49Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:49.342252254Z  [2021-12-08T12:11:49Z INFO  dt_mqtt_manager] index 0
+2021-12-08T12:11:50.364597302Z  [2021-12-08T12:11:50Z INFO  dt_mqtt_manager] Latest CPU = "0.46", Used MEM = "130.90M", All Queue = 0, All Inflight = 0
+2021-12-08T12:11:50.364721486Z  [2021-12-08T12:11:50Z INFO  dt_mqtt_manager] Current avg0
+2021-12-08T12:11:50.364757548Z  [2021-12-08T12:11:50Z INFO  dt_mqtt_manager] index 1
