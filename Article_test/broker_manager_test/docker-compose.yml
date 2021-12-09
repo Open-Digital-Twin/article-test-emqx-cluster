@@ -93,8 +93,8 @@ services:
       - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=8081
       - MQTT_API_FREQ=1
-      - CLUSTER_SAVES=5
-      - MAX_QUEUE= 200
+      - CLUSTER_IT_SAVES=5
+      - MAX_QUEUE=200
       - RUST_LOG=info
     networks:
       - default
