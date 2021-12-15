@@ -90,10 +90,11 @@ services:
   mqtt-broker-manager:
     image: "teste:latest"
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
-      - MQTT_BROKER_PORT=8081
+      - MQTT_API_ADDRESS=mqtt-cluster
+      - MQTT_API_PORT=8081
       - MQTT_API_FREQ=1
-      - SWARM_API_ADDRESS=dtwins1
+      - SWARM_API_ADDRESS=192.168.122.17
+      - SWARM_API_PORT=2375
       - CLUSTER_IT_SAVES=5
       - MAX_QUEUE=200
       - RUST_LOG=info
