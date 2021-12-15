@@ -95,7 +95,7 @@ services:
       - MQTT_API_FREQ=1
       - SWARM_API_ADDRESS=192.168.122.17
       - SWARM_API_PORT=2375
-      - CLUSTER_IT_SAVES=5
+      - CLUSTER_SAVES=5
       - MAX_QUEUE=200
       - RUST_LOG=info
     networks:
