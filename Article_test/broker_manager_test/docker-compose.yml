@@ -17,6 +17,7 @@ services:
       placement:
         constraints:
           - node.labels.name==dtwins1
+          - node.labels.name!=dtwins2
 
   mqtt-cluster:
     image: "emqx/emqx:4.3.8"
