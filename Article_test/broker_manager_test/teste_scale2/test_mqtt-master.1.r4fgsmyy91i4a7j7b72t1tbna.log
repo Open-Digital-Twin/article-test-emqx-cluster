@@ -1,0 +1,36 @@
+2022-01-02T03:18:31.917978992Z  cluster.discovery = "etcd"
+2022-01-02T03:18:31.918053485Z  cluster.etcd.node_ttl = "1m"
+2022-01-02T03:18:31.918065575Z  cluster.etcd.prefix = "emqcl"
+2022-01-02T03:18:31.918074961Z  cluster.etcd.server = "http://etcd:2379"
+2022-01-02T03:18:31.918083919Z  listener.ssl.external.acceptors = "32"
+2022-01-02T03:18:31.918093039Z  listener.ssl.external.max_connections = "102400"
+2022-01-02T03:18:31.918102172Z  listener.tcp.external.acceptors = "64"
+2022-01-02T03:18:31.918111249Z  listener.tcp.external.max_connections = "1024000"
+2022-01-02T03:18:31.918120281Z  listener.ws.external.acceptors = "16"
+2022-01-02T03:18:31.918129012Z  listener.ws.external.max_connections = "102400"
+2022-01-02T03:18:31.918137844Z  listener.wss.external.acceptors = "16"
+2022-01-02T03:18:31.918146708Z  listener.wss.external.max_connections = "102400"
+2022-01-02T03:18:31.918155391Z  log.to = "console"
+2022-01-02T03:18:31.918163998Z  node.max_ets_tables = "2097152"
+2022-01-02T03:18:31.918172698Z  node.max_ports = "1048576"
+2022-01-02T03:18:31.918181375Z  node.name = "e6e084750bc8@10.0.92.9"
+2022-01-02T03:18:31.918190034Z  node.process_limit = "2097152"
+2022-01-02T03:18:31.918198662Z  rpc.port_discovery = "manual"
+2022-01-02T03:18:31.918207365Z  zone.external.max_mqueue_len = "0"
+2022-01-02T03:18:31.918216079Z  zone.external.mqueue_priorities = "A/A/A=10,A/E/E=5"
+2022-01-02T03:18:36.561349363Z  Starting emqx on node e6e084750bc8@10.0.92.9
+2022-01-02T03:18:37.267795130Z  Start http:management listener on 8081 successfully.
+2022-01-02T03:18:37.325654144Z  Start http:dashboard listener on 18083 successfully.
+2022-01-02T03:18:37.432200148Z  Start mqtt:tcp:internal listener on 127.0.0.1:11883 successfully.
+2022-01-02T03:18:37.437134848Z  Start mqtt:tcp:external listener on 0.0.0.0:1883 successfully.
+2022-01-02T03:18:37.438034094Z  Start mqtt:ws:external listener on 0.0.0.0:8083 successfully.
+2022-01-02T03:18:37.441392972Z  Start mqtt:ssl:external listener on 0.0.0.0:8883 successfully.
+2022-01-02T03:18:37.444067544Z  Start mqtt:wss:external listener on 0.0.0.0:8084 successfully.
+2022-01-02T03:18:37.444277362Z  EMQ X Broker 4.3.8 is running now!
+2022-01-02T03:19:36.573502673Z  2022-01-02T03:19:36.571463+00:00 [warning] [Alarm Handler] Alarm high_system_memory_usage is activated, System memory usage is higher than 70%
+2022-01-02T03:25:37.657949918Z  2022-01-02T03:25:37.656498+00:00 [error] GET /api/v4/clients/ error: badarg, stacktrace:, [{erlang,length,[{badrpc,{'EXIT',{badarg,[{ets,select,[emqx_channel_info,[{{'$1',#{},'_'},[],['$_']}],10001],[]},{emqx_mgmt_api,select_table,5,[{file,"emqx_mgmt_api.erl"},{line,175}]},{emqx_mgmt_api,do_query,5,[]}]}}}],[]},{emqx_mgmt_api,do_cluster_query,6,[{file,"emqx_mgmt_api.erl"},{line,133}]},{emqx_mgmt_api,cluster_query,3,[{file,"emqx_mgmt_api.erl"},{line,120}]},{emqx_mgmt_api_clients,fence,1,[{file,"emqx_mgmt_api_clients.erl"},{line,161}]},{minirest_handler,dispatch,2,[{file,"minirest_handler.erl"},{line,90}]},{minirest,handle_request,2,[{file,"minirest.erl"},{line,116}]},{minirest,init,2,[{file,"minirest.erl"},{line,108}]},{cowboy_handler,execute,2,[{file,"cowboy_handler.erl"},{line,41}]},{cowboy_stream_h,execute,3,[{file,"cowboy_stream_h.erl"},{line,320}]},{cowboy_stream_h,request_process,3,[{file,"cowboy_stream_h.erl"},{line,302}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,226}]}]
+2022-01-02T03:26:16.208001486Z  2022-01-02T03:26:15.683858+00:00 [error] Process:          <0.2340.0> on node 'e6e084750bc8@10.0.92.9', Context:          maximum heap size reached, Max Heap Size:    10485760, Total Heap Size:  10870445, Kill:             true, Error Logger:     true, GC Info:          [{old_heap_block_size,4298223},{heap_block_size,6566731},{mbuf_size,37708},{recent_size,2297032},{stack_size,26},{old_heap_size,0},{heap_size,2952661},{bin_vheap_size,378483},{bin_vheap_block_size,475039},{bin_old_vheap_size,0},{bin_old_vheap_block_size,121527}]
+2022-01-02T03:26:27.570114832Z  2022-01-02T03:26:27.565685+00:00 [error] GET /api/v4/clients/ error: badarg, stacktrace:, [{erlang,length,[{badrpc,{'EXIT',{badarg,[{ets,select,[emqx_channel_info,[{{'$1',#{},'_'},[],['$_']}],10001],[]},{emqx_mgmt_api,select_table,5,[{file,"emqx_mgmt_api.erl"},{line,175}]},{emqx_mgmt_api,do_query,5,[]}]}}}],[]},{emqx_mgmt_api,do_cluster_query,6,[{file,"emqx_mgmt_api.erl"},{line,133}]},{emqx_mgmt_api,cluster_query,3,[{file,"emqx_mgmt_api.erl"},{line,120}]},{emqx_mgmt_api_clients,fence,1,[{file,"emqx_mgmt_api_clients.erl"},{line,161}]},{minirest_handler,dispatch,2,[{file,"minirest_handler.erl"},{line,90}]},{minirest,handle_request,2,[{file,"minirest.erl"},{line,116}]},{minirest,init,2,[{file,"minirest.erl"},{line,108}]},{cowboy_handler,execute,2,[{file,"cowboy_handler.erl"},{line,41}]},{cowboy_stream_h,execute,3,[{file,"cowboy_stream_h.erl"},{line,320}]},{cowboy_stream_h,request_process,3,[{file,"cowboy_stream_h.erl"},{line,302}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,226}]}]
+2022-01-02T03:26:37.238270735Z  2022-01-02T03:26:37.235385+00:00 [warning] [Alarm Handler] Alarm high_cpu_usage is activated, 97.06717914438502% cpu usage
+2022-01-02T03:26:37.816372487Z  2022-01-02T03:26:37.810299+00:00 [error] GET /api/v4/clients/ error: badarg, stacktrace:, [{erlang,length,[{badrpc,{'EXIT',{badarg,[{ets,select,[emqx_channel_info,[{{'$1',#{},'_'},[],['$_']}],10001],[]},{emqx_mgmt_api,select_table,5,[{file,"emqx_mgmt_api.erl"},{line,175}]},{emqx_mgmt_api,do_query,5,[]}]}}}],[]},{emqx_mgmt_api,do_cluster_query,6,[{file,"emqx_mgmt_api.erl"},{line,133}]},{emqx_mgmt_api,cluster_query,3,[{file,"emqx_mgmt_api.erl"},{line,120}]},{emqx_mgmt_api_clients,fence,1,[{file,"emqx_mgmt_api_clients.erl"},{line,161}]},{minirest_handler,dispatch,2,[{file,"minirest_handler.erl"},{line,90}]},{minirest,handle_request,2,[{file,"minirest.erl"},{line,116}]},{minirest,init,2,[{file,"minirest.erl"},{line,108}]},{cowboy_handler,execute,2,[{file,"cowboy_handler.erl"},{line,41}]},{cowboy_stream_h,execute,3,[{file,"cowboy_stream_h.erl"},{line,320}]},{cowboy_stream_h,request_process,3,[{file,"cowboy_stream_h.erl"},{line,302}]},{proc_lib,init_p_do_apply,3,[{file,"proc_lib.erl"},{line,226}]}]
+2022-01-02T03:28:37.238821107Z  2022-01-02T03:28:37.237772+00:00 [warning] [Alarm Handler] Alarm high_cpu_usage is deactivated
