@@ -18,7 +18,7 @@ services:
         constraints:
           - node.labels.name==dtwins1
 
-  mqtt-master:
+  mqtt-cluster:
     image: "emqx/emqx:4.3.8"
     environment:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
@@ -29,27 +29,6 @@ services:
       - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,A/E/E=5
     networks:
       default:
-    restart: always
-    deploy:
-      replicas: 0
-      placement:
-        constraints:
-          - node.labels.name==dtwins1
-
-
-  mqtt-node:
-    image: "emqx/emqx:4.3.8"
-    environment:
-      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
-      - EMQX_CLUSTER__DISCOVERY=etcd
-      - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
-      - EMQX_CLUSTER__ETCD__PREFIX=emqcl
-      - EMQX_CLUSTER__ETCD__NODE_TTL=1m
-      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,A/E/E=5
-    networks:
-      default:
-        aliases:
-          - emqx_n1.mq.tt
     restart: always
     deploy:
       replicas: 0
@@ -64,7 +43,7 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-master
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
@@ -114,7 +93,7 @@ services:
     depends_on:
       - mqtt-broker
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-master
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -132,12 +111,12 @@ services:
     command: dt-instance
 
 
-  twin_node:
+  twin-node:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
-      - mqtt-node
+      - mqtt-cluster
     environment:
-      - MQTT_BROKER_ADDRESS=mqtt-master
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=1883
       - MQTT_INSTANCE_QOS=1
       - RUST_LOG=info
@@ -158,7 +137,7 @@ services:
   mqtt-manager:
     image: "teste:latest"
     environment:
-      - MQTT_API_ADDRESS=mqtt-master
+      - MQTT_API_ADDRESS=mqtt-cluster
       - MQTT_API_PORT=8081
       - MQTT_API_FREQ=1
       - SWARM_API_ADDRESS=192.168.122.17
