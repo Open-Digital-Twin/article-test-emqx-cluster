@@ -2,6 +2,22 @@ version: '3'
 
 services:
 
+  etcd:
+    image: 'bitnami/etcd:latest'
+    environment:
+      - ALLOW_NONE_AUTHENTICATION=yes
+      - ETCD_ADVERTISE_CLIENT_URLS=http://etcd:2379
+      - ETCD_ENABLE_V2=true
+      - ETCDL_API=2
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:
+        constraints:
+          - node.labels.name==dtwins1
+          
   mqtt-cluster:
     image: "emqx/emqx:4.3.8"
     environment:
