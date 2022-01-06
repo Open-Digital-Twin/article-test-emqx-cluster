@@ -39,7 +39,7 @@ services:
         constraints:
           - node.labels.name==dtwins1
   
-  client_accel:
+  client:
     image: "opendigitaltwin/dt-client-accel:latest"
     depends_on:
       - mqtt-broker
@@ -53,7 +53,7 @@ services:
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
       - MQTT_CLIENT_MESSAGES_TO_SEND=10000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=10
-      - MQTT_CLIENT_TOPIC=$share/A/A
+      - MQTT_CLIENT_TOPIC=$queue/A/A
       - MQTT_CLIENT_ACCEL_FACTOR=1
       - MQTT_CLIENT_ACCEL_EACH=100
       - GEOMETRIC=1
@@ -63,10 +63,10 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins1
+          - node.labels.name==dtwins2
     command: dt-client-accel
 
-  twin_abcd:
+  twin:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
@@ -77,7 +77,7 @@ services:
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
       - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
-      - MQTT_SUBSCRIBED_TOPIC=$share/A/A
+      - MQTT_SUBSCRIBED_TOPIC=$queue/A/A
     networks:
       - default
     restart: always
@@ -85,7 +85,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins1
+          - node.labels.name==dtwins2
     command: dt-instance
 
 networks:
