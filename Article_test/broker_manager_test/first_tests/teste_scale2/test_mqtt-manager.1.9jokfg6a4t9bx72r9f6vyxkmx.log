@@ -377,7 +377,7 @@
 2022-01-02T03:30:02.542757623Z  [2022-01-02T03:30:02Z INFO  dt_mqtt_manager] Current avg queue size :0
 2022-01-02T03:30:03.580094491Z  [2022-01-02T03:30:03Z INFO  dt_mqtt_manager] Latest CPU = "0.650.650.65", Used MEM = "129.08M129.00M131.23M", All Queue = 0, All Inflight = 0
 2022-01-02T03:30:03.580347660Z  [2022-01-02T03:30:03Z INFO  dt_mqtt_manager] Current avg queue size :0
-2022-01-02T03:30:04.619917478Z  [2022-01-02T03:30:04Z INFO  dt_mqtt_manager] Latest CPU = "0.600.600.60", Used MEM = "129.07M129.04M131.26M", All Queue = 0, All Inflight = 0
+2022-01-02T03:30:04.619917478Z  [2022-01-02T03:30:04Z INFO  dt_mqtt_manager] Latest CPU = "0.600.600.60", Used MEM = "129.07M 129.04M 131.26M", All Queue = 0, All Inflight = 0
 2022-01-02T03:30:04.619957870Z  [2022-01-02T03:30:04Z INFO  dt_mqtt_manager] Current avg queue size :0
 2022-01-02T03:30:05.668607227Z  [2022-01-02T03:30:05Z INFO  dt_mqtt_manager] Latest CPU = "0.600.600.60", Used MEM = "129.08M128.98M131.26M", All Queue = 0, All Inflight = 0
 2022-01-02T03:30:05.668653728Z  [2022-01-02T03:30:05Z INFO  dt_mqtt_manager] Current avg queue size :0
@@ -385,7 +385,7 @@
 2022-01-02T03:30:06.711180492Z  [2022-01-02T03:30:06Z INFO  dt_mqtt_manager] Current avg queue size :0
 2022-01-02T03:30:07.744990835Z  [2022-01-02T03:30:07Z INFO  dt_mqtt_manager] Latest CPU = "0.600.600.60", Used MEM = "129.09M129.06M131.17M", All Queue = 0, All Inflight = 0
 2022-01-02T03:30:07.745028194Z  [2022-01-02T03:30:07Z INFO  dt_mqtt_manager] Current avg queue size :0
-2022-01-02T03:30:08.789698832Z  [2022-01-02T03:30:08Z INFO  dt_mqtt_manager] Latest CPU = "0.600.600.60", Used MEM = "129.07M128.98M131.29M", All Queue = 0, All Inflight = 0
+2022-01-02T03:30:08.789698832Z  [2022-01-02T03:30:08Z INFO  dt_mqtt_manager] Latest CPU = "0.60 0.60 0.60", Used MEM = "129.07M128.98M131.29M", All Queue = 0, All Inflight = 0
 2022-01-02T03:30:08.789738122Z  [2022-01-02T03:30:08Z INFO  dt_mqtt_manager] Current avg queue size :0
 2022-01-02T03:30:09.834703030Z  [2022-01-02T03:30:09Z INFO  dt_mqtt_manager] Latest CPU = "0.550.550.55", Used MEM = "129.08M129.05M131.27M", All Queue = 0, All Inflight = 0
 2022-01-02T03:30:09.834761037Z  [2022-01-02T03:30:09Z INFO  dt_mqtt_manager] Current avg queue size :0
