@@ -22,6 +22,7 @@ services:
     image: "emqx/emqx:4.3.8"
     environment:
       - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_ZONE__EXTERNAL__MAX_INFLIGHT=32
       - EMQX_CLUSTER__DISCOVERY=etcd
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
@@ -46,6 +47,7 @@ services:
       - SWARM_API_PORT=2375
       - CLUSTER_SAVES=15
       - MAX_QUEUE=200
+      - MAX_INFLIGHT=32
       - SCALE_BLOCK_TIME=30
       - RUST_LOG=info
     networks:
