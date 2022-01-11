@@ -1,0 +1,1225 @@
+2022-01-11T13:15:07.783354851Z  [2022-01-11T13:15:07Z INFO  dt_instance] Connecting to broker at mqtt-cluster:1883
+2022-01-11T13:15:07.783470121Z  [2022-01-11T13:15:07Z INFO  dt_instance] Using default packet size of 10240 KB.
+2022-01-11T13:15:07.797950441Z  [2022-01-11T13:15:07Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2022-01-11T13:15:07.953581481Z  [2022-01-11T13:15:07Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2022-01-11T13:15:08.107153163Z  [2022-01-11T13:15:08Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2022-01-11T13:15:08.260576917Z  [2022-01-11T13:15:08Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2022-01-11T13:15:08.419514412Z  [2022-01-11T13:15:08Z ERROR dt_instance] MQTT ERROR: Io(Custom { kind: Uncategorized, error: "failed to lookup address information: Temporary failure in name resolution" })
+2022-01-11T13:15:08.572679749Z  [2022-01-11T13:15:08Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:08.725670450Z  [2022-01-11T13:15:08Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:08.878560772Z  [2022-01-11T13:15:08Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:09.031320309Z  [2022-01-11T13:15:09Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:09.183921558Z  [2022-01-11T13:15:09Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:09.335735364Z  [2022-01-11T13:15:09Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:09.488649358Z  [2022-01-11T13:15:09Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:09.641505121Z  [2022-01-11T13:15:09Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:09.794532752Z  [2022-01-11T13:15:09Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:09.947764557Z  [2022-01-11T13:15:09Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:10.100894421Z  [2022-01-11T13:15:10Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:10.253975394Z  [2022-01-11T13:15:10Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:10.406078142Z  [2022-01-11T13:15:10Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:10.558257164Z  [2022-01-11T13:15:10Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:10.711324269Z  [2022-01-11T13:15:10Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:10.864324614Z  [2022-01-11T13:15:10Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:11.017601932Z  [2022-01-11T13:15:11Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:11.170507388Z  [2022-01-11T13:15:11Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:11.323495184Z  [2022-01-11T13:15:11Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:11.476534506Z  [2022-01-11T13:15:11Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:11.629560543Z  [2022-01-11T13:15:11Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:11.783349774Z  [2022-01-11T13:15:11Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:11.935054521Z  [2022-01-11T13:15:11Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:12.087459885Z  [2022-01-11T13:15:12Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:12.240635374Z  [2022-01-11T13:15:12Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:12.393671719Z  [2022-01-11T13:15:12Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:12.547039430Z  [2022-01-11T13:15:12Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:12.699235174Z  [2022-01-11T13:15:12Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:12.852324221Z  [2022-01-11T13:15:12Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:13.005533641Z  [2022-01-11T13:15:13Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:13.158633758Z  [2022-01-11T13:15:13Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:13.311772003Z  [2022-01-11T13:15:13Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:13.465371301Z  [2022-01-11T13:15:13Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:13.618672588Z  [2022-01-11T13:15:13Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:13.771797468Z  [2022-01-11T13:15:13Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:13.924873840Z  [2022-01-11T13:15:13Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:14.078007896Z  [2022-01-11T13:15:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:14.230331552Z  [2022-01-11T13:15:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:14.383720460Z  [2022-01-11T13:15:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:14.536726531Z  [2022-01-11T13:15:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:14.689718257Z  [2022-01-11T13:15:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:14.842815439Z  [2022-01-11T13:15:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:14.996041594Z  [2022-01-11T13:15:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:15.148144692Z  [2022-01-11T13:15:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:15.300135572Z  [2022-01-11T13:15:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:15.452395075Z  [2022-01-11T13:15:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:15.605490084Z  [2022-01-11T13:15:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:15.758782644Z  [2022-01-11T13:15:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:15.911950973Z  [2022-01-11T13:15:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:16.064302824Z  [2022-01-11T13:15:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:16.217408458Z  [2022-01-11T13:15:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:16.370797186Z  [2022-01-11T13:15:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:16.523945319Z  [2022-01-11T13:15:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:16.675822165Z  [2022-01-11T13:15:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:16.828827796Z  [2022-01-11T13:15:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:16.982030010Z  [2022-01-11T13:15:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:17.134468199Z  [2022-01-11T13:15:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:17.287703300Z  [2022-01-11T13:15:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:17.440959788Z  [2022-01-11T13:15:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:17.593148142Z  [2022-01-11T13:15:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:17.746460254Z  [2022-01-11T13:15:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:17.899699756Z  [2022-01-11T13:15:17Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:18.052785534Z  [2022-01-11T13:15:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:18.205088792Z  [2022-01-11T13:15:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:18.357290498Z  [2022-01-11T13:15:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:18.510223122Z  [2022-01-11T13:15:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:18.663224642Z  [2022-01-11T13:15:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:18.816441827Z  [2022-01-11T13:15:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:18.969701392Z  [2022-01-11T13:15:18Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:19.122628978Z  [2022-01-11T13:15:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:19.275622640Z  [2022-01-11T13:15:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:19.428546013Z  [2022-01-11T13:15:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:19.581500687Z  [2022-01-11T13:15:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:19.734651688Z  [2022-01-11T13:15:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:19.887888353Z  [2022-01-11T13:15:19Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:20.040219113Z  [2022-01-11T13:15:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:20.193498642Z  [2022-01-11T13:15:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:20.346992063Z  [2022-01-11T13:15:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:20.500567909Z  [2022-01-11T13:15:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:20.653771367Z  [2022-01-11T13:15:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:20.807174907Z  [2022-01-11T13:15:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:20.960209194Z  [2022-01-11T13:15:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:21.113413393Z  [2022-01-11T13:15:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:21.266527700Z  [2022-01-11T13:15:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:21.419661030Z  [2022-01-11T13:15:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:21.572905932Z  [2022-01-11T13:15:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:21.725746524Z  [2022-01-11T13:15:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:21.878945268Z  [2022-01-11T13:15:21Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:22.031424667Z  [2022-01-11T13:15:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:22.184129404Z  [2022-01-11T13:15:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:22.336449379Z  [2022-01-11T13:15:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:22.489503979Z  [2022-01-11T13:15:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:22.642613899Z  [2022-01-11T13:15:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:22.796032811Z  [2022-01-11T13:15:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:22.948097985Z  [2022-01-11T13:15:22Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:23.100166411Z  [2022-01-11T13:15:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:23.251996712Z  [2022-01-11T13:15:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:23.403997130Z  [2022-01-11T13:15:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:23.555955886Z  [2022-01-11T13:15:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:23.707944192Z  [2022-01-11T13:15:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:23.859962363Z  [2022-01-11T13:15:23Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:24.011974056Z  [2022-01-11T13:15:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:24.163989766Z  [2022-01-11T13:15:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:24.316356859Z  [2022-01-11T13:15:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:24.469510242Z  [2022-01-11T13:15:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:24.622924508Z  [2022-01-11T13:15:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:24.775472816Z  [2022-01-11T13:15:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:24.928556790Z  [2022-01-11T13:15:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:25.081501235Z  [2022-01-11T13:15:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:25.234280648Z  [2022-01-11T13:15:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:25.387693489Z  [2022-01-11T13:15:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:25.540696083Z  [2022-01-11T13:15:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:25.693666967Z  [2022-01-11T13:15:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:25.846612989Z  [2022-01-11T13:15:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:25.999632936Z  [2022-01-11T13:15:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:26.152411287Z  [2022-01-11T13:15:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:26.306347686Z  [2022-01-11T13:15:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:26.458950798Z  [2022-01-11T13:15:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:26.612923379Z  [2022-01-11T13:15:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:26.766589000Z  [2022-01-11T13:15:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:26.920838409Z  [2022-01-11T13:15:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:27.075187882Z  [2022-01-11T13:15:27Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:27.227867049Z  [2022-01-11T13:15:27Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:27.380123618Z  [2022-01-11T13:15:27Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-01-11T13:15:27.537467442Z  [2022-01-11T13:15:27Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/A/A
+2022-01-11T13:15:27.539209726Z  [2022-01-11T13:15:27Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }
+2022-01-11T13:15:57.539353918Z  [2022-01-11T13:15:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:16:24.731217262Z  [2022-01-11T13:16:24Z INFO  dt_instance] A "0" 13:16:24.162827726
+2022-01-11T13:16:25.237723394Z  [2022-01-11T13:16:25Z INFO  dt_instance] A "10" 13:16:24.674286755
+2022-01-11T13:16:25.743847787Z  [2022-01-11T13:16:25Z INFO  dt_instance] A "20" 13:16:25.186060951
+2022-01-11T13:16:26.257677596Z  [2022-01-11T13:16:26Z INFO  dt_instance] A "30" 13:16:25.698074718
+2022-01-11T13:16:26.767735523Z  [2022-01-11T13:16:26Z INFO  dt_instance] A "40" 13:16:26.210056693
+2022-01-11T13:16:27.280247200Z  [2022-01-11T13:16:27Z INFO  dt_instance] A "50" 13:16:26.722578847
+2022-01-11T13:16:27.540361934Z  [2022-01-11T13:16:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:16:27.794079588Z  [2022-01-11T13:16:27Z INFO  dt_instance] A "60" 13:16:27.235945926
+2022-01-11T13:16:28.306126661Z  [2022-01-11T13:16:28Z INFO  dt_instance] A "70" 13:16:27.748122622
+2022-01-11T13:16:28.819505774Z  [2022-01-11T13:16:28Z INFO  dt_instance] A "80" 13:16:28.261414168
+2022-01-11T13:16:29.330657473Z  [2022-01-11T13:16:29Z INFO  dt_instance] A "90" 13:16:28.772592854
+2022-01-11T13:16:29.842636971Z  [2022-01-11T13:16:29Z INFO  dt_instance] A "100" 13:16:29.284698346
+2022-01-11T13:16:30.354491443Z  [2022-01-11T13:16:30Z INFO  dt_instance] A "110" 13:16:29.796091239
+2022-01-11T13:16:30.868682256Z  [2022-01-11T13:16:30Z INFO  dt_instance] A "120" 13:16:30.310530209
+2022-01-11T13:16:31.382393753Z  [2022-01-11T13:16:31Z INFO  dt_instance] A "130" 13:16:30.824077773
+2022-01-11T13:16:31.895261938Z  [2022-01-11T13:16:31Z INFO  dt_instance] A "140" 13:16:31.337056363
+2022-01-11T13:16:32.408520972Z  [2022-01-11T13:16:32Z INFO  dt_instance] A "150" 13:16:31.850569639
+2022-01-11T13:16:32.921755936Z  [2022-01-11T13:16:32Z INFO  dt_instance] A "160" 13:16:32.363670385
+2022-01-11T13:16:33.431990476Z  [2022-01-11T13:16:33Z INFO  dt_instance] A "170" 13:16:32.874142509
+2022-01-11T13:16:33.948213663Z  [2022-01-11T13:16:33Z INFO  dt_instance] A "180" 13:16:33.390029249
+2022-01-11T13:16:34.459942871Z  [2022-01-11T13:16:34Z INFO  dt_instance] A "190" 13:16:33.901912458
+2022-01-11T13:16:34.971723577Z  [2022-01-11T13:16:34Z INFO  dt_instance] A "200" 13:16:34.413171353
+2022-01-11T13:16:35.483969038Z  [2022-01-11T13:16:35Z INFO  dt_instance] A "210" 13:16:34.925151213
+2022-01-11T13:16:35.996198441Z  [2022-01-11T13:16:35Z INFO  dt_instance] A "220" 13:16:35.438052812
+2022-01-11T13:16:36.508867310Z  [2022-01-11T13:16:36Z INFO  dt_instance] A "230" 13:16:35.950860662
+2022-01-11T13:16:37.021973833Z  [2022-01-11T13:16:37Z INFO  dt_instance] A "240" 13:16:36.463781145
+2022-01-11T13:16:37.534468646Z  [2022-01-11T13:16:37Z INFO  dt_instance] A "250" 13:16:36.976544865
+2022-01-11T13:16:38.045235956Z  [2022-01-11T13:16:38Z INFO  dt_instance] A "260" 13:16:37.487374724
+2022-01-11T13:16:38.557829280Z  [2022-01-11T13:16:38Z INFO  dt_instance] A "270" 13:16:37.999838383
+2022-01-11T13:16:39.070871419Z  [2022-01-11T13:16:39Z INFO  dt_instance] A "280" 13:16:38.512942573
+2022-01-11T13:16:39.582340995Z  [2022-01-11T13:16:39Z INFO  dt_instance] A "290" 13:16:39.024522099
+2022-01-11T13:16:40.093947420Z  [2022-01-11T13:16:40Z INFO  dt_instance] A "300" 13:16:39.535865447
+2022-01-11T13:16:40.606206830Z  [2022-01-11T13:16:40Z INFO  dt_instance] A "310" 13:16:40.047915237
+2022-01-11T13:16:41.120051761Z  [2022-01-11T13:16:41Z INFO  dt_instance] A "320" 13:16:40.562478971
+2022-01-11T13:16:41.634765049Z  [2022-01-11T13:16:41Z INFO  dt_instance] A "330" 13:16:41.076829748
+2022-01-11T13:16:42.146972044Z  [2022-01-11T13:16:42Z INFO  dt_instance] A "340" 13:16:41.588751477
+2022-01-11T13:16:42.660576234Z  [2022-01-11T13:16:42Z INFO  dt_instance] A "350" 13:16:42.102276637
+2022-01-11T13:16:43.173995432Z  [2022-01-11T13:16:43Z INFO  dt_instance] A "360" 13:16:42.616048071
+2022-01-11T13:16:43.686781831Z  [2022-01-11T13:16:43Z INFO  dt_instance] A "370" 13:16:43.128653911
+2022-01-11T13:16:44.200990019Z  [2022-01-11T13:16:44Z INFO  dt_instance] A "380" 13:16:43.642928574
+2022-01-11T13:16:44.713568143Z  [2022-01-11T13:16:44Z INFO  dt_instance] A "390" 13:16:44.155200054
+2022-01-11T13:16:45.225656065Z  [2022-01-11T13:16:45Z INFO  dt_instance] A "400" 13:16:44.667717925
+2022-01-11T13:16:45.739071001Z  [2022-01-11T13:16:45Z INFO  dt_instance] A "410" 13:16:45.180883933
+2022-01-11T13:16:46.251054421Z  [2022-01-11T13:16:46Z INFO  dt_instance] A "420" 13:16:45.692966996
+2022-01-11T13:16:46.762891431Z  [2022-01-11T13:16:46Z INFO  dt_instance] A "430" 13:16:46.204969465
+2022-01-11T13:16:47.274898918Z  [2022-01-11T13:16:47Z INFO  dt_instance] A "440" 13:16:46.717258894
+2022-01-11T13:16:47.789042054Z  [2022-01-11T13:16:47Z INFO  dt_instance] A "450" 13:16:47.230989191
+2022-01-11T13:16:48.301025971Z  [2022-01-11T13:16:48Z INFO  dt_instance] A "460" 13:16:47.742954711
+2022-01-11T13:16:48.811808936Z  [2022-01-11T13:16:48Z INFO  dt_instance] A "470" 13:16:48.253577242
+2022-01-11T13:16:49.324934724Z  [2022-01-11T13:16:49Z INFO  dt_instance] A "480" 13:16:48.767030232
+2022-01-11T13:16:49.837458700Z  [2022-01-11T13:16:49Z INFO  dt_instance] A "490" 13:16:49.279429029
+2022-01-11T13:16:50.349026050Z  [2022-01-11T13:16:50Z INFO  dt_instance] A "500" 13:16:49.791034274
+2022-01-11T13:16:50.860414843Z  [2022-01-11T13:16:50Z INFO  dt_instance] A "510" 13:16:50.302338370
+2022-01-11T13:16:51.371945206Z  [2022-01-11T13:16:51Z INFO  dt_instance] A "520" 13:16:50.814186055
+2022-01-11T13:16:51.884156222Z  [2022-01-11T13:16:51Z INFO  dt_instance] A "530" 13:16:51.325246145
+2022-01-11T13:16:52.395278069Z  [2022-01-11T13:16:52Z INFO  dt_instance] A "540" 13:16:51.837083594
+2022-01-11T13:16:52.908488683Z  [2022-01-11T13:16:52Z INFO  dt_instance] A "550" 13:16:52.350312154
+2022-01-11T13:16:53.417951734Z  [2022-01-11T13:16:53Z INFO  dt_instance] A "560" 13:16:52.859860832
+2022-01-11T13:16:53.929890636Z  [2022-01-11T13:16:53Z INFO  dt_instance] A "570" 13:16:53.371817265
+2022-01-11T13:16:54.442083251Z  [2022-01-11T13:16:54Z INFO  dt_instance] A "580" 13:16:53.883915903
+2022-01-11T13:16:54.954085488Z  [2022-01-11T13:16:54Z INFO  dt_instance] A "590" 13:16:54.395986273
+2022-01-11T13:16:55.464599028Z  [2022-01-11T13:16:55Z INFO  dt_instance] A "600" 13:16:54.906899643
+2022-01-11T13:16:55.978247255Z  [2022-01-11T13:16:55Z INFO  dt_instance] A "610" 13:16:55.419881918
+2022-01-11T13:16:56.492654036Z  [2022-01-11T13:16:56Z INFO  dt_instance] A "620" 13:16:55.934757458
+2022-01-11T13:16:57.006396284Z  [2022-01-11T13:16:57Z INFO  dt_instance] A "630" 13:16:56.448351377
+2022-01-11T13:16:57.519799123Z  [2022-01-11T13:16:57Z INFO  dt_instance] A "640" 13:16:56.961453749
+2022-01-11T13:16:57.540946184Z  [2022-01-11T13:16:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:16:58.034078662Z  [2022-01-11T13:16:58Z INFO  dt_instance] A "650" 13:16:57.475851689
+2022-01-11T13:16:58.546935942Z  [2022-01-11T13:16:58Z INFO  dt_instance] A "660" 13:16:57.988582329
+2022-01-11T13:16:59.061046942Z  [2022-01-11T13:16:59Z INFO  dt_instance] A "670" 13:16:58.502862983
+2022-01-11T13:16:59.572486041Z  [2022-01-11T13:16:59Z INFO  dt_instance] A "680" 13:16:59.014335782
+2022-01-11T13:17:00.085718265Z  [2022-01-11T13:17:00Z INFO  dt_instance] A "690" 13:16:59.527569901
+2022-01-11T13:17:00.600251936Z  [2022-01-11T13:17:00Z INFO  dt_instance] A "700" 13:17:00.041963659
+2022-01-11T13:17:01.116692622Z  [2022-01-11T13:17:01Z INFO  dt_instance] A "710" 13:17:00.555132356
+2022-01-11T13:17:01.623386477Z  [2022-01-11T13:17:01Z INFO  dt_instance] A "720" 13:17:01.065250369
+2022-01-11T13:17:02.135244293Z  [2022-01-11T13:17:02Z INFO  dt_instance] A "730" 13:17:01.576997099
+2022-01-11T13:17:02.646072267Z  [2022-01-11T13:17:02Z INFO  dt_instance] A "740" 13:17:02.087933652
+2022-01-11T13:17:03.157176516Z  [2022-01-11T13:17:03Z INFO  dt_instance] A "750" 13:17:02.599691165
+2022-01-11T13:17:03.672987284Z  [2022-01-11T13:17:03Z INFO  dt_instance] A "760" 13:17:03.114750542
+2022-01-11T13:17:04.186283342Z  [2022-01-11T13:17:04Z INFO  dt_instance] A "770" 13:17:03.628145242
+2022-01-11T13:17:04.699533045Z  [2022-01-11T13:17:04Z INFO  dt_instance] A "780" 13:17:04.141293388
+2022-01-11T13:17:05.212229558Z  [2022-01-11T13:17:05Z INFO  dt_instance] A "790" 13:17:04.653898547
+2022-01-11T13:17:05.725052036Z  [2022-01-11T13:17:05Z INFO  dt_instance] A "800" 13:17:05.166798471
+2022-01-11T13:17:06.237099962Z  [2022-01-11T13:17:06Z INFO  dt_instance] A "810" 13:17:05.678846176
+2022-01-11T13:17:06.747871056Z  [2022-01-11T13:17:06Z INFO  dt_instance] A "820" 13:17:06.189896155
+2022-01-11T13:17:07.262906283Z  [2022-01-11T13:17:07Z INFO  dt_instance] A "830" 13:17:06.704437073
+2022-01-11T13:17:07.773363837Z  [2022-01-11T13:17:07Z INFO  dt_instance] A "840" 13:17:07.215116361
+2022-01-11T13:17:08.286612111Z  [2022-01-11T13:17:08Z INFO  dt_instance] A "850" 13:17:07.728426514
+2022-01-11T13:17:08.798640970Z  [2022-01-11T13:17:08Z INFO  dt_instance] A "860" 13:17:08.240535574
+2022-01-11T13:17:09.313156535Z  [2022-01-11T13:17:09Z INFO  dt_instance] A "870" 13:17:08.755442371
+2022-01-11T13:17:09.826671059Z  [2022-01-11T13:17:09Z INFO  dt_instance] A "880" 13:17:09.268551431
+2022-01-11T13:17:10.341901266Z  [2022-01-11T13:17:10Z INFO  dt_instance] A "890" 13:17:09.783677415
+2022-01-11T13:17:10.854887276Z  [2022-01-11T13:17:10Z INFO  dt_instance] A "900" 13:17:10.296653129
+2022-01-11T13:17:11.367287190Z  [2022-01-11T13:17:11Z INFO  dt_instance] A "910" 13:17:10.809571824
+2022-01-11T13:17:11.879758313Z  [2022-01-11T13:17:11Z INFO  dt_instance] A "920" 13:17:11.321537888
+2022-01-11T13:17:12.393948918Z  [2022-01-11T13:17:12Z INFO  dt_instance] A "930" 13:17:11.835632438
+2022-01-11T13:17:12.906911004Z  [2022-01-11T13:17:12Z INFO  dt_instance] A "940" 13:17:12.348814798
+2022-01-11T13:17:13.420487855Z  [2022-01-11T13:17:13Z INFO  dt_instance] A "950" 13:17:12.862644501
+2022-01-11T13:17:13.935203656Z  [2022-01-11T13:17:13Z INFO  dt_instance] A "960" 13:17:13.377004232
+2022-01-11T13:17:14.448667312Z  [2022-01-11T13:17:14Z INFO  dt_instance] A "970" 13:17:13.890502342
+2022-01-11T13:17:14.962237387Z  [2022-01-11T13:17:14Z INFO  dt_instance] A "980" 13:17:14.404122995
+2022-01-11T13:17:15.478818300Z  [2022-01-11T13:17:15Z INFO  dt_instance] A "990" 13:17:14.919150003
+2022-01-11T13:17:15.989341177Z  [2022-01-11T13:17:15Z INFO  dt_instance] A "1000" 13:17:15.431085139
+2022-01-11T13:17:16.502519396Z  [2022-01-11T13:17:16Z INFO  dt_instance] A "1010" 13:17:15.943093764
+2022-01-11T13:17:17.014022764Z  [2022-01-11T13:17:17Z INFO  dt_instance] A "1020" 13:17:16.455547088
+2022-01-11T13:17:17.522978543Z  [2022-01-11T13:17:17Z INFO  dt_instance] A "1030" 13:17:16.964999269
+2022-01-11T13:17:18.034688157Z  [2022-01-11T13:17:18Z INFO  dt_instance] A "1040" 13:17:17.476312385
+2022-01-11T13:17:18.547003807Z  [2022-01-11T13:17:18Z INFO  dt_instance] A "1050" 13:17:17.989066864
+2022-01-11T13:17:19.058655257Z  [2022-01-11T13:17:19Z INFO  dt_instance] A "1060" 13:17:18.500503794
+2022-01-11T13:17:19.573519273Z  [2022-01-11T13:17:19Z INFO  dt_instance] A "1070" 13:17:19.015166154
+2022-01-11T13:17:20.088065417Z  [2022-01-11T13:17:20Z INFO  dt_instance] A "1080" 13:17:19.529893195
+2022-01-11T13:17:20.600104183Z  [2022-01-11T13:17:20Z INFO  dt_instance] A "1090" 13:17:20.041608697
+2022-01-11T13:17:21.112543957Z  [2022-01-11T13:17:21Z INFO  dt_instance] A "1100" 13:17:20.554182064
+2022-01-11T13:17:21.627102518Z  [2022-01-11T13:17:21Z INFO  dt_instance] A "1110" 13:17:21.068789157
+2022-01-11T13:17:22.139725301Z  [2022-01-11T13:17:22Z INFO  dt_instance] A "1120" 13:17:21.581638260
+2022-01-11T13:17:22.652406655Z  [2022-01-11T13:17:22Z INFO  dt_instance] A "1130" 13:17:22.094003837
+2022-01-11T13:17:23.164820896Z  [2022-01-11T13:17:23Z INFO  dt_instance] A "1140" 13:17:22.606323873
+2022-01-11T13:17:23.675023416Z  [2022-01-11T13:17:23Z INFO  dt_instance] A "1150" 13:17:23.116877501
+2022-01-11T13:17:24.188154161Z  [2022-01-11T13:17:24Z INFO  dt_instance] A "1160" 13:17:23.629361711
+2022-01-11T13:17:24.697359100Z  [2022-01-11T13:17:24Z INFO  dt_instance] A "1170" 13:17:24.139056915
+2022-01-11T13:17:25.209632630Z  [2022-01-11T13:17:25Z INFO  dt_instance] A "1180" 13:17:24.650908471
+2022-01-11T13:17:25.722851997Z  [2022-01-11T13:17:25Z INFO  dt_instance] A "1190" 13:17:25.164875991
+2022-01-11T13:17:26.235712732Z  [2022-01-11T13:17:26Z INFO  dt_instance] A "1200" 13:17:25.677269271
+2022-01-11T13:17:26.748966097Z  [2022-01-11T13:17:26Z INFO  dt_instance] A "1210" 13:17:26.190591665
+2022-01-11T13:17:27.261469897Z  [2022-01-11T13:17:27Z INFO  dt_instance] A "1220" 13:17:26.703430607
+2022-01-11T13:17:27.542649534Z  [2022-01-11T13:17:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:17:27.772724724Z  [2022-01-11T13:17:27Z INFO  dt_instance] A "1230" 13:17:27.214815145
+2022-01-11T13:17:28.287304665Z  [2022-01-11T13:17:28Z INFO  dt_instance] A "1240" 13:17:27.729011361
+2022-01-11T13:17:28.799665101Z  [2022-01-11T13:17:28Z INFO  dt_instance] A "1250" 13:17:28.241243906
+2022-01-11T13:17:29.311281536Z  [2022-01-11T13:17:29Z INFO  dt_instance] A "1260" 13:17:28.752899855
+2022-01-11T13:17:29.825101314Z  [2022-01-11T13:17:29Z INFO  dt_instance] A "1270" 13:17:29.266705672
+2022-01-11T13:17:30.338922823Z  [2022-01-11T13:17:30Z INFO  dt_instance] A "1280" 13:17:29.780532312
+2022-01-11T13:17:30.852041483Z  [2022-01-11T13:17:30Z INFO  dt_instance] A "1290" 13:17:30.293783122
+2022-01-11T13:17:31.365120617Z  [2022-01-11T13:17:31Z INFO  dt_instance] A "1300" 13:17:30.806621535
+2022-01-11T13:17:31.877229794Z  [2022-01-11T13:17:31Z INFO  dt_instance] A "1310" 13:17:31.318923295
+2022-01-11T13:17:32.391174770Z  [2022-01-11T13:17:32Z INFO  dt_instance] A "1320" 13:17:31.832752675
+2022-01-11T13:17:32.903949287Z  [2022-01-11T13:17:32Z INFO  dt_instance] A "1330" 13:17:32.345625631
+2022-01-11T13:17:33.416390993Z  [2022-01-11T13:17:33Z INFO  dt_instance] A "1340" 13:17:32.858084037
+2022-01-11T13:17:33.928592580Z  [2022-01-11T13:17:33Z INFO  dt_instance] A "1350" 13:17:33.370183167
+2022-01-11T13:17:34.442889922Z  [2022-01-11T13:17:34Z INFO  dt_instance] A "1360" 13:17:33.884425177
+2022-01-11T13:17:34.956750360Z  [2022-01-11T13:17:34Z INFO  dt_instance] A "1370" 13:17:34.398468017
+2022-01-11T13:17:35.468547321Z  [2022-01-11T13:17:35Z INFO  dt_instance] A "1380" 13:17:34.909998527
+2022-01-11T13:17:35.980182902Z  [2022-01-11T13:17:35Z INFO  dt_instance] A "1390" 13:17:35.422215533
+2022-01-11T13:17:36.491942265Z  [2022-01-11T13:17:36Z INFO  dt_instance] A "1400" 13:17:35.933470548
+2022-01-11T13:17:37.004675838Z  [2022-01-11T13:17:37Z INFO  dt_instance] A "1410" 13:17:36.446699634
+2022-01-11T13:17:37.517258517Z  [2022-01-11T13:17:37Z INFO  dt_instance] A "1420" 13:17:36.959540074
+2022-01-11T13:17:38.028092766Z  [2022-01-11T13:17:38Z INFO  dt_instance] A "1430" 13:17:37.469857776
+2022-01-11T13:17:38.538635203Z  [2022-01-11T13:17:38Z INFO  dt_instance] A "1440" 13:17:37.980605480
+2022-01-11T13:17:39.051501459Z  [2022-01-11T13:17:39Z INFO  dt_instance] A "1450" 13:17:38.493059354
+2022-01-11T13:17:39.561083578Z  [2022-01-11T13:17:39Z INFO  dt_instance] A "1460" 13:17:39.003217805
+2022-01-11T13:17:40.074690823Z  [2022-01-11T13:17:40Z INFO  dt_instance] A "1470" 13:17:39.516577919
+2022-01-11T13:17:40.590143413Z  [2022-01-11T13:17:40Z INFO  dt_instance] A "1480" 13:17:40.032117992
+2022-01-11T13:17:41.103856472Z  [2022-01-11T13:17:41Z INFO  dt_instance] A "1490" 13:17:40.545525040
+2022-01-11T13:17:41.614038846Z  [2022-01-11T13:17:41Z INFO  dt_instance] A "1500" 13:17:41.055994787
+2022-01-11T13:17:42.126242012Z  [2022-01-11T13:17:42Z INFO  dt_instance] A "1510" 13:17:41.568029151
+2022-01-11T13:17:42.638451699Z  [2022-01-11T13:17:42Z INFO  dt_instance] A "1520" 13:17:42.080030581
+2022-01-11T13:17:43.149708376Z  [2022-01-11T13:17:43Z INFO  dt_instance] A "1530" 13:17:42.591393729
+2022-01-11T13:17:43.663781444Z  [2022-01-11T13:17:43Z INFO  dt_instance] A "1540" 13:17:43.105387300
+2022-01-11T13:17:44.177118050Z  [2022-01-11T13:17:44Z INFO  dt_instance] A "1550" 13:17:43.618742857
+2022-01-11T13:17:44.688665453Z  [2022-01-11T13:17:44Z INFO  dt_instance] A "1560" 13:17:44.130374526
+2022-01-11T13:17:45.203142711Z  [2022-01-11T13:17:45Z INFO  dt_instance] A "1570" 13:17:44.645019689
+2022-01-11T13:17:45.715906210Z  [2022-01-11T13:17:45Z INFO  dt_instance] A "1580" 13:17:45.157599223
+2022-01-11T13:17:46.228635335Z  [2022-01-11T13:17:46Z INFO  dt_instance] A "1590" 13:17:45.670484459
+2022-01-11T13:17:46.741446844Z  [2022-01-11T13:17:46Z INFO  dt_instance] A "1600" 13:17:46.183069752
+2022-01-11T13:17:47.254388969Z  [2022-01-11T13:17:47Z INFO  dt_instance] A "1610" 13:17:46.696093638
+2022-01-11T13:17:47.770097542Z  [2022-01-11T13:17:47Z INFO  dt_instance] A "1620" 13:17:47.211723529
+2022-01-11T13:17:48.281657234Z  [2022-01-11T13:17:48Z INFO  dt_instance] A "1630" 13:17:47.723357392
+2022-01-11T13:17:48.795697064Z  [2022-01-11T13:17:48Z INFO  dt_instance] A "1640" 13:17:48.237441959
+2022-01-11T13:17:49.307228534Z  [2022-01-11T13:17:49Z INFO  dt_instance] A "1650" 13:17:48.749445068
+2022-01-11T13:17:49.822999451Z  [2022-01-11T13:17:49Z INFO  dt_instance] A "1660" 13:17:49.264619063
+2022-01-11T13:17:50.335306726Z  [2022-01-11T13:17:50Z INFO  dt_instance] A "1670" 13:17:49.776991475
+2022-01-11T13:17:50.848582400Z  [2022-01-11T13:17:50Z INFO  dt_instance] A "1680" 13:17:50.289415422
+2022-01-11T13:17:51.359036299Z  [2022-01-11T13:17:51Z INFO  dt_instance] A "1690" 13:17:50.801045817
+2022-01-11T13:17:51.870751557Z  [2022-01-11T13:17:51Z INFO  dt_instance] A "1700" 13:17:51.312737576
+2022-01-11T13:17:52.385265431Z  [2022-01-11T13:17:52Z INFO  dt_instance] A "1710" 13:17:51.826942650
+2022-01-11T13:17:52.897949505Z  [2022-01-11T13:17:52Z INFO  dt_instance] A "1720" 13:17:52.339143832
+2022-01-11T13:17:53.408443447Z  [2022-01-11T13:17:53Z INFO  dt_instance] A "1730" 13:17:52.849848975
+2022-01-11T13:17:53.922715043Z  [2022-01-11T13:17:53Z INFO  dt_instance] A "1740" 13:17:53.363748336
+2022-01-11T13:17:54.433539598Z  [2022-01-11T13:17:54Z INFO  dt_instance] A "1750" 13:17:53.875118757
+2022-01-11T13:17:54.947275845Z  [2022-01-11T13:17:54Z INFO  dt_instance] A "1760" 13:17:54.388448880
+2022-01-11T13:17:55.460102601Z  [2022-01-11T13:17:55Z INFO  dt_instance] A "1770" 13:17:54.902286731
+2022-01-11T13:17:55.972090030Z  [2022-01-11T13:17:55Z INFO  dt_instance] A "1780" 13:17:55.414315224
+2022-01-11T13:17:56.484382604Z  [2022-01-11T13:17:56Z INFO  dt_instance] A "1790" 13:17:55.926398117
+2022-01-11T13:17:56.997042878Z  [2022-01-11T13:17:56Z INFO  dt_instance] A "1800" 13:17:56.438520102
+2022-01-11T13:17:57.509345229Z  [2022-01-11T13:17:57Z INFO  dt_instance] A "1810" 13:17:56.950711405
+2022-01-11T13:17:57.543046027Z  [2022-01-11T13:17:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:17:58.021637695Z  [2022-01-11T13:17:58Z INFO  dt_instance] A "1820" 13:17:57.463044788
+2022-01-11T13:17:58.532730512Z  [2022-01-11T13:17:58Z INFO  dt_instance] A "1830" 13:17:57.974102043
+2022-01-11T13:17:59.048528971Z  [2022-01-11T13:17:59Z INFO  dt_instance] A "1840" 13:17:58.489021987
+2022-01-11T13:17:59.557164661Z  [2022-01-11T13:17:59Z INFO  dt_instance] A "1850" 13:17:58.999104406
+2022-01-11T13:18:00.072056656Z  [2022-01-11T13:18:00Z INFO  dt_instance] A "1860" 13:17:59.513600136
+2022-01-11T13:18:00.588197257Z  [2022-01-11T13:18:00Z INFO  dt_instance] A "1870" 13:18:00.029583466
+2022-01-11T13:18:01.101705487Z  [2022-01-11T13:18:01Z INFO  dt_instance] A "1880" 13:18:00.543301548
+2022-01-11T13:18:01.613723928Z  [2022-01-11T13:18:01Z INFO  dt_instance] A "1890" 13:18:01.055136710
+2022-01-11T13:18:02.125182041Z  [2022-01-11T13:18:02Z INFO  dt_instance] A "1900" 13:18:01.566663239
+2022-01-11T13:18:02.638944803Z  [2022-01-11T13:18:02Z INFO  dt_instance] A "1910" 13:18:02.080548709
+2022-01-11T13:18:03.154326356Z  [2022-01-11T13:18:03Z INFO  dt_instance] A "1920" 13:18:02.595908974
+2022-01-11T13:18:03.666468879Z  [2022-01-11T13:18:03Z INFO  dt_instance] A "1930" 13:18:03.108258953
+2022-01-11T13:18:04.178081114Z  [2022-01-11T13:18:04Z INFO  dt_instance] A "1940" 13:18:03.619680019
+2022-01-11T13:18:04.690476994Z  [2022-01-11T13:18:04Z INFO  dt_instance] A "1950" 13:18:04.132109712
+2022-01-11T13:18:05.203970102Z  [2022-01-11T13:18:05Z INFO  dt_instance] A "1960" 13:18:04.645389205
+2022-01-11T13:18:05.716121311Z  [2022-01-11T13:18:05Z INFO  dt_instance] A "1970" 13:18:05.157497507
+2022-01-11T13:18:06.228553169Z  [2022-01-11T13:18:06Z INFO  dt_instance] A "1980" 13:18:05.669566754
+2022-01-11T13:18:06.739801020Z  [2022-01-11T13:18:06Z INFO  dt_instance] A "1990" 13:18:06.182170305
+2022-01-11T13:18:07.253115211Z  [2022-01-11T13:18:07Z INFO  dt_instance] A "2000" 13:18:06.694979286
+2022-01-11T13:18:07.765072739Z  [2022-01-11T13:18:07Z INFO  dt_instance] A "2010" 13:18:07.207156832
+2022-01-11T13:18:08.279566080Z  [2022-01-11T13:18:08Z INFO  dt_instance] A "2020" 13:18:07.721229876
+2022-01-11T13:18:08.793005228Z  [2022-01-11T13:18:08Z INFO  dt_instance] A "2030" 13:18:08.235024907
+2022-01-11T13:18:09.305566700Z  [2022-01-11T13:18:09Z INFO  dt_instance] A "2040" 13:18:08.747176085
+2022-01-11T13:18:09.818926710Z  [2022-01-11T13:18:09Z INFO  dt_instance] A "2050" 13:18:09.260507379
+2022-01-11T13:18:10.332285852Z  [2022-01-11T13:18:10Z INFO  dt_instance] A "2060" 13:18:09.774039892
+2022-01-11T13:18:10.847464350Z  [2022-01-11T13:18:10Z INFO  dt_instance] A "2070" 13:18:10.288617913
+2022-01-11T13:18:11.361391484Z  [2022-01-11T13:18:11Z INFO  dt_instance] A "2080" 13:18:10.802708276
+2022-01-11T13:18:11.872985307Z  [2022-01-11T13:18:11Z INFO  dt_instance] A "2090" 13:18:11.314839076
+2022-01-11T13:18:12.386149856Z  [2022-01-11T13:18:12Z INFO  dt_instance] A "2100" 13:18:11.827728352
+2022-01-11T13:18:12.898132472Z  [2022-01-11T13:18:12Z INFO  dt_instance] A "2110" 13:18:12.339818518
+2022-01-11T13:18:13.410742193Z  [2022-01-11T13:18:13Z INFO  dt_instance] A "2120" 13:18:12.852380228
+2022-01-11T13:18:13.922905421Z  [2022-01-11T13:18:13Z INFO  dt_instance] A "2130" 13:18:13.364353017
+2022-01-11T13:18:14.435087341Z  [2022-01-11T13:18:14Z INFO  dt_instance] A "2140" 13:18:13.876791157
+2022-01-11T13:18:14.948943355Z  [2022-01-11T13:18:14Z INFO  dt_instance] A "2150" 13:18:14.390468487
+2022-01-11T13:18:15.461985504Z  [2022-01-11T13:18:15Z INFO  dt_instance] A "2160" 13:18:14.903500373
+2022-01-11T13:18:15.979125850Z  [2022-01-11T13:18:15Z INFO  dt_instance] A "2170" 13:18:15.420741359
+2022-01-11T13:18:16.495115435Z  [2022-01-11T13:18:16Z INFO  dt_instance] A "2180" 13:18:15.935061385
+2022-01-11T13:18:17.007212204Z  [2022-01-11T13:18:17Z INFO  dt_instance] A "2190" 13:18:16.448632642
+2022-01-11T13:18:17.520373493Z  [2022-01-11T13:18:17Z INFO  dt_instance] A "2200" 13:18:16.962161958
+2022-01-11T13:18:18.033351101Z  [2022-01-11T13:18:18Z INFO  dt_instance] A "2210" 13:18:17.475293904
+2022-01-11T13:18:18.545193546Z  [2022-01-11T13:18:18Z INFO  dt_instance] A "2220" 13:18:17.986477468
+2022-01-11T13:18:19.056560710Z  [2022-01-11T13:18:19Z INFO  dt_instance] A "2230" 13:18:18.498247593
+2022-01-11T13:18:19.568808781Z  [2022-01-11T13:18:19Z INFO  dt_instance] A "2240" 13:18:19.010647393
+2022-01-11T13:18:20.082229354Z  [2022-01-11T13:18:20Z INFO  dt_instance] A "2250" 13:18:19.523789367
+2022-01-11T13:18:20.596159808Z  [2022-01-11T13:18:20Z INFO  dt_instance] A "2260" 13:18:20.037429223
+2022-01-11T13:18:21.107398053Z  [2022-01-11T13:18:21Z INFO  dt_instance] A "2270" 13:18:20.549021046
+2022-01-11T13:18:21.621628671Z  [2022-01-11T13:18:21Z INFO  dt_instance] A "2280" 13:18:21.063427026
+2022-01-11T13:18:22.134502657Z  [2022-01-11T13:18:22Z INFO  dt_instance] A "2290" 13:18:21.575974606
+2022-01-11T13:18:22.647871628Z  [2022-01-11T13:18:22Z INFO  dt_instance] A "2300" 13:18:22.089753498
+2022-01-11T13:18:23.160828029Z  [2022-01-11T13:18:23Z INFO  dt_instance] A "2310" 13:18:22.602402179
+2022-01-11T13:18:23.670425154Z  [2022-01-11T13:18:23Z INFO  dt_instance] A "2320" 13:18:23.112059249
+2022-01-11T13:18:24.183260458Z  [2022-01-11T13:18:24Z INFO  dt_instance] A "2330" 13:18:23.624734149
+2022-01-11T13:18:24.696428896Z  [2022-01-11T13:18:24Z INFO  dt_instance] A "2340" 13:18:24.138176527
+2022-01-11T13:18:25.207809692Z  [2022-01-11T13:18:25Z INFO  dt_instance] A "2350" 13:18:24.649274018
+2022-01-11T13:18:25.717630962Z  [2022-01-11T13:18:25Z INFO  dt_instance] A "2360" 13:18:25.159188093
+2022-01-11T13:18:26.230011155Z  [2022-01-11T13:18:26Z INFO  dt_instance] A "2370" 13:18:25.671399666
+2022-01-11T13:18:26.742199195Z  [2022-01-11T13:18:26Z INFO  dt_instance] A "2380" 13:18:26.183601672
+2022-01-11T13:18:27.254676948Z  [2022-01-11T13:18:27Z INFO  dt_instance] A "2390" 13:18:26.696536587
+2022-01-11T13:18:27.544026090Z  [2022-01-11T13:18:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:18:27.767103541Z  [2022-01-11T13:18:27Z INFO  dt_instance] A "2400" 13:18:27.208739998
+2022-01-11T13:18:28.280723812Z  [2022-01-11T13:18:28Z INFO  dt_instance] A "2410" 13:18:27.722363696
+2022-01-11T13:18:28.793158637Z  [2022-01-11T13:18:28Z INFO  dt_instance] A "2420" 13:18:28.234778799
+2022-01-11T13:18:29.304863930Z  [2022-01-11T13:18:29Z INFO  dt_instance] A "2430" 13:18:28.746293513
+2022-01-11T13:18:29.815936100Z  [2022-01-11T13:18:29Z INFO  dt_instance] A "2440" 13:18:29.257372729
+2022-01-11T13:18:30.327485720Z  [2022-01-11T13:18:30Z INFO  dt_instance] A "2450" 13:18:29.769098255
+2022-01-11T13:18:30.839852502Z  [2022-01-11T13:18:30Z INFO  dt_instance] A "2460" 13:18:30.281344317
+2022-01-11T13:18:31.350750370Z  [2022-01-11T13:18:31Z INFO  dt_instance] A "2470" 13:18:30.792287516
+2022-01-11T13:18:31.862010084Z  [2022-01-11T13:18:31Z INFO  dt_instance] A "2480" 13:18:31.303386935
+2022-01-11T13:18:32.375016601Z  [2022-01-11T13:18:32Z INFO  dt_instance] A "2490" 13:18:31.816525051
+2022-01-11T13:18:32.888463994Z  [2022-01-11T13:18:32Z INFO  dt_instance] A "2500" 13:18:32.330359825
+2022-01-11T13:18:33.401897861Z  [2022-01-11T13:18:33Z INFO  dt_instance] A "2510" 13:18:32.843508538
+2022-01-11T13:18:33.913952137Z  [2022-01-11T13:18:33Z INFO  dt_instance] A "2520" 13:18:33.355693801
+2022-01-11T13:18:34.426483165Z  [2022-01-11T13:18:34Z INFO  dt_instance] A "2530" 13:18:33.868101014
+2022-01-11T13:18:34.938909438Z  [2022-01-11T13:18:34Z INFO  dt_instance] A "2540" 13:18:34.380620836
+2022-01-11T13:18:35.450329609Z  [2022-01-11T13:18:35Z INFO  dt_instance] A "2550" 13:18:34.891916762
+2022-01-11T13:18:35.961799487Z  [2022-01-11T13:18:35Z INFO  dt_instance] A "2560" 13:18:35.403440311
+2022-01-11T13:18:36.474936434Z  [2022-01-11T13:18:36Z INFO  dt_instance] A "2570" 13:18:35.916652854
+2022-01-11T13:18:36.987516199Z  [2022-01-11T13:18:36Z INFO  dt_instance] A "2580" 13:18:36.428885277
+2022-01-11T13:18:37.498079818Z  [2022-01-11T13:18:37Z INFO  dt_instance] A "2590" 13:18:36.939316222
+2022-01-11T13:18:38.012579884Z  [2022-01-11T13:18:38Z INFO  dt_instance] A "2600" 13:18:37.454079851
+2022-01-11T13:18:38.525875740Z  [2022-01-11T13:18:38Z INFO  dt_instance] A "2610" 13:18:37.967119866
+2022-01-11T13:18:39.040599416Z  [2022-01-11T13:18:39Z INFO  dt_instance] A "2620" 13:18:38.482218310
+2022-01-11T13:18:39.552191556Z  [2022-01-11T13:18:39Z INFO  dt_instance] A "2630" 13:18:38.993956106
+2022-01-11T13:18:40.063503315Z  [2022-01-11T13:18:40Z INFO  dt_instance] A "2640" 13:18:39.505206868
+2022-01-11T13:18:40.574435112Z  [2022-01-11T13:18:40Z INFO  dt_instance] A "2650" 13:18:40.016088784
+2022-01-11T13:18:41.087767695Z  [2022-01-11T13:18:41Z INFO  dt_instance] A "2660" 13:18:40.529250777
+2022-01-11T13:18:41.599854515Z  [2022-01-11T13:18:41Z INFO  dt_instance] A "2670" 13:18:41.041350239
+2022-01-11T13:18:42.114396905Z  [2022-01-11T13:18:42Z INFO  dt_instance] A "2680" 13:18:41.555758744
+2022-01-11T13:18:42.625858230Z  [2022-01-11T13:18:42Z INFO  dt_instance] A "2690" 13:18:42.067601429
+2022-01-11T13:18:43.138021076Z  [2022-01-11T13:18:43Z INFO  dt_instance] A "2700" 13:18:42.579301448
+2022-01-11T13:18:43.651634731Z  [2022-01-11T13:18:43Z INFO  dt_instance] A "2710" 13:18:43.092993822
+2022-01-11T13:18:44.165581564Z  [2022-01-11T13:18:44Z INFO  dt_instance] A "2720" 13:18:43.606911009
+2022-01-11T13:18:44.676691225Z  [2022-01-11T13:18:44Z INFO  dt_instance] A "2730" 13:18:44.117886791
+2022-01-11T13:18:45.187345351Z  [2022-01-11T13:18:45Z INFO  dt_instance] A "2740" 13:18:44.628861970
+2022-01-11T13:18:45.700310653Z  [2022-01-11T13:18:45Z INFO  dt_instance] A "2750" 13:18:45.141709116
+2022-01-11T13:18:46.213642579Z  [2022-01-11T13:18:46Z INFO  dt_instance] A "2760" 13:18:45.654868209
+2022-01-11T13:18:46.727939700Z  [2022-01-11T13:18:46Z INFO  dt_instance] A "2770" 13:18:46.169389596
+2022-01-11T13:18:47.242357461Z  [2022-01-11T13:18:47Z INFO  dt_instance] A "2780" 13:18:46.683834504
+2022-01-11T13:18:47.752227847Z  [2022-01-11T13:18:47Z INFO  dt_instance] A "2790" 13:18:47.193908019
+2022-01-11T13:18:48.266816493Z  [2022-01-11T13:18:48Z INFO  dt_instance] A "2800" 13:18:47.708519089
+2022-01-11T13:18:48.778648112Z  [2022-01-11T13:18:48Z INFO  dt_instance] A "2810" 13:18:48.220323219
+2022-01-11T13:18:49.292702994Z  [2022-01-11T13:18:49Z INFO  dt_instance] A "2820" 13:18:48.734170185
+2022-01-11T13:18:49.806337708Z  [2022-01-11T13:18:49Z INFO  dt_instance] A "2830" 13:18:49.247708106
+2022-01-11T13:18:50.317674471Z  [2022-01-11T13:18:50Z INFO  dt_instance] A "2840" 13:18:49.759473201
+2022-01-11T13:18:50.829399284Z  [2022-01-11T13:18:50Z INFO  dt_instance] A "2850" 13:18:50.270846427
+2022-01-11T13:18:51.340401525Z  [2022-01-11T13:18:51Z INFO  dt_instance] A "2860" 13:18:50.781912959
+2022-01-11T13:18:51.853509440Z  [2022-01-11T13:18:51Z INFO  dt_instance] A "2870" 13:18:51.294618355
+2022-01-11T13:18:52.364154515Z  [2022-01-11T13:18:52Z INFO  dt_instance] A "2880" 13:18:51.805682624
+2022-01-11T13:18:52.879435990Z  [2022-01-11T13:18:52Z INFO  dt_instance] A "2890" 13:18:52.320904898
+2022-01-11T13:18:53.391559185Z  [2022-01-11T13:18:53Z INFO  dt_instance] A "2900" 13:18:52.832420258
+2022-01-11T13:18:53.904915862Z  [2022-01-11T13:18:53Z INFO  dt_instance] A "2910" 13:18:53.346435394
+2022-01-11T13:18:54.424616010Z  [2022-01-11T13:18:54Z INFO  dt_instance] A "2920" 13:18:53.859459300
+2022-01-11T13:18:54.927885356Z  [2022-01-11T13:18:54Z INFO  dt_instance] A "2930" 13:18:54.369211412
+2022-01-11T13:18:55.441111499Z  [2022-01-11T13:18:55Z INFO  dt_instance] A "2940" 13:18:54.882741449
+2022-01-11T13:18:55.951645462Z  [2022-01-11T13:18:55Z INFO  dt_instance] A "2950" 13:18:55.393204214
+2022-01-11T13:18:56.462937560Z  [2022-01-11T13:18:56Z INFO  dt_instance] A "2960" 13:18:55.904543861
+2022-01-11T13:18:56.974550175Z  [2022-01-11T13:18:56Z INFO  dt_instance] A "2970" 13:18:56.415994485
+2022-01-11T13:18:57.488418659Z  [2022-01-11T13:18:57Z INFO  dt_instance] A "2980" 13:18:56.929965612
+2022-01-11T13:18:57.544466199Z  [2022-01-11T13:18:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:18:58.001168091Z  [2022-01-11T13:18:58Z INFO  dt_instance] A "2990" 13:18:57.442534972
+2022-01-11T13:18:58.513809525Z  [2022-01-11T13:18:58Z INFO  dt_instance] A "3000" 13:18:57.955822029
+2022-01-11T13:18:59.027640762Z  [2022-01-11T13:18:59Z INFO  dt_instance] A "3010" 13:18:58.469044005
+2022-01-11T13:18:59.540736512Z  [2022-01-11T13:18:59Z INFO  dt_instance] A "3020" 13:18:58.982493332
+2022-01-11T13:19:00.053489818Z  [2022-01-11T13:19:00Z INFO  dt_instance] A "3030" 13:18:59.495371165
+2022-01-11T13:19:00.566010244Z  [2022-01-11T13:19:00Z INFO  dt_instance] A "3040" 13:19:00.007154654
+2022-01-11T13:19:01.078596195Z  [2022-01-11T13:19:01Z INFO  dt_instance] A "3050" 13:19:00.520063533
+2022-01-11T13:19:01.591038971Z  [2022-01-11T13:19:01Z INFO  dt_instance] A "3060" 13:19:01.032288392
+2022-01-11T13:19:02.103819052Z  [2022-01-11T13:19:02Z INFO  dt_instance] A "3070" 13:19:01.544858802
+2022-01-11T13:19:02.614776931Z  [2022-01-11T13:19:02Z INFO  dt_instance] A "3080" 13:19:02.055823428
+2022-01-11T13:19:03.126485856Z  [2022-01-11T13:19:03Z INFO  dt_instance] A "3090" 13:19:02.568139119
+2022-01-11T13:19:03.639765131Z  [2022-01-11T13:19:03Z INFO  dt_instance] A "3100" 13:19:03.081111995
+2022-01-11T13:19:04.154121946Z  [2022-01-11T13:19:04Z INFO  dt_instance] A "3110" 13:19:03.595444215
+2022-01-11T13:19:04.665184539Z  [2022-01-11T13:19:04Z INFO  dt_instance] A "3120" 13:19:04.106622240
+2022-01-11T13:19:05.178020390Z  [2022-01-11T13:19:05Z INFO  dt_instance] A "3130" 13:19:04.619541349
+2022-01-11T13:19:05.694458648Z  [2022-01-11T13:19:05Z INFO  dt_instance] A "3140" 13:19:05.135816203
+2022-01-11T13:19:06.205845580Z  [2022-01-11T13:19:06Z INFO  dt_instance] A "3150" 13:19:05.647491504
+2022-01-11T13:19:06.716760111Z  [2022-01-11T13:19:06Z INFO  dt_instance] A "3160" 13:19:06.158124252
+2022-01-11T13:19:07.230320087Z  [2022-01-11T13:19:07Z INFO  dt_instance] A "3170" 13:19:06.671853006
+2022-01-11T13:19:07.743921404Z  [2022-01-11T13:19:07Z INFO  dt_instance] A "3180" 13:19:07.184817455
+2022-01-11T13:19:08.257016446Z  [2022-01-11T13:19:08Z INFO  dt_instance] A "3190" 13:19:07.698731073
+2022-01-11T13:19:08.768867364Z  [2022-01-11T13:19:08Z INFO  dt_instance] A "3200" 13:19:08.210292968
+2022-01-11T13:19:09.279839878Z  [2022-01-11T13:19:09Z INFO  dt_instance] A "3210" 13:19:08.721305254
+2022-01-11T13:19:09.791746428Z  [2022-01-11T13:19:09Z INFO  dt_instance] A "3220" 13:19:09.233024349
+2022-01-11T13:19:10.303317831Z  [2022-01-11T13:19:10Z INFO  dt_instance] A "3230" 13:19:09.744936115
+2022-01-11T13:19:10.817133200Z  [2022-01-11T13:19:10Z INFO  dt_instance] A "3240" 13:19:10.258393439
+2022-01-11T13:19:11.327473540Z  [2022-01-11T13:19:11Z INFO  dt_instance] A "3250" 13:19:10.768883910
+2022-01-11T13:19:11.842311368Z  [2022-01-11T13:19:11Z INFO  dt_instance] A "3260" 13:19:11.283816514
+2022-01-11T13:19:12.354009442Z  [2022-01-11T13:19:12Z INFO  dt_instance] A "3270" 13:19:11.795189213
+2022-01-11T13:19:12.865929176Z  [2022-01-11T13:19:12Z INFO  dt_instance] A "3280" 13:19:12.307052836
+2022-01-11T13:19:13.377779118Z  [2022-01-11T13:19:13Z INFO  dt_instance] A "3290" 13:19:12.819616829
+2022-01-11T13:19:13.890276966Z  [2022-01-11T13:19:13Z INFO  dt_instance] A "3300" 13:19:13.331701465
+2022-01-11T13:19:14.402848272Z  [2022-01-11T13:19:14Z INFO  dt_instance] A "3310" 13:19:13.844250728
+2022-01-11T13:19:14.916134001Z  [2022-01-11T13:19:14Z INFO  dt_instance] A "3320" 13:19:14.357425634
+2022-01-11T13:19:15.428261951Z  [2022-01-11T13:19:15Z INFO  dt_instance] A "3330" 13:19:14.869854444
+2022-01-11T13:19:15.939738355Z  [2022-01-11T13:19:15Z INFO  dt_instance] A "3340" 13:19:15.381368499
+2022-01-11T13:19:16.452408338Z  [2022-01-11T13:19:16Z INFO  dt_instance] A "3350" 13:19:15.893823539
+2022-01-11T13:19:16.965598442Z  [2022-01-11T13:19:16Z INFO  dt_instance] A "3360" 13:19:16.406976842
+2022-01-11T13:19:17.479678397Z  [2022-01-11T13:19:17Z INFO  dt_instance] A "3370" 13:19:16.921005949
+2022-01-11T13:19:17.990828486Z  [2022-01-11T13:19:17Z INFO  dt_instance] A "3380" 13:19:17.432254098
+2022-01-11T13:19:18.503087947Z  [2022-01-11T13:19:18Z INFO  dt_instance] A "3390" 13:19:17.944512486
+2022-01-11T13:19:19.013761569Z  [2022-01-11T13:19:19Z INFO  dt_instance] A "3400" 13:19:18.455030863
+2022-01-11T13:19:19.526185112Z  [2022-01-11T13:19:19Z INFO  dt_instance] A "3410" 13:19:18.967803181
+2022-01-11T13:19:20.038545800Z  [2022-01-11T13:19:20Z INFO  dt_instance] A "3420" 13:19:19.479967292
+2022-01-11T13:19:20.552248573Z  [2022-01-11T13:19:20Z INFO  dt_instance] A "3430" 13:19:19.993808832
+2022-01-11T13:19:21.066539275Z  [2022-01-11T13:19:21Z INFO  dt_instance] A "3440" 13:19:20.507913929
+2022-01-11T13:19:21.580256662Z  [2022-01-11T13:19:21Z INFO  dt_instance] A "3450" 13:19:21.021557099
+2022-01-11T13:19:22.093507641Z  [2022-01-11T13:19:22Z INFO  dt_instance] A "3460" 13:19:21.534888456
+2022-01-11T13:19:22.606734963Z  [2022-01-11T13:19:22Z INFO  dt_instance] A "3470" 13:19:22.047980949
+2022-01-11T13:19:23.119950950Z  [2022-01-11T13:19:23Z INFO  dt_instance] A "3480" 13:19:22.561225295
+2022-01-11T13:19:23.630337509Z  [2022-01-11T13:19:23Z INFO  dt_instance] A "3490" 13:19:23.071987327
+2022-01-11T13:19:24.143615985Z  [2022-01-11T13:19:24Z INFO  dt_instance] A "3500" 13:19:23.584621057
+2022-01-11T13:19:24.656754503Z  [2022-01-11T13:19:24Z INFO  dt_instance] A "3510" 13:19:24.098095814
+2022-01-11T13:19:25.167505345Z  [2022-01-11T13:19:25Z INFO  dt_instance] A "3520" 13:19:24.609416555
+2022-01-11T13:19:25.680205943Z  [2022-01-11T13:19:25Z INFO  dt_instance] A "3530" 13:19:25.121697296
+2022-01-11T13:19:26.191795943Z  [2022-01-11T13:19:26Z INFO  dt_instance] A "3540" 13:19:25.633172585
+2022-01-11T13:19:26.702496732Z  [2022-01-11T13:19:26Z INFO  dt_instance] A "3550" 13:19:26.143776793
+2022-01-11T13:19:27.215682901Z  [2022-01-11T13:19:27Z INFO  dt_instance] A "3560" 13:19:26.657086473
+2022-01-11T13:19:27.545917967Z  [2022-01-11T13:19:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:19:27.729199242Z  [2022-01-11T13:19:27Z INFO  dt_instance] A "3570" 13:19:27.170725283
+2022-01-11T13:19:28.245054469Z  [2022-01-11T13:19:28Z INFO  dt_instance] A "3580" 13:19:27.686092895
+2022-01-11T13:19:28.756489626Z  [2022-01-11T13:19:28Z INFO  dt_instance] A "3590" 13:19:28.198151611
+2022-01-11T13:19:29.267527255Z  [2022-01-11T13:19:29Z INFO  dt_instance] A "3600" 13:19:28.709074999
+2022-01-11T13:19:29.778529802Z  [2022-01-11T13:19:29Z INFO  dt_instance] A "3610" 13:19:29.220165237
+2022-01-11T13:19:30.291775366Z  [2022-01-11T13:19:30Z INFO  dt_instance] A "3620" 13:19:29.733357844
+2022-01-11T13:19:30.805471594Z  [2022-01-11T13:19:30Z INFO  dt_instance] A "3630" 13:19:30.246767526
+2022-01-11T13:19:31.319132567Z  [2022-01-11T13:19:31Z INFO  dt_instance] A "3640" 13:19:30.760362307
+2022-01-11T13:19:31.830843898Z  [2022-01-11T13:19:31Z INFO  dt_instance] A "3650" 13:19:31.272156197
+2022-01-11T13:19:32.341763535Z  [2022-01-11T13:19:32Z INFO  dt_instance] A "3660" 13:19:31.783122525
+2022-01-11T13:19:32.855491542Z  [2022-01-11T13:19:32Z INFO  dt_instance] A "3670" 13:19:32.296639599
+2022-01-11T13:19:33.367500972Z  [2022-01-11T13:19:33Z INFO  dt_instance] A "3680" 13:19:32.808727992
+2022-01-11T13:19:33.879599565Z  [2022-01-11T13:19:33Z INFO  dt_instance] A "3690" 13:19:33.320948888
+2022-01-11T13:19:34.391608157Z  [2022-01-11T13:19:34Z INFO  dt_instance] A "3700" 13:19:33.832707177
+2022-01-11T13:19:34.904395208Z  [2022-01-11T13:19:34Z INFO  dt_instance] A "3710" 13:19:34.345626027
+2022-01-11T13:19:35.418710110Z  [2022-01-11T13:19:35Z INFO  dt_instance] A "3720" 13:19:34.860188934
+2022-01-11T13:19:35.932752371Z  [2022-01-11T13:19:35Z INFO  dt_instance] A "3730" 13:19:35.374053048
+2022-01-11T13:19:36.447677075Z  [2022-01-11T13:19:36Z INFO  dt_instance] A "3740" 13:19:35.888725845
+2022-01-11T13:19:36.958407646Z  [2022-01-11T13:19:36Z INFO  dt_instance] A "3750" 13:19:36.399699977
+2022-01-11T13:19:37.470504991Z  [2022-01-11T13:19:37Z INFO  dt_instance] A "3760" 13:19:36.911784489
+2022-01-11T13:19:37.984292030Z  [2022-01-11T13:19:37Z INFO  dt_instance] A "3770" 13:19:37.425775147
+2022-01-11T13:19:38.495911632Z  [2022-01-11T13:19:38Z INFO  dt_instance] A "3780" 13:19:37.936394885
+2022-01-11T13:19:39.005999564Z  [2022-01-11T13:19:39Z INFO  dt_instance] A "3790" 13:19:38.447412777
+2022-01-11T13:19:39.518213028Z  [2022-01-11T13:19:39Z INFO  dt_instance] A "3800" 13:19:38.959498219
+2022-01-11T13:19:40.030253835Z  [2022-01-11T13:19:40Z INFO  dt_instance] A "3810" 13:19:39.471492926
+2022-01-11T13:19:40.541695500Z  [2022-01-11T13:19:40Z INFO  dt_instance] A "3820" 13:19:39.983203208
+2022-01-11T13:19:41.054410337Z  [2022-01-11T13:19:41Z INFO  dt_instance] A "3830" 13:19:40.495736677
+2022-01-11T13:19:41.566889728Z  [2022-01-11T13:19:41Z INFO  dt_instance] A "3840" 13:19:41.008342114
+2022-01-11T13:19:42.079922028Z  [2022-01-11T13:19:42Z INFO  dt_instance] A "3850" 13:19:41.521031593
+2022-01-11T13:19:42.591266020Z  [2022-01-11T13:19:42Z INFO  dt_instance] A "3860" 13:19:42.032560899
+2022-01-11T13:19:43.103479883Z  [2022-01-11T13:19:43Z INFO  dt_instance] A "3870" 13:19:42.544835269
+2022-01-11T13:19:43.614665535Z  [2022-01-11T13:19:43Z INFO  dt_instance] A "3880" 13:19:43.056109928
+2022-01-11T13:19:44.127986699Z  [2022-01-11T13:19:44Z INFO  dt_instance] A "3890" 13:19:43.569208694
+2022-01-11T13:19:44.640545825Z  [2022-01-11T13:19:44Z INFO  dt_instance] A "3900" 13:19:44.081889023
+2022-01-11T13:19:45.153049157Z  [2022-01-11T13:19:45Z INFO  dt_instance] A "3910" 13:19:44.594238803
+2022-01-11T13:19:45.665166952Z  [2022-01-11T13:19:45Z INFO  dt_instance] A "3920" 13:19:45.106541160
+2022-01-11T13:19:46.177258735Z  [2022-01-11T13:19:46Z INFO  dt_instance] A "3930" 13:19:45.618471398
+2022-01-11T13:19:46.690110094Z  [2022-01-11T13:19:46Z INFO  dt_instance] A "3940" 13:19:46.131550525
+2022-01-11T13:19:47.203737943Z  [2022-01-11T13:19:47Z INFO  dt_instance] A "3950" 13:19:46.644963901
+2022-01-11T13:19:47.717580171Z  [2022-01-11T13:19:47Z INFO  dt_instance] A "3960" 13:19:47.158554218
+2022-01-11T13:19:48.230450725Z  [2022-01-11T13:19:48Z INFO  dt_instance] A "3970" 13:19:47.671780856
+2022-01-11T13:19:48.743202073Z  [2022-01-11T13:19:48Z INFO  dt_instance] A "3980" 13:19:48.184106408
+2022-01-11T13:19:49.255636916Z  [2022-01-11T13:19:49Z INFO  dt_instance] A "3990" 13:19:48.696829314
+2022-01-11T13:19:49.767561974Z  [2022-01-11T13:19:49Z INFO  dt_instance] A "4000" 13:19:49.209140584
+2022-01-11T13:19:50.279870311Z  [2022-01-11T13:19:50Z INFO  dt_instance] A "4010" 13:19:49.720885656
+2022-01-11T13:19:50.790479525Z  [2022-01-11T13:19:50Z INFO  dt_instance] A "4020" 13:19:50.231684022
+2022-01-11T13:19:51.301798957Z  [2022-01-11T13:19:51Z INFO  dt_instance] A "4030" 13:19:50.742854363
+2022-01-11T13:19:51.814955869Z  [2022-01-11T13:19:51Z INFO  dt_instance] A "4040" 13:19:51.254820189
+2022-01-11T13:19:52.333618153Z  [2022-01-11T13:19:52Z INFO  dt_instance] A "4050" 13:19:51.767732879
+2022-01-11T13:19:52.838398498Z  [2022-01-11T13:19:52Z INFO  dt_instance] A "4060" 13:19:52.279501395
+2022-01-11T13:19:53.350297097Z  [2022-01-11T13:19:53Z INFO  dt_instance] A "4070" 13:19:52.791882931
+2022-01-11T13:19:53.862987507Z  [2022-01-11T13:19:53Z INFO  dt_instance] A "4080" 13:19:53.304304921
+2022-01-11T13:19:54.373749237Z  [2022-01-11T13:19:54Z INFO  dt_instance] A "4090" 13:19:53.815056640
+2022-01-11T13:19:54.886981563Z  [2022-01-11T13:19:54Z INFO  dt_instance] A "4100" 13:19:54.328023894
+2022-01-11T13:19:55.398416321Z  [2022-01-11T13:19:55Z INFO  dt_instance] A "4110" 13:19:54.839376615
+2022-01-11T13:19:55.913020396Z  [2022-01-11T13:19:55Z INFO  dt_instance] A "4120" 13:19:55.354119652
+2022-01-11T13:19:56.424634336Z  [2022-01-11T13:19:56Z INFO  dt_instance] A "4130" 13:19:55.865572451
+2022-01-11T13:19:56.937601244Z  [2022-01-11T13:19:56Z INFO  dt_instance] A "4140" 13:19:56.378974218
+2022-01-11T13:19:57.450856194Z  [2022-01-11T13:19:57Z INFO  dt_instance] A "4150" 13:19:56.892123784
+2022-01-11T13:19:57.546903026Z  [2022-01-11T13:19:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:19:57.962914727Z  [2022-01-11T13:19:57Z INFO  dt_instance] A "4160" 13:19:57.403949070
+2022-01-11T13:19:58.476784480Z  [2022-01-11T13:19:58Z INFO  dt_instance] A "4170" 13:19:57.917516540
+2022-01-11T13:19:58.988835761Z  [2022-01-11T13:19:58Z INFO  dt_instance] A "4180" 13:19:58.429617970
+2022-01-11T13:19:59.501190314Z  [2022-01-11T13:19:59Z INFO  dt_instance] A "4190" 13:19:58.942367239
+2022-01-11T13:20:00.012126096Z  [2022-01-11T13:20:00Z INFO  dt_instance] A "4200" 13:19:59.453405687
+2022-01-11T13:20:00.525706431Z  [2022-01-11T13:20:00Z INFO  dt_instance] A "4210" 13:19:59.967272935
+2022-01-11T13:20:01.038350809Z  [2022-01-11T13:20:01Z INFO  dt_instance] A "4220" 13:20:00.479615291
+2022-01-11T13:20:01.551741808Z  [2022-01-11T13:20:01Z INFO  dt_instance] A "4230" 13:20:00.992972187
+2022-01-11T13:20:02.063306314Z  [2022-01-11T13:20:02Z INFO  dt_instance] A "4240" 13:20:01.504367033
+2022-01-11T13:20:02.577015510Z  [2022-01-11T13:20:02Z INFO  dt_instance] A "4250" 13:20:02.018528147
+2022-01-11T13:20:03.091581022Z  [2022-01-11T13:20:03Z INFO  dt_instance] A "4260" 13:20:02.532675174
+2022-01-11T13:20:03.604637767Z  [2022-01-11T13:20:03Z INFO  dt_instance] A "4270" 13:20:03.045790564
+2022-01-11T13:20:04.117065729Z  [2022-01-11T13:20:04Z INFO  dt_instance] A "4280" 13:20:03.558193290
+2022-01-11T13:20:04.627760643Z  [2022-01-11T13:20:04Z INFO  dt_instance] A "4290" 13:20:04.068878339
+2022-01-11T13:20:05.141812308Z  [2022-01-11T13:20:05Z INFO  dt_instance] A "4300" 13:20:04.582824415
+2022-01-11T13:20:05.654912608Z  [2022-01-11T13:20:05Z INFO  dt_instance] A "4310" 13:20:05.096180792
+2022-01-11T13:20:06.166110369Z  [2022-01-11T13:20:06Z INFO  dt_instance] A "4320" 13:20:05.607910753
+2022-01-11T13:20:06.679493187Z  [2022-01-11T13:20:06Z INFO  dt_instance] A "4330" 13:20:06.120701278
+2022-01-11T13:20:07.190970748Z  [2022-01-11T13:20:07Z INFO  dt_instance] A "4340" 13:20:06.632490557
+2022-01-11T13:20:07.702817442Z  [2022-01-11T13:20:07Z INFO  dt_instance] A "4350" 13:20:07.143862204
+2022-01-11T13:20:08.215772467Z  [2022-01-11T13:20:08Z INFO  dt_instance] A "4360" 13:20:07.656957432
+2022-01-11T13:20:08.727813499Z  [2022-01-11T13:20:08Z INFO  dt_instance] A "4370" 13:20:08.169150105
+2022-01-11T13:20:09.242936150Z  [2022-01-11T13:20:09Z INFO  dt_instance] A "4380" 13:20:08.684185069
+2022-01-11T13:20:09.756254430Z  [2022-01-11T13:20:09Z INFO  dt_instance] A "4390" 13:20:09.197912631
+2022-01-11T13:20:10.268007352Z  [2022-01-11T13:20:10Z INFO  dt_instance] A "4400" 13:20:09.709436641
+2022-01-11T13:20:10.779553675Z  [2022-01-11T13:20:10Z INFO  dt_instance] A "4410" 13:20:10.220706050
+2022-01-11T13:20:11.292486014Z  [2022-01-11T13:20:11Z INFO  dt_instance] A "4420" 13:20:10.733671857
+2022-01-11T13:20:11.806467254Z  [2022-01-11T13:20:11Z INFO  dt_instance] A "4430" 13:20:11.247717927
+2022-01-11T13:20:12.319831795Z  [2022-01-11T13:20:12Z INFO  dt_instance] A "4440" 13:20:11.760885204
+2022-01-11T13:20:12.834766802Z  [2022-01-11T13:20:12Z INFO  dt_instance] A "4450" 13:20:12.275938698
+2022-01-11T13:20:13.346799566Z  [2022-01-11T13:20:13Z INFO  dt_instance] A "4460" 13:20:12.787937754
+2022-01-11T13:20:13.858780969Z  [2022-01-11T13:20:13Z INFO  dt_instance] A "4470" 13:20:13.299990297
+2022-01-11T13:20:14.374393479Z  [2022-01-11T13:20:14Z INFO  dt_instance] A "4480" 13:20:13.815528445
+2022-01-11T13:20:14.890100865Z  [2022-01-11T13:20:14Z INFO  dt_instance] A "4490" 13:20:14.331286209
+2022-01-11T13:20:15.403353216Z  [2022-01-11T13:20:15Z INFO  dt_instance] A "4500" 13:20:14.844932808
+2022-01-11T13:20:15.916854419Z  [2022-01-11T13:20:15Z INFO  dt_instance] A "4510" 13:20:15.358065346
+2022-01-11T13:20:16.429091295Z  [2022-01-11T13:20:16Z INFO  dt_instance] A "4520" 13:20:15.870150098
+2022-01-11T13:20:16.941912178Z  [2022-01-11T13:20:16Z INFO  dt_instance] A "4530" 13:20:16.382957765
+2022-01-11T13:20:17.454372704Z  [2022-01-11T13:20:17Z INFO  dt_instance] A "4540" 13:20:16.895435441
+2022-01-11T13:20:17.965774928Z  [2022-01-11T13:20:17Z INFO  dt_instance] A "4550" 13:20:17.406949103
+2022-01-11T13:20:18.477944174Z  [2022-01-11T13:20:18Z INFO  dt_instance] A "4560" 13:20:17.919585978
+2022-01-11T13:20:18.992946527Z  [2022-01-11T13:20:18Z INFO  dt_instance] A "4570" 13:20:18.434645547
+2022-01-11T13:20:19.508963703Z  [2022-01-11T13:20:19Z INFO  dt_instance] A "4580" 13:20:18.950130028
+2022-01-11T13:20:20.022821441Z  [2022-01-11T13:20:20Z INFO  dt_instance] A "4590" 13:20:19.463889768
+2022-01-11T13:20:20.535428441Z  [2022-01-11T13:20:20Z INFO  dt_instance] A "4600" 13:20:19.976540921
+2022-01-11T13:20:21.047452470Z  [2022-01-11T13:20:21Z INFO  dt_instance] A "4610" 13:20:20.488544740
+2022-01-11T13:20:21.560910606Z  [2022-01-11T13:20:21Z INFO  dt_instance] A "4620" 13:20:21.002106820
+2022-01-11T13:20:22.072670660Z  [2022-01-11T13:20:22Z INFO  dt_instance] A "4630" 13:20:21.514073563
+2022-01-11T13:20:22.587290810Z  [2022-01-11T13:20:22Z INFO  dt_instance] A "4640" 13:20:22.028303820
+2022-01-11T13:20:23.097977598Z  [2022-01-11T13:20:23Z INFO  dt_instance] A "4650" 13:20:22.538902429
+2022-01-11T13:20:23.611519719Z  [2022-01-11T13:20:23Z INFO  dt_instance] A "4660" 13:20:23.052440532
+2022-01-11T13:20:24.125170506Z  [2022-01-11T13:20:24Z INFO  dt_instance] A "4670" 13:20:23.566292976
+2022-01-11T13:20:24.636828120Z  [2022-01-11T13:20:24Z INFO  dt_instance] A "4680" 13:20:24.077878425
+2022-01-11T13:20:25.148550899Z  [2022-01-11T13:20:25Z INFO  dt_instance] A "4690" 13:20:24.589863671
+2022-01-11T13:20:25.660876903Z  [2022-01-11T13:20:25Z INFO  dt_instance] A "4700" 13:20:25.101964417
+2022-01-11T13:20:26.173868644Z  [2022-01-11T13:20:26Z INFO  dt_instance] A "4710" 13:20:25.615125719
+2022-01-11T13:20:26.686035650Z  [2022-01-11T13:20:26Z INFO  dt_instance] A "4720" 13:20:26.127101636
+2022-01-11T13:20:27.198200519Z  [2022-01-11T13:20:27Z INFO  dt_instance] A "4730" 13:20:26.639821635
+2022-01-11T13:20:27.548322828Z  [2022-01-11T13:20:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:20:27.710371056Z  [2022-01-11T13:20:27Z INFO  dt_instance] A "4740" 13:20:27.151864564
+2022-01-11T13:20:28.222681622Z  [2022-01-11T13:20:28Z INFO  dt_instance] A "4750" 13:20:27.664735247
+2022-01-11T13:20:28.735946599Z  [2022-01-11T13:20:28Z INFO  dt_instance] A "4760" 13:20:28.177067454
+2022-01-11T13:20:29.246809076Z  [2022-01-11T13:20:29Z INFO  dt_instance] A "4770" 13:20:28.688404546
+2022-01-11T13:20:29.759712129Z  [2022-01-11T13:20:29Z INFO  dt_instance] A "4780" 13:20:29.200945099
+2022-01-11T13:20:30.271624895Z  [2022-01-11T13:20:30Z INFO  dt_instance] A "4790" 13:20:29.712816468
+2022-01-11T13:20:30.787040361Z  [2022-01-11T13:20:30Z INFO  dt_instance] A "4800" 13:20:30.228265689
+2022-01-11T13:20:31.297999814Z  [2022-01-11T13:20:31Z INFO  dt_instance] A "4810" 13:20:30.739048335
+2022-01-11T13:20:31.810508415Z  [2022-01-11T13:20:31Z INFO  dt_instance] A "4820" 13:20:31.251500951
+2022-01-11T13:20:32.323550356Z  [2022-01-11T13:20:32Z INFO  dt_instance] A "4830" 13:20:31.764666859
+2022-01-11T13:20:32.834620777Z  [2022-01-11T13:20:32Z INFO  dt_instance] A "4840" 13:20:32.275416093
+2022-01-11T13:20:33.344224059Z  [2022-01-11T13:20:33Z INFO  dt_instance] A "4850" 13:20:32.785242921
+2022-01-11T13:20:33.853796217Z  [2022-01-11T13:20:33Z INFO  dt_instance] A "4860" 13:20:33.294828735
+2022-01-11T13:20:34.365960356Z  [2022-01-11T13:20:34Z INFO  dt_instance] A "4870" 13:20:33.806937485
+2022-01-11T13:20:34.878655049Z  [2022-01-11T13:20:34Z INFO  dt_instance] A "4880" 13:20:34.319730844
+2022-01-11T13:20:35.390008952Z  [2022-01-11T13:20:35Z INFO  dt_instance] A "4890" 13:20:34.830478450
+2022-01-11T13:20:35.900367086Z  [2022-01-11T13:20:35Z INFO  dt_instance] A "4900" 13:20:35.341299472
+2022-01-11T13:20:36.411328928Z  [2022-01-11T13:20:36Z INFO  dt_instance] A "4910" 13:20:35.852537630
+2022-01-11T13:20:36.926567588Z  [2022-01-11T13:20:36Z INFO  dt_instance] A "4920" 13:20:36.367619081
+2022-01-11T13:20:37.437189279Z  [2022-01-11T13:20:37Z INFO  dt_instance] A "4930" 13:20:36.878364197
+2022-01-11T13:20:37.951509458Z  [2022-01-11T13:20:37Z INFO  dt_instance] A "4940" 13:20:37.392530730
+2022-01-11T13:20:38.463646164Z  [2022-01-11T13:20:38Z INFO  dt_instance] A "4950" 13:20:37.904644307
+2022-01-11T13:20:38.978353679Z  [2022-01-11T13:20:38Z INFO  dt_instance] A "4960" 13:20:38.419558791
+2022-01-11T13:20:39.497097614Z  [2022-01-11T13:20:39Z INFO  dt_instance] A "4970" 13:20:38.935567546
+2022-01-11T13:20:40.006518079Z  [2022-01-11T13:20:40Z INFO  dt_instance] A "4980" 13:20:39.448204087
+2022-01-11T13:20:40.517781339Z  [2022-01-11T13:20:40Z INFO  dt_instance] A "4990" 13:20:39.958807680
+2022-01-11T13:20:41.029101750Z  [2022-01-11T13:20:41Z INFO  dt_instance] A "5000" 13:20:40.470140103
+2022-01-11T13:20:41.543427481Z  [2022-01-11T13:20:41Z INFO  dt_instance] A "5010" 13:20:40.984662290
+2022-01-11T13:20:42.058803295Z  [2022-01-11T13:20:42Z INFO  dt_instance] A "5020" 13:20:41.499878301
+2022-01-11T13:20:42.570300147Z  [2022-01-11T13:20:42Z INFO  dt_instance] A "5030" 13:20:42.010646749
+2022-01-11T13:20:43.082960246Z  [2022-01-11T13:20:43Z INFO  dt_instance] A "5040" 13:20:42.524167089
+2022-01-11T13:20:43.593943141Z  [2022-01-11T13:20:43Z INFO  dt_instance] A "5050" 13:20:43.034831315
+2022-01-11T13:20:44.105054881Z  [2022-01-11T13:20:44Z INFO  dt_instance] A "5060" 13:20:43.546074244
+2022-01-11T13:20:44.616271299Z  [2022-01-11T13:20:44Z INFO  dt_instance] A "5070" 13:20:44.057329916
+2022-01-11T13:20:45.129997727Z  [2022-01-11T13:20:45Z INFO  dt_instance] A "5080" 13:20:44.571142269
+2022-01-11T13:20:45.641002625Z  [2022-01-11T13:20:45Z INFO  dt_instance] A "5090" 13:20:45.082091311
+2022-01-11T13:20:46.153689436Z  [2022-01-11T13:20:46Z INFO  dt_instance] A "5100" 13:20:45.594472124
+2022-01-11T13:20:46.666523878Z  [2022-01-11T13:20:46Z INFO  dt_instance] A "5110" 13:20:46.107349997
+2022-01-11T13:20:47.177003374Z  [2022-01-11T13:20:47Z INFO  dt_instance] A "5120" 13:20:46.618088159
+2022-01-11T13:20:47.691363923Z  [2022-01-11T13:20:47Z INFO  dt_instance] A "5130" 13:20:47.132121846
+2022-01-11T13:20:48.203257534Z  [2022-01-11T13:20:48Z INFO  dt_instance] A "5140" 13:20:47.644071416
+2022-01-11T13:20:48.712686039Z  [2022-01-11T13:20:48Z INFO  dt_instance] A "5150" 13:20:48.154009338
+2022-01-11T13:20:49.225825727Z  [2022-01-11T13:20:49Z INFO  dt_instance] A "5160" 13:20:48.667107683
+2022-01-11T13:20:49.738493560Z  [2022-01-11T13:20:49Z INFO  dt_instance] A "5170" 13:20:49.179107509
+2022-01-11T13:20:50.250061118Z  [2022-01-11T13:20:50Z INFO  dt_instance] A "5180" 13:20:49.691763956
+2022-01-11T13:20:50.763930235Z  [2022-01-11T13:20:50Z INFO  dt_instance] A "5190" 13:20:50.205142048
+2022-01-11T13:20:51.274312541Z  [2022-01-11T13:20:51Z INFO  dt_instance] A "5200" 13:20:50.715881857
+2022-01-11T13:20:51.788786469Z  [2022-01-11T13:20:51Z INFO  dt_instance] A "5210" 13:20:51.229748828
+2022-01-11T13:20:52.301011847Z  [2022-01-11T13:20:52Z INFO  dt_instance] A "5220" 13:20:51.741726096
+2022-01-11T13:20:52.813914490Z  [2022-01-11T13:20:52Z INFO  dt_instance] A "5230" 13:20:52.254487060
+2022-01-11T13:20:53.325620585Z  [2022-01-11T13:20:53Z INFO  dt_instance] A "5240" 13:20:52.766464881
+2022-01-11T13:20:53.837061934Z  [2022-01-11T13:20:53Z INFO  dt_instance] A "5250" 13:20:53.277590902
+2022-01-11T13:20:54.347436563Z  [2022-01-11T13:20:54Z INFO  dt_instance] A "5260" 13:20:53.788034908
+2022-01-11T13:20:54.862682846Z  [2022-01-11T13:20:54Z INFO  dt_instance] A "5270" 13:20:54.302791923
+2022-01-11T13:20:55.375187459Z  [2022-01-11T13:20:55Z INFO  dt_instance] A "5280" 13:20:54.816641552
+2022-01-11T13:20:55.887907217Z  [2022-01-11T13:20:55Z INFO  dt_instance] A "5290" 13:20:55.328731967
+2022-01-11T13:20:56.401597373Z  [2022-01-11T13:20:56Z INFO  dt_instance] A "5300" 13:20:55.842087567
+2022-01-11T13:20:56.913197075Z  [2022-01-11T13:20:56Z INFO  dt_instance] A "5310" 13:20:56.354059106
+2022-01-11T13:20:57.425451407Z  [2022-01-11T13:20:57Z INFO  dt_instance] A "5320" 13:20:56.866471916
+2022-01-11T13:20:57.550484257Z  [2022-01-11T13:20:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:20:57.937539258Z  [2022-01-11T13:20:57Z INFO  dt_instance] A "5330" 13:20:57.378434185
+2022-01-11T13:20:58.449143493Z  [2022-01-11T13:20:58Z INFO  dt_instance] A "5340" 13:20:57.890119574
+2022-01-11T13:20:58.963725920Z  [2022-01-11T13:20:58Z INFO  dt_instance] A "5350" 13:20:58.404548578
+2022-01-11T13:20:59.474553494Z  [2022-01-11T13:20:59Z INFO  dt_instance] A "5360" 13:20:58.915350687
+2022-01-11T13:20:59.987195258Z  [2022-01-11T13:20:59Z INFO  dt_instance] A "5370" 13:20:59.428103709
+2022-01-11T13:21:00.500110989Z  [2022-01-11T13:21:00Z INFO  dt_instance] A "5380" 13:20:59.941150906
+2022-01-11T13:21:01.011853234Z  [2022-01-11T13:21:01Z INFO  dt_instance] A "5390" 13:21:00.452956702
+2022-01-11T13:21:01.523702595Z  [2022-01-11T13:21:01Z INFO  dt_instance] A "5400" 13:21:00.964651621
+2022-01-11T13:21:02.037042411Z  [2022-01-11T13:21:02Z INFO  dt_instance] A "5410" 13:21:01.477021307
+2022-01-11T13:21:02.546731113Z  [2022-01-11T13:21:02Z INFO  dt_instance] A "5420" 13:21:01.987814206
+2022-01-11T13:21:03.059793740Z  [2022-01-11T13:21:03Z INFO  dt_instance] A "5430" 13:21:02.500911979
+2022-01-11T13:21:03.572880991Z  [2022-01-11T13:21:03Z INFO  dt_instance] A "5440" 13:21:03.013479759
+2022-01-11T13:21:04.084960788Z  [2022-01-11T13:21:04Z INFO  dt_instance] A "5450" 13:21:03.525810494
+2022-01-11T13:21:04.596982552Z  [2022-01-11T13:21:04Z INFO  dt_instance] A "5460" 13:21:04.037848861
+2022-01-11T13:21:05.108001352Z  [2022-01-11T13:21:05Z INFO  dt_instance] A "5470" 13:21:04.549078263
+2022-01-11T13:21:05.619649532Z  [2022-01-11T13:21:05Z INFO  dt_instance] A "5480" 13:21:05.060545358
+2022-01-11T13:21:06.131346642Z  [2022-01-11T13:21:06Z INFO  dt_instance] A "5490" 13:21:05.572044674
+2022-01-11T13:21:06.643146901Z  [2022-01-11T13:21:06Z INFO  dt_instance] A "5500" 13:21:06.084047703
+2022-01-11T13:21:07.156060222Z  [2022-01-11T13:21:07Z INFO  dt_instance] A "5510" 13:21:06.597137033
+2022-01-11T13:21:07.667064513Z  [2022-01-11T13:21:07Z INFO  dt_instance] A "5520" 13:21:07.108057352
+2022-01-11T13:21:08.179351425Z  [2022-01-11T13:21:08Z INFO  dt_instance] A "5530" 13:21:07.620166005
+2022-01-11T13:21:08.691375288Z  [2022-01-11T13:21:08Z INFO  dt_instance] A "5540" 13:21:08.132152101
+2022-01-11T13:21:09.201244406Z  [2022-01-11T13:21:09Z INFO  dt_instance] A "5550" 13:21:08.642100515
+2022-01-11T13:21:09.713065805Z  [2022-01-11T13:21:09Z INFO  dt_instance] A "5560" 13:21:09.153992581
+2022-01-11T13:21:10.225848533Z  [2022-01-11T13:21:10Z INFO  dt_instance] A "5570" 13:21:09.666536068
+2022-01-11T13:21:10.739116666Z  [2022-01-11T13:21:10Z INFO  dt_instance] A "5580" 13:21:10.180137768
+2022-01-11T13:21:11.251125783Z  [2022-01-11T13:21:11Z INFO  dt_instance] A "5590" 13:21:10.692046187
+2022-01-11T13:21:11.762627753Z  [2022-01-11T13:21:11Z INFO  dt_instance] A "5600" 13:21:11.203923578
+2022-01-11T13:21:12.274330426Z  [2022-01-11T13:21:12Z INFO  dt_instance] A "5610" 13:21:11.715347731
+2022-01-11T13:21:12.789534458Z  [2022-01-11T13:21:12Z INFO  dt_instance] A "5620" 13:21:12.230801872
+2022-01-11T13:21:13.302807856Z  [2022-01-11T13:21:13Z INFO  dt_instance] A "5630" 13:21:12.743747409
+2022-01-11T13:21:13.815641846Z  [2022-01-11T13:21:13Z INFO  dt_instance] A "5640" 13:21:13.256078809
+2022-01-11T13:21:14.326740361Z  [2022-01-11T13:21:14Z INFO  dt_instance] A "5650" 13:21:13.767902319
+2022-01-11T13:21:14.838399518Z  [2022-01-11T13:21:14Z INFO  dt_instance] A "5660" 13:21:14.279419024
+2022-01-11T13:21:15.351729897Z  [2022-01-11T13:21:15Z INFO  dt_instance] A "5670" 13:21:14.792730287
+2022-01-11T13:21:15.865105416Z  [2022-01-11T13:21:15Z INFO  dt_instance] A "5680" 13:21:15.306044784
+2022-01-11T13:21:16.376850942Z  [2022-01-11T13:21:16Z INFO  dt_instance] A "5690" 13:21:15.817790109
+2022-01-11T13:21:16.888168607Z  [2022-01-11T13:21:16Z INFO  dt_instance] A "5700" 13:21:16.329427329
+2022-01-11T13:21:17.402314801Z  [2022-01-11T13:21:17Z INFO  dt_instance] A "5710" 13:21:16.843256515
+2022-01-11T13:21:17.914747908Z  [2022-01-11T13:21:17Z INFO  dt_instance] A "5720" 13:21:17.355876368
+2022-01-11T13:21:18.427207106Z  [2022-01-11T13:21:18Z INFO  dt_instance] A "5730" 13:21:17.868067831
+2022-01-11T13:21:18.942214064Z  [2022-01-11T13:21:18Z INFO  dt_instance] A "5740" 13:21:18.383320480
+2022-01-11T13:21:19.454007108Z  [2022-01-11T13:21:19Z INFO  dt_instance] A "5750" 13:21:18.894553127
+2022-01-11T13:21:19.965404160Z  [2022-01-11T13:21:19Z INFO  dt_instance] A "5760" 13:21:19.406256466
+2022-01-11T13:21:20.477579429Z  [2022-01-11T13:21:20Z INFO  dt_instance] A "5770" 13:21:19.918496259
+2022-01-11T13:21:20.990417327Z  [2022-01-11T13:21:20Z INFO  dt_instance] A "5780" 13:21:20.431262862
+2022-01-11T13:21:21.503726185Z  [2022-01-11T13:21:21Z INFO  dt_instance] A "5790" 13:21:20.944666842
+2022-01-11T13:21:22.016097262Z  [2022-01-11T13:21:22Z INFO  dt_instance] A "5800" 13:21:21.456914548
+2022-01-11T13:21:22.526876135Z  [2022-01-11T13:21:22Z INFO  dt_instance] A "5810" 13:21:21.967829167
+2022-01-11T13:21:23.039055324Z  [2022-01-11T13:21:23Z INFO  dt_instance] A "5820" 13:21:22.480366375
+2022-01-11T13:21:23.552135908Z  [2022-01-11T13:21:23Z INFO  dt_instance] A "5830" 13:21:22.992953622
+2022-01-11T13:21:24.062796321Z  [2022-01-11T13:21:24Z INFO  dt_instance] A "5840" 13:21:23.503536351
+2022-01-11T13:21:24.575934232Z  [2022-01-11T13:21:24Z INFO  dt_instance] A "5850" 13:21:24.016636605
+2022-01-11T13:21:25.088240388Z  [2022-01-11T13:21:25Z INFO  dt_instance] A "5860" 13:21:24.529174040
+2022-01-11T13:21:25.599881758Z  [2022-01-11T13:21:25Z INFO  dt_instance] A "5870" 13:21:25.040955482
+2022-01-11T13:21:26.112505888Z  [2022-01-11T13:21:26Z INFO  dt_instance] A "5880" 13:21:25.552981896
+2022-01-11T13:21:26.624829492Z  [2022-01-11T13:21:26Z INFO  dt_instance] A "5890" 13:21:26.065518862
+2022-01-11T13:21:27.137242313Z  [2022-01-11T13:21:27Z INFO  dt_instance] A "5900" 13:21:26.577906242
+2022-01-11T13:21:27.551461277Z  [2022-01-11T13:21:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:21:27.647787168Z  [2022-01-11T13:21:27Z INFO  dt_instance] A "5910" 13:21:27.089322204
+2022-01-11T13:21:28.159578860Z  [2022-01-11T13:21:28Z INFO  dt_instance] A "5920" 13:21:27.600577329
+2022-01-11T13:21:28.671016462Z  [2022-01-11T13:21:28Z INFO  dt_instance] A "5930" 13:21:28.111877744
+2022-01-11T13:21:29.183583643Z  [2022-01-11T13:21:29Z INFO  dt_instance] A "5940" 13:21:28.624388261
+2022-01-11T13:21:29.695916323Z  [2022-01-11T13:21:29Z INFO  dt_instance] A "5950" 13:21:29.136631630
+2022-01-11T13:21:30.209272982Z  [2022-01-11T13:21:30Z INFO  dt_instance] A "5960" 13:21:29.650196814
+2022-01-11T13:21:30.720302068Z  [2022-01-11T13:21:30Z INFO  dt_instance] A "5970" 13:21:30.161430389
+2022-01-11T13:21:31.233853681Z  [2022-01-11T13:21:31Z INFO  dt_instance] A "5980" 13:21:30.674740352
+2022-01-11T13:21:31.746826426Z  [2022-01-11T13:21:31Z INFO  dt_instance] A "5990" 13:21:31.187834312
+2022-01-11T13:21:32.259007158Z  [2022-01-11T13:21:32Z INFO  dt_instance] A "6000" 13:21:31.700307839
+2022-01-11T13:21:32.770306470Z  [2022-01-11T13:21:32Z INFO  dt_instance] A "6010" 13:21:32.211497013
+2022-01-11T13:21:33.283626410Z  [2022-01-11T13:21:33Z INFO  dt_instance] A "6020" 13:21:32.724648284
+2022-01-11T13:21:33.796837426Z  [2022-01-11T13:21:33Z INFO  dt_instance] A "6030" 13:21:33.237744940
+2022-01-11T13:21:34.308153442Z  [2022-01-11T13:21:34Z INFO  dt_instance] A "6040" 13:21:33.748942126
+2022-01-11T13:21:34.820597321Z  [2022-01-11T13:21:34Z INFO  dt_instance] A "6050" 13:21:34.261402962
+2022-01-11T13:21:35.332553078Z  [2022-01-11T13:21:35Z INFO  dt_instance] A "6060" 13:21:34.773280645
+2022-01-11T13:21:35.844173023Z  [2022-01-11T13:21:35Z INFO  dt_instance] A "6070" 13:21:35.284998157
+2022-01-11T13:21:36.355564862Z  [2022-01-11T13:21:36Z INFO  dt_instance] A "6080" 13:21:35.796413774
+2022-01-11T13:21:36.867303828Z  [2022-01-11T13:21:36Z INFO  dt_instance] A "6090" 13:21:36.308297705
+2022-01-11T13:21:37.380293395Z  [2022-01-11T13:21:37Z INFO  dt_instance] A "6100" 13:21:36.821184302
+2022-01-11T13:21:37.892858746Z  [2022-01-11T13:21:37Z INFO  dt_instance] A "6110" 13:21:37.333689811
+2022-01-11T13:21:38.404055260Z  [2022-01-11T13:21:38Z INFO  dt_instance] A "6120" 13:21:37.844955943
+2022-01-11T13:21:38.916126633Z  [2022-01-11T13:21:38Z INFO  dt_instance] A "6130" 13:21:38.357117356
+2022-01-11T13:21:39.428594057Z  [2022-01-11T13:21:39Z INFO  dt_instance] A "6140" 13:21:38.869495712
+2022-01-11T13:21:39.942433908Z  [2022-01-11T13:21:39Z INFO  dt_instance] A "6150" 13:21:39.383188692
+2022-01-11T13:21:40.454928742Z  [2022-01-11T13:21:40Z INFO  dt_instance] A "6160" 13:21:39.895838096
+2022-01-11T13:21:40.967875249Z  [2022-01-11T13:21:40Z INFO  dt_instance] A "6170" 13:21:40.408880162
+2022-01-11T13:21:41.481039308Z  [2022-01-11T13:21:41Z INFO  dt_instance] A "6180" 13:21:40.921995749
+2022-01-11T13:21:41.994657852Z  [2022-01-11T13:21:41Z INFO  dt_instance] A "6190" 13:21:41.435454502
+2022-01-11T13:21:42.506571759Z  [2022-01-11T13:21:42Z INFO  dt_instance] A "6200" 13:21:41.947697230
+2022-01-11T13:21:43.021798220Z  [2022-01-11T13:21:43Z INFO  dt_instance] A "6210" 13:21:42.462408562
+2022-01-11T13:21:43.534770101Z  [2022-01-11T13:21:43Z INFO  dt_instance] A "6220" 13:21:42.975643345
+2022-01-11T13:21:44.048116917Z  [2022-01-11T13:21:44Z INFO  dt_instance] A "6230" 13:21:43.489040405
+2022-01-11T13:21:44.561239069Z  [2022-01-11T13:21:44Z INFO  dt_instance] A "6240" 13:21:44.002050852
+2022-01-11T13:21:45.073432060Z  [2022-01-11T13:21:45Z INFO  dt_instance] A "6250" 13:21:44.514081811
+2022-01-11T13:21:45.585351729Z  [2022-01-11T13:21:45Z INFO  dt_instance] A "6260" 13:21:45.026106744
+2022-01-11T13:21:46.096723212Z  [2022-01-11T13:21:46Z INFO  dt_instance] A "6270" 13:21:45.537957079
+2022-01-11T13:21:46.612046574Z  [2022-01-11T13:21:46Z INFO  dt_instance] A "6280" 13:21:46.052781404
+2022-01-11T13:21:47.123041548Z  [2022-01-11T13:21:47Z INFO  dt_instance] A "6290" 13:21:46.564308751
+2022-01-11T13:21:47.637820826Z  [2022-01-11T13:21:47Z INFO  dt_instance] A "6300" 13:21:47.078490243
+2022-01-11T13:21:48.149960023Z  [2022-01-11T13:21:48Z INFO  dt_instance] A "6310" 13:21:47.590653529
+2022-01-11T13:21:48.662328724Z  [2022-01-11T13:21:48Z INFO  dt_instance] A "6320" 13:21:48.103047535
+2022-01-11T13:21:49.172181136Z  [2022-01-11T13:21:49Z INFO  dt_instance] A "6330" 13:21:48.612993883
+2022-01-11T13:21:49.684176860Z  [2022-01-11T13:21:49Z INFO  dt_instance] A "6340" 13:21:49.124652152
+2022-01-11T13:21:50.198146878Z  [2022-01-11T13:21:50Z INFO  dt_instance] A "6350" 13:21:49.638233350
+2022-01-11T13:21:50.711206940Z  [2022-01-11T13:21:50Z INFO  dt_instance] A "6360" 13:21:50.151632546
+2022-01-11T13:21:51.226524055Z  [2022-01-11T13:21:51Z INFO  dt_instance] A "6370" 13:21:50.666750480
+2022-01-11T13:21:51.740474812Z  [2022-01-11T13:21:51Z INFO  dt_instance] A "6380" 13:21:51.180091520
+2022-01-11T13:21:52.252559573Z  [2022-01-11T13:21:52Z INFO  dt_instance] A "6390" 13:21:51.693687484
+2022-01-11T13:21:52.766107925Z  [2022-01-11T13:21:52Z INFO  dt_instance] A "6400" 13:21:52.207438264
+2022-01-11T13:21:53.279354314Z  [2022-01-11T13:21:53Z INFO  dt_instance] A "6410" 13:21:52.720146945
+2022-01-11T13:21:53.790386867Z  [2022-01-11T13:21:53Z INFO  dt_instance] A "6420" 13:21:53.231429088
+2022-01-11T13:21:54.303339868Z  [2022-01-11T13:21:54Z INFO  dt_instance] A "6430" 13:21:53.744119919
+2022-01-11T13:21:54.819745430Z  [2022-01-11T13:21:54Z INFO  dt_instance] A "6440" 13:21:54.260549974
+2022-01-11T13:21:55.332763819Z  [2022-01-11T13:21:55Z INFO  dt_instance] A "6450" 13:21:54.773930060
+2022-01-11T13:21:55.844745212Z  [2022-01-11T13:21:55Z INFO  dt_instance] A "6460" 13:21:55.285634173
+2022-01-11T13:21:56.358237321Z  [2022-01-11T13:21:56Z INFO  dt_instance] A "6470" 13:21:55.799324734
+2022-01-11T13:21:56.870775385Z  [2022-01-11T13:21:56Z INFO  dt_instance] A "6480" 13:21:56.311592495
+2022-01-11T13:21:57.383659512Z  [2022-01-11T13:21:57Z INFO  dt_instance] A "6490" 13:21:56.824514845
+2022-01-11T13:21:57.552620871Z  [2022-01-11T13:21:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:21:57.896345276Z  [2022-01-11T13:21:57Z INFO  dt_instance] A "6500" 13:21:57.337507372
+2022-01-11T13:21:58.409387180Z  [2022-01-11T13:21:58Z INFO  dt_instance] A "6510" 13:21:57.850146725
+2022-01-11T13:21:58.923926391Z  [2022-01-11T13:21:58Z INFO  dt_instance] A "6520" 13:21:58.364569065
+2022-01-11T13:21:59.435165377Z  [2022-01-11T13:21:59Z INFO  dt_instance] A "6530" 13:21:58.875908888
+2022-01-11T13:21:59.947952817Z  [2022-01-11T13:21:59Z INFO  dt_instance] A "6540" 13:21:59.388584664
+2022-01-11T13:22:00.460381089Z  [2022-01-11T13:22:00Z INFO  dt_instance] A "6550" 13:21:59.901263130
+2022-01-11T13:22:00.974956207Z  [2022-01-11T13:22:00Z INFO  dt_instance] A "6560" 13:22:00.415687801
+2022-01-11T13:22:01.487557200Z  [2022-01-11T13:22:01Z INFO  dt_instance] A "6570" 13:22:00.928522758
+2022-01-11T13:22:02.003830354Z  [2022-01-11T13:22:02Z INFO  dt_instance] A "6580" 13:22:01.444738572
+2022-01-11T13:22:02.515251562Z  [2022-01-11T13:22:02Z INFO  dt_instance] A "6590" 13:22:01.956055284
+2022-01-11T13:22:03.028359095Z  [2022-01-11T13:22:03Z INFO  dt_instance] A "6600" 13:22:02.469009740
+2022-01-11T13:22:03.543716051Z  [2022-01-11T13:22:03Z INFO  dt_instance] A "6610" 13:22:02.984051398
+2022-01-11T13:22:04.056409234Z  [2022-01-11T13:22:04Z INFO  dt_instance] A "6620" 13:22:03.497162448
+2022-01-11T13:22:04.570299476Z  [2022-01-11T13:22:04Z INFO  dt_instance] A "6630" 13:22:04.011111402
+2022-01-11T13:22:05.084751685Z  [2022-01-11T13:22:05Z INFO  dt_instance] A "6640" 13:22:04.525491492
+2022-01-11T13:22:05.595342963Z  [2022-01-11T13:22:05Z INFO  dt_instance] A "6650" 13:22:05.036121481
+2022-01-11T13:22:06.110909188Z  [2022-01-11T13:22:06Z INFO  dt_instance] A "6660" 13:22:05.551680149
+2022-01-11T13:22:06.624058073Z  [2022-01-11T13:22:06Z INFO  dt_instance] A "6670" 13:22:06.064937435
+2022-01-11T13:22:07.136933340Z  [2022-01-11T13:22:07Z INFO  dt_instance] A "6680" 13:22:06.577828115
+2022-01-11T13:22:07.648706524Z  [2022-01-11T13:22:07Z INFO  dt_instance] A "6690" 13:22:07.089505027
+2022-01-11T13:22:08.160868715Z  [2022-01-11T13:22:08Z INFO  dt_instance] A "6700" 13:22:07.601443360
+2022-01-11T13:22:08.671878402Z  [2022-01-11T13:22:08Z INFO  dt_instance] A "6710" 13:22:08.112704812
+2022-01-11T13:22:09.186081577Z  [2022-01-11T13:22:09Z INFO  dt_instance] A "6720" 13:22:08.626754082
+2022-01-11T13:22:09.699507479Z  [2022-01-11T13:22:09Z INFO  dt_instance] A "6730" 13:22:09.140577669
+2022-01-11T13:22:10.213071341Z  [2022-01-11T13:22:10Z INFO  dt_instance] A "6740" 13:22:09.653831469
+2022-01-11T13:22:10.726058890Z  [2022-01-11T13:22:10Z INFO  dt_instance] A "6750" 13:22:10.166851059
+2022-01-11T13:22:11.237839262Z  [2022-01-11T13:22:11Z INFO  dt_instance] A "6760" 13:22:10.678699061
+2022-01-11T13:22:11.752019887Z  [2022-01-11T13:22:11Z INFO  dt_instance] A "6770" 13:22:11.192884209
+2022-01-11T13:22:12.264583170Z  [2022-01-11T13:22:12Z INFO  dt_instance] A "6780" 13:22:11.705710308
+2022-01-11T13:22:12.778673070Z  [2022-01-11T13:22:12Z INFO  dt_instance] A "6790" 13:22:12.219527542
+2022-01-11T13:22:13.291963175Z  [2022-01-11T13:22:13Z INFO  dt_instance] A "6800" 13:22:12.733010949
+2022-01-11T13:22:13.804822408Z  [2022-01-11T13:22:13Z INFO  dt_instance] A "6810" 13:22:13.245496592
+2022-01-11T13:22:14.317247368Z  [2022-01-11T13:22:14Z INFO  dt_instance] A "6820" 13:22:13.757872158
+2022-01-11T13:22:14.830893349Z  [2022-01-11T13:22:14Z INFO  dt_instance] A "6830" 13:22:14.271691621
+2022-01-11T13:22:15.344979388Z  [2022-01-11T13:22:15Z INFO  dt_instance] A "6840" 13:22:14.785711378
+2022-01-11T13:22:15.858880001Z  [2022-01-11T13:22:15Z INFO  dt_instance] A "6850" 13:22:15.299737832
+2022-01-11T13:22:16.372313497Z  [2022-01-11T13:22:16Z INFO  dt_instance] A "6860" 13:22:15.813134338
+2022-01-11T13:22:16.883829371Z  [2022-01-11T13:22:16Z INFO  dt_instance] A "6870" 13:22:16.324572011
+2022-01-11T13:22:17.396629018Z  [2022-01-11T13:22:17Z INFO  dt_instance] A "6880" 13:22:16.837457620
+2022-01-11T13:22:17.908426077Z  [2022-01-11T13:22:17Z INFO  dt_instance] A "6890" 13:22:17.349116566
+2022-01-11T13:22:18.422040610Z  [2022-01-11T13:22:18Z INFO  dt_instance] A "6900" 13:22:17.862792523
+2022-01-11T13:22:18.934326188Z  [2022-01-11T13:22:18Z INFO  dt_instance] A "6910" 13:22:18.375037923
+2022-01-11T13:22:19.446325770Z  [2022-01-11T13:22:19Z INFO  dt_instance] A "6920" 13:22:18.887460275
+2022-01-11T13:22:19.958965885Z  [2022-01-11T13:22:19Z INFO  dt_instance] A "6930" 13:22:19.399765915
+2022-01-11T13:22:20.471866573Z  [2022-01-11T13:22:20Z INFO  dt_instance] A "6940" 13:22:19.912354377
+2022-01-11T13:22:20.982558348Z  [2022-01-11T13:22:20Z INFO  dt_instance] A "6950" 13:22:20.423150653
+2022-01-11T13:22:21.497811170Z  [2022-01-11T13:22:21Z INFO  dt_instance] A "6960" 13:22:20.938461237
+2022-01-11T13:22:22.011512180Z  [2022-01-11T13:22:22Z INFO  dt_instance] A "6970" 13:22:21.452049057
+2022-01-11T13:22:22.525434662Z  [2022-01-11T13:22:22Z INFO  dt_instance] A "6980" 13:22:21.966068714
+2022-01-11T13:22:23.036403580Z  [2022-01-11T13:22:23Z INFO  dt_instance] A "6990" 13:22:22.477099350
+2022-01-11T13:22:23.548436424Z  [2022-01-11T13:22:23Z INFO  dt_instance] A "7000" 13:22:22.989120559
+2022-01-11T13:22:24.063590673Z  [2022-01-11T13:22:24Z INFO  dt_instance] A "7010" 13:22:23.504146480
+2022-01-11T13:22:24.574057646Z  [2022-01-11T13:22:24Z INFO  dt_instance] A "7020" 13:22:24.014893629
+2022-01-11T13:22:25.085612651Z  [2022-01-11T13:22:25Z INFO  dt_instance] A "7030" 13:22:24.526206261
+2022-01-11T13:22:25.598980870Z  [2022-01-11T13:22:25Z INFO  dt_instance] A "7040" 13:22:25.039735371
+2022-01-11T13:22:26.111087932Z  [2022-01-11T13:22:26Z INFO  dt_instance] A "7050" 13:22:25.551457220
+2022-01-11T13:22:26.624944845Z  [2022-01-11T13:22:26Z INFO  dt_instance] A "7060" 13:22:26.065584750
+2022-01-11T13:22:27.137821934Z  [2022-01-11T13:22:27Z INFO  dt_instance] A "7070" 13:22:26.578873330
+2022-01-11T13:22:27.554041331Z  [2022-01-11T13:22:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:22:27.651400228Z  [2022-01-11T13:22:27Z INFO  dt_instance] A "7080" 13:22:27.092088640
+2022-01-11T13:22:28.163415274Z  [2022-01-11T13:22:28Z INFO  dt_instance] A "7090" 13:22:27.603822062
+2022-01-11T13:22:28.674917795Z  [2022-01-11T13:22:28Z INFO  dt_instance] A "7100" 13:22:28.115714852
+2022-01-11T13:22:29.186758774Z  [2022-01-11T13:22:29Z INFO  dt_instance] A "7110" 13:22:28.626904347
+2022-01-11T13:22:29.699674566Z  [2022-01-11T13:22:29Z INFO  dt_instance] A "7120" 13:22:29.140139760
+2022-01-11T13:22:30.214071759Z  [2022-01-11T13:22:30Z INFO  dt_instance] A "7130" 13:22:29.654556815
+2022-01-11T13:22:30.726730795Z  [2022-01-11T13:22:30Z INFO  dt_instance] A "7140" 13:22:30.167426769
+2022-01-11T13:22:31.238912525Z  [2022-01-11T13:22:31Z INFO  dt_instance] A "7150" 13:22:30.679493460
+2022-01-11T13:22:31.750910837Z  [2022-01-11T13:22:31Z INFO  dt_instance] A "7160" 13:22:31.191932280
+2022-01-11T13:22:32.264603763Z  [2022-01-11T13:22:32Z INFO  dt_instance] A "7170" 13:22:31.705462990
+2022-01-11T13:22:32.779675755Z  [2022-01-11T13:22:32Z INFO  dt_instance] A "7180" 13:22:32.220791184
+2022-01-11T13:22:33.291923792Z  [2022-01-11T13:22:33Z INFO  dt_instance] A "7190" 13:22:32.732542727
+2022-01-11T13:22:33.804168872Z  [2022-01-11T13:22:33Z INFO  dt_instance] A "7200" 13:22:33.244541689
+2022-01-11T13:22:34.315155315Z  [2022-01-11T13:22:34Z INFO  dt_instance] A "7210" 13:22:33.756581333
+2022-01-11T13:22:34.827850231Z  [2022-01-11T13:22:34Z INFO  dt_instance] A "7220" 13:22:34.268674434
+2022-01-11T13:22:35.339865840Z  [2022-01-11T13:22:35Z INFO  dt_instance] A "7230" 13:22:34.780547981
+2022-01-11T13:22:35.851140757Z  [2022-01-11T13:22:35Z INFO  dt_instance] A "7240" 13:22:35.292444993
+2022-01-11T13:22:36.364396712Z  [2022-01-11T13:22:36Z INFO  dt_instance] A "7250" 13:22:35.805085559
+2022-01-11T13:22:36.876681941Z  [2022-01-11T13:22:36Z INFO  dt_instance] A "7260" 13:22:36.317462886
+2022-01-11T13:22:37.390073608Z  [2022-01-11T13:22:37Z INFO  dt_instance] A "7270" 13:22:36.830607105
+2022-01-11T13:22:37.903897780Z  [2022-01-11T13:22:37Z INFO  dt_instance] A "7280" 13:22:37.344657046
+2022-01-11T13:22:38.415487542Z  [2022-01-11T13:22:38Z INFO  dt_instance] A "7290" 13:22:37.856134421
+2022-01-11T13:22:38.928443130Z  [2022-01-11T13:22:38Z INFO  dt_instance] A "7300" 13:22:38.368698746
+2022-01-11T13:22:39.440933405Z  [2022-01-11T13:22:39Z INFO  dt_instance] A "7310" 13:22:38.881556957
+2022-01-11T13:22:39.950907916Z  [2022-01-11T13:22:39Z INFO  dt_instance] A "7320" 13:22:39.391861202
+2022-01-11T13:22:40.464087634Z  [2022-01-11T13:22:40Z INFO  dt_instance] A "7330" 13:22:39.905044696
+2022-01-11T13:22:40.974424998Z  [2022-01-11T13:22:40Z INFO  dt_instance] A "7340" 13:22:40.414984187
+2022-01-11T13:22:41.487455621Z  [2022-01-11T13:22:41Z INFO  dt_instance] A "7350" 13:22:40.928188130
+2022-01-11T13:22:42.001213006Z  [2022-01-11T13:22:42Z INFO  dt_instance] A "7360" 13:22:41.441531474
+2022-01-11T13:22:42.513135751Z  [2022-01-11T13:22:42Z INFO  dt_instance] A "7370" 13:22:41.953921129
+2022-01-11T13:22:43.025967726Z  [2022-01-11T13:22:43Z INFO  dt_instance] A "7380" 13:22:42.466379836
+2022-01-11T13:22:43.536100995Z  [2022-01-11T13:22:43Z INFO  dt_instance] A "7390" 13:22:42.976614039
+2022-01-11T13:22:44.046844460Z  [2022-01-11T13:22:44Z INFO  dt_instance] A "7400" 13:22:43.487273560
+2022-01-11T13:22:44.557522896Z  [2022-01-11T13:22:44Z INFO  dt_instance] A "7410" 13:22:43.997799244
+2022-01-11T13:22:45.068795810Z  [2022-01-11T13:22:45Z INFO  dt_instance] A "7420" 13:22:44.509583255
+2022-01-11T13:22:45.581470241Z  [2022-01-11T13:22:45Z INFO  dt_instance] A "7430" 13:22:45.022053260
+2022-01-11T13:22:46.093100372Z  [2022-01-11T13:22:46Z INFO  dt_instance] A "7440" 13:22:45.533761349
+2022-01-11T13:22:46.606237166Z  [2022-01-11T13:22:46Z INFO  dt_instance] A "7450" 13:22:46.046878302
+2022-01-11T13:22:47.117563260Z  [2022-01-11T13:22:47Z INFO  dt_instance] A "7460" 13:22:46.558169731
+2022-01-11T13:22:47.633131403Z  [2022-01-11T13:22:47Z INFO  dt_instance] A "7470" 13:22:47.073832896
+2022-01-11T13:22:48.145522097Z  [2022-01-11T13:22:48Z INFO  dt_instance] A "7480" 13:22:47.586117175
+2022-01-11T13:22:48.657131287Z  [2022-01-11T13:22:48Z INFO  dt_instance] A "7490" 13:22:48.097696631
+2022-01-11T13:22:49.171883644Z  [2022-01-11T13:22:49Z INFO  dt_instance] A "7500" 13:22:48.612738851
+2022-01-11T13:22:49.687440483Z  [2022-01-11T13:22:49Z INFO  dt_instance] A "7510" 13:22:49.128093986
+2022-01-11T13:22:50.197690677Z  [2022-01-11T13:22:50Z INFO  dt_instance] A "7520" 13:22:49.638003181
+2022-01-11T13:22:50.708471301Z  [2022-01-11T13:22:50Z INFO  dt_instance] A "7530" 13:22:50.149170329
+2022-01-11T13:22:51.221765407Z  [2022-01-11T13:22:51Z INFO  dt_instance] A "7540" 13:22:50.662494219
+2022-01-11T13:22:51.734997971Z  [2022-01-11T13:22:51Z INFO  dt_instance] A "7550" 13:22:51.175688006
+2022-01-11T13:22:52.248649597Z  [2022-01-11T13:22:52Z INFO  dt_instance] A "7560" 13:22:51.689377210
+2022-01-11T13:22:52.762621748Z  [2022-01-11T13:22:52Z INFO  dt_instance] A "7570" 13:22:52.203631706
+2022-01-11T13:22:53.274838763Z  [2022-01-11T13:22:53Z INFO  dt_instance] A "7580" 13:22:52.715621394
+2022-01-11T13:22:53.788264018Z  [2022-01-11T13:22:53Z INFO  dt_instance] A "7590" 13:22:53.229060309
+2022-01-11T13:22:54.301445683Z  [2022-01-11T13:22:54Z INFO  dt_instance] A "7600" 13:22:53.741858618
+2022-01-11T13:22:54.815703894Z  [2022-01-11T13:22:54Z INFO  dt_instance] A "7610" 13:22:54.256363980
+2022-01-11T13:22:55.328767389Z  [2022-01-11T13:22:55Z INFO  dt_instance] A "7620" 13:22:54.769871469
+2022-01-11T13:22:55.841934514Z  [2022-01-11T13:22:55Z INFO  dt_instance] A "7630" 13:22:55.282196179
+2022-01-11T13:22:56.352355495Z  [2022-01-11T13:22:56Z INFO  dt_instance] A "7640" 13:22:55.793145250
+2022-01-11T13:22:56.867344551Z  [2022-01-11T13:22:56Z INFO  dt_instance] A "7650" 13:22:56.307725368
+2022-01-11T13:22:57.379636463Z  [2022-01-11T13:22:57Z INFO  dt_instance] A "7660" 13:22:56.820684668
+2022-01-11T13:22:57.555529215Z  [2022-01-11T13:22:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:22:57.895934039Z  [2022-01-11T13:22:57Z INFO  dt_instance] A "7670" 13:22:57.336553513
+2022-01-11T13:22:58.409954236Z  [2022-01-11T13:22:58Z INFO  dt_instance] A "7680" 13:22:57.850152003
+2022-01-11T13:22:58.921958576Z  [2022-01-11T13:22:58Z INFO  dt_instance] A "7690" 13:22:58.362397236
+2022-01-11T13:22:59.435220009Z  [2022-01-11T13:22:59Z INFO  dt_instance] A "7700" 13:22:58.875721269
+2022-01-11T13:22:59.947908488Z  [2022-01-11T13:22:59Z INFO  dt_instance] A "7710" 13:22:59.388555392
+2022-01-11T13:23:00.459784603Z  [2022-01-11T13:23:00Z INFO  dt_instance] A "7720" 13:22:59.900291451
+2022-01-11T13:23:00.971319016Z  [2022-01-11T13:23:00Z INFO  dt_instance] A "7730" 13:23:00.411924831
+2022-01-11T13:23:01.483120766Z  [2022-01-11T13:23:01Z INFO  dt_instance] A "7740" 13:23:00.923649343
+2022-01-11T13:23:01.994811340Z  [2022-01-11T13:23:01Z INFO  dt_instance] A "7750" 13:23:01.435382259
+2022-01-11T13:23:02.506307111Z  [2022-01-11T13:23:02Z INFO  dt_instance] A "7760" 13:23:01.946838761
+2022-01-11T13:23:03.017844981Z  [2022-01-11T13:23:03Z INFO  dt_instance] A "7770" 13:23:02.458278410
+2022-01-11T13:23:03.531497918Z  [2022-01-11T13:23:03Z INFO  dt_instance] A "7780" 13:23:02.971894520
+2022-01-11T13:23:04.042370559Z  [2022-01-11T13:23:04Z INFO  dt_instance] A "7790" 13:23:03.482876082
+2022-01-11T13:23:04.555347918Z  [2022-01-11T13:23:04Z INFO  dt_instance] A "7800" 13:23:03.995899612
+2022-01-11T13:23:05.068673036Z  [2022-01-11T13:23:05Z INFO  dt_instance] A "7810" 13:23:04.509291385
+2022-01-11T13:23:05.583552460Z  [2022-01-11T13:23:05Z INFO  dt_instance] A "7820" 13:23:05.024054829
+2022-01-11T13:23:06.094677684Z  [2022-01-11T13:23:06Z INFO  dt_instance] A "7830" 13:23:05.535237315
+2022-01-11T13:23:06.610264797Z  [2022-01-11T13:23:06Z INFO  dt_instance] A "7840" 13:23:06.050944853
+2022-01-11T13:23:07.123650242Z  [2022-01-11T13:23:07Z INFO  dt_instance] A "7850" 13:23:06.564214779
+2022-01-11T13:23:07.635444849Z  [2022-01-11T13:23:07Z INFO  dt_instance] A "7860" 13:23:07.076002688
+2022-01-11T13:23:08.148068592Z  [2022-01-11T13:23:08Z INFO  dt_instance] A "7870" 13:23:07.588622161
+2022-01-11T13:23:08.660569110Z  [2022-01-11T13:23:08Z INFO  dt_instance] A "7880" 13:23:08.101296298
+2022-01-11T13:23:09.172820482Z  [2022-01-11T13:23:09Z INFO  dt_instance] A "7890" 13:23:08.613118
+2022-01-11T13:23:09.693002368Z  [2022-01-11T13:23:09Z INFO  dt_instance] A "7900" 13:23:09.133794698
+2022-01-11T13:23:10.206470961Z  [2022-01-11T13:23:10Z INFO  dt_instance] A "7910" 13:23:09.646879318
+2022-01-11T13:23:10.720234934Z  [2022-01-11T13:23:10Z INFO  dt_instance] A "7920" 13:23:10.160611078
+2022-01-11T13:23:11.232107580Z  [2022-01-11T13:23:11Z INFO  dt_instance] A "7930" 13:23:10.672511837
+2022-01-11T13:23:11.742920257Z  [2022-01-11T13:23:11Z INFO  dt_instance] A "7940" 13:23:11.183195792
+2022-01-11T13:23:12.256650423Z  [2022-01-11T13:23:12Z INFO  dt_instance] A "7950" 13:23:11.697077026
+2022-01-11T13:23:12.767416253Z  [2022-01-11T13:23:12Z INFO  dt_instance] A "7960" 13:23:12.208079964
+2022-01-11T13:23:13.280426780Z  [2022-01-11T13:23:13Z INFO  dt_instance] A "7970" 13:23:12.720773194
+2022-01-11T13:23:13.790974891Z  [2022-01-11T13:23:13Z INFO  dt_instance] A "7980" 13:23:13.231606793
+2022-01-11T13:23:14.307511348Z  [2022-01-11T13:23:14Z INFO  dt_instance] A "7990" 13:23:13.746097723
+2022-01-11T13:23:14.818856711Z  [2022-01-11T13:23:14Z INFO  dt_instance] A "8000" 13:23:14.259098076
+2022-01-11T13:23:15.328793708Z  [2022-01-11T13:23:15Z INFO  dt_instance] A "8010" 13:23:14.769784374
+2022-01-11T13:23:15.844367913Z  [2022-01-11T13:23:15Z INFO  dt_instance] A "8020" 13:23:15.284754386
+2022-01-11T13:23:16.358998508Z  [2022-01-11T13:23:16Z INFO  dt_instance] A "8030" 13:23:15.799108882
+2022-01-11T13:23:16.872485232Z  [2022-01-11T13:23:16Z INFO  dt_instance] A "8040" 13:23:16.312964399
+2022-01-11T13:23:17.384858058Z  [2022-01-11T13:23:17Z INFO  dt_instance] A "8050" 13:23:16.825066493
+2022-01-11T13:23:17.896945438Z  [2022-01-11T13:23:17Z INFO  dt_instance] A "8060" 13:23:17.337421725
+2022-01-11T13:23:18.409489671Z  [2022-01-11T13:23:18Z INFO  dt_instance] A "8070" 13:23:17.850039318
+2022-01-11T13:23:18.922030300Z  [2022-01-11T13:23:18Z INFO  dt_instance] A "8080" 13:23:18.362477241
+2022-01-11T13:23:19.434987042Z  [2022-01-11T13:23:19Z INFO  dt_instance] A "8090" 13:23:18.875082781
+2022-01-11T13:23:19.945383067Z  [2022-01-11T13:23:19Z INFO  dt_instance] A "8100" 13:23:19.385548585
+2022-01-11T13:23:20.457677571Z  [2022-01-11T13:23:20Z INFO  dt_instance] A "8110" 13:23:19.898080779
+2022-01-11T13:23:20.969846912Z  [2022-01-11T13:23:20Z INFO  dt_instance] A "8120" 13:23:20.410235578
+2022-01-11T13:23:21.481168490Z  [2022-01-11T13:23:21Z INFO  dt_instance] A "8130" 13:23:20.922040386
+2022-01-11T13:23:21.994938386Z  [2022-01-11T13:23:21Z INFO  dt_instance] A "8140" 13:23:21.435434190
+2022-01-11T13:23:22.505640261Z  [2022-01-11T13:23:22Z INFO  dt_instance] A "8150" 13:23:21.946017349
+2022-01-11T13:23:23.018201279Z  [2022-01-11T13:23:23Z INFO  dt_instance] A "8160" 13:23:22.458582138
+2022-01-11T13:23:23.530564926Z  [2022-01-11T13:23:23Z INFO  dt_instance] A "8170" 13:23:22.970875275
+2022-01-11T13:23:24.044897906Z  [2022-01-11T13:23:24Z INFO  dt_instance] A "8180" 13:23:23.485008115
+2022-01-11T13:23:24.558506699Z  [2022-01-11T13:23:24Z INFO  dt_instance] A "8190" 13:23:23.998665248
+2022-01-11T13:23:25.071292252Z  [2022-01-11T13:23:25Z INFO  dt_instance] A "8200" 13:23:24.511427265
+2022-01-11T13:23:25.584363508Z  [2022-01-11T13:23:25Z INFO  dt_instance] A "8210" 13:23:25.024752981
+2022-01-11T13:23:26.097624158Z  [2022-01-11T13:23:26Z INFO  dt_instance] A "8220" 13:23:25.538131378
+2022-01-11T13:23:26.612738796Z  [2022-01-11T13:23:26Z INFO  dt_instance] A "8230" 13:23:26.052888726
+2022-01-11T13:23:27.124375828Z  [2022-01-11T13:23:27Z INFO  dt_instance] A "8240" 13:23:26.564820241
+2022-01-11T13:23:27.557086606Z  [2022-01-11T13:23:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:23:27.635422795Z  [2022-01-11T13:23:27Z INFO  dt_instance] A "8250" 13:23:27.076187066
+2022-01-11T13:23:28.148466861Z  [2022-01-11T13:23:28Z INFO  dt_instance] A "8260" 13:23:27.589102667
+2022-01-11T13:23:28.659904395Z  [2022-01-11T13:23:28Z INFO  dt_instance] A "8270" 13:23:28.100544546
+2022-01-11T13:23:29.174189070Z  [2022-01-11T13:23:29Z INFO  dt_instance] A "8280" 13:23:28.614715313
+2022-01-11T13:23:29.688271052Z  [2022-01-11T13:23:29Z INFO  dt_instance] A "8290" 13:23:29.128623454
+2022-01-11T13:23:30.199912125Z  [2022-01-11T13:23:30Z INFO  dt_instance] A "8300" 13:23:29.640150672
+2022-01-11T13:23:30.710135779Z  [2022-01-11T13:23:30Z INFO  dt_instance] A "8310" 13:23:30.150452016
+2022-01-11T13:23:31.220257953Z  [2022-01-11T13:23:31Z INFO  dt_instance] A "8320" 13:23:30.660289669
+2022-01-11T13:23:31.732738802Z  [2022-01-11T13:23:31Z INFO  dt_instance] A "8330" 13:23:31.173012248
+2022-01-11T13:23:32.244909146Z  [2022-01-11T13:23:32Z INFO  dt_instance] A "8340" 13:23:31.684880484
+2022-01-11T13:23:32.755847805Z  [2022-01-11T13:23:32Z INFO  dt_instance] A "8350" 13:23:32.196254963
+2022-01-11T13:23:33.269683756Z  [2022-01-11T13:23:33Z INFO  dt_instance] A "8360" 13:23:32.710339848
+2022-01-11T13:23:33.780416564Z  [2022-01-11T13:23:33Z INFO  dt_instance] A "8370" 13:23:33.220664545
+2022-01-11T13:23:34.291895984Z  [2022-01-11T13:23:34Z INFO  dt_instance] A "8380" 13:23:33.731903017
+2022-01-11T13:23:34.804656027Z  [2022-01-11T13:23:34Z INFO  dt_instance] A "8390" 13:23:34.244957240
+2022-01-11T13:23:35.317285397Z  [2022-01-11T13:23:35Z INFO  dt_instance] A "8400" 13:23:34.757771867
+2022-01-11T13:23:35.827963972Z  [2022-01-11T13:23:35Z INFO  dt_instance] A "8410" 13:23:35.268165868
+2022-01-11T13:23:36.340501081Z  [2022-01-11T13:23:36Z INFO  dt_instance] A "8420" 13:23:35.780922568
+2022-01-11T13:23:36.853015053Z  [2022-01-11T13:23:36Z INFO  dt_instance] A "8430" 13:23:36.293434944
+2022-01-11T13:23:37.363710374Z  [2022-01-11T13:23:37Z INFO  dt_instance] A "8440" 13:23:36.804291583
+2022-01-11T13:23:37.876547791Z  [2022-01-11T13:23:37Z INFO  dt_instance] A "8450" 13:23:37.316773709
+2022-01-11T13:23:38.389952974Z  [2022-01-11T13:23:38Z INFO  dt_instance] A "8460" 13:23:37.830387790
+2022-01-11T13:23:38.901957106Z  [2022-01-11T13:23:38Z INFO  dt_instance] A "8470" 13:23:38.342316329
+2022-01-11T13:23:39.413176116Z  [2022-01-11T13:23:39Z INFO  dt_instance] A "8480" 13:23:38.853354694
+2022-01-11T13:23:39.928508569Z  [2022-01-11T13:23:39Z INFO  dt_instance] A "8490" 13:23:39.368877949
+2022-01-11T13:23:40.439640691Z  [2022-01-11T13:23:40Z INFO  dt_instance] A "8500" 13:23:39.880710063
+2022-01-11T13:23:40.952131526Z  [2022-01-11T13:23:40Z INFO  dt_instance] A "8510" 13:23:40.392425487
+2022-01-11T13:23:41.464264702Z  [2022-01-11T13:23:41Z INFO  dt_instance] A "8520" 13:23:40.904592286
+2022-01-11T13:23:41.977954580Z  [2022-01-11T13:23:41Z INFO  dt_instance] A "8530" 13:23:41.418203766
+2022-01-11T13:23:42.490268925Z  [2022-01-11T13:23:42Z INFO  dt_instance] A "8540" 13:23:41.930678099
+2022-01-11T13:23:43.004681931Z  [2022-01-11T13:23:43Z INFO  dt_instance] A "8550" 13:23:42.445101183
+2022-01-11T13:23:43.515259574Z  [2022-01-11T13:23:43Z INFO  dt_instance] A "8560" 13:23:42.955115371
+2022-01-11T13:23:44.026739114Z  [2022-01-11T13:23:44Z INFO  dt_instance] A "8570" 13:23:43.467074210
+2022-01-11T13:23:44.540272759Z  [2022-01-11T13:23:44Z INFO  dt_instance] A "8580" 13:23:43.980973669
+2022-01-11T13:23:45.053508743Z  [2022-01-11T13:23:45Z INFO  dt_instance] A "8590" 13:23:44.493787404
+2022-01-11T13:23:45.566170631Z  [2022-01-11T13:23:45Z INFO  dt_instance] A "8600" 13:23:45.006539380
+2022-01-11T13:23:46.076665596Z  [2022-01-11T13:23:46Z INFO  dt_instance] A "8610" 13:23:45.517055952
+2022-01-11T13:23:46.589624412Z  [2022-01-11T13:23:46Z INFO  dt_instance] A "8620" 13:23:46.030019032
+2022-01-11T13:23:47.102257721Z  [2022-01-11T13:23:47Z INFO  dt_instance] A "8630" 13:23:46.542606981
+2022-01-11T13:23:47.615047399Z  [2022-01-11T13:23:47Z INFO  dt_instance] A "8640" 13:23:47.055411141
+2022-01-11T13:23:48.131631450Z  [2022-01-11T13:23:48Z INFO  dt_instance] A "8650" 13:23:47.571806353
+2022-01-11T13:23:48.644063115Z  [2022-01-11T13:23:48Z INFO  dt_instance] A "8660" 13:23:48.082831721
+2022-01-11T13:23:49.157153943Z  [2022-01-11T13:23:49Z INFO  dt_instance] A "8670" 13:23:48.597324121
+2022-01-11T13:23:49.671282095Z  [2022-01-11T13:23:49Z INFO  dt_instance] A "8680" 13:23:49.111525489
+2022-01-11T13:23:50.185214454Z  [2022-01-11T13:23:50Z INFO  dt_instance] A "8690" 13:23:49.625291869
+2022-01-11T13:23:50.698924693Z  [2022-01-11T13:23:50Z INFO  dt_instance] A "8700" 13:23:50.139275143
+2022-01-11T13:23:51.211188752Z  [2022-01-11T13:23:51Z INFO  dt_instance] A "8710" 13:23:50.651380656
+2022-01-11T13:23:51.726400017Z  [2022-01-11T13:23:51Z INFO  dt_instance] A "8720" 13:23:51.166155579
+2022-01-11T13:23:52.241809187Z  [2022-01-11T13:23:52Z INFO  dt_instance] A "8730" 13:23:51.682639126
+2022-01-11T13:23:52.755274189Z  [2022-01-11T13:23:52Z INFO  dt_instance] A "8740" 13:23:52.196340736
+2022-01-11T13:23:53.267788005Z  [2022-01-11T13:23:53Z INFO  dt_instance] A "8750" 13:23:52.708389475
+2022-01-11T13:23:53.779674150Z  [2022-01-11T13:23:53Z INFO  dt_instance] A "8760" 13:23:53.220102330
+2022-01-11T13:23:54.291677161Z  [2022-01-11T13:23:54Z INFO  dt_instance] A "8770" 13:23:53.731917979
+2022-01-11T13:23:54.803616986Z  [2022-01-11T13:23:54Z INFO  dt_instance] A "8780" 13:23:54.244657458
+2022-01-11T13:23:55.316142642Z  [2022-01-11T13:23:55Z INFO  dt_instance] A "8790" 13:23:54.756272884
+2022-01-11T13:23:55.827089650Z  [2022-01-11T13:23:55Z INFO  dt_instance] A "8800" 13:23:55.267913477
+2022-01-11T13:23:56.338504885Z  [2022-01-11T13:23:56Z INFO  dt_instance] A "8810" 13:23:55.778919135
+2022-01-11T13:23:56.848625738Z  [2022-01-11T13:23:56Z INFO  dt_instance] A "8820" 13:23:56.289271762
+2022-01-11T13:23:57.360647159Z  [2022-01-11T13:23:57Z INFO  dt_instance] A "8830" 13:23:56.800943197
+2022-01-11T13:23:57.559419552Z  [2022-01-11T13:23:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:23:57.871631234Z  [2022-01-11T13:23:57Z INFO  dt_instance] A "8840" 13:23:57.311864468
+2022-01-11T13:23:58.382278263Z  [2022-01-11T13:23:58Z INFO  dt_instance] A "8850" 13:23:57.823191917
+2022-01-11T13:23:58.895946257Z  [2022-01-11T13:23:58Z INFO  dt_instance] A "8860" 13:23:58.336156197
+2022-01-11T13:23:59.406955081Z  [2022-01-11T13:23:59Z INFO  dt_instance] A "8870" 13:23:58.847241519
+2022-01-11T13:23:59.918401218Z  [2022-01-11T13:23:59Z INFO  dt_instance] A "8880" 13:23:59.358668913
+2022-01-11T13:24:00.431889437Z  [2022-01-11T13:24:00Z INFO  dt_instance] A "8890" 13:23:59.872115296
+2022-01-11T13:24:00.943872426Z  [2022-01-11T13:24:00Z INFO  dt_instance] A "8900" 13:24:00.384120397
+2022-01-11T13:24:01.457605601Z  [2022-01-11T13:24:01Z INFO  dt_instance] A "8910" 13:24:00.897744934
+2022-01-11T13:24:01.968398429Z  [2022-01-11T13:24:01Z INFO  dt_instance] A "8920" 13:24:01.408615793
+2022-01-11T13:24:02.480336363Z  [2022-01-11T13:24:02Z INFO  dt_instance] A "8930" 13:24:01.920449572
+2022-01-11T13:24:02.992398134Z  [2022-01-11T13:24:02Z INFO  dt_instance] A "8940" 13:24:02.433012143
+2022-01-11T13:24:03.505965333Z  [2022-01-11T13:24:03Z INFO  dt_instance] A "8950" 13:24:02.946307821
+2022-01-11T13:24:04.019815243Z  [2022-01-11T13:24:04Z INFO  dt_instance] A "8960" 13:24:03.459999529
+2022-01-11T13:24:04.532974489Z  [2022-01-11T13:24:04Z INFO  dt_instance] A "8970" 13:24:03.972940574
+2022-01-11T13:24:05.045632189Z  [2022-01-11T13:24:05Z INFO  dt_instance] A "8980" 13:24:04.485817771
+2022-01-11T13:24:05.558738011Z  [2022-01-11T13:24:05Z INFO  dt_instance] A "8990" 13:24:04.998665231
+2022-01-11T13:24:06.070660308Z  [2022-01-11T13:24:06Z INFO  dt_instance] A "9000" 13:24:05.510681210
+2022-01-11T13:24:06.584567586Z  [2022-01-11T13:24:06Z INFO  dt_instance] A "9010" 13:24:06.024719331
+2022-01-11T13:24:07.098787551Z  [2022-01-11T13:24:07Z INFO  dt_instance] A "9020" 13:24:06.539079831
+2022-01-11T13:24:07.609764041Z  [2022-01-11T13:24:07Z INFO  dt_instance] A "9030" 13:24:07.049903153
+2022-01-11T13:24:08.121648815Z  [2022-01-11T13:24:08Z INFO  dt_instance] A "9040" 13:24:07.561732069
+2022-01-11T13:24:08.634629740Z  [2022-01-11T13:24:08Z INFO  dt_instance] A "9050" 13:24:08.074910136
+2022-01-11T13:24:09.146712235Z  [2022-01-11T13:24:09Z INFO  dt_instance] A "9060" 13:24:08.587018500
+2022-01-11T13:24:09.657702988Z  [2022-01-11T13:24:09Z INFO  dt_instance] A "9070" 13:24:09.097863890
+2022-01-11T13:24:10.170059840Z  [2022-01-11T13:24:10Z INFO  dt_instance] A "9080" 13:24:09.610450030
+2022-01-11T13:24:10.681969261Z  [2022-01-11T13:24:10Z INFO  dt_instance] A "9090" 13:24:10.122274809
+2022-01-11T13:24:11.196210795Z  [2022-01-11T13:24:11Z INFO  dt_instance] A "9100" 13:24:10.636066208
+2022-01-11T13:24:11.707226745Z  [2022-01-11T13:24:11Z INFO  dt_instance] A "9110" 13:24:11.147093688
+2022-01-11T13:24:12.216833410Z  [2022-01-11T13:24:12Z INFO  dt_instance] A "9120" 13:24:11.657065693
+2022-01-11T13:24:12.730114533Z  [2022-01-11T13:24:12Z INFO  dt_instance] A "9130" 13:24:12.170133219
+2022-01-11T13:24:13.242396563Z  [2022-01-11T13:24:13Z INFO  dt_instance] A "9140" 13:24:12.682631185
+2022-01-11T13:24:13.754768681Z  [2022-01-11T13:24:13Z INFO  dt_instance] A "9150" 13:24:13.195490129
+2022-01-11T13:24:14.270935245Z  [2022-01-11T13:24:14Z INFO  dt_instance] A "9160" 13:24:13.710930460
+2022-01-11T13:24:14.784577859Z  [2022-01-11T13:24:14Z INFO  dt_instance] A "9170" 13:24:14.224954830
+2022-01-11T13:24:15.297920611Z  [2022-01-11T13:24:15Z INFO  dt_instance] A "9180" 13:24:14.738307956
+2022-01-11T13:24:15.809980308Z  [2022-01-11T13:24:15Z INFO  dt_instance] A "9190" 13:24:15.250093332
+2022-01-11T13:24:16.323994465Z  [2022-01-11T13:24:16Z INFO  dt_instance] A "9200" 13:24:15.764062163
+2022-01-11T13:24:16.837155131Z  [2022-01-11T13:24:16Z INFO  dt_instance] A "9210" 13:24:16.277531456
+2022-01-11T13:24:17.348910452Z  [2022-01-11T13:24:17Z INFO  dt_instance] A "9220" 13:24:16.788897252
+2022-01-11T13:24:17.860831032Z  [2022-01-11T13:24:17Z INFO  dt_instance] A "9230" 13:24:17.301067478
+2022-01-11T13:24:18.371252395Z  [2022-01-11T13:24:18Z INFO  dt_instance] A "9240" 13:24:17.811437839
+2022-01-11T13:24:18.882945585Z  [2022-01-11T13:24:18Z INFO  dt_instance] A "9250" 13:24:18.322622465
+2022-01-11T13:24:19.394541403Z  [2022-01-11T13:24:19Z INFO  dt_instance] A "9260" 13:24:18.834773661
+2022-01-11T13:24:19.908879662Z  [2022-01-11T13:24:19Z INFO  dt_instance] A "9270" 13:24:19.349167838
+2022-01-11T13:24:20.420474885Z  [2022-01-11T13:24:20Z INFO  dt_instance] A "9280" 13:24:19.861154787
+2022-01-11T13:24:20.931281720Z  [2022-01-11T13:24:20Z INFO  dt_instance] A "9290" 13:24:20.371447219
+2022-01-11T13:24:21.442609646Z  [2022-01-11T13:24:21Z INFO  dt_instance] A "9300" 13:24:20.883029225
+2022-01-11T13:24:21.956347626Z  [2022-01-11T13:24:21Z INFO  dt_instance] A "9310" 13:24:21.396352485
+2022-01-11T13:24:22.467157396Z  [2022-01-11T13:24:22Z INFO  dt_instance] A "9320" 13:24:21.907367251
+2022-01-11T13:24:22.978500805Z  [2022-01-11T13:24:22Z INFO  dt_instance] A "9330" 13:24:22.418762446
+2022-01-11T13:24:23.492093138Z  [2022-01-11T13:24:23Z INFO  dt_instance] A "9340" 13:24:22.932066949
+2022-01-11T13:24:24.004936037Z  [2022-01-11T13:24:24Z INFO  dt_instance] A "9350" 13:24:23.445185429
+2022-01-11T13:24:24.517043072Z  [2022-01-11T13:24:24Z INFO  dt_instance] A "9360" 13:24:23.957144742
+2022-01-11T13:24:25.027726826Z  [2022-01-11T13:24:25Z INFO  dt_instance] A "9370" 13:24:24.467960847
+2022-01-11T13:24:25.540528188Z  [2022-01-11T13:24:25Z INFO  dt_instance] A "9380" 13:24:24.980132993
+2022-01-11T13:24:26.055000390Z  [2022-01-11T13:24:26Z INFO  dt_instance] A "9390" 13:24:25.495154914
+2022-01-11T13:24:26.567775032Z  [2022-01-11T13:24:26Z INFO  dt_instance] A "9400" 13:24:26.008530557
+2022-01-11T13:24:27.082759312Z  [2022-01-11T13:24:27Z INFO  dt_instance] A "9410" 13:24:26.522195067
+2022-01-11T13:24:27.560085127Z  [2022-01-11T13:24:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:24:27.593581075Z  [2022-01-11T13:24:27Z INFO  dt_instance] A "9420" 13:24:27.033562730
+2022-01-11T13:24:28.105462518Z  [2022-01-11T13:24:28Z INFO  dt_instance] A "9430" 13:24:27.545373299
+2022-01-11T13:24:28.619089737Z  [2022-01-11T13:24:28Z INFO  dt_instance] A "9440" 13:24:28.059609797
+2022-01-11T13:24:29.132656237Z  [2022-01-11T13:24:29Z INFO  dt_instance] A "9450" 13:24:28.572792372
+2022-01-11T13:24:29.646844372Z  [2022-01-11T13:24:29Z INFO  dt_instance] A "9460" 13:24:29.086982319
+2022-01-11T13:24:30.158645541Z  [2022-01-11T13:24:30Z INFO  dt_instance] A "9470" 13:24:29.598640995
+2022-01-11T13:24:30.670739097Z  [2022-01-11T13:24:30Z INFO  dt_instance] A "9480" 13:24:30.110997828
+2022-01-11T13:24:31.182661803Z  [2022-01-11T13:24:31Z INFO  dt_instance] A "9490" 13:24:30.622924001
+2022-01-11T13:24:31.696442799Z  [2022-01-11T13:24:31Z INFO  dt_instance] A "9500" 13:24:31.136419597
+2022-01-11T13:24:32.209522465Z  [2022-01-11T13:24:32Z INFO  dt_instance] A "9510" 13:24:31.649485790
+2022-01-11T13:24:32.723409459Z  [2022-01-11T13:24:32Z INFO  dt_instance] A "9520" 13:24:32.163573287
+2022-01-11T13:24:33.237514878Z  [2022-01-11T13:24:33Z INFO  dt_instance] A "9530" 13:24:32.677573171
+2022-01-11T13:24:33.751321775Z  [2022-01-11T13:24:33Z INFO  dt_instance] A "9540" 13:24:33.191386505
+2022-01-11T13:24:34.263726391Z  [2022-01-11T13:24:34Z INFO  dt_instance] A "9550" 13:24:33.704029220
+2022-01-11T13:24:34.774963925Z  [2022-01-11T13:24:34Z INFO  dt_instance] A "9560" 13:24:34.215494727
+2022-01-11T13:24:35.287674460Z  [2022-01-11T13:24:35Z INFO  dt_instance] A "9570" 13:24:34.727792119
+2022-01-11T13:24:35.800187542Z  [2022-01-11T13:24:35Z INFO  dt_instance] A "9580" 13:24:35.240065947
+2022-01-11T13:24:36.310197441Z  [2022-01-11T13:24:36Z INFO  dt_instance] A "9590" 13:24:35.749900444
+2022-01-11T13:24:36.824397800Z  [2022-01-11T13:24:36Z INFO  dt_instance] A "9600" 13:24:36.264757431
+2022-01-11T13:24:37.339241545Z  [2022-01-11T13:24:37Z INFO  dt_instance] A "9610" 13:24:36.779016188
+2022-01-11T13:24:37.851436524Z  [2022-01-11T13:24:37Z INFO  dt_instance] A "9620" 13:24:37.291365344
+2022-01-11T13:24:38.364931102Z  [2022-01-11T13:24:38Z INFO  dt_instance] A "9630" 13:24:37.804647579
+2022-01-11T13:24:38.878550786Z  [2022-01-11T13:24:38Z INFO  dt_instance] A "9640" 13:24:38.318432054
+2022-01-11T13:24:39.390232526Z  [2022-01-11T13:24:39Z INFO  dt_instance] A "9650" 13:24:38.830340171
+2022-01-11T13:24:39.901849152Z  [2022-01-11T13:24:39Z INFO  dt_instance] A "9660" 13:24:39.341897983
+2022-01-11T13:24:40.414167747Z  [2022-01-11T13:24:40Z INFO  dt_instance] A "9670" 13:24:39.854149718
+2022-01-11T13:24:40.928815623Z  [2022-01-11T13:24:40Z INFO  dt_instance] A "9680" 13:24:40.368986850
+2022-01-11T13:24:41.440376958Z  [2022-01-11T13:24:41Z INFO  dt_instance] A "9690" 13:24:40.880435662
+2022-01-11T13:24:41.953136909Z  [2022-01-11T13:24:41Z INFO  dt_instance] A "9700" 13:24:41.393375612
+2022-01-11T13:24:42.465463089Z  [2022-01-11T13:24:42Z INFO  dt_instance] A "9710" 13:24:41.905561694
+2022-01-11T13:24:42.978066383Z  [2022-01-11T13:24:42Z INFO  dt_instance] A "9720" 13:24:42.418147941
+2022-01-11T13:24:43.491362876Z  [2022-01-11T13:24:43Z INFO  dt_instance] A "9730" 13:24:42.931303294
+2022-01-11T13:24:44.004757817Z  [2022-01-11T13:24:44Z INFO  dt_instance] A "9740" 13:24:43.444789254
+2022-01-11T13:24:44.519688115Z  [2022-01-11T13:24:44Z INFO  dt_instance] A "9750" 13:24:43.959810858
+2022-01-11T13:24:45.034553195Z  [2022-01-11T13:24:45Z INFO  dt_instance] A "9760" 13:24:44.474677029
+2022-01-11T13:24:45.547025196Z  [2022-01-11T13:24:45Z INFO  dt_instance] A "9770" 13:24:44.987133865
+2022-01-11T13:24:46.059718387Z  [2022-01-11T13:24:46Z INFO  dt_instance] A "9780" 13:24:45.499808911
+2022-01-11T13:24:46.571467820Z  [2022-01-11T13:24:46Z INFO  dt_instance] A "9790" 13:24:46.011579247
+2022-01-11T13:24:47.083832516Z  [2022-01-11T13:24:47Z INFO  dt_instance] A "9800" 13:24:46.523962190
+2022-01-11T13:24:47.596513996Z  [2022-01-11T13:24:47Z INFO  dt_instance] A "9810" 13:24:47.035906352
+2022-01-11T13:24:48.110369341Z  [2022-01-11T13:24:48Z INFO  dt_instance] A "9820" 13:24:47.550466533
+2022-01-11T13:24:48.625228144Z  [2022-01-11T13:24:48Z INFO  dt_instance] A "9830" 13:24:48.064917947
+2022-01-11T13:24:49.135261137Z  [2022-01-11T13:24:49Z INFO  dt_instance] A "9840" 13:24:48.575521901
+2022-01-11T13:24:49.646229646Z  [2022-01-11T13:24:49Z INFO  dt_instance] A "9850" 13:24:49.086336554
+2022-01-11T13:24:50.156899863Z  [2022-01-11T13:24:50Z INFO  dt_instance] A "9860" 13:24:49.596897443
+2022-01-11T13:24:50.668216160Z  [2022-01-11T13:24:50Z INFO  dt_instance] A "9870" 13:24:50.108310635
+2022-01-11T13:24:51.183855274Z  [2022-01-11T13:24:51Z INFO  dt_instance] A "9880" 13:24:50.623658611
+2022-01-11T13:24:51.698210936Z  [2022-01-11T13:24:51Z INFO  dt_instance] A "9890" 13:24:51.138094363
+2022-01-11T13:24:52.210448320Z  [2022-01-11T13:24:52Z INFO  dt_instance] A "9900" 13:24:51.650434759
+2022-01-11T13:24:52.724370119Z  [2022-01-11T13:24:52Z INFO  dt_instance] A "9910" 13:24:52.164302479
+2022-01-11T13:24:53.236426390Z  [2022-01-11T13:24:53Z INFO  dt_instance] A "9920" 13:24:52.676184152
+2022-01-11T13:24:53.748795693Z  [2022-01-11T13:24:53Z INFO  dt_instance] A "9930" 13:24:53.188954745
+2022-01-11T13:24:54.262140069Z  [2022-01-11T13:24:54Z INFO  dt_instance] A "9940" 13:24:53.702149545
+2022-01-11T13:24:54.773150807Z  [2022-01-11T13:24:54Z INFO  dt_instance] A "9950" 13:24:54.213615377
+2022-01-11T13:24:55.284686032Z  [2022-01-11T13:24:55Z INFO  dt_instance] A "9960" 13:24:54.724827533
+2022-01-11T13:24:55.797844999Z  [2022-01-11T13:24:55Z INFO  dt_instance] A "9970" 13:24:55.238033763
+2022-01-11T13:24:56.309028909Z  [2022-01-11T13:24:56Z INFO  dt_instance] A "9980" 13:24:55.749071425
+2022-01-11T13:24:56.825226701Z  [2022-01-11T13:24:56Z INFO  dt_instance] A "9990" 13:24:56.265069756
+2022-01-11T13:24:57.335132239Z  [2022-01-11T13:24:57Z INFO  dt_instance] A "10000" 13:24:56.774797191
+2022-01-11T13:24:57.561711304Z  [2022-01-11T13:24:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:24:57.846569341Z  [2022-01-11T13:24:57Z INFO  dt_instance] A "10010" 13:24:57.286561237
+2022-01-11T13:24:58.359069611Z  [2022-01-11T13:24:58Z INFO  dt_instance] A "10020" 13:24:57.799305543
+2022-01-11T13:24:58.869964056Z  [2022-01-11T13:24:58Z INFO  dt_instance] A "10030" 13:24:58.309826251
+2022-01-11T13:24:59.381134948Z  [2022-01-11T13:24:59Z INFO  dt_instance] A "10040" 13:24:58.821132742
+2022-01-11T13:24:59.892220721Z  [2022-01-11T13:24:59Z INFO  dt_instance] A "10050" 13:24:59.332615696
+2022-01-11T13:25:00.405618608Z  [2022-01-11T13:25:00Z INFO  dt_instance] A "10060" 13:24:59.845427583
+2022-01-11T13:25:00.915921312Z  [2022-01-11T13:25:00Z INFO  dt_instance] A "10070" 13:25:00.355709941
+2022-01-11T13:25:01.429932417Z  [2022-01-11T13:25:01Z INFO  dt_instance] A "10080" 13:25:00.869843441
+2022-01-11T13:25:01.941023816Z  [2022-01-11T13:25:01Z INFO  dt_instance] A "10090" 13:25:01.381033573
+2022-01-11T13:25:02.454525105Z  [2022-01-11T13:25:02Z INFO  dt_instance] A "10100" 13:25:01.893907976
+2022-01-11T13:25:02.966565713Z  [2022-01-11T13:25:02Z INFO  dt_instance] A "10110" 13:25:02.406416813
+2022-01-11T13:25:03.479801760Z  [2022-01-11T13:25:03Z INFO  dt_instance] A "10120" 13:25:02.919443709
+2022-01-11T13:25:03.990796616Z  [2022-01-11T13:25:03Z INFO  dt_instance] A "10130" 13:25:03.430814011
+2022-01-11T13:25:04.503932188Z  [2022-01-11T13:25:04Z INFO  dt_instance] A "10140" 13:25:03.943473801
+2022-01-11T13:25:05.016632313Z  [2022-01-11T13:25:05Z INFO  dt_instance] A "10150" 13:25:04.456594324
+2022-01-11T13:25:05.527476923Z  [2022-01-11T13:25:05Z INFO  dt_instance] A "10160" 13:25:04.967335053
+2022-01-11T13:25:06.039111139Z  [2022-01-11T13:25:06Z INFO  dt_instance] A "10170" 13:25:05.479011761
+2022-01-11T13:25:06.552113941Z  [2022-01-11T13:25:06Z INFO  dt_instance] A "10180" 13:25:05.991901172
+2022-01-11T13:25:07.064457415Z  [2022-01-11T13:25:07Z INFO  dt_instance] A "10190" 13:25:06.504422151
+2022-01-11T13:25:07.577388763Z  [2022-01-11T13:25:07Z INFO  dt_instance] A "10200" 13:25:07.017152175
+2022-01-11T13:25:08.088965427Z  [2022-01-11T13:25:08Z INFO  dt_instance] A "10210" 13:25:07.528998564
+2022-01-11T13:25:08.600085303Z  [2022-01-11T13:25:08Z INFO  dt_instance] A "10220" 13:25:08.040072346
+2022-01-11T13:25:09.111411144Z  [2022-01-11T13:25:09Z INFO  dt_instance] A "10230" 13:25:08.550569121
+2022-01-11T13:25:09.622928774Z  [2022-01-11T13:25:09Z INFO  dt_instance] A "10240" 13:25:09.062970827
+2022-01-11T13:25:10.133947828Z  [2022-01-11T13:25:10Z INFO  dt_instance] A "10250" 13:25:09.573906635
+2022-01-11T13:25:10.645296500Z  [2022-01-11T13:25:10Z INFO  dt_instance] A "10260" 13:25:10.085120541
+2022-01-11T13:25:11.156914691Z  [2022-01-11T13:25:11Z INFO  dt_instance] A "10270" 13:25:10.596977668
+2022-01-11T13:25:11.670418066Z  [2022-01-11T13:25:11Z INFO  dt_instance] A "10280" 13:25:11.110183643
+2022-01-11T13:25:12.184893314Z  [2022-01-11T13:25:12Z INFO  dt_instance] A "10290" 13:25:11.625007611
+2022-01-11T13:25:12.697509074Z  [2022-01-11T13:25:12Z INFO  dt_instance] A "10300" 13:25:12.137699821
+2022-01-11T13:25:13.210909666Z  [2022-01-11T13:25:13Z INFO  dt_instance] A "10310" 13:25:12.650976932
+2022-01-11T13:25:13.724309642Z  [2022-01-11T13:25:13Z INFO  dt_instance] A "10320" 13:25:13.164265017
+2022-01-11T13:25:14.235391474Z  [2022-01-11T13:25:14Z INFO  dt_instance] A "10330" 13:25:13.675541947
+2022-01-11T13:25:14.749274980Z  [2022-01-11T13:25:14Z INFO  dt_instance] A "10340" 13:25:14.189543462
+2022-01-11T13:25:15.260505013Z  [2022-01-11T13:25:15Z INFO  dt_instance] A "10350" 13:25:14.700448173
+2022-01-11T13:25:15.770080228Z  [2022-01-11T13:25:15Z INFO  dt_instance] A "10360" 13:25:15.209934423
+2022-01-11T13:25:16.282238932Z  [2022-01-11T13:25:16Z INFO  dt_instance] A "10370" 13:25:15.722155558
+2022-01-11T13:25:16.794305508Z  [2022-01-11T13:25:16Z INFO  dt_instance] A "10380" 13:25:16.234508775
+2022-01-11T13:25:17.310673751Z  [2022-01-11T13:25:17Z INFO  dt_instance] A "10390" 13:25:16.750536120
+2022-01-11T13:25:17.824046540Z  [2022-01-11T13:25:17Z INFO  dt_instance] A "10400" 13:25:17.264144287
+2022-01-11T13:25:18.336157986Z  [2022-01-11T13:25:18Z INFO  dt_instance] A "10410" 13:25:17.776033206
+2022-01-11T13:25:18.847717817Z  [2022-01-11T13:25:18Z INFO  dt_instance] A "10420" 13:25:18.287743254
+2022-01-11T13:25:19.359462336Z  [2022-01-11T13:25:19Z INFO  dt_instance] A "10430" 13:25:18.799417687
+2022-01-11T13:25:19.873646456Z  [2022-01-11T13:25:19Z INFO  dt_instance] A "10440" 13:25:19.313617618
+2022-01-11T13:25:20.386923715Z  [2022-01-11T13:25:20Z INFO  dt_instance] A "10450" 13:25:19.826694844
+2022-01-11T13:25:20.898755214Z  [2022-01-11T13:25:20Z INFO  dt_instance] A "10460" 13:25:20.338678807
+2022-01-11T13:25:21.413727830Z  [2022-01-11T13:25:21Z INFO  dt_instance] A "10470" 13:25:20.853594418
+2022-01-11T13:25:21.928001943Z  [2022-01-11T13:25:21Z INFO  dt_instance] A "10480" 13:25:21.367867775
+2022-01-11T13:25:22.439154681Z  [2022-01-11T13:25:22Z INFO  dt_instance] A "10490" 13:25:21.878707194
+2022-01-11T13:25:22.952960661Z  [2022-01-11T13:25:22Z INFO  dt_instance] A "10500" 13:25:22.392594477
+2022-01-11T13:25:23.464556013Z  [2022-01-11T13:25:23Z INFO  dt_instance] A "10510" 13:25:22.904838928
+2022-01-11T13:25:23.977589412Z  [2022-01-11T13:25:23Z INFO  dt_instance] A "10520" 13:25:23.417280650
+2022-01-11T13:25:24.490335346Z  [2022-01-11T13:25:24Z INFO  dt_instance] A "10530" 13:25:23.929917714
+2022-01-11T13:25:25.003606519Z  [2022-01-11T13:25:25Z INFO  dt_instance] A "10540" 13:25:24.443829638
+2022-01-11T13:25:25.515991452Z  [2022-01-11T13:25:25Z INFO  dt_instance] A "10550" 13:25:24.955821029
+2022-01-11T13:25:26.028011971Z  [2022-01-11T13:25:26Z INFO  dt_instance] A "10560" 13:25:25.467646634
+2022-01-11T13:25:26.539879338Z  [2022-01-11T13:25:26Z INFO  dt_instance] A "10570" 13:25:25.979199837
+2022-01-11T13:25:27.052157081Z  [2022-01-11T13:25:27Z INFO  dt_instance] A "10580" 13:25:26.492012047
+2022-01-11T13:25:27.563808155Z  [2022-01-11T13:25:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:25:27.563920627Z  [2022-01-11T13:25:27Z INFO  dt_instance] A "10590" 13:25:27.004431094
+2022-01-11T13:25:28.079000278Z  [2022-01-11T13:25:28Z INFO  dt_instance] A "10600" 13:25:27.518999607
+2022-01-11T13:25:28.590174544Z  [2022-01-11T13:25:28Z INFO  dt_instance] A "10610" 13:25:28.030072429
+2022-01-11T13:25:29.102912821Z  [2022-01-11T13:25:29Z INFO  dt_instance] A "10620" 13:25:28.543130782
+2022-01-11T13:25:29.616661995Z  [2022-01-11T13:25:29Z INFO  dt_instance] A "10630" 13:25:29.056249345
+2022-01-11T13:25:57.565192299Z  [2022-01-11T13:25:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:26:27.566382110Z  [2022-01-11T13:26:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:26:57.568517281Z  [2022-01-11T13:26:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:27:27.568729934Z  [2022-01-11T13:27:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:27:57.570451962Z  [2022-01-11T13:27:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:28:27.571722737Z  [2022-01-11T13:28:27Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:28:57.572131487Z  [2022-01-11T13:28:57Z ERROR dt_instance] Unhandled incoming.
+2022-01-11T13:29:27.573998787Z  [2022-01-11T13:29:27Z ERROR dt_instance] Unhandled incoming.
