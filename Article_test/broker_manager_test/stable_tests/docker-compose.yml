@@ -60,8 +60,8 @@ services:
           - node.labels.name==dtwins1
     command: dt-mqtt-manager
   
-  client-A:
-    image: "opendigitaltwin/dt-client-accel:latest"
+  clients-A:
+    image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
     environment:
@@ -74,9 +74,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=50000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=50
       - MQTT_CLIENT_TOPIC=A/A/A
-      - MQTT_CLIENT_ACCEL_FACTOR=2
-      - MQTT_CLIENT_ACCEL_EACH=1000
-      - GEOMETRIC=1
+      - MQTT_AMOUNT_OF_CLIENTS=1
     networks:
       - default
     deploy:
@@ -84,10 +82,10 @@ services:
       placement:    
         constraints:
           - node.labels.name==dtwins1
-    command: dt-client-accel
+    command: dt-client-bytes
 
-  client-B:
-    image: "opendigitaltwin/dt-client-accel:latest"
+  clients-B:
+    image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
     environment:
@@ -100,9 +98,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=50000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=50
       - MQTT_CLIENT_TOPIC=A/A/B
-      - MQTT_CLIENT_ACCEL_FACTOR=2
-      - MQTT_CLIENT_ACCEL_EACH=5000
-      - GEOMETRIC=1
+      - MQTT_AMOUNT_OF_CLIENTS=1
     networks:
       - default
     deploy:
@@ -110,10 +106,10 @@ services:
       placement:    
         constraints:
           - node.labels.name==dtwins2
-    command: dt-client-accel
+    command: dt-client-bytes
 
-  client-C:
-    image: "opendigitaltwin/dt-client-accel:latest"
+  clients-C:
+    image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
     environment:
@@ -126,9 +122,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=50000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=50
       - MQTT_CLIENT_TOPIC=A/A/C
-      - MQTT_CLIENT_ACCEL_FACTOR=2
-      - MQTT_CLIENT_ACCEL_EACH=5000
-      - GEOMETRIC=1
+      - MQTT_AMOUNT_OF_CLIENTS=1
     networks:
       - default
     deploy:
@@ -136,10 +130,10 @@ services:
       placement:    
         constraints:
           - node.labels.name==dtwins7
-    command: dt-client-accel
+    command: dt-client-bytes
 
-  client-D:
-    image: "opendigitaltwin/dt-client-accel:latest"
+  clients-D:
+    image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
     environment:
@@ -152,9 +146,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=50000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=50
       - MQTT_CLIENT_TOPIC=A/A/D
-      - MQTT_CLIENT_ACCEL_FACTOR=2
-      - MQTT_CLIENT_ACCEL_EACH=5000
-      - GEOMETRIC=1
+      - MQTT_AMOUNT_OF_CLIENTS=1
     networks:
       - default
     deploy:
@@ -162,7 +154,7 @@ services:
       placement:    
         constraints:
           - node.labels.name==dtwins7
-    command: dt-client-accel
+    command: dt-client-bytes
 
   twin-A:
     image: "opendigitaltwin/dt-instance:latest"
