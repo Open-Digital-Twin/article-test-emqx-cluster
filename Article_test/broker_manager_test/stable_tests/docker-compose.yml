@@ -71,11 +71,11 @@ services:
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
-      - MQTT_CLIENT_MESSAGES_TO_SEND=30000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
+      - MQTT_CLIENT_MESSAGES_TO_SEND=4000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=1
       - MQTT_CLIENT_TOPIC=A/A/A
       - MQTT_AMOUNT_OF_CLIENTS=100
-      - MQTT_THREAD_DELAY=30
+      - MQTT_THREAD_DELAY=1
     networks:
       - default
     deploy:
@@ -92,14 +92,15 @@ services:
     environment:
       - RUST_LOG=info
       - CONTAINER_DELAY_S=20
-      - MQTT_BROKER_ADDRESS=mqtt-node
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
-      - MQTT_CLIENT_MESSAGES_TO_SEND=50000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=50
+      - MQTT_CLIENT_MESSAGES_TO_SEND=4000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=1
       - MQTT_CLIENT_TOPIC=A/A/B
-      - MQTT_AMOUNT_OF_CLIENTS=1
+      - MQTT_AMOUNT_OF_CLIENTS=100
+      - MQTT_THREAD_DELAY=1
     networks:
       - default
     deploy:
@@ -124,6 +125,7 @@ services:
       - MQTT_CLIENT_MESSAGE_DELAY_MS=50
       - MQTT_CLIENT_TOPIC=A/A/C
       - MQTT_AMOUNT_OF_CLIENTS=1
+      - MQTT_THREAD_DELAY=30
     networks:
       - default
     deploy:
@@ -148,6 +150,7 @@ services:
       - MQTT_CLIENT_MESSAGE_DELAY_MS=50
       - MQTT_CLIENT_TOPIC=A/A/D
       - MQTT_AMOUNT_OF_CLIENTS=1
+      - MQTT_THREAD_DELAY=30
     networks:
       - default
     deploy:
@@ -176,7 +179,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins2
+          - node.labels.name==dtwins1
     command: dt-instance
 
   twin-B:
