@@ -38,7 +38,7 @@ services:
           - node.labels.size==edge
 
   mqtt-manager:
-    image: "teste:latest"
+    image: "opendigitaltwin/dt-mqtt-manager:latest"
     environment:
       - MQTT_API_ADDRESS=mqtt-cluster
       - MQTT_API_PORT=8081
