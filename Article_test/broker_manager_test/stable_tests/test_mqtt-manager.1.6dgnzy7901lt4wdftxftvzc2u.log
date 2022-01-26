@@ -1,0 +1,176 @@
+2022-01-26T07:28:18.585075073Z  [2022-01-26T07:28:18Z INFO  dt_mqtt_manager] Searching for mqtt broker at : mqtt-cluster:8081
+2022-01-26T07:28:18.612755427Z  [2022-01-26T07:28:18Z INFO  dt_mqtt_manager] CPU values = "1.17 ", MEM values = "128.82M "
+2022-01-26T07:28:18.612806446Z  [2022-01-26T07:28:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:28:18.612818204Z  [2022-01-26T07:28:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:28:18.612827958Z  [2022-01-26T07:28:18Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:28:18.612837409Z  [2022-01-26T07:28:18Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:28:33.626751093Z  [2022-01-26T07:28:33Z INFO  dt_mqtt_manager] CPU values = "0.91 ", MEM values = "128.83M "
+2022-01-26T07:28:33.626820359Z  [2022-01-26T07:28:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:28:33.626837721Z  [2022-01-26T07:28:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:28:33.626853039Z  [2022-01-26T07:28:33Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:28:33.626867856Z  [2022-01-26T07:28:33Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:28:48.650019354Z  [2022-01-26T07:28:48Z INFO  dt_mqtt_manager] CPU values = "0.79 ", MEM values = "128.81M "
+2022-01-26T07:28:48.650058969Z  [2022-01-26T07:28:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:28:48.650069073Z  [2022-01-26T07:28:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:28:48.650077812Z  [2022-01-26T07:28:48Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:28:48.650086476Z  [2022-01-26T07:28:48Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:29:03.671324577Z  [2022-01-26T07:29:03Z INFO  dt_mqtt_manager] CPU values = "0.62 ", MEM values = "128.82M "
+2022-01-26T07:29:03.671404547Z  [2022-01-26T07:29:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:29:03.671426577Z  [2022-01-26T07:29:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:29:03.671446044Z  [2022-01-26T07:29:03Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:29:03.671464514Z  [2022-01-26T07:29:03Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:29:18.694056755Z  [2022-01-26T07:29:18Z INFO  dt_mqtt_manager] CPU values = "0.48 ", MEM values = "128.81M "
+2022-01-26T07:29:18.694122178Z  [2022-01-26T07:29:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:29:18.694143405Z  [2022-01-26T07:29:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:29:18.694161942Z  [2022-01-26T07:29:18Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:29:18.694180465Z  [2022-01-26T07:29:18Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:29:33.724942258Z  [2022-01-26T07:29:33Z INFO  dt_mqtt_manager] CPU values = "0.37 ", MEM values = "128.82M "
+2022-01-26T07:29:33.724995202Z  [2022-01-26T07:29:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:29:33.725024683Z  [2022-01-26T07:29:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:29:33.725035216Z  [2022-01-26T07:29:33Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:29:33.725044418Z  [2022-01-26T07:29:33Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:29:48.741312762Z  [2022-01-26T07:29:48Z INFO  dt_mqtt_manager] CPU values = "0.29 ", MEM values = "128.80M "
+2022-01-26T07:29:48.741359801Z  [2022-01-26T07:29:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:29:48.741370725Z  [2022-01-26T07:29:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:29:48.741380389Z  [2022-01-26T07:29:48Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:29:48.741389500Z  [2022-01-26T07:29:48Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:30:03.762730961Z  [2022-01-26T07:30:03Z INFO  dt_mqtt_manager] CPU values = "0.22 ", MEM values = "128.95M "
+2022-01-26T07:30:03.762760931Z  [2022-01-26T07:30:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:30:03.762771206Z  [2022-01-26T07:30:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:30:03.762780854Z  [2022-01-26T07:30:03Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:30:03.762789902Z  [2022-01-26T07:30:03Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:30:18.784581302Z  [2022-01-26T07:30:18Z INFO  dt_mqtt_manager] CPU values = "0.17 ", MEM values = "129.09M "
+2022-01-26T07:30:18.784610443Z  [2022-01-26T07:30:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-01-26T07:30:18.784621821Z  [2022-01-26T07:30:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-01-26T07:30:18.784631469Z  [2022-01-26T07:30:18Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:30:18.784641155Z  [2022-01-26T07:30:18Z INFO  dt_mqtt_manager] Recent AVG inflight = 0
+2022-01-26T07:30:33.809936174Z  [2022-01-26T07:30:33Z INFO  dt_mqtt_manager] CPU values = "0.13 ", MEM values = "129.15M "
+2022-01-26T07:30:33.809997657Z  [2022-01-26T07:30:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:30:33.810015115Z  [2022-01-26T07:30:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:30:33.810030030Z  [2022-01-26T07:30:33Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:30:33.810045150Z  [2022-01-26T07:30:33Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:30:48.836687195Z  [2022-01-26T07:30:48Z INFO  dt_mqtt_manager] CPU values = "0.17 ", MEM values = "129.33M "
+2022-01-26T07:30:48.837001838Z  [2022-01-26T07:30:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:30:48.837238973Z  [2022-01-26T07:30:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:30:48.837616436Z  [2022-01-26T07:30:48Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:30:48.837894286Z  [2022-01-26T07:30:48Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:31:03.863080851Z  [2022-01-26T07:31:03Z INFO  dt_mqtt_manager] CPU values = "0.20 ", MEM values = "129.44M "
+2022-01-26T07:31:03.863110847Z  [2022-01-26T07:31:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:31:03.863270162Z  [2022-01-26T07:31:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:31:03.863462106Z  [2022-01-26T07:31:03Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:31:03.863646427Z  [2022-01-26T07:31:03Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
+2022-01-26T07:31:18.891642040Z  [2022-01-26T07:31:18Z INFO  dt_mqtt_manager] CPU values = "0.16 ", MEM values = "129.53M "
+2022-01-26T07:31:18.891670563Z  [2022-01-26T07:31:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:31:18.891682396Z  [2022-01-26T07:31:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:31:18.891692721Z  [2022-01-26T07:31:18Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:31:18.891731721Z  [2022-01-26T07:31:18Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:31:33.914723145Z  [2022-01-26T07:31:33Z INFO  dt_mqtt_manager] CPU values = "0.20 ", MEM values = "129.68M "
+2022-01-26T07:31:33.914808359Z  [2022-01-26T07:31:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:31:33.914822801Z  [2022-01-26T07:31:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:31:33.914833062Z  [2022-01-26T07:31:33Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:31:33.914842957Z  [2022-01-26T07:31:33Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:31:48.938396563Z  [2022-01-26T07:31:48Z INFO  dt_mqtt_manager] CPU values = "0.16 ", MEM values = "129.85M "
+2022-01-26T07:31:48.938422868Z  [2022-01-26T07:31:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-01-26T07:31:48.938433914Z  [2022-01-26T07:31:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-01-26T07:31:48.938444093Z  [2022-01-26T07:31:48Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:31:48.938453980Z  [2022-01-26T07:31:48Z INFO  dt_mqtt_manager] Recent AVG inflight = 3
+2022-01-26T07:32:03.965639389Z  [2022-01-26T07:32:03Z INFO  dt_mqtt_manager] CPU values = "0.19 ", MEM values = "129.90M "
+2022-01-26T07:32:03.965661802Z  [2022-01-26T07:32:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:32:03.965672730Z  [2022-01-26T07:32:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:32:03.965682866Z  [2022-01-26T07:32:03Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:32:03.965692768Z  [2022-01-26T07:32:03Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:32:18.990317928Z  [2022-01-26T07:32:18Z INFO  dt_mqtt_manager] CPU values = "0.22 ", MEM values = "130.02M "
+2022-01-26T07:32:18.990342553Z  [2022-01-26T07:32:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:32:18.990385749Z  [2022-01-26T07:32:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:32:18.990424326Z  [2022-01-26T07:32:18Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:32:18.990436597Z  [2022-01-26T07:32:18Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:32:34.023644334Z  [2022-01-26T07:32:34Z INFO  dt_mqtt_manager] CPU values = "0.17 ", MEM values = "130.11M "
+2022-01-26T07:32:34.023665094Z  [2022-01-26T07:32:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:32:34.023675721Z  [2022-01-26T07:32:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:32:34.023685803Z  [2022-01-26T07:32:34Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:32:34.023695821Z  [2022-01-26T07:32:34Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:32:49.053029509Z  [2022-01-26T07:32:49Z INFO  dt_mqtt_manager] CPU values = "0.29 ", MEM values = "130.31M "
+2022-01-26T07:32:49.053053458Z  [2022-01-26T07:32:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:32:49.053064545Z  [2022-01-26T07:32:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:32:49.053074820Z  [2022-01-26T07:32:49Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:32:49.053097847Z  [2022-01-26T07:32:49Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:33:04.083578854Z  [2022-01-26T07:33:04Z INFO  dt_mqtt_manager] CPU values = "0.30 ", MEM values = "130.51M "
+2022-01-26T07:33:04.083601579Z  [2022-01-26T07:33:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:33:04.083612610Z  [2022-01-26T07:33:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:33:04.083622707Z  [2022-01-26T07:33:04Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:33:04.083632463Z  [2022-01-26T07:33:04Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
+2022-01-26T07:33:19.122276149Z  [2022-01-26T07:33:19Z INFO  dt_mqtt_manager] CPU values = "0.30 ", MEM values = "130.48M "
+2022-01-26T07:33:19.122335732Z  [2022-01-26T07:33:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:33:19.122350692Z  [2022-01-26T07:33:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:33:19.122362642Z  [2022-01-26T07:33:19Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:33:19.122388342Z  [2022-01-26T07:33:19Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
+2022-01-26T07:33:34.154301777Z  [2022-01-26T07:33:34Z INFO  dt_mqtt_manager] CPU values = "0.39 ", MEM values = "130.63M "
+2022-01-26T07:33:34.154507285Z  [2022-01-26T07:33:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-01-26T07:33:34.154923292Z  [2022-01-26T07:33:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-01-26T07:33:34.154938275Z  [2022-01-26T07:33:34Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:33:34.154948790Z  [2022-01-26T07:33:34Z INFO  dt_mqtt_manager] Recent AVG inflight = 3
+2022-01-26T07:33:49.187604913Z  [2022-01-26T07:33:49Z INFO  dt_mqtt_manager] CPU values = "0.38 ", MEM values = "130.84M "
+2022-01-26T07:33:49.187764673Z  [2022-01-26T07:33:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-01-26T07:33:49.187882536Z  [2022-01-26T07:33:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-01-26T07:33:49.187986596Z  [2022-01-26T07:33:49Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:33:49.188100706Z  [2022-01-26T07:33:49Z INFO  dt_mqtt_manager] Recent AVG inflight = 3
+2022-01-26T07:34:04.233140647Z  [2022-01-26T07:34:04Z INFO  dt_mqtt_manager] CPU values = "0.37 ", MEM values = "130.96M "
+2022-01-26T07:34:04.233199467Z  [2022-01-26T07:34:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-01-26T07:34:04.233210804Z  [2022-01-26T07:34:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-01-26T07:34:04.233221064Z  [2022-01-26T07:34:04Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:34:04.233231098Z  [2022-01-26T07:34:04Z INFO  dt_mqtt_manager] Recent AVG inflight = 3
+2022-01-26T07:34:19.264535597Z  [2022-01-26T07:34:19Z INFO  dt_mqtt_manager] CPU values = "0.36 ", MEM values = "131.02M "
+2022-01-26T07:34:19.264558597Z  [2022-01-26T07:34:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:34:19.264569239Z  [2022-01-26T07:34:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:34:19.264579480Z  [2022-01-26T07:34:19Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:34:19.264589599Z  [2022-01-26T07:34:19Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
+2022-01-26T07:34:34.309148806Z  [2022-01-26T07:34:34Z INFO  dt_mqtt_manager] CPU values = "0.28 ", MEM values = "131.13M "
+2022-01-26T07:34:34.312396986Z  [2022-01-26T07:34:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:34:34.312417643Z  [2022-01-26T07:34:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:34:34.312428311Z  [2022-01-26T07:34:34Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:34:34.312438205Z  [2022-01-26T07:34:34Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:34:49.350838952Z  [2022-01-26T07:34:49Z INFO  dt_mqtt_manager] CPU values = "0.37 ", MEM values = "131.25M "
+2022-01-26T07:34:49.350864645Z  [2022-01-26T07:34:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:34:49.350889172Z  [2022-01-26T07:34:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:34:49.350911760Z  [2022-01-26T07:34:49Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:34:49.350923006Z  [2022-01-26T07:34:49Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:35:04.390314789Z  [2022-01-26T07:35:04Z INFO  dt_mqtt_manager] CPU values = "0.45 ", MEM values = "131.28M "
+2022-01-26T07:35:04.390336789Z  [2022-01-26T07:35:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:35:04.390347272Z  [2022-01-26T07:35:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:35:04.390357156Z  [2022-01-26T07:35:04Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:35:04.390383766Z  [2022-01-26T07:35:04Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
+2022-01-26T07:35:19.431716935Z  [2022-01-26T07:35:19Z INFO  dt_mqtt_manager] CPU values = "0.50 ", MEM values = "131.32M "
+2022-01-26T07:35:19.431773295Z  [2022-01-26T07:35:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:35:19.431785523Z  [2022-01-26T07:35:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:35:19.431795260Z  [2022-01-26T07:35:19Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:35:19.432243873Z  [2022-01-26T07:35:19Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
+2022-01-26T07:35:34.470909279Z  [2022-01-26T07:35:34Z INFO  dt_mqtt_manager] CPU values = "0.39 ", MEM values = "131.29M "
+2022-01-26T07:35:34.470964160Z  [2022-01-26T07:35:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:35:34.470992252Z  [2022-01-26T07:35:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:35:34.471006352Z  [2022-01-26T07:35:34Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:35:34.471051116Z  [2022-01-26T07:35:34Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
+2022-01-26T07:35:49.508270994Z  [2022-01-26T07:35:49Z INFO  dt_mqtt_manager] CPU values = "0.38 ", MEM values = "131.36M "
+2022-01-26T07:35:49.508295080Z  [2022-01-26T07:35:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-01-26T07:35:49.508307470Z  [2022-01-26T07:35:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-01-26T07:35:49.508318933Z  [2022-01-26T07:35:49Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:35:49.508329864Z  [2022-01-26T07:35:49Z INFO  dt_mqtt_manager] Recent AVG inflight = 3
+2022-01-26T07:36:04.542961020Z  [2022-01-26T07:36:04Z INFO  dt_mqtt_manager] CPU values = "0.45 ", MEM values = "131.47M "
+2022-01-26T07:36:04.542984007Z  [2022-01-26T07:36:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-01-26T07:36:04.542995128Z  [2022-01-26T07:36:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-01-26T07:36:04.543005279Z  [2022-01-26T07:36:04Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:36:04.543015120Z  [2022-01-26T07:36:04Z INFO  dt_mqtt_manager] Recent AVG inflight = 3
+2022-01-26T07:36:19.577250042Z  [2022-01-26T07:36:19Z INFO  dt_mqtt_manager] CPU values = "0.42 ", MEM values = "131.53M "
+2022-01-26T07:36:19.577284783Z  [2022-01-26T07:36:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-01-26T07:36:19.577297257Z  [2022-01-26T07:36:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-01-26T07:36:19.577307919Z  [2022-01-26T07:36:19Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:36:19.577318234Z  [2022-01-26T07:36:19Z INFO  dt_mqtt_manager] Recent AVG inflight = 1
+2022-01-26T07:36:34.638825380Z  [2022-01-26T07:36:34Z INFO  dt_mqtt_manager] CPU values = "0.41 ", MEM values = "131.63M "
+2022-01-26T07:36:34.638851693Z  [2022-01-26T07:36:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-01-26T07:36:34.638876024Z  [2022-01-26T07:36:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 14
+2022-01-26T07:36:34.638887529Z  [2022-01-26T07:36:34Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:36:34.638897397Z  [2022-01-26T07:36:34Z INFO  dt_mqtt_manager] Recent AVG inflight = 14
+2022-01-26T07:36:49.671744252Z  [2022-01-26T07:36:49Z INFO  dt_mqtt_manager] CPU values = "0.39 ", MEM values = "131.69M "
+2022-01-26T07:36:49.671762929Z  [2022-01-26T07:36:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-01-26T07:36:49.671772852Z  [2022-01-26T07:36:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-01-26T07:36:49.671782474Z  [2022-01-26T07:36:49Z INFO  dt_mqtt_manager] Recent AVG queue = 0
+2022-01-26T07:36:49.671792024Z  [2022-01-26T07:36:49Z INFO  dt_mqtt_manager] Recent AVG inflight = 2
