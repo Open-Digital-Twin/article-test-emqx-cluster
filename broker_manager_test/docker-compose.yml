@@ -73,7 +73,7 @@ services:
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
       - MQTT_CLIENT_MESSAGES_TO_SEND=2000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=1
-      - MQTT_CLIENT_TOPIC=A/A/A
+      - MQTT_CLIENT_TOPIC=A/A/
       - MQTT_AMOUNT_OF_CLIENTS=100
       - MQTT_THREAD_DELAY=1
     networks:
@@ -171,7 +171,7 @@ services:
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
       - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
-      - MQTT_SUBSCRIBED_TOPIC=A/A/A
+      - MQTT_SUBSCRIBED_TOPIC=A/A/#
     networks:
       - default
     restart: always
