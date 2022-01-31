@@ -1,6 +1,6 @@
 docker service scale test_mqtt-cluster=1 test_etcd=1
 sleep 5
-docker service scale test_mqtt-manager=1 test_twin-A=1 test_twin-B=1
+docker service scale test_mqtt-manager=1 test_twin-A=1 test_twin-B=1 test_twin-D=1 test_twin-C=1 test_twin-E=1 test_twin-F=1 test_twin-G=1 test_twin-H=1
 sleep 5
 docker service scale test_clients-A=1
 for i in 100; do
