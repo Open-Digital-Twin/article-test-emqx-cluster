@@ -81,7 +81,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w01
+          - node.labels.name==w01
     command: dt-client-bytes
 
   clients-B:
@@ -106,7 +106,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w02
+          - node.labels.name==w02
     command: dt-client-bytes
 
   clients-C:
@@ -131,7 +131,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w03
+          - node.labels.name==w03
     command: dt-client-bytes
 
   clients-D:
@@ -156,7 +156,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w04
+          - node.labels.name==w04
     command: dt-client-bytes
 
   clients-E:
@@ -181,7 +181,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w05
+          - node.labels.name==w05
     command: dt-client-bytes
 
   clients-F:
@@ -206,7 +206,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w06
+          - node.labels.name==w06
     command: dt-client-bytes
 
   clients-G:
@@ -231,7 +231,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w07
+          - node.labels.name==w07
     command: dt-client-bytes
 
   clients-H:
@@ -256,7 +256,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w08
+          - node.labels.name==w08
     command: dt-client-bytes
 
   twin-A:
@@ -278,7 +278,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w01
+          - node.labels.name==w01
     command: dt-instance
 
   twin-B:
@@ -300,7 +300,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w02
+          - node.labels.name==w02
     command: dt-instance
 
   twin-C:
@@ -322,7 +322,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w03
+          - node.labels.name==w03
     command: dt-instance
 
   twin-D:
@@ -344,7 +344,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w04
+          - node.labels.name==w04
     command: dt-instance
 
   twin-E:
@@ -366,7 +366,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w05
+          - node.labels.name==w05
     command: dt-instance
 
   twin-F:
@@ -388,7 +388,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w06
+          - node.labels.name==w06
     command: dt-instance
   
   twin-G:
@@ -410,7 +410,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w07
+          - node.labels.name==w07
     command: dt-instance
   
   twin-H:
@@ -432,7 +432,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==dtwins-w08
+          - node.labels.name==w08
     command: dt-instance
   
 networks:
