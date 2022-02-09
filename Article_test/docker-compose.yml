@@ -26,7 +26,6 @@ services:
       - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__NODE_TTL=1m
-      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/A=10,A/E/E=5
     networks:
       default:
     restart: always
@@ -176,7 +175,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=50000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=10
       - MQTT_CLIENT_TOPIC=A/E/E
-      - MQTT_AMOUNT_OF_CLIENTS=40
+      - MQTT_AMOUNT_OF_CLIENTS=80
       - MQTT_THREAD_DELAY=10
     networks:
       - default
@@ -201,7 +200,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=50000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=10
       - MQTT_CLIENT_TOPIC=A/F/F
-      - MQTT_AMOUNT_OF_CLIENTS=30
+      - MQTT_AMOUNT_OF_CLIENTS=60
       - MQTT_THREAD_DELAY=10
     networks:
       - default
