@@ -1,0 +1,66 @@
+2022-02-16T21:20:30.320921034Z  [2022-02-16T21:20:30Z INFO  dt_instance] Connecting to broker at mqtt-cluster:1883
+2022-02-16T21:20:30.321141866Z  [2022-02-16T21:20:30Z INFO  dt_instance] Using default packet size of 10240 KB.
+2022-02-16T21:20:30.324572868Z  [2022-02-16T21:20:30Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:22:40.425789094Z  [2022-02-16T21:22:40Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 110, kind: TimedOut, message: "Connection timed out" })
+2022-02-16T21:22:40.579304372Z  [2022-02-16T21:22:40Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:23:13.341284426Z  [2022-02-16T21:23:13Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:23:14.271522448Z  [2022-02-16T21:23:14Z INFO  dt_instance] SubAck { pkid: 1, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:23:14.509437189Z  [2022-02-16T21:23:14Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52011)))
+2022-02-16T21:23:14.661675272Z  [2022-02-16T21:23:14Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:23:15.586997295Z  [2022-02-16T21:23:15Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:23:16.483396634Z  [2022-02-16T21:23:16Z INFO  dt_instance] SubAck { pkid: 2, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:23:16.603908800Z  [2022-02-16T21:23:16Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52010)))
+2022-02-16T21:23:16.756721832Z  [2022-02-16T21:23:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:23:18.341416812Z  [2022-02-16T21:23:18Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:23:20.086166597Z  [2022-02-16T21:23:20Z INFO  dt_instance] SubAck { pkid: 3, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:23:20.086736298Z  [2022-02-16T21:23:20Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52011)))
+2022-02-16T21:23:20.239385830Z  [2022-02-16T21:23:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:23:20.390912569Z  [2022-02-16T21:23:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:23:22.648399425Z  [2022-02-16T21:23:22Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:23:25.413646647Z  [2022-02-16T21:23:25Z INFO  dt_instance] SubAck { pkid: 4, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:23:25.414321203Z  [2022-02-16T21:23:25Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52011)))
+2022-02-16T21:23:25.566076636Z  [2022-02-16T21:23:25Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:23:30.081000704Z  [2022-02-16T21:23:30Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:23:33.396388811Z  [2022-02-16T21:23:33Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52011)))
+2022-02-16T21:23:33.548152239Z  [2022-02-16T21:23:33Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:23:33.699629723Z  [2022-02-16T21:23:33Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:24:09.960371317Z  [2022-02-16T21:24:09Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:24:09.960631189Z  [2022-02-16T21:24:09Z INFO  dt_instance] SubAck { pkid: 5, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:24:16.355572173Z  [2022-02-16T21:24:16Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52011)))
+2022-02-16T21:24:16.506586439Z  [2022-02-16T21:24:16Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:24:20.418157738Z  [2022-02-16T21:24:20Z INFO  dt_instance] SubAck { pkid: 6, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:24:20.418355440Z  [2022-02-16T21:24:20Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:24:24.372481392Z  [2022-02-16T21:24:24Z INFO  dt_instance] SubAck { pkid: 7, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:24:24.373140056Z  [2022-02-16T21:24:24Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52011)))
+2022-02-16T21:24:24.525816940Z  [2022-02-16T21:24:24Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:26:33.898740587Z  [2022-02-16T21:26:33Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 110, kind: TimedOut, message: "Connection timed out" })
+2022-02-16T21:26:34.052320445Z  [2022-02-16T21:26:34Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:27:41.923780395Z  [2022-02-16T21:27:41Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:27:45.992341250Z  [2022-02-16T21:27:45Z INFO  dt_instance] SubAck { pkid: 8, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:27:46.401994142Z  [2022-02-16T21:27:46Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52012)))
+2022-02-16T21:27:46.554957765Z  [2022-02-16T21:27:46Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:27:51.709933040Z  [2022-02-16T21:27:51Z ERROR dt_instance] MQTT ERROR: Timeout(Elapsed(()))
+2022-02-16T21:27:51.862894810Z  [2022-02-16T21:27:51Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:27:56.301061484Z  [2022-02-16T21:27:56Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:28:00.298232655Z  [2022-02-16T21:28:00Z INFO  dt_instance] SubAck { pkid: 9, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:28:00.299142700Z  [2022-02-16T21:28:00Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52011)))
+2022-02-16T21:28:00.450804366Z  [2022-02-16T21:28:00Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:28:00.603852668Z  [2022-02-16T21:28:00Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:29:09.529022385Z  [2022-02-16T21:29:09Z INFO  dt_instance] Refreshing topics for twin 38162cb0-e585-43d7-b55d-5c240b2bfb7c - Listen to A/D/#
+2022-02-16T21:29:14.491825591Z  [2022-02-16T21:29:14Z INFO  dt_instance] SubAck { pkid: 10, return_codes: [Success(AtLeastOnce)] }
+2022-02-16T21:29:14.846822070Z  [2022-02-16T21:29:14Z ERROR dt_instance] MQTT ERROR: MqttState(Deserialization(PayloadSizeLimitExceeded(52012)))
+2022-02-16T21:29:15.000433286Z  [2022-02-16T21:29:15Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:29:20.155033237Z  [2022-02-16T21:29:20Z ERROR dt_instance] MQTT ERROR: Timeout(Elapsed(()))
+2022-02-16T21:29:20.307843250Z  [2022-02-16T21:29:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:29:20.460813508Z  [2022-02-16T21:29:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:29:20.614567049Z  [2022-02-16T21:29:20Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:29:26.772119237Z  [2022-02-16T21:29:26Z ERROR dt_instance] MQTT ERROR: Timeout(Elapsed(()))
+2022-02-16T21:29:26.925259436Z  [2022-02-16T21:29:26Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:31:37.004205431Z  [2022-02-16T21:31:37Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 110, kind: TimedOut, message: "Connection timed out" })
+2022-02-16T21:31:37.158191656Z  [2022-02-16T21:31:37Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:33:48.077116330Z  [2022-02-16T21:33:48Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 110, kind: TimedOut, message: "Connection timed out" })
+2022-02-16T21:33:48.235303085Z  [2022-02-16T21:33:48Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })
+2022-02-16T21:36:03.529194319Z  [2022-02-16T21:35:59Z ERROR dt_instance] MQTT ERROR: Io(Os { code: 110, kind: TimedOut, message: "Connection timed out" })
+2022-02-16T21:36:05.065225256Z  thread '<unnamed>' panicked at 'failed to allocate an alternative stack: Cannot allocate memory (os error 12)', library/std/src/sys/unix/stack_overflow.rs:155:13
+2022-02-16T21:36:05.065504957Z  note: run with `RUST_BACKTRACE=1` environment variable to display a backtrace
+2022-02-16T21:36:05.065515980Z  fatal runtime error: failed to initiate panic, error 5
