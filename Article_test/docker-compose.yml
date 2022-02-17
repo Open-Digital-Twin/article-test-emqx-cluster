@@ -75,7 +75,7 @@ services:
       - MQTT_CLIENT_MESSAGE_DELAY_MS=100
       - MQTT_CLIENT_TOPIC=A/A/A
       - MQTT_AMOUNT_OF_CLIENTS=1000
-      - MQTT_THREAD_DELAY=2
+      - MQTT_THREAD_DELAY=5
     networks:
       - default
     deploy:
@@ -100,7 +100,7 @@ services:
       - MQTT_CLIENT_MESSAGE_DELAY_MS=100
       - MQTT_CLIENT_TOPIC=A/B/B
       - MQTT_AMOUNT_OF_CLIENTS=800
-      - MQTT_THREAD_DELAY=2
+      - MQTT_THREAD_DELAY=5
     networks:
       - default
     deploy:
@@ -125,7 +125,7 @@ services:
       - MQTT_CLIENT_MESSAGE_DELAY_MS=100
       - MQTT_CLIENT_TOPIC=A/C/C
       - MQTT_AMOUNT_OF_CLIENTS=600
-      - MQTT_THREAD_DELAY=2
+      - MQTT_THREAD_DELAY=5
     networks:
       - default
     deploy:
@@ -151,8 +151,8 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=7100
       - MQTT_CLIENT_MESSAGE_DELAY_MS=66
       - MQTT_CLIENT_TOPIC=A/D/D
-      - MQTT_AMOUNT_OF_CLIENTS=600
-      - MQTT_THREAD_DELAY=2
+      - MQTT_AMOUNT_OF_CLIENTS=200
+      - MQTT_THREAD_DELAY=10
     networks:
       - default
     deploy:
