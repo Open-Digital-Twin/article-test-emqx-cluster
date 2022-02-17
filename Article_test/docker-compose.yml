@@ -27,6 +27,7 @@ services:
       - EMQX_CLUSTER__ETCD__PREFIX=emqcl
       - EMQX_CLUSTER__ETCD__NODE_TTL=1m
       - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/#=5,A/B/#=5,A/C/#=5,A/D/#=7,A/E/#=6,A/F/#=5,A/G/#=10
+      - 
     networks:
       default:
     restart: always
@@ -147,7 +148,7 @@ services:
       - MQTT_BROKER_ADDRESS=mqtt-cluster
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
-      - MQTT_CLIENT_BUFFER_BYTE_SIZE=52000
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=20000
       - MQTT_CLIENT_MESSAGES_TO_SEND=7100
       - MQTT_CLIENT_MESSAGE_DELAY_MS=66
       - MQTT_CLIENT_TOPIC=A/D/D
@@ -227,7 +228,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=100000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=500
       - MQTT_CLIENT_TOPIC=A/G/G
-      - MQTT_AMOUNT_OF_CLIENTS=50
+      - MQTT_AMOUNT_OF_CLIENTS=6
       - MQTT_THREAD_DELAY=10
     networks:
       - default
