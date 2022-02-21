@@ -1,0 +1,27 @@
+2022-02-21T06:32:50.514701250Z  [2022-02-21T06:32:50Z INFO  dt_mqtt_manager] Searching for mqtt broker at : mqtt-cluster:8081
+2022-02-21T06:32:51.790100746Z  [2022-02-21T06:32:51Z INFO  dt_mqtt_manager] CPU values = "0.20 1.03 0.39 ", MEM values = "128.16M 188.45M 140.22M "
+2022-02-21T06:32:51.790146978Z  [2022-02-21T06:32:51Z INFO  dt_mqtt_manager] All Queue = 73, All Inflight = 55
+2022-02-21T06:32:51.790158304Z  [2022-02-21T06:32:51Z INFO  dt_mqtt_manager] Avg Queue = 24, Avg Inflight = 18
+2022-02-21T06:32:51.790166157Z  [2022-02-21T06:32:51Z INFO  dt_mqtt_manager] Recent AVG queue = 24
+2022-02-21T06:32:51.790173618Z  [2022-02-21T06:32:51Z INFO  dt_mqtt_manager] Recent AVG inflight = 18
+2022-02-21T06:33:08.124750779Z  [2022-02-21T06:33:08Z INFO  dt_mqtt_manager] CPU values = "0.22 0.31 1.02 ", MEM values = "128.73M 139.59M 191.13M "
+2022-02-21T06:33:08.124796931Z  [2022-02-21T06:33:08Z INFO  dt_mqtt_manager] All Queue = 156, All Inflight = 49
+2022-02-21T06:33:08.124805314Z  [2022-02-21T06:33:08Z INFO  dt_mqtt_manager] Avg Queue = 52, Avg Inflight = 16
+2022-02-21T06:33:08.124812575Z  [2022-02-21T06:33:08Z INFO  dt_mqtt_manager] Recent AVG queue = 52
+2022-02-21T06:33:08.124819545Z  [2022-02-21T06:33:08Z INFO  dt_mqtt_manager] Recent AVG inflight = 16
+2022-02-21T06:33:24.469116446Z  [2022-02-21T06:33:24Z INFO  dt_mqtt_manager] CPU values = "1.02 0.38 0.16 ", MEM values = "191.88M 140.19M 131.29M "
+2022-02-21T06:33:24.469164607Z  [2022-02-21T06:33:24Z INFO  dt_mqtt_manager] All Queue = 717, All Inflight = 53
+2022-02-21T06:33:24.469173225Z  [2022-02-21T06:33:24Z INFO  dt_mqtt_manager] Avg Queue = 239, Avg Inflight = 17
+2022-02-21T06:33:24.469180617Z  [2022-02-21T06:33:24Z INFO  dt_mqtt_manager] Recent AVG queue = 239
+2022-02-21T06:33:24.469187664Z  [2022-02-21T06:33:24Z INFO  dt_mqtt_manager] Recent AVG inflight = 17
+2022-02-21T06:33:40.874570887Z  [2022-02-21T06:33:40Z INFO  dt_mqtt_manager] CPU values = "0.12 1.08 0.29 ", MEM values = "130.21M 202.90M 142.40M "
+2022-02-21T06:33:40.874621012Z  [2022-02-21T06:33:40Z INFO  dt_mqtt_manager] All Queue = 2218, All Inflight = 59
+2022-02-21T06:33:40.874676226Z  [2022-02-21T06:33:40Z INFO  dt_mqtt_manager] Avg Queue = 739, Avg Inflight = 19
+2022-02-21T06:33:40.874793441Z  [2022-02-21T06:33:40Z INFO  dt_mqtt_manager] Recent AVG queue = 739
+2022-02-21T06:33:40.874883390Z  [2022-02-21T06:33:40Z INFO  dt_mqtt_manager] Recent AVG inflight = 19
+2022-02-21T06:33:57.960937429Z  [2022-02-21T06:33:57Z INFO  dt_mqtt_manager] CPU values = "0.09 0.56 1.06 ", MEM values = "131.44M 141.85M 208.93M "
+2022-02-21T06:33:57.961104362Z  [2022-02-21T06:33:57Z INFO  dt_mqtt_manager] All Queue = 7674, All Inflight = 67
+2022-02-21T06:33:57.961252127Z  [2022-02-21T06:33:57Z INFO  dt_mqtt_manager] Avg Queue = 2558, Avg Inflight = 22
+2022-02-21T06:33:57.961375588Z  [2022-02-21T06:33:57Z INFO  dt_mqtt_manager] Recent AVG queue = 2558
+2022-02-21T06:33:57.961491241Z  [2022-02-21T06:33:57Z INFO  dt_mqtt_manager] Recent AVG inflight = 22
+2022-02-21T06:34:12.971992753Z  Error: reqwest::Error { kind: Request, url: Url { scheme: "http", cannot_be_a_base: false, username: "", password: None, host: Some(Domain("mqtt-cluster")), port: Some(8081), path: "/api/v4/clients/", query: None, fragment: None }, source: hyper::Error(Connect, ConnectError("tcp connect error", Os { code: 111, kind: ConnectionRefused, message: "Connection refused" })) }
