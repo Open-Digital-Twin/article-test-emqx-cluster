@@ -76,7 +76,7 @@ services:
       - MQTT_CLIENT_MESSAGE_DELAY_MS=100
       - MQTT_CLIENT_TOPIC=A/A/A
       - MQTT_AMOUNT_OF_CLIENTS=600
-      - MQTT_THREAD_DELAY=1
+      - MQTT_THREAD_DELAY=2
     networks:
       - default
     deploy:
@@ -129,7 +129,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=750
       - MQTT_CLIENT_MESSAGE_DELAY_MS=2000
       - MQTT_CLIENT_TOPIC=A/E/E
-      - MQTT_AMOUNT_OF_CLIENTS=500
+      - MQTT_AMOUNT_OF_CLIENTS=250
       - MQTT_THREAD_DELAY=1
     networks:
       - default
@@ -154,7 +154,7 @@ services:
       - MQTT_CLIENT_MESSAGES_TO_SEND=7500
       - MQTT_CLIENT_MESSAGE_DELAY_MS=2000
       - MQTT_CLIENT_TOPIC=A/F/F
-      - MQTT_AMOUNT_OF_CLIENTS=500
+      - MQTT_AMOUNT_OF_CLIENTS=250
       - MQTT_THREAD_DELAY=1
     networks:
       - default
@@ -224,7 +224,7 @@ services:
       - RUST_LOG=info
       - DB_ADDRESS=scylla-db:9042
       - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
-      - TWIN_INSTANCE_MAX_PACKET_SIZE=100
+      - TWIN_INSTANCE_MAX_PACKET_SIZE=60000
       - MQTT_SUBSCRIBED_TOPIC=A/D/#
     networks:
       - default
