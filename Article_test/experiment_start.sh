@@ -1,5 +1,5 @@
 docker service scale test_mqtt-cluster=1 test_etcd=1
 sleep 5
-docker service scale test_mqtt-manager=1 test_twin-A=1 test_twin-B=1 test_twin-D=1 test_twin-C=1 test_twin-E=1 test_twin-F=1
+docker service scale test_mqtt-manager=1 test_twin-V2X=1 test_twin-Cam=1 test_twin-DAB=1 test_twin-DAS=1 test_twin-MC=1
 sleep 5
-docker service scale test_clients-A=1 test_clients-G=1 test_clients-B=1 test_clients-C=1 test_clients-D=1 test_clients-E=1 test_clients-F=1
+docker service scale test_clients-V2X=1 test_clients-Cam=1 test_clients-DAB=1 test_clients-DAS=1 test_clients-MC=1

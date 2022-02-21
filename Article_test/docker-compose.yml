@@ -61,7 +61,7 @@ services:
 
   # A, B e C são Twins de veículos com comunicacão V2X
 
-  clients-A:
+  clients-V2X:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
@@ -72,11 +72,11 @@ services:
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
-      - MQTT_CLIENT_MESSAGES_TO_SEND=5000
+      - MQTT_CLIENT_MESSAGES_TO_SEND=4000
       - MQTT_CLIENT_MESSAGE_DELAY_MS=100
       - MQTT_CLIENT_TOPIC=A/A/A
-      - MQTT_AMOUNT_OF_CLIENTS=200
-      - MQTT_THREAD_DELAY=5
+      - MQTT_AMOUNT_OF_CLIENTS=600
+      - MQTT_THREAD_DELAY=1
     networks:
       - default
     deploy:
@@ -86,59 +86,10 @@ services:
           - node.labels.name==w01
     command: dt-client-bytes
 
-  clients-B:
-    image: "opendigitaltwin/dt-client-bytes:latest"
-    depends_on:
-      - twin
-    environment:
-      - RUST_LOG=info
-      - CONTAINER_DELAY_S=0
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
-      - MQTT_BROKER_PORT=1883
-      - MQTT_CLIENT_QOS=1
-      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
-      - MQTT_CLIENT_MESSAGES_TO_SEND=5000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
-      - MQTT_CLIENT_TOPIC=A/B/B
-      - MQTT_AMOUNT_OF_CLIENTS=200
-      - MQTT_THREAD_DELAY=5
-    networks:
-      - default
-    deploy:
-      replicas: 0
-      placement:    
-        constraints:
-          - node.labels.name==w02
-    command: dt-client-bytes
-
-  clients-C:
-    image: "opendigitaltwin/dt-client-bytes:latest"
-    depends_on:
-      - twin
-    environment:
-      - RUST_LOG=info
-      - CONTAINER_DELAY_S=0
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
-      - MQTT_BROKER_PORT=1883
-      - MQTT_CLIENT_QOS=1
-      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
-      - MQTT_CLIENT_MESSAGES_TO_SEND=5000
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
-      - MQTT_CLIENT_TOPIC=A/C/C
-      - MQTT_AMOUNT_OF_CLIENTS=200
-      - MQTT_THREAD_DELAY=5
-    networks:
-      - default
-    deploy:
-      replicas: 0
-      placement:    
-        constraints:
-          - node.labels.name==w03
-    command: dt-client-bytes
 
 #Cliente D é baseado em uma câmera
 
-  clients-D:
+  clients-Cam:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
@@ -149,10 +100,10 @@ services:
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=52000
-      - MQTT_CLIENT_MESSAGES_TO_SEND=7100
-      - MQTT_CLIENT_MESSAGE_DELAY_MS=33
+      - MQTT_CLIENT_MESSAGES_TO_SEND=10000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=66
       - MQTT_CLIENT_TOPIC=A/D/D
-      - MQTT_AMOUNT_OF_CLIENTS=10
+      - MQTT_AMOUNT_OF_CLIENTS=50
       - MQTT_THREAD_DELAY=10
     networks:
       - default
@@ -164,7 +115,7 @@ services:
     command: dt-client-bytes
 
 # Twins E e F usam padrões de automacão discretos (?????)
-  clients-E:
+  clients-DAS:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
@@ -175,7 +126,7 @@ services:
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=255 # Discrete Automation (Small Packet)
-      - MQTT_CLIENT_MESSAGES_TO_SEND=1000
+      - MQTT_CLIENT_MESSAGES_TO_SEND=750
       - MQTT_CLIENT_MESSAGE_DELAY_MS=2000
       - MQTT_CLIENT_TOPIC=A/E/E
       - MQTT_AMOUNT_OF_CLIENTS=500
@@ -189,7 +140,7 @@ services:
           - node.labels.name==w05
     command: dt-client-bytes
 
-  clients-F:
+  clients-DAB:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
@@ -200,7 +151,7 @@ services:
       - MQTT_BROKER_PORT=1883
       - MQTT_CLIENT_QOS=1
       - MQTT_CLIENT_BUFFER_BYTE_SIZE=1354 # Discrete Automation (Big Packet)
-      - MQTT_CLIENT_MESSAGES_TO_SEND=1000
+      - MQTT_CLIENT_MESSAGES_TO_SEND=7500
       - MQTT_CLIENT_MESSAGE_DELAY_MS=2000
       - MQTT_CLIENT_TOPIC=A/F/F
       - MQTT_AMOUNT_OF_CLIENTS=500
@@ -214,7 +165,7 @@ services:
           - node.labels.name==w06
     command: dt-client-bytes
 
-  clients-G:
+  clients-MC:
     image: "opendigitaltwin/dt-client-bytes:latest"
     depends_on:
       - twin
@@ -240,7 +191,7 @@ services:
     command: dt-client-bytes
 
 ###########################################################################################################
-  twin-A:
+  twin-V2X:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-broker
@@ -262,51 +213,7 @@ services:
           - node.labels.name==w01
     command: dt-instance
 
-  twin-B:
-    image: "opendigitaltwin/dt-instance:latest"
-    depends_on:
-      - mqtt-cluster
-    environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
-      - MQTT_BROKER_PORT=1883
-      - MQTT_INSTANCE_QOS=1
-      - RUST_LOG=info
-      - DB_ADDRESS=scylla-db:9042
-      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
-      - MQTT_SUBSCRIBED_TOPIC=A/B/#
-    networks:
-      - default
-    restart: always
-    deploy:
-      replicas: 0
-      placement:    
-        constraints:
-          - node.labels.name==w02
-    command: dt-instance
-
-  twin-C:
-    image: "opendigitaltwin/dt-instance:latest"
-    depends_on:
-      - mqtt-cluster
-    environment:
-      - MQTT_BROKER_ADDRESS=mqtt-cluster
-      - MQTT_BROKER_PORT=1883
-      - MQTT_INSTANCE_QOS=1
-      - RUST_LOG=info
-      - DB_ADDRESS=scylla-db:9042
-      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
-      - MQTT_SUBSCRIBED_TOPIC=A/C/#
-    networks:
-      - default
-    restart: always
-    deploy:
-      replicas: 0
-      placement:    
-        constraints:
-          - node.labels.name==w03
-    command: dt-instance
-
-  twin-D:
+  twin-Cam:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-cluster
@@ -329,7 +236,7 @@ services:
           - node.labels.name==w04
     command: dt-instance
 
-  twin-E:
+  twin-DAS:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-cluster
@@ -351,7 +258,7 @@ services:
           - node.labels.name==w05
     command: dt-instance
 
-  twin-F:
+  twin-DAB:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-cluster
@@ -373,7 +280,7 @@ services:
           - node.labels.name==w06
     command: dt-instance
  
-  twin-G:
+  twin-MC:
     image: "opendigitaltwin/dt-instance:latest"
     depends_on:
       - mqtt-cluster
