@@ -1,0 +1,306 @@
+version: '3'
+services:
+
+  etcd:
+    image: 'bitnami/etcd:latest'
+    environment:
+      - ALLOW_NONE_AUTHENTICATION=yes
+      - ETCD_ADVERTISE_CLIENT_URLS=http://etcd:2379
+      - ETCD_ENABLE_V2=true
+      - ETCDL_API=2
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:
+        constraints:
+          - node.labels.name==manager
+
+  mqtt-cluster:
+    image: "emqx/emqx:4.3.8"
+    environment:
+      - EMQX_ZONE__EXTERNAL__MAX_MQUEUE_LEN=0
+      - EMQX_ZONE__EXTERNAL__MAX_INFLIGHT=32
+      - EMQX_CLUSTER__DISCOVERY=etcd
+      - EMQX_CLUSTER__ETCD__SERVER=http://etcd:2379
+      - EMQX_CLUSTER__ETCD__PREFIX=emqcl
+      - EMQX_CLUSTER__ETCD__NODE_TTL=1m
+      - EMQX_ZONE__EXTERNAL__MQUEUE_PRIORITIES=A/A/#=5,A/B/#=5,A/C/#=5,A/D/#=7,A/E/#=6,A/F/#=5,A/G/#=10
+    networks:
+      default:
+    restart: always
+    deploy:
+      replicas: 0
+      placement:
+        constraints:
+          - node.labels.name==cluster
+
+  mqtt-manager:
+    image: "opendigitaltwin/dt-mqtt-manager:latest"
+    environment:
+      - MQTT_API_ADDRESS=mqtt-cluster
+      - MQTT_API_PORT=8081
+      - MQTT_API_FREQ=15
+      - SWARM_API_ADDRESS=192.168.123.229
+      - SWARM_API_PORT=2375
+      - CLUSTER_SAVES=1
+      - MAX_QUEUE=10000
+      - MAX_INFLIGHT=0
+      - SCALE_BLOCK_TIME=30
+      - RUST_LOG=info
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:
+        constraints:
+          - node.labels.name==manager
+    command: dt-mqtt-manager
+
+  # A, B e C são Twins de veículos com comunicacão V2X
+
+  clients-V2X:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=0
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64
+      - MQTT_CLIENT_MESSAGES_TO_SEND=8000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=100
+      - MQTT_CLIENT_TOPIC=A/A/A
+      - MQTT_AMOUNT_OF_CLIENTS=400
+      - MQTT_THREAD_DELAY=3
+    networks:
+      - default
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w01
+    command: dt-client-bytes
+
+
+#Cliente D é baseado em uma câmera
+
+  clients-Cam:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=0
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=52000
+      - MQTT_CLIENT_MESSAGES_TO_SEND=15000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=66
+      - MQTT_CLIENT_TOPIC=A/D/D
+      - MQTT_AMOUNT_OF_CLIENTS=50
+      - MQTT_THREAD_DELAY=15
+    networks:
+      - default
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w04
+    command: dt-client-bytes
+
+# Twins E e F usam padrões de automacão discretos (?????)
+  clients-DAS:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=0
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=255 # Discrete Automation (Small Packet)
+      - MQTT_CLIENT_MESSAGES_TO_SEND=500
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=2000
+      - MQTT_CLIENT_TOPIC=A/E/E
+      - MQTT_AMOUNT_OF_CLIENTS=1000
+      - MQTT_THREAD_DELAY=1
+    networks:
+      - default
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w05
+    command: dt-client-bytes
+
+  clients-DAB:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=0
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=1354 # Discrete Automation (Big Packet)
+      - MQTT_CLIENT_MESSAGES_TO_SEND=500
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=2000
+      - MQTT_CLIENT_TOPIC=A/F/F
+      - MQTT_AMOUNT_OF_CLIENTS=1000
+      - MQTT_THREAD_DELAY=1
+    networks:
+      - default
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w06
+    command: dt-client-bytes
+
+  clients-MC:
+    image: "opendigitaltwin/dt-client-bytes:latest"
+    depends_on:
+      - twin
+    environment:
+      - RUST_LOG=info
+      - CONTAINER_DELAY_S=0
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_CLIENT_QOS=1
+      - MQTT_CLIENT_BUFFER_BYTE_SIZE=64 
+      - MQTT_CLIENT_MESSAGES_TO_SEND=4000
+      - MQTT_CLIENT_MESSAGE_DELAY_MS=500
+      - MQTT_CLIENT_TOPIC=A/G/G
+      - MQTT_AMOUNT_OF_CLIENTS=10
+      - MQTT_THREAD_DELAY=10
+    networks:
+      - default
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w07
+    command: dt-client-bytes
+
+###########################################################################################################
+  twin-V2X:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-broker
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - MQTT_SUBSCRIBED_TOPIC=A/A/#
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w01
+    command: dt-instance
+
+  twin-Cam:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-cluster
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - TWIN_INSTANCE_MAX_PACKET_SIZE=60000
+      - MQTT_SUBSCRIBED_TOPIC=A/D/#
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w04
+    command: dt-instance
+
+  twin-DAS:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-cluster
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - MQTT_SUBSCRIBED_TOPIC=A/E/#
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w05
+    command: dt-instance
+
+  twin-DAB:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-cluster
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - MQTT_SUBSCRIBED_TOPIC=A/F/#
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w06
+    command: dt-instance
+ 
+  twin-MC:
+    image: "opendigitaltwin/dt-instance:latest"
+    depends_on:
+      - mqtt-cluster
+    environment:
+      - MQTT_BROKER_ADDRESS=mqtt-cluster
+      - MQTT_BROKER_PORT=1883
+      - MQTT_INSTANCE_QOS=1
+      - RUST_LOG=info
+      - DB_ADDRESS=scylla-db:9042
+      - TWIN_INSTANCE=38162cb0-e585-43d7-b55d-5c240b2bfb7c
+      - MQTT_SUBSCRIBED_TOPIC=A/G/#
+    networks:
+      - default
+    restart: always
+    deploy:
+      replicas: 0
+      placement:    
+        constraints:
+          - node.labels.name==w07
+    command: dt-instance
+
+networks:
+  default:
