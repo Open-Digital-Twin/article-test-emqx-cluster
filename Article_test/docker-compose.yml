@@ -37,11 +37,11 @@ services:
           - node.labels.name==cluster
 
   mqtt-manager:
-    image: "opendigitaltwin/dt-mqtt-manager:latest"
+    image: "dt-mqtt-manager:latest"
     environment:
       - MQTT_API_ADDRESS=mqtt-cluster
       - MQTT_API_PORT=8081
-      - MQTT_API_FREQ=15
+      - MQTT_API_FREQ=3
       - SWARM_API_ADDRESS=192.168.123.229
       - SWARM_API_PORT=2375
       - CLUSTER_SAVES=1
