@@ -1,0 +1,992 @@
+2022-03-31T03:02:33.310431242Z  [2022-03-31T03:02:33Z INFO  dt_mqtt_manager] Searching for mqtt broker at : mqtt-cluster:8081
+2022-03-31T03:02:33.334686538Z  [2022-03-31T03:02:33Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T03:02:33.532573557Z  [2022-03-31T03:02:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:02:33.532618520Z  [2022-03-31T03:02:33Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T03:02:33.532627106Z  [2022-03-31T03:02:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:02:33.532634339Z  [2022-03-31T03:02:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:02:39.424043368Z  [2022-03-31T03:02:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:02:39.424120981Z  [2022-03-31T03:02:39Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T03:02:39.424130207Z  [2022-03-31T03:02:39Z INFO  dt_mqtt_manager] All Queue = 9317, All Inflight = 44
+2022-03-31T03:02:39.424137504Z  [2022-03-31T03:02:39Z INFO  dt_mqtt_manager] Avg Queue = 9317, Avg Inflight = 44
+2022-03-31T03:02:42.426111563Z  [2022-03-31T03:02:42Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T03:02:42.601842841Z  [2022-03-31T03:02:42Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:02:42.602114332Z  [2022-03-31T03:02:42Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T03:02:42.602141100Z  [2022-03-31T03:02:42Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:02:42.602282852Z  [2022-03-31T03:02:42Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:02:45.612621060Z  [2022-03-31T03:02:45Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T03:02:45.783740979Z  [2022-03-31T03:02:45Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:02:45.783880899Z  [2022-03-31T03:02:45Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T03:02:45.783902076Z  [2022-03-31T03:02:45Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:02:45.783919130Z  [2022-03-31T03:02:45Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:02:51.614395560Z  [2022-03-31T03:02:51Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:02:51.614544682Z  [2022-03-31T03:02:51Z INFO  dt_mqtt_manager] CPU values = "0.15 0.15 0.52 1.13 ", MEM values = "128.64M 128.63M 183.91M 207.25M ", Cluster Size = 4
+2022-03-31T03:02:51.614712575Z  [2022-03-31T03:02:51Z INFO  dt_mqtt_manager] All Queue = 16818, All Inflight = 44
+2022-03-31T03:02:51.614729043Z  [2022-03-31T03:02:51Z INFO  dt_mqtt_manager] Avg Queue = 4204, Avg Inflight = 11
+2022-03-31T03:02:56.567633658Z  [2022-03-31T03:02:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:02:56.567872353Z  [2022-03-31T03:02:56Z INFO  dt_mqtt_manager] CPU values = "1.12 0.56 0.13 0.14 ", MEM values = "209.16M 184.81M 128.96M 131.46M ", Cluster Size = 4
+2022-03-31T03:02:56.567970343Z  [2022-03-31T03:02:56Z INFO  dt_mqtt_manager] All Queue = 16818, All Inflight = 38
+2022-03-31T03:02:56.568067435Z  [2022-03-31T03:02:56Z INFO  dt_mqtt_manager] Avg Queue = 4204, Avg Inflight = 9
+2022-03-31T03:03:01.393825111Z  [2022-03-31T03:03:01Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:01.394021204Z  [2022-03-31T03:03:01Z INFO  dt_mqtt_manager] CPU values = "0.13 1.11 0.60 0.12 ", MEM values = "129.47M 204.25M 183.63M 131.71M ", Cluster Size = 4
+2022-03-31T03:03:01.394085663Z  [2022-03-31T03:03:01Z INFO  dt_mqtt_manager] All Queue = 16818, All Inflight = 38
+2022-03-31T03:03:01.394117711Z  [2022-03-31T03:03:01Z INFO  dt_mqtt_manager] Avg Queue = 4204, Avg Inflight = 9
+2022-03-31T03:03:06.260525896Z  [2022-03-31T03:03:06Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:06.260715028Z  [2022-03-31T03:03:06Z INFO  dt_mqtt_manager] CPU values = "0.12 0.11 1.10 0.55 ", MEM values = "129.46M 129.34M 217.39M 186.18M ", Cluster Size = 4
+2022-03-31T03:03:06.260731091Z  [2022-03-31T03:03:06Z INFO  dt_mqtt_manager] All Queue = 24413, All Inflight = 38
+2022-03-31T03:03:06.260739084Z  [2022-03-31T03:03:06Z INFO  dt_mqtt_manager] Avg Queue = 6103, Avg Inflight = 9
+2022-03-31T03:03:11.616613388Z  [2022-03-31T03:03:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:11.616683410Z  [2022-03-31T03:03:11Z INFO  dt_mqtt_manager] CPU values = "0.11 0.10 0.50 1.09 ", MEM values = "129.47M 129.35M 183.49M 220.43M ", Cluster Size = 4
+2022-03-31T03:03:11.616693630Z  [2022-03-31T03:03:11Z INFO  dt_mqtt_manager] All Queue = 24413, All Inflight = 43
+2022-03-31T03:03:11.616701643Z  [2022-03-31T03:03:11Z INFO  dt_mqtt_manager] Avg Queue = 6103, Avg Inflight = 10
+2022-03-31T03:03:16.315271541Z  [2022-03-31T03:03:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:16.315321176Z  [2022-03-31T03:03:16Z INFO  dt_mqtt_manager] CPU values = "1.16 0.46 0.10 0.10 ", MEM values = "209.32M 183.57M 129.34M 131.91M ", Cluster Size = 4
+2022-03-31T03:03:16.315330510Z  [2022-03-31T03:03:16Z INFO  dt_mqtt_manager] All Queue = 24413, All Inflight = 43
+2022-03-31T03:03:16.315338805Z  [2022-03-31T03:03:16Z INFO  dt_mqtt_manager] Avg Queue = 6103, Avg Inflight = 10
+2022-03-31T03:03:21.083417622Z  [2022-03-31T03:03:21Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:21.083637778Z  [2022-03-31T03:03:21Z INFO  dt_mqtt_manager] CPU values = "0.09 1.15 0.51 0.09 ", MEM values = "129.52M 224.30M 184.44M 131.77M ", Cluster Size = 4
+2022-03-31T03:03:21.083675388Z  [2022-03-31T03:03:21Z INFO  dt_mqtt_manager] All Queue = 28842, All Inflight = 43
+2022-03-31T03:03:21.083688676Z  [2022-03-31T03:03:21Z INFO  dt_mqtt_manager] Avg Queue = 7210, Avg Inflight = 10
+2022-03-31T03:03:25.956400950Z  [2022-03-31T03:03:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:25.956449402Z  [2022-03-31T03:03:25Z INFO  dt_mqtt_manager] CPU values = "0.08 0.08 1.14 0.55 ", MEM values = "129.47M 129.35M 216.40M 185.67M ", Cluster Size = 4
+2022-03-31T03:03:25.956458981Z  [2022-03-31T03:03:25Z INFO  dt_mqtt_manager] All Queue = 28842, All Inflight = 46
+2022-03-31T03:03:25.956502904Z  [2022-03-31T03:03:25Z INFO  dt_mqtt_manager] Avg Queue = 7210, Avg Inflight = 11
+2022-03-31T03:03:31.670485838Z  [2022-03-31T03:03:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:31.670845567Z  [2022-03-31T03:03:31Z INFO  dt_mqtt_manager] CPU values = "0.08 0.07 0.50 1.13 ", MEM values = "129.45M 129.35M 183.20M 220.24M ", Cluster Size = 4
+2022-03-31T03:03:31.670884596Z  [2022-03-31T03:03:31Z INFO  dt_mqtt_manager] All Queue = 28842, All Inflight = 46
+2022-03-31T03:03:31.670894482Z  [2022-03-31T03:03:31Z INFO  dt_mqtt_manager] Avg Queue = 7210, Avg Inflight = 11
+2022-03-31T03:03:36.279525304Z  [2022-03-31T03:03:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:36.279574671Z  [2022-03-31T03:03:36Z INFO  dt_mqtt_manager] CPU values = "1.12 0.54 0.07 0.07 ", MEM values = "188.87M 181.91M 131.51M 131.90M ", Cluster Size = 4
+2022-03-31T03:03:36.279583893Z  [2022-03-31T03:03:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:03:36.279591716Z  [2022-03-31T03:03:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:03:40.670388021Z  [2022-03-31T03:03:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:40.670542705Z  [2022-03-31T03:03:40Z INFO  dt_mqtt_manager] CPU values = "0.06 1.11 0.50 0.06 ", MEM values = "129.49M 190.96M 183.41M 134.88M ", Cluster Size = 4
+2022-03-31T03:03:40.670595535Z  [2022-03-31T03:03:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 12
+2022-03-31T03:03:40.670608345Z  [2022-03-31T03:03:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:03:44.756887235Z  [2022-03-31T03:03:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:44.757173174Z  [2022-03-31T03:03:44Z INFO  dt_mqtt_manager] CPU values = "0.06 0.06 1.10 0.54 ", MEM values = "129.50M 131.37M 187.96M 184.73M ", Cluster Size = 4
+2022-03-31T03:03:44.757198071Z  [2022-03-31T03:03:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 12
+2022-03-31T03:03:44.757213562Z  [2022-03-31T03:03:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:03:49.114964578Z  [2022-03-31T03:03:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:49.115134705Z  [2022-03-31T03:03:49Z INFO  dt_mqtt_manager] CPU values = "0.05 0.13 0.58 1.09 ", MEM values = "129.37M 131.38M 177.13M 186.98M ", Cluster Size = 4
+2022-03-31T03:03:49.115183250Z  [2022-03-31T03:03:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 12
+2022-03-31T03:03:49.115288879Z  [2022-03-31T03:03:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:03:52.939489591Z  [2022-03-31T03:03:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:52.939585527Z  [2022-03-31T03:03:52Z INFO  dt_mqtt_manager] CPU values = "1.09 0.58 0.12 0.05 ", MEM values = "182.63M 175.80M 131.49M 131.89M ", Cluster Size = 4
+2022-03-31T03:03:52.939597723Z  [2022-03-31T03:03:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:03:52.939652322Z  [2022-03-31T03:03:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:03:57.259076423Z  [2022-03-31T03:03:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:03:57.259231785Z  [2022-03-31T03:03:57Z INFO  dt_mqtt_manager] CPU values = "0.04 1.00 0.53 0.11 ", MEM values = "129.39M 183.42M 179.20M 134.87M ", Cluster Size = 4
+2022-03-31T03:03:57.259367674Z  [2022-03-31T03:03:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:03:57.259383369Z  [2022-03-31T03:03:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:04:01.697887862Z  [2022-03-31T03:04:01Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:01.697975341Z  [2022-03-31T03:04:01Z INFO  dt_mqtt_manager] CPU values = "0.04 0.11 1.32 0.49 ", MEM values = "129.51M 131.51M 186.54M 183.88M ", Cluster Size = 4
+2022-03-31T03:04:01.697987101Z  [2022-03-31T03:04:01Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:04:01.697995744Z  [2022-03-31T03:04:01Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:04:05.939117365Z  [2022-03-31T03:04:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:05.939536074Z  [2022-03-31T03:04:05Z INFO  dt_mqtt_manager] CPU values = "0.04 0.10 0.53 1.30 ", MEM values = "129.52M 131.55M 179.56M 185.88M ", Cluster Size = 4
+2022-03-31T03:04:05.939757792Z  [2022-03-31T03:04:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:04:05.939895348Z  [2022-03-31T03:04:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:04:09.971977179Z  [2022-03-31T03:04:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:09.972400238Z  [2022-03-31T03:04:09Z INFO  dt_mqtt_manager] CPU values = "1.27 0.57 0.09 0.04 ", MEM values = "185.60M 178.48M 131.52M 131.91M ", Cluster Size = 4
+2022-03-31T03:04:09.972606267Z  [2022-03-31T03:04:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 9
+2022-03-31T03:04:09.972833733Z  [2022-03-31T03:04:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-03-31T03:04:13.999383246Z  [2022-03-31T03:04:13Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:13.999694261Z  [2022-03-31T03:04:13Z INFO  dt_mqtt_manager] CPU values = "0.03 1.17 0.60 0.09 ", MEM values = "129.49M 182.57M 179.77M 135.00M ", Cluster Size = 4
+2022-03-31T03:04:13.999861809Z  [2022-03-31T03:04:13Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 9
+2022-03-31T03:04:14.000044224Z  [2022-03-31T03:04:13Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-03-31T03:04:18.335982100Z  [2022-03-31T03:04:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:18.336360519Z  [2022-03-31T03:04:18Z INFO  dt_mqtt_manager] CPU values = "0.03 0.08 1.17 0.63 ", MEM values = "129.51M 131.58M 180.23M 184.58M ", Cluster Size = 4
+2022-03-31T03:04:18.336633419Z  [2022-03-31T03:04:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 9
+2022-03-31T03:04:18.336891511Z  [2022-03-31T03:04:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 2
+2022-03-31T03:04:22.821047438Z  [2022-03-31T03:04:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:22.821343416Z  [2022-03-31T03:04:22Z INFO  dt_mqtt_manager] CPU values = "0.03 0.07 0.63 1.08 ", MEM values = "129.53M 131.53M 181.16M 187.55M ", Cluster Size = 4
+2022-03-31T03:04:22.821435941Z  [2022-03-31T03:04:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:04:22.821579152Z  [2022-03-31T03:04:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:04:26.696436102Z  [2022-03-31T03:04:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:26.696721680Z  [2022-03-31T03:04:26Z INFO  dt_mqtt_manager] CPU values = "1.07 0.66 0.07 0.03 ", MEM values = "183.50M 181.12M 131.52M 131.93M ", Cluster Size = 4
+2022-03-31T03:04:26.696862185Z  [2022-03-31T03:04:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:04:26.697007503Z  [2022-03-31T03:04:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:04:30.655594763Z  [2022-03-31T03:04:30Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:30.655866705Z  [2022-03-31T03:04:30Z INFO  dt_mqtt_manager] CPU values = "0.03 1.15 0.61 0.07 ", MEM values = "129.52M 189.47M 179.17M 135.09M ", Cluster Size = 4
+2022-03-31T03:04:30.655917454Z  [2022-03-31T03:04:30Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:04:30.656015972Z  [2022-03-31T03:04:30Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:04:34.578304541Z  [2022-03-31T03:04:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:34.578504553Z  [2022-03-31T03:04:34Z INFO  dt_mqtt_manager] CPU values = "0.02 0.06 1.13 0.64 ", MEM values = "129.51M 131.52M 183.81M 181.36M ", Cluster Size = 4
+2022-03-31T03:04:34.578535401Z  [2022-03-31T03:04:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:04:34.578665294Z  [2022-03-31T03:04:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:04:39.371050455Z  [2022-03-31T03:04:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:39.371138436Z  [2022-03-31T03:04:39Z INFO  dt_mqtt_manager] CPU values = "0.02 0.06 0.59 1.12 ", MEM values = "129.52M 131.52M 179.21M 187.75M ", Cluster Size = 4
+2022-03-31T03:04:39.371308362Z  [2022-03-31T03:04:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 6
+2022-03-31T03:04:39.371406566Z  [2022-03-31T03:04:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:04:43.047976315Z  [2022-03-31T03:04:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:43.048312422Z  [2022-03-31T03:04:43Z INFO  dt_mqtt_manager] CPU values = "1.12 0.62 0.05 0.02 ", MEM values = "184.31M 178.90M 131.53M 131.96M ", Cluster Size = 4
+2022-03-31T03:04:43.048460938Z  [2022-03-31T03:04:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 6
+2022-03-31T03:04:43.048642493Z  [2022-03-31T03:04:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:04:47.562400968Z  [2022-03-31T03:04:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:47.562689938Z  [2022-03-31T03:04:47Z INFO  dt_mqtt_manager] CPU values = "0.02 1.03 0.62 0.13 ", MEM values = "129.53M 184.62M 179.09M 135.04M ", Cluster Size = 4
+2022-03-31T03:04:47.562840076Z  [2022-03-31T03:04:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 6
+2022-03-31T03:04:47.563002051Z  [2022-03-31T03:04:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:04:51.705821882Z  [2022-03-31T03:04:51Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:51.705994841Z  [2022-03-31T03:04:51Z INFO  dt_mqtt_manager] CPU values = "0.02 0.13 1.03 0.57 ", MEM values = "129.51M 131.62M 186.38M 182.77M ", Cluster Size = 4
+2022-03-31T03:04:51.706070235Z  [2022-03-31T03:04:51Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:04:51.706193079Z  [2022-03-31T03:04:51Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:04:56.448765712Z  [2022-03-31T03:04:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:04:56.448899317Z  [2022-03-31T03:04:56Z INFO  dt_mqtt_manager] CPU values = "0.02 0.12 0.61 1.03 ", MEM values = "129.61M 131.56M 187.67M 243.42M ", Cluster Size = 4
+2022-03-31T03:04:56.448916887Z  [2022-03-31T03:04:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:04:56.448951322Z  [2022-03-31T03:04:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:00.357377708Z  [2022-03-31T03:05:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:00.357485726Z  [2022-03-31T03:05:00Z INFO  dt_mqtt_manager] CPU values = "0.94 0.64 0.11 0.01 ", MEM values = "198.28M 180.23M 131.60M 131.99M ", Cluster Size = 4
+2022-03-31T03:05:00.357498768Z  [2022-03-31T03:05:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:05:00.357523945Z  [2022-03-31T03:05:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:04.310131276Z  [2022-03-31T03:05:04Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:04.310326670Z  [2022-03-31T03:05:04Z INFO  dt_mqtt_manager] CPU values = "0.01 0.95 0.67 0.10 ", MEM values = "129.53M 189.74M 180.85M 135.06M ", Cluster Size = 4
+2022-03-31T03:05:04.310432290Z  [2022-03-31T03:05:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:05:04.310527327Z  [2022-03-31T03:05:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:08.334553366Z  [2022-03-31T03:05:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:08.334670311Z  [2022-03-31T03:05:08Z INFO  dt_mqtt_manager] CPU values = "0.01 0.09 0.95 0.70 ", MEM values = "129.53M 131.59M 185.48M 183.51M ", Cluster Size = 4
+2022-03-31T03:05:08.334708008Z  [2022-03-31T03:05:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:05:08.334726388Z  [2022-03-31T03:05:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:05:12.505443996Z  [2022-03-31T03:05:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:12.505701715Z  [2022-03-31T03:05:12Z INFO  dt_mqtt_manager] CPU values = "0.01 0.08 0.70 0.95 ", MEM values = "129.52M 131.59M 183.09M 193.43M ", Cluster Size = 4
+2022-03-31T03:05:12.505725788Z  [2022-03-31T03:05:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:05:12.505804622Z  [2022-03-31T03:05:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:05:16.382230230Z  [2022-03-31T03:05:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:16.382381013Z  [2022-03-31T03:05:16Z INFO  dt_mqtt_manager] CPU values = "0.96 0.72 0.08 0.01 ", MEM values = "186.12M 181.23M 131.51M 132.01M ", Cluster Size = 4
+2022-03-31T03:05:16.382392615Z  [2022-03-31T03:05:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:05:16.382400336Z  [2022-03-31T03:05:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:05:20.329460134Z  [2022-03-31T03:05:20Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:20.329645331Z  [2022-03-31T03:05:20Z INFO  dt_mqtt_manager] CPU values = "0.01 0.96 0.74 0.08 ", MEM values = "129.56M 185.06M 182.00M 135.05M ", Cluster Size = 4
+2022-03-31T03:05:20.329667181Z  [2022-03-31T03:05:20Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:05:20.329696264Z  [2022-03-31T03:05:20Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:05:24.928462885Z  [2022-03-31T03:05:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:24.928675074Z  [2022-03-31T03:05:24Z INFO  dt_mqtt_manager] CPU values = "0.01 0.15 0.96 0.76 ", MEM values = "129.57M 131.57M 185.96M 183.33M ", Cluster Size = 4
+2022-03-31T03:05:24.928695395Z  [2022-03-31T03:05:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:05:24.928703975Z  [2022-03-31T03:05:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:05:29.344755363Z  [2022-03-31T03:05:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:29.344892629Z  [2022-03-31T03:05:29Z INFO  dt_mqtt_manager] CPU values = "0.01 0.14 0.78 0.97 ", MEM values = "129.55M 131.55M 183.40M 193.09M ", Cluster Size = 4
+2022-03-31T03:05:29.344918188Z  [2022-03-31T03:05:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:05:29.344927028Z  [2022-03-31T03:05:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:05:33.080869574Z  [2022-03-31T03:05:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:33.080925706Z  [2022-03-31T03:05:33Z INFO  dt_mqtt_manager] CPU values = "0.97 0.72 0.21 0.01 ", MEM values = "193.51M 184.68M 131.55M 132.01M ", Cluster Size = 4
+2022-03-31T03:05:33.080957057Z  [2022-03-31T03:05:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:05:33.080965855Z  [2022-03-31T03:05:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:05:37.026219744Z  [2022-03-31T03:05:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:37.026285368Z  [2022-03-31T03:05:37Z INFO  dt_mqtt_manager] CPU values = "0.01 0.97 0.72 0.27 ", MEM values = "129.54M 192.92M 184.70M 135.09M ", Cluster Size = 4
+2022-03-31T03:05:37.026296067Z  [2022-03-31T03:05:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:05:37.026304253Z  [2022-03-31T03:05:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:41.027068052Z  [2022-03-31T03:05:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:41.027118603Z  [2022-03-31T03:05:41Z INFO  dt_mqtt_manager] CPU values = "0.01 0.27 0.97 0.66 ", MEM values = "129.54M 131.56M 193.05M 185.72M ", Cluster Size = 4
+2022-03-31T03:05:41.027151364Z  [2022-03-31T03:05:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:05:41.027159957Z  [2022-03-31T03:05:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:45.078059331Z  [2022-03-31T03:05:45Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:45.078117192Z  [2022-03-31T03:05:45Z INFO  dt_mqtt_manager] CPU values = "0.00 0.33 0.61 0.98 ", MEM values = "129.55M 131.54M 183.85M 193.08M ", Cluster Size = 4
+2022-03-31T03:05:45.078127766Z  [2022-03-31T03:05:45Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:05:45.078135277Z  [2022-03-31T03:05:45Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:49.017671718Z  [2022-03-31T03:05:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:49.017738731Z  [2022-03-31T03:05:49Z INFO  dt_mqtt_manager] CPU values = "0.98 0.56 0.30 0.00 ", MEM values = "188.80M 183.86M 131.57M 132.00M ", Cluster Size = 4
+2022-03-31T03:05:49.017756182Z  [2022-03-31T03:05:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:05:49.017770156Z  [2022-03-31T03:05:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:53.023976367Z  [2022-03-31T03:05:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:53.024369183Z  [2022-03-31T03:05:53Z INFO  dt_mqtt_manager] CPU values = "0.00 0.98 0.56 0.28 ", MEM values = "129.58M 194.81M 184.29M 135.08M ", Cluster Size = 4
+2022-03-31T03:05:53.024393318Z  [2022-03-31T03:05:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:05:53.024656054Z  [2022-03-31T03:05:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:05:56.938930294Z  [2022-03-31T03:05:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:05:56.939147183Z  [2022-03-31T03:05:56Z INFO  dt_mqtt_manager] CPU values = "0.00 0.28 0.98 0.60 ", MEM values = "129.54M 131.59M 194.20M 190.25M ", Cluster Size = 4
+2022-03-31T03:05:56.939379388Z  [2022-03-31T03:05:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:05:56.939403188Z  [2022-03-31T03:05:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:00.996683602Z  [2022-03-31T03:06:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:00.996731466Z  [2022-03-31T03:06:00Z INFO  dt_mqtt_manager] CPU values = "0.00 0.34 0.55 0.98 ", MEM values = "129.57M 131.54M 188.48M 196.71M ", Cluster Size = 4
+2022-03-31T03:06:00.996740450Z  [2022-03-31T03:06:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:06:00.996748038Z  [2022-03-31T03:06:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:05.008278733Z  [2022-03-31T03:06:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:05.008335138Z  [2022-03-31T03:06:05Z INFO  dt_mqtt_manager] CPU values = "1.06 0.58 0.31 0.00 ", MEM values = "197.17M 189.04M 131.51M 132.01M ", Cluster Size = 4
+2022-03-31T03:06:05.008344851Z  [2022-03-31T03:06:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:06:05.008375348Z  [2022-03-31T03:06:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:08.838203677Z  [2022-03-31T03:06:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:08.838435881Z  [2022-03-31T03:06:08Z INFO  dt_mqtt_manager] CPU values = "0.00 1.06 0.62 0.28 ", MEM values = "129.56M 190.67M 186.80M 135.01M ", Cluster Size = 4
+2022-03-31T03:06:08.838480098Z  [2022-03-31T03:06:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:06:08.838494613Z  [2022-03-31T03:06:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:12.650860631Z  [2022-03-31T03:06:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:12.650987557Z  [2022-03-31T03:06:12Z INFO  dt_mqtt_manager] CPU values = "0.00 0.26 1.06 0.62 ", MEM values = "129.57M 131.51M 196.38M 189.55M ", Cluster Size = 4
+2022-03-31T03:06:12.651035884Z  [2022-03-31T03:06:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:06:12.651046690Z  [2022-03-31T03:06:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:16.780135908Z  [2022-03-31T03:06:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:16.780421303Z  [2022-03-31T03:06:16Z INFO  dt_mqtt_manager] CPU values = "0.00 0.26 0.65 1.05 ", MEM values = "129.57M 131.52M 185.38M 195.71M ", Cluster Size = 4
+2022-03-31T03:06:16.780462881Z  [2022-03-31T03:06:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:06:16.780473251Z  [2022-03-31T03:06:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:20.640098977Z  [2022-03-31T03:06:20Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:20.640192846Z  [2022-03-31T03:06:20Z INFO  dt_mqtt_manager] CPU values = "1.05 0.60 0.24 0.00 ", MEM values = "193.72M 185.17M 131.57M 132.01M ", Cluster Size = 4
+2022-03-31T03:06:20.640214317Z  [2022-03-31T03:06:20Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:06:20.640231443Z  [2022-03-31T03:06:20Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:24.373339418Z  [2022-03-31T03:06:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:24.373524555Z  [2022-03-31T03:06:24Z INFO  dt_mqtt_manager] CPU values = "0.00 1.04 0.63 0.22 ", MEM values = "129.56M 192.97M 185.89M 135.02M ", Cluster Size = 4
+2022-03-31T03:06:24.373541540Z  [2022-03-31T03:06:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 6
+2022-03-31T03:06:24.373568464Z  [2022-03-31T03:06:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:06:28.359019133Z  [2022-03-31T03:06:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:28.359200068Z  [2022-03-31T03:06:28Z INFO  dt_mqtt_manager] CPU values = "0.00 0.28 1.04 0.66 ", MEM values = "129.56M 131.52M 193.24M 187.05M ", Cluster Size = 4
+2022-03-31T03:06:28.359216692Z  [2022-03-31T03:06:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 6
+2022-03-31T03:06:28.359244464Z  [2022-03-31T03:06:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:06:32.861585664Z  [2022-03-31T03:06:32Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:32.861740420Z  [2022-03-31T03:06:32Z INFO  dt_mqtt_manager] CPU values = "0.00 0.26 0.66 1.04 ", MEM values = "129.59M 131.58M 184.58M 196.92M ", Cluster Size = 4
+2022-03-31T03:06:32.861867322Z  [2022-03-31T03:06:32Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 6
+2022-03-31T03:06:32.861882379Z  [2022-03-31T03:06:32Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:06:36.759727836Z  [2022-03-31T03:06:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:36.760176766Z  [2022-03-31T03:06:36Z INFO  dt_mqtt_manager] CPU values = "1.04 0.69 0.26 0.00 ", MEM values = "191.34M 184.91M 131.52M 132.06M ", Cluster Size = 4
+2022-03-31T03:06:36.760276408Z  [2022-03-31T03:06:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:06:36.760381587Z  [2022-03-31T03:06:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:06:40.507756554Z  [2022-03-31T03:06:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:40.507962693Z  [2022-03-31T03:06:40Z INFO  dt_mqtt_manager] CPU values = "0.00 0.95 0.71 0.24 ", MEM values = "129.60M 191.59M 186.43M 135.10M ", Cluster Size = 4
+2022-03-31T03:06:40.508059591Z  [2022-03-31T03:06:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:06:40.508146569Z  [2022-03-31T03:06:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:06:44.463526724Z  [2022-03-31T03:06:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:44.463798800Z  [2022-03-31T03:06:44Z INFO  dt_mqtt_manager] CPU values = "0.00 0.30 1.12 0.73 ", MEM values = "129.61M 131.55M 191.83M 190.28M ", Cluster Size = 4
+2022-03-31T03:06:44.463944972Z  [2022-03-31T03:06:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:06:44.464066879Z  [2022-03-31T03:06:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:06:48.420779482Z  [2022-03-31T03:06:48Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:48.421129371Z  [2022-03-31T03:06:48Z INFO  dt_mqtt_manager] CPU values = "0.00 0.28 0.76 1.12 ", MEM values = "129.57M 131.55M 183.82M 197.06M ", Cluster Size = 4
+2022-03-31T03:06:48.421257028Z  [2022-03-31T03:06:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:06:48.421371211Z  [2022-03-31T03:06:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:06:52.072579455Z  [2022-03-31T03:06:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:52.072866033Z  [2022-03-31T03:06:52Z INFO  dt_mqtt_manager] CPU values = "1.11 0.76 0.25 0.08 ", MEM values = "194.31M 183.72M 131.55M 131.96M ", Cluster Size = 4
+2022-03-31T03:06:52.073005220Z  [2022-03-31T03:06:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:06:52.073148587Z  [2022-03-31T03:06:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:56.004221290Z  [2022-03-31T03:06:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:56.004523787Z  [2022-03-31T03:06:56Z INFO  dt_mqtt_manager] CPU values = "0.08 1.10 0.78 0.25 ", MEM values = "129.54M 191.06M 185.40M 135.06M ", Cluster Size = 4
+2022-03-31T03:06:56.004722132Z  [2022-03-31T03:06:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:06:56.004858313Z  [2022-03-31T03:06:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:06:59.942767970Z  [2022-03-31T03:06:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:06:59.942994021Z  [2022-03-31T03:06:59Z INFO  dt_mqtt_manager] CPU values = "0.07 0.23 1.01 0.71 ", MEM values = "129.57M 131.62M 189.76M 189.06M ", Cluster Size = 4
+2022-03-31T03:06:59.943184161Z  [2022-03-31T03:06:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:06:59.943328268Z  [2022-03-31T03:06:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:07:03.967063050Z  [2022-03-31T03:07:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:03.967112504Z  [2022-03-31T03:07:03Z INFO  dt_mqtt_manager] CPU values = "0.07 0.21 0.74 1.09 ", MEM values = "129.53M 131.64M 186.23M 194.09M ", Cluster Size = 4
+2022-03-31T03:07:03.967121718Z  [2022-03-31T03:07:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:07:03.967235321Z  [2022-03-31T03:07:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:07:07.914605044Z  [2022-03-31T03:07:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:07.914681944Z  [2022-03-31T03:07:07Z INFO  dt_mqtt_manager] CPU values = "1.09 0.74 0.20 0.06 ", MEM values = "189.31M 186.50M 131.63M 131.98M ", Cluster Size = 4
+2022-03-31T03:07:07.914902003Z  [2022-03-31T03:07:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:07:07.914959331Z  [2022-03-31T03:07:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:07:11.623410963Z  [2022-03-31T03:07:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:11.623480655Z  [2022-03-31T03:07:11Z INFO  dt_mqtt_manager] CPU values = "0.06 1.08 0.68 0.20 ", MEM values = "129.56M 189.52M 186.15M 135.14M ", Cluster Size = 4
+2022-03-31T03:07:11.623490858Z  [2022-03-31T03:07:11Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:07:11.623498916Z  [2022-03-31T03:07:11Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:07:15.409128535Z  [2022-03-31T03:07:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:15.409177281Z  [2022-03-31T03:07:15Z INFO  dt_mqtt_manager] CPU values = "0.06 0.26 1.08 0.70 ", MEM values = "129.57M 131.62M 189.03M 189.19M ", Cluster Size = 4
+2022-03-31T03:07:15.409186012Z  [2022-03-31T03:07:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:07:15.409193324Z  [2022-03-31T03:07:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:07:19.625012350Z  [2022-03-31T03:07:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:19.625142913Z  [2022-03-31T03:07:19Z INFO  dt_mqtt_manager] CPU values = "0.05 0.24 0.73 1.15 ", MEM values = "129.54M 131.61M 186.46M 192.08M ", Cluster Size = 4
+2022-03-31T03:07:19.625248637Z  [2022-03-31T03:07:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:07:19.625312614Z  [2022-03-31T03:07:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:07:23.685304016Z  [2022-03-31T03:07:23Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:23.685425891Z  [2022-03-31T03:07:23Z INFO  dt_mqtt_manager] CPU values = "1.15 0.83 0.30 0.05 ", MEM values = "188.38M 183.75M 131.65M 132.00M ", Cluster Size = 4
+2022-03-31T03:07:23.685439107Z  [2022-03-31T03:07:23Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:07:23.685447104Z  [2022-03-31T03:07:23Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:07:27.464160421Z  [2022-03-31T03:07:27Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:27.464222378Z  [2022-03-31T03:07:27Z INFO  dt_mqtt_manager] CPU values = "0.04 1.14 0.83 0.36 ", MEM values = "129.55M 185.03M 181.74M 135.10M ", Cluster Size = 4
+2022-03-31T03:07:27.464232807Z  [2022-03-31T03:07:27Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:07:27.464240569Z  [2022-03-31T03:07:27Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:07:31.135334331Z  [2022-03-31T03:07:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:31.135395015Z  [2022-03-31T03:07:31Z INFO  dt_mqtt_manager] CPU values = "0.04 0.36 1.13 0.76 ", MEM values = "129.52M 131.58M 183.68M 184.87M ", Cluster Size = 4
+2022-03-31T03:07:31.135405175Z  [2022-03-31T03:07:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:07:31.135413016Z  [2022-03-31T03:07:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:07:35.720648894Z  [2022-03-31T03:07:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:35.720897158Z  [2022-03-31T03:07:35Z INFO  dt_mqtt_manager] CPU values = "0.04 0.33 0.78 1.12 ", MEM values = "129.54M 131.60M 182.43M 186.05M ", Cluster Size = 4
+2022-03-31T03:07:35.720941297Z  [2022-03-31T03:07:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:07:35.720958048Z  [2022-03-31T03:07:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:07:39.601463274Z  [2022-03-31T03:07:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:39.601624761Z  [2022-03-31T03:07:39Z INFO  dt_mqtt_manager] CPU values = "1.11 0.72 0.30 0.04 ", MEM values = "183.80M 181.12M 131.56M 131.95M ", Cluster Size = 4
+2022-03-31T03:07:39.601637774Z  [2022-03-31T03:07:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:07:39.601658563Z  [2022-03-31T03:07:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:07:43.391937119Z  [2022-03-31T03:07:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:43.391991262Z  [2022-03-31T03:07:43Z INFO  dt_mqtt_manager] CPU values = "0.03 1.11 0.74 0.36 ", MEM values = "129.54M 182.89M 181.11M 135.11M ", Cluster Size = 4
+2022-03-31T03:07:43.392118874Z  [2022-03-31T03:07:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:07:43.392137882Z  [2022-03-31T03:07:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:07:47.137031899Z  [2022-03-31T03:07:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:47.137153650Z  [2022-03-31T03:07:47Z INFO  dt_mqtt_manager] CPU values = "0.03 0.41 1.10 0.74 ", MEM values = "129.58M 131.58M 183.37M 186.75M ", Cluster Size = 4
+2022-03-31T03:07:47.137194178Z  [2022-03-31T03:07:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:07:47.137203515Z  [2022-03-31T03:07:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:07:51.898045295Z  [2022-03-31T03:07:51Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:51.898150885Z  [2022-03-31T03:07:51Z INFO  dt_mqtt_manager] CPU values = "0.03 0.41 0.68 1.09 ", MEM values = "129.63M 131.39M 182.39M 187.72M ", Cluster Size = 4
+2022-03-31T03:07:51.898176918Z  [2022-03-31T03:07:51Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:07:51.898252943Z  [2022-03-31T03:07:51Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:07:55.841297777Z  [2022-03-31T03:07:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:55.841412982Z  [2022-03-31T03:07:55Z INFO  dt_mqtt_manager] CPU values = "1.00 0.71 0.38 0.03 ", MEM values = "187.17M 183.74M 131.46M 132.06M ", Cluster Size = 4
+2022-03-31T03:07:55.841426298Z  [2022-03-31T03:07:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:07:55.841434479Z  [2022-03-31T03:07:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:07:59.584757972Z  [2022-03-31T03:07:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:07:59.585006006Z  [2022-03-31T03:07:59Z INFO  dt_mqtt_manager] CPU values = "0.02 1.00 0.73 0.35 ", MEM values = "129.54M 186.30M 182.44M 135.05M ", Cluster Size = 4
+2022-03-31T03:07:59.585023539Z  [2022-03-31T03:07:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:07:59.585091654Z  [2022-03-31T03:07:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:08:03.406107476Z  [2022-03-31T03:08:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:03.406156446Z  [2022-03-31T03:08:03Z INFO  dt_mqtt_manager] CPU values = "0.02 0.40 1.00 0.75 ", MEM values = "129.55M 131.49M 265.12M 189.85M ", Cluster Size = 4
+2022-03-31T03:08:03.406165919Z  [2022-03-31T03:08:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 14
+2022-03-31T03:08:03.406173900Z  [2022-03-31T03:08:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 3
+2022-03-31T03:08:07.421659470Z  [2022-03-31T03:08:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:07.421867452Z  [2022-03-31T03:08:07Z INFO  dt_mqtt_manager] CPU values = "0.02 0.37 0.75 0.92 ", MEM values = "129.53M 131.55M 183.53M 219.18M ", Cluster Size = 4
+2022-03-31T03:08:07.421911947Z  [2022-03-31T03:08:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:08:07.421921333Z  [2022-03-31T03:08:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:08:11.165652672Z  [2022-03-31T03:08:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:11.165732716Z  [2022-03-31T03:08:11Z INFO  dt_mqtt_manager] CPU values = "0.85 0.77 0.37 0.02 ", MEM values = "191.91M 182.31M 131.50M 132.01M ", Cluster Size = 4
+2022-03-31T03:08:11.165775675Z  [2022-03-31T03:08:11Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:08:11.165785625Z  [2022-03-31T03:08:11Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:08:14.951337527Z  [2022-03-31T03:08:14Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:14.951633306Z  [2022-03-31T03:08:14Z INFO  dt_mqtt_manager] CPU values = "0.02 0.78 0.71 0.34 ", MEM values = "129.55M 191.32M 180.69M 135.03M ", Cluster Size = 4
+2022-03-31T03:08:14.951670060Z  [2022-03-31T03:08:14Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:08:14.951680097Z  [2022-03-31T03:08:14Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:08:18.776347131Z  [2022-03-31T03:08:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:18.776602868Z  [2022-03-31T03:08:18Z INFO  dt_mqtt_manager] CPU values = "0.02 0.39 0.78 0.65 ", MEM values = "129.52M 131.54M 192.13M 183.83M ", Cluster Size = 4
+2022-03-31T03:08:18.776745716Z  [2022-03-31T03:08:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:08:18.776899904Z  [2022-03-31T03:08:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:08:22.727132731Z  [2022-03-31T03:08:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:22.727424863Z  [2022-03-31T03:08:22Z INFO  dt_mqtt_manager] CPU values = "0.02 0.36 0.65 0.72 ", MEM values = "129.54M 131.58M 184.09M 196.53M ", Cluster Size = 4
+2022-03-31T03:08:22.727601619Z  [2022-03-31T03:08:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:22.727810456Z  [2022-03-31T03:08:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:26.376889791Z  [2022-03-31T03:08:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:26.377074519Z  [2022-03-31T03:08:26Z INFO  dt_mqtt_manager] CPU values = "0.74 0.68 0.36 0.02 ", MEM values = "185.46M 183.48M 131.57M 132.01M ", Cluster Size = 4
+2022-03-31T03:08:26.377254252Z  [2022-03-31T03:08:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:26.377374775Z  [2022-03-31T03:08:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:30.145716076Z  [2022-03-31T03:08:30Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:30.146098715Z  [2022-03-31T03:08:30Z INFO  dt_mqtt_manager] CPU values = "0.01 0.76 0.63 0.33 ", MEM values = "129.56M 187.88M 182.97M 135.07M ", Cluster Size = 4
+2022-03-31T03:08:30.146277553Z  [2022-03-31T03:08:30Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:30.146418551Z  [2022-03-31T03:08:30Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:34.419622387Z  [2022-03-31T03:08:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:34.419855610Z  [2022-03-31T03:08:34Z INFO  dt_mqtt_manager] CPU values = "0.01 0.30 0.70 0.66 ", MEM values = "129.57M 131.58M 189.12M 186.62M ", Cluster Size = 4
+2022-03-31T03:08:34.419876861Z  [2022-03-31T03:08:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:34.419907693Z  [2022-03-31T03:08:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:38.343407664Z  [2022-03-31T03:08:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:38.343478864Z  [2022-03-31T03:08:38Z INFO  dt_mqtt_manager] CPU values = "0.01 0.28 0.69 0.70 ", MEM values = "129.57M 131.52M 185.04M 192.62M ", Cluster Size = 4
+2022-03-31T03:08:38.343491167Z  [2022-03-31T03:08:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:38.343498765Z  [2022-03-31T03:08:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:41.944549828Z  [2022-03-31T03:08:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:41.944748317Z  [2022-03-31T03:08:41Z INFO  dt_mqtt_manager] CPU values = "0.72 0.69 0.28 0.01 ", MEM values = "191.91M 186.02M 131.56M 132.02M ", Cluster Size = 4
+2022-03-31T03:08:41.944816608Z  [2022-03-31T03:08:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:41.944828232Z  [2022-03-31T03:08:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:45.613992867Z  [2022-03-31T03:08:45Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:45.614054660Z  [2022-03-31T03:08:45Z INFO  dt_mqtt_manager] CPU values = "0.01 0.75 0.71 0.26 ", MEM values = "129.57M 192.09M 187.77M 135.25M ", Cluster Size = 4
+2022-03-31T03:08:45.614064853Z  [2022-03-31T03:08:45Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:45.614072623Z  [2022-03-31T03:08:45Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:49.351446930Z  [2022-03-31T03:08:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:49.351500209Z  [2022-03-31T03:08:49Z INFO  dt_mqtt_manager] CPU values = "0.01 0.32 0.77 0.73 ", MEM values = "129.55M 131.56M 190.66M 190.04M ", Cluster Size = 4
+2022-03-31T03:08:49.351510138Z  [2022-03-31T03:08:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:08:49.351517866Z  [2022-03-31T03:08:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:08:53.262027540Z  [2022-03-31T03:08:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:53.262086584Z  [2022-03-31T03:08:53Z INFO  dt_mqtt_manager] CPU values = "0.01 0.29 0.76 0.77 ", MEM values = "129.55M 131.66M 186.21M 191.76M ", Cluster Size = 4
+2022-03-31T03:08:53.262102687Z  [2022-03-31T03:08:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:08:53.262111685Z  [2022-03-31T03:08:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:08:56.861444064Z  [2022-03-31T03:08:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:08:56.861740616Z  [2022-03-31T03:08:56Z INFO  dt_mqtt_manager] CPU values = "0.79 0.76 0.29 0.01 ", MEM values = "195.20M 186.36M 131.62M 132.06M ", Cluster Size = 4
+2022-03-31T03:08:56.861757638Z  [2022-03-31T03:08:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:08:56.861766339Z  [2022-03-31T03:08:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:00.554431259Z  [2022-03-31T03:09:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:00.554644320Z  [2022-03-31T03:09:00Z INFO  dt_mqtt_manager] CPU values = "0.01 0.80 0.70 0.27 ", MEM values = "129.62M 192.07M 187.38M 135.04M ", Cluster Size = 4
+2022-03-31T03:09:00.554662971Z  [2022-03-31T03:09:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:00.554671314Z  [2022-03-31T03:09:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:04.246876526Z  [2022-03-31T03:09:04Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:04.246937655Z  [2022-03-31T03:09:04Z INFO  dt_mqtt_manager] CPU values = "0.01 0.33 0.90 0.72 ", MEM values = "129.62M 131.52M 193.25M 189.62M ", Cluster Size = 4
+2022-03-31T03:09:04.246948058Z  [2022-03-31T03:09:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:04.246955608Z  [2022-03-31T03:09:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:08.397073864Z  [2022-03-31T03:09:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:08.397309154Z  [2022-03-31T03:09:08Z INFO  dt_mqtt_manager] CPU values = "0.01 0.38 0.66 0.90 ", MEM values = "129.62M 131.52M 186.98M 193.95M ", Cluster Size = 4
+2022-03-31T03:09:08.397405288Z  [2022-03-31T03:09:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:09:08.397503105Z  [2022-03-31T03:09:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:09:12.114397072Z  [2022-03-31T03:09:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:12.114646813Z  [2022-03-31T03:09:12Z INFO  dt_mqtt_manager] CPU values = "0.91 0.66 0.38 0.01 ", MEM values = "191.64M 186.55M 131.48M 132.07M ", Cluster Size = 4
+2022-03-31T03:09:12.114773494Z  [2022-03-31T03:09:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:09:12.114898944Z  [2022-03-31T03:09:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:09:15.830211326Z  [2022-03-31T03:09:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:15.830605036Z  [2022-03-31T03:09:15Z INFO  dt_mqtt_manager] CPU values = "0.00 0.84 0.69 0.35 ", MEM values = "129.63M 190.91M 185.89M 135.02M ", Cluster Size = 4
+2022-03-31T03:09:15.830744027Z  [2022-03-31T03:09:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:09:15.830888716Z  [2022-03-31T03:09:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:09:19.543309364Z  [2022-03-31T03:09:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:19.543584600Z  [2022-03-31T03:09:19Z INFO  dt_mqtt_manager] CPU values = "0.00 0.32 0.85 0.63 ", MEM values = "129.61M 131.47M 191.79M 191.09M ", Cluster Size = 4
+2022-03-31T03:09:19.543731619Z  [2022-03-31T03:09:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:09:19.543853056Z  [2022-03-31T03:09:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:09:23.678321524Z  [2022-03-31T03:09:23Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:23.678741312Z  [2022-03-31T03:09:23Z INFO  dt_mqtt_manager] CPU values = "0.00 0.30 0.66 0.85 ", MEM values = "129.62M 131.47M 184.57M 195.90M ", Cluster Size = 4
+2022-03-31T03:09:23.679040212Z  [2022-03-31T03:09:23Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:23.679231789Z  [2022-03-31T03:09:23Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:27.289679301Z  [2022-03-31T03:09:27Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:27.290041375Z  [2022-03-31T03:09:27Z INFO  dt_mqtt_manager] CPU values = "0.86 0.66 0.35 0.16 ", MEM values = "194.03M 185.76M 131.46M 132.05M ", Cluster Size = 4
+2022-03-31T03:09:27.290170947Z  [2022-03-31T03:09:27Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:27.290297133Z  [2022-03-31T03:09:27Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:31.128239104Z  [2022-03-31T03:09:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:31.128321736Z  [2022-03-31T03:09:31Z INFO  dt_mqtt_manager] CPU values = "0.16 0.87 0.61 0.35 ", MEM values = "129.65M 193.26M 185.97M 134.98M ", Cluster Size = 4
+2022-03-31T03:09:31.128390297Z  [2022-03-31T03:09:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:31.128457307Z  [2022-03-31T03:09:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:34.869963317Z  [2022-03-31T03:09:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:34.870108260Z  [2022-03-31T03:09:34Z INFO  dt_mqtt_manager] CPU values = "0.15 0.40 0.80 0.64 ", MEM values = "129.63M 131.49M 196.43M 189.31M ", Cluster Size = 4
+2022-03-31T03:09:34.870132910Z  [2022-03-31T03:09:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:34.870198744Z  [2022-03-31T03:09:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:38.741229934Z  [2022-03-31T03:09:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:38.741434509Z  [2022-03-31T03:09:38Z INFO  dt_mqtt_manager] CPU values = "0.14 0.37 0.59 0.80 ", MEM values = "129.65M 131.49M 188.30M 195.02M ", Cluster Size = 4
+2022-03-31T03:09:38.741457823Z  [2022-03-31T03:09:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:38.741512259Z  [2022-03-31T03:09:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:42.321529838Z  [2022-03-31T03:09:42Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:42.321815091Z  [2022-03-31T03:09:42Z INFO  dt_mqtt_manager] CPU values = "0.82 0.59 0.34 0.29 ", MEM values = "192.99M 187.88M 131.45M 132.10M ", Cluster Size = 4
+2022-03-31T03:09:42.321971222Z  [2022-03-31T03:09:42Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:42.322099154Z  [2022-03-31T03:09:42Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:45.940046525Z  [2022-03-31T03:09:45Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:45.940285470Z  [2022-03-31T03:09:45Z INFO  dt_mqtt_manager] CPU values = "0.29 0.83 0.62 0.34 ", MEM values = "129.68M 194.06M 189.76M 134.95M ", Cluster Size = 4
+2022-03-31T03:09:45.940412628Z  [2022-03-31T03:09:45Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:45.940587330Z  [2022-03-31T03:09:45Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:49.601472494Z  [2022-03-31T03:09:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:49.601793143Z  [2022-03-31T03:09:49Z INFO  dt_mqtt_manager] CPU values = "0.26 0.31 0.85 0.65 ", MEM values = "129.69M 131.48M 194.19M 190.49M ", Cluster Size = 4
+2022-03-31T03:09:49.601837947Z  [2022-03-31T03:09:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:09:49.601917796Z  [2022-03-31T03:09:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:09:53.515537372Z  [2022-03-31T03:09:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:53.515794118Z  [2022-03-31T03:09:53Z INFO  dt_mqtt_manager] CPU values = "0.24 0.29 0.68 0.85 ", MEM values = "129.66M 131.52M 188.41M 195.28M ", Cluster Size = 4
+2022-03-31T03:09:53.515910469Z  [2022-03-31T03:09:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:09:53.516011320Z  [2022-03-31T03:09:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:09:57.046263924Z  [2022-03-31T03:09:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:09:57.046464325Z  [2022-03-31T03:09:57Z INFO  dt_mqtt_manager] CPU values = "0.86 0.68 0.29 0.24 ", MEM values = "189.39M 186.22M 131.57M 132.14M ", Cluster Size = 4
+2022-03-31T03:09:57.046599431Z  [2022-03-31T03:09:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:09:57.046692944Z  [2022-03-31T03:09:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:10:00.692483065Z  [2022-03-31T03:10:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:00.692778728Z  [2022-03-31T03:10:00Z INFO  dt_mqtt_manager] CPU values = "0.22 0.87 0.71 0.27 ", MEM values = "129.73M 188.10M 187.22M 135.04M ", Cluster Size = 4
+2022-03-31T03:10:00.692939005Z  [2022-03-31T03:10:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:10:00.693122407Z  [2022-03-31T03:10:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:10:04.343511327Z  [2022-03-31T03:10:04Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:04.343718380Z  [2022-03-31T03:10:04Z INFO  dt_mqtt_manager] CPU values = "0.21 0.32 0.88 0.73 ", MEM values = "129.72M 131.51M 189.57M 188.89M ", Cluster Size = 4
+2022-03-31T03:10:04.343869436Z  [2022-03-31T03:10:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:10:04.343919410Z  [2022-03-31T03:10:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:10:08.133442257Z  [2022-03-31T03:10:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:08.133735256Z  [2022-03-31T03:10:08Z INFO  dt_mqtt_manager] CPU values = "0.19 0.30 0.73 0.88 ", MEM values = "129.70M 131.60M 186.36M 192.12M ", Cluster Size = 4
+2022-03-31T03:10:08.133763633Z  [2022-03-31T03:10:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:08.133901317Z  [2022-03-31T03:10:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:11.794007714Z  [2022-03-31T03:10:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:11.794553385Z  [2022-03-31T03:10:11Z INFO  dt_mqtt_manager] CPU values = "0.89 0.67 0.30 0.19 ", MEM values = "187.72M 187.90M 131.55M 132.17M ", Cluster Size = 4
+2022-03-31T03:10:11.794599058Z  [2022-03-31T03:10:11Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:11.794708167Z  [2022-03-31T03:10:11Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:15.352418108Z  [2022-03-31T03:10:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:15.352687576Z  [2022-03-31T03:10:15Z INFO  dt_mqtt_manager] CPU values = "0.17 0.90 0.62 0.35 ", MEM values = "129.71M 190.80M 186.57M 135.10M ", Cluster Size = 4
+2022-03-31T03:10:15.352823939Z  [2022-03-31T03:10:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:15.352970210Z  [2022-03-31T03:10:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:19.001363808Z  [2022-03-31T03:10:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:19.001576503Z  [2022-03-31T03:10:19Z INFO  dt_mqtt_manager] CPU values = "0.16 0.33 0.90 0.57 ", MEM values = "129.69M 131.62M 186.78M 190.29M ", Cluster Size = 4
+2022-03-31T03:10:19.001671525Z  [2022-03-31T03:10:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:19.001759194Z  [2022-03-31T03:10:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:22.871847317Z  [2022-03-31T03:10:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:22.871987398Z  [2022-03-31T03:10:22Z INFO  dt_mqtt_manager] CPU values = "0.15 0.30 0.57 0.91 ", MEM values = "129.66M 131.58M 186.33M 190.04M ", Cluster Size = 4
+2022-03-31T03:10:22.872024143Z  [2022-03-31T03:10:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:10:22.872072659Z  [2022-03-31T03:10:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:26.410033173Z  [2022-03-31T03:10:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:26.410189915Z  [2022-03-31T03:10:26Z INFO  dt_mqtt_manager] CPU values = "0.84 0.60 0.30 0.15 ", MEM values = "188.04M 185.29M 131.57M 132.13M ", Cluster Size = 4
+2022-03-31T03:10:26.410203502Z  [2022-03-31T03:10:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:10:26.410228303Z  [2022-03-31T03:10:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:29.998873337Z  [2022-03-31T03:10:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:29.999043049Z  [2022-03-31T03:10:29Z INFO  dt_mqtt_manager] CPU values = "0.13 0.93 0.64 0.27 ", MEM values = "129.64M 188.70M 185.99M 135.13M ", Cluster Size = 4
+2022-03-31T03:10:29.999072743Z  [2022-03-31T03:10:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:10:29.999094016Z  [2022-03-31T03:10:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:33.628631886Z  [2022-03-31T03:10:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:33.628838455Z  [2022-03-31T03:10:33Z INFO  dt_mqtt_manager] CPU values = "0.12 0.33 0.93 0.66 ", MEM values = "129.64M 131.70M 185.81M 188.25M ", Cluster Size = 4
+2022-03-31T03:10:33.629007244Z  [2022-03-31T03:10:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:10:33.629077380Z  [2022-03-31T03:10:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:37.416628955Z  [2022-03-31T03:10:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:37.416923145Z  [2022-03-31T03:10:37Z INFO  dt_mqtt_manager] CPU values = "0.11 0.31 0.66 0.93 ", MEM values = "129.62M 131.56M 184.84M 188.79M ", Cluster Size = 4
+2022-03-31T03:10:37.416968426Z  [2022-03-31T03:10:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:37.416980972Z  [2022-03-31T03:10:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:41.007727119Z  [2022-03-31T03:10:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:41.007975923Z  [2022-03-31T03:10:41Z INFO  dt_mqtt_manager] CPU values = "0.94 0.69 0.31 0.11 ", MEM values = "186.93M 184.42M 131.61M 132.09M ", Cluster Size = 4
+2022-03-31T03:10:41.008043294Z  [2022-03-31T03:10:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:41.008129345Z  [2022-03-31T03:10:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:44.565096829Z  [2022-03-31T03:10:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:44.565361576Z  [2022-03-31T03:10:44Z INFO  dt_mqtt_manager] CPU values = "0.10 0.94 0.72 0.36 ", MEM values = "129.63M 188.30M 186.55M 135.12M ", Cluster Size = 4
+2022-03-31T03:10:44.565494398Z  [2022-03-31T03:10:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:44.565627863Z  [2022-03-31T03:10:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:48.280728552Z  [2022-03-31T03:10:48Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:48.281010954Z  [2022-03-31T03:10:48Z INFO  dt_mqtt_manager] CPU values = "0.10 0.33 0.94 0.74 ", MEM values = "129.59M 131.63M 187.34M 188.57M ", Cluster Size = 4
+2022-03-31T03:10:48.281155586Z  [2022-03-31T03:10:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:10:48.281277644Z  [2022-03-31T03:10:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:52.021667732Z  [2022-03-31T03:10:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:52.021961840Z  [2022-03-31T03:10:52Z INFO  dt_mqtt_manager] CPU values = "0.10 0.33 0.74 0.95 ", MEM values = "129.58M 131.57M 183.00M 188.83M ", Cluster Size = 4
+2022-03-31T03:10:52.022102784Z  [2022-03-31T03:10:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:10:52.022238894Z  [2022-03-31T03:10:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:55.619957273Z  [2022-03-31T03:10:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:55.620243001Z  [2022-03-31T03:10:55Z INFO  dt_mqtt_manager] CPU values = "0.95 0.76 0.31 0.09 ", MEM values = "194.61M 185.79M 131.60M 132.06M ", Cluster Size = 4
+2022-03-31T03:10:55.620382446Z  [2022-03-31T03:10:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:10:55.620562006Z  [2022-03-31T03:10:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:10:59.153600471Z  [2022-03-31T03:10:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:10:59.153889014Z  [2022-03-31T03:10:59Z INFO  dt_mqtt_manager] CPU values = "0.08 0.88 0.78 0.28 ", MEM values = "129.59M 192.36M 185.06M 135.12M ", Cluster Size = 4
+2022-03-31T03:10:59.154035165Z  [2022-03-31T03:10:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:10:59.154157579Z  [2022-03-31T03:10:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:02.768115673Z  [2022-03-31T03:11:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:02.768187582Z  [2022-03-31T03:11:02Z INFO  dt_mqtt_manager] CPU values = "0.07 0.26 0.88 0.78 ", MEM values = "129.53M 131.65M 192.24M 188.52M ", Cluster Size = 4
+2022-03-31T03:11:02.768198381Z  [2022-03-31T03:11:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:11:02.768206083Z  [2022-03-31T03:11:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:06.555186599Z  [2022-03-31T03:11:06Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:06.555243770Z  [2022-03-31T03:11:06Z INFO  dt_mqtt_manager] CPU values = "0.07 0.26 0.88 0.89 ", MEM values = "129.54M 131.56M 186.49M 194.78M ", Cluster Size = 4
+2022-03-31T03:11:06.555253724Z  [2022-03-31T03:11:06Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:11:06.555261716Z  [2022-03-31T03:11:06Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:10.079139403Z  [2022-03-31T03:11:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:10.079260591Z  [2022-03-31T03:11:10Z INFO  dt_mqtt_manager] CPU values = "0.90 0.81 0.24 0.07 ", MEM values = "225.45M 183.33M 131.58M 131.99M ", Cluster Size = 4
+2022-03-31T03:11:10.079290530Z  [2022-03-31T03:11:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:11:10.079299242Z  [2022-03-31T03:11:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:13.730983612Z  [2022-03-31T03:11:13Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:13.731195953Z  [2022-03-31T03:11:13Z INFO  dt_mqtt_manager] CPU values = "0.06 0.90 0.82 0.22 ", MEM values = "129.56M 217.17M 186.98M 135.13M ", Cluster Size = 4
+2022-03-31T03:11:13.731336232Z  [2022-03-31T03:11:13Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:11:13.731350410Z  [2022-03-31T03:11:13Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:17.299000284Z  [2022-03-31T03:11:17Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:17.299250514Z  [2022-03-31T03:11:17Z INFO  dt_mqtt_manager] CPU values = "0.06 0.20 0.91 0.82 ", MEM values = "129.61M 131.57M 188.29M 186.15M ", Cluster Size = 4
+2022-03-31T03:11:17.299291260Z  [2022-03-31T03:11:17Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:11:17.299302792Z  [2022-03-31T03:11:17Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:21.074118486Z  [2022-03-31T03:11:21Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:21.074407943Z  [2022-03-31T03:11:21Z INFO  dt_mqtt_manager] CPU values = "0.06 0.20 0.76 0.91 ", MEM values = "129.60M 131.57M 184.47M 190.76M ", Cluster Size = 4
+2022-03-31T03:11:21.074430675Z  [2022-03-31T03:11:21Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:11:21.074445619Z  [2022-03-31T03:11:21Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:24.771214186Z  [2022-03-31T03:11:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:24.771428875Z  [2022-03-31T03:11:24Z INFO  dt_mqtt_manager] CPU values = "0.92 0.86 0.18 0.05 ", MEM values = "192.96M 187.99M 131.60M 132.05M ", Cluster Size = 4
+2022-03-31T03:11:24.771465087Z  [2022-03-31T03:11:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:11:24.771475123Z  [2022-03-31T03:11:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:28.279829409Z  [2022-03-31T03:11:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:28.280086461Z  [2022-03-31T03:11:28Z INFO  dt_mqtt_manager] CPU values = "0.05 0.92 0.86 0.17 ", MEM values = "129.61M 191.76M 187.59M 135.07M ", Cluster Size = 4
+2022-03-31T03:11:28.280128260Z  [2022-03-31T03:11:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:11:28.280137561Z  [2022-03-31T03:11:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:31.912124020Z  [2022-03-31T03:11:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:31.912419621Z  [2022-03-31T03:11:31Z INFO  dt_mqtt_manager] CPU values = "0.05 0.17 0.85 0.79 ", MEM values = "129.61M 131.60M 188.18M 188.85M ", Cluster Size = 4
+2022-03-31T03:11:31.912439104Z  [2022-03-31T03:11:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:11:31.912447505Z  [2022-03-31T03:11:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:35.637424742Z  [2022-03-31T03:11:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:35.637695263Z  [2022-03-31T03:11:35Z INFO  dt_mqtt_manager] CPU values = "0.04 0.16 0.72 0.86 ", MEM values = "129.60M 131.62M 187.88M 193.16M ", Cluster Size = 4
+2022-03-31T03:11:35.637731558Z  [2022-03-31T03:11:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:11:35.637741908Z  [2022-03-31T03:11:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:39.285949904Z  [2022-03-31T03:11:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:39.286154118Z  [2022-03-31T03:11:39Z INFO  dt_mqtt_manager] CPU values = "0.87 0.67 0.14 0.04 ", MEM values = "188.82M 187.98M 131.59M 132.04M ", Cluster Size = 4
+2022-03-31T03:11:39.286173622Z  [2022-03-31T03:11:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:11:39.286200413Z  [2022-03-31T03:11:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:43.063483785Z  [2022-03-31T03:11:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:43.063546250Z  [2022-03-31T03:11:43Z INFO  dt_mqtt_manager] CPU values = "0.04 0.87 0.67 0.21 ", MEM values = "129.62M 188.04M 186.52M 135.04M ", Cluster Size = 4
+2022-03-31T03:11:43.063583411Z  [2022-03-31T03:11:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:11:43.063592454Z  [2022-03-31T03:11:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:46.714465029Z  [2022-03-31T03:11:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:46.714699947Z  [2022-03-31T03:11:46Z INFO  dt_mqtt_manager] CPU values = "0.04 0.21 0.88 0.61 ", MEM values = "129.63M 131.60M 188.11M 192.89M ", Cluster Size = 4
+2022-03-31T03:11:46.714720552Z  [2022-03-31T03:11:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:11:46.714729125Z  [2022-03-31T03:11:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:11:50.412865884Z  [2022-03-31T03:11:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:50.412995763Z  [2022-03-31T03:11:50Z INFO  dt_mqtt_manager] CPU values = "0.03 0.19 0.56 0.89 ", MEM values = "129.64M 131.63M 186.85M 191.53M ", Cluster Size = 4
+2022-03-31T03:11:50.413008454Z  [2022-03-31T03:11:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:11:50.413032639Z  [2022-03-31T03:11:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:11:53.995024065Z  [2022-03-31T03:11:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:53.995197452Z  [2022-03-31T03:11:53Z INFO  dt_mqtt_manager] CPU values = "0.89 0.52 0.26 0.03 ", MEM values = "191.77M 185.25M 131.64M 132.07M ", Cluster Size = 4
+2022-03-31T03:11:53.995241160Z  [2022-03-31T03:11:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 16
+2022-03-31T03:11:53.995251412Z  [2022-03-31T03:11:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 4
+2022-03-31T03:11:57.471417622Z  [2022-03-31T03:11:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:11:57.471578743Z  [2022-03-31T03:11:57Z INFO  dt_mqtt_manager] CPU values = "0.03 0.90 0.52 0.24 ", MEM values = "129.62M 190.75M 185.51M 135.07M ", Cluster Size = 4
+2022-03-31T03:11:57.471598341Z  [2022-03-31T03:11:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 16
+2022-03-31T03:11:57.471616806Z  [2022-03-31T03:11:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 4
+2022-03-31T03:12:00.999354765Z  [2022-03-31T03:12:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:00.999412154Z  [2022-03-31T03:12:00Z INFO  dt_mqtt_manager] CPU values = "0.03 0.24 0.99 0.48 ", MEM values = "129.59M 131.64M 188.94M 188.64M ", Cluster Size = 4
+2022-03-31T03:12:00.999431896Z  [2022-03-31T03:12:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 16
+2022-03-31T03:12:00.999439692Z  [2022-03-31T03:12:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 4
+2022-03-31T03:12:04.639010186Z  [2022-03-31T03:12:04Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:04.639058156Z  [2022-03-31T03:12:04Z INFO  dt_mqtt_manager] CPU values = "0.02 0.30 0.52 0.99 ", MEM values = "129.58M 131.60M 185.19M 192.99M ", Cluster Size = 4
+2022-03-31T03:12:04.639067130Z  [2022-03-31T03:12:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 16
+2022-03-31T03:12:04.639098356Z  [2022-03-31T03:12:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 4
+2022-03-31T03:12:08.303873496Z  [2022-03-31T03:12:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:08.304169964Z  [2022-03-31T03:12:08Z INFO  dt_mqtt_manager] CPU values = "0.99 0.52 0.27 0.02 ", MEM values = "188.56M 186.59M 131.65M 132.04M ", Cluster Size = 4
+2022-03-31T03:12:08.304190971Z  [2022-03-31T03:12:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:08.304227178Z  [2022-03-31T03:12:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:11.821871558Z  [2022-03-31T03:12:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:11.821936914Z  [2022-03-31T03:12:11Z INFO  dt_mqtt_manager] CPU values = "0.02 0.91 0.48 0.27 ", MEM values = "129.58M 189.82M 185.55M 135.14M ", Cluster Size = 4
+2022-03-31T03:12:11.821946384Z  [2022-03-31T03:12:11Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:11.821953940Z  [2022-03-31T03:12:11Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:15.367258209Z  [2022-03-31T03:12:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:15.367470693Z  [2022-03-31T03:12:15Z INFO  dt_mqtt_manager] CPU values = "0.02 0.25 0.84 0.44 ", MEM values = "129.59M 131.66M 190.60M 187.69M ", Cluster Size = 4
+2022-03-31T03:12:15.367507482Z  [2022-03-31T03:12:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:15.367517721Z  [2022-03-31T03:12:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:18.966082323Z  [2022-03-31T03:12:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:18.966142023Z  [2022-03-31T03:12:18Z INFO  dt_mqtt_manager] CPU values = "0.02 0.23 0.48 0.84 ", MEM values = "129.58M 131.64M 185.19M 193.75M ", Cluster Size = 4
+2022-03-31T03:12:18.966152613Z  [2022-03-31T03:12:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:18.966160822Z  [2022-03-31T03:12:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:22.507961799Z  [2022-03-31T03:12:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:22.508011152Z  [2022-03-31T03:12:22Z INFO  dt_mqtt_manager] CPU values = "0.85 0.48 0.21 0.02 ", MEM values = "186.22M 185.37M 131.65M 132.07M ", Cluster Size = 4
+2022-03-31T03:12:22.508021254Z  [2022-03-31T03:12:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:22.508028859Z  [2022-03-31T03:12:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:26.070257518Z  [2022-03-31T03:12:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:26.070479250Z  [2022-03-31T03:12:26Z INFO  dt_mqtt_manager] CPU values = "0.02 0.78 0.52 0.21 ", MEM values = "129.61M 191.81M 188.75M 135.18M ", Cluster Size = 4
+2022-03-31T03:12:26.070522731Z  [2022-03-31T03:12:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:26.070532004Z  [2022-03-31T03:12:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:29.596390821Z  [2022-03-31T03:12:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:29.596594652Z  [2022-03-31T03:12:29Z INFO  dt_mqtt_manager] CPU values = "0.02 0.20 0.80 0.56 ", MEM values = "129.64M 131.62M 191.18M 192.00M ", Cluster Size = 4
+2022-03-31T03:12:29.596606954Z  [2022-03-31T03:12:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:29.596614239Z  [2022-03-31T03:12:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:33.554616135Z  [2022-03-31T03:12:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:33.554917658Z  [2022-03-31T03:12:33Z INFO  dt_mqtt_manager] CPU values = "0.01 0.26 0.60 0.80 ", MEM values = "129.62M 131.66M 187.42M 193.76M ", Cluster Size = 4
+2022-03-31T03:12:33.554945687Z  [2022-03-31T03:12:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:12:33.554981898Z  [2022-03-31T03:12:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:37.045333616Z  [2022-03-31T03:12:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:37.045382421Z  [2022-03-31T03:12:37Z INFO  dt_mqtt_manager] CPU values = "0.82 0.60 0.26 0.01 ", MEM values = "189.96M 189.67M 131.63M 132.10M ", Cluster Size = 4
+2022-03-31T03:12:37.045391180Z  [2022-03-31T03:12:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:12:37.045398605Z  [2022-03-31T03:12:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:40.570968725Z  [2022-03-31T03:12:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:40.571020240Z  [2022-03-31T03:12:40Z INFO  dt_mqtt_manager] CPU values = "0.01 0.83 0.63 0.24 ", MEM values = "129.63M 189.67M 188.66M 135.12M ", Cluster Size = 4
+2022-03-31T03:12:40.571029218Z  [2022-03-31T03:12:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:12:40.571036663Z  [2022-03-31T03:12:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:44.052487743Z  [2022-03-31T03:12:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:44.052675680Z  [2022-03-31T03:12:44Z INFO  dt_mqtt_manager] CPU values = "0.01 0.22 0.83 0.66 ", MEM values = "129.61M 131.64M 190.45M 193.89M ", Cluster Size = 4
+2022-03-31T03:12:44.052712380Z  [2022-03-31T03:12:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:12:44.052722612Z  [2022-03-31T03:12:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:47.682912900Z  [2022-03-31T03:12:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:47.683119134Z  [2022-03-31T03:12:47Z INFO  dt_mqtt_manager] CPU values = "0.01 0.20 0.66 0.76 ", MEM values = "129.60M 131.65M 190.05M 194.03M ", Cluster Size = 4
+2022-03-31T03:12:47.683163676Z  [2022-03-31T03:12:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:12:47.683174140Z  [2022-03-31T03:12:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:51.307249596Z  [2022-03-31T03:12:51Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:51.307480625Z  [2022-03-31T03:12:51Z INFO  dt_mqtt_manager] CPU values = "0.70 0.69 0.20 0.01 ", MEM values = "193.47M 189.74M 131.54M 132.07M ", Cluster Size = 4
+2022-03-31T03:12:51.307538439Z  [2022-03-31T03:12:51Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:12:51.307548858Z  [2022-03-31T03:12:51Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:54.771269263Z  [2022-03-31T03:12:54Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:54.771539622Z  [2022-03-31T03:12:54Z INFO  dt_mqtt_manager] CPU values = "0.01 0.65 0.71 0.18 ", MEM values = "129.62M 192.85M 189.34M 134.98M ", Cluster Size = 4
+2022-03-31T03:12:54.771561888Z  [2022-03-31T03:12:54Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:12:54.771571139Z  [2022-03-31T03:12:54Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:12:58.286097622Z  [2022-03-31T03:12:58Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:12:58.286324296Z  [2022-03-31T03:12:58Z INFO  dt_mqtt_manager] CPU values = "0.17 0.17 0.65 0.71 ", MEM values = "129.61M 131.54M 189.63M 192.94M ", Cluster Size = 4
+2022-03-31T03:12:58.286340206Z  [2022-03-31T03:12:58Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:12:58.286348646Z  [2022-03-31T03:12:58Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:01.784273457Z  [2022-03-31T03:13:01Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:01.784334814Z  [2022-03-31T03:13:01Z INFO  dt_mqtt_manager] CPU values = "0.17 0.17 0.66 0.67 ", MEM values = "129.59M 131.59M 191.12M 193.99M ", Cluster Size = 4
+2022-03-31T03:13:01.784353310Z  [2022-03-31T03:13:01Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 3
+2022-03-31T03:13:01.784361870Z  [2022-03-31T03:13:01Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:05.264618634Z  [2022-03-31T03:13:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:05.264666009Z  [2022-03-31T03:13:05Z INFO  dt_mqtt_manager] CPU values = "0.70 0.68 0.16 0.15 ", MEM values = "190.98M 190.24M 131.60M 132.06M ", Cluster Size = 4
+2022-03-31T03:13:05.264675310Z  [2022-03-31T03:13:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:13:05.264683225Z  [2022-03-31T03:13:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:08.718898258Z  [2022-03-31T03:13:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:08.718969299Z  [2022-03-31T03:13:08Z INFO  dt_mqtt_manager] CPU values = "0.14 0.70 0.71 0.14 ", MEM values = "129.60M 191.07M 190.31M 135.03M ", Cluster Size = 4
+2022-03-31T03:13:08.718979129Z  [2022-03-31T03:13:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:13:08.718987098Z  [2022-03-31T03:13:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:13:12.214485598Z  [2022-03-31T03:13:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:12.214536750Z  [2022-03-31T03:13:12Z INFO  dt_mqtt_manager] CPU values = "0.14 0.14 0.72 0.71 ", MEM values = "129.61M 131.57M 190.25M 193.08M ", Cluster Size = 4
+2022-03-31T03:13:12.214546600Z  [2022-03-31T03:13:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:13:12.214595694Z  [2022-03-31T03:13:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:13:15.752193633Z  [2022-03-31T03:13:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:15.752258141Z  [2022-03-31T03:13:15Z INFO  dt_mqtt_manager] CPU values = "0.13 0.13 0.73 0.75 ", MEM values = "129.60M 131.59M 188.85M 193.09M ", Cluster Size = 4
+2022-03-31T03:13:15.752402005Z  [2022-03-31T03:13:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:13:15.752422707Z  [2022-03-31T03:13:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:13:19.188344658Z  [2022-03-31T03:13:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:19.188531911Z  [2022-03-31T03:13:19Z INFO  dt_mqtt_manager] CPU values = "0.75 0.67 0.12 0.12 ", MEM values = "193.00M 192.27M 131.57M 132.09M ", Cluster Size = 4
+2022-03-31T03:13:19.188551385Z  [2022-03-31T03:13:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 4
+2022-03-31T03:13:19.188560005Z  [2022-03-31T03:13:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:13:22.700973247Z  [2022-03-31T03:13:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:22.701158721Z  [2022-03-31T03:13:22Z INFO  dt_mqtt_manager] CPU values = "0.11 0.77 0.67 0.27 ", MEM values = "129.63M 189.73M 185.82M 135.06M ", Cluster Size = 4
+2022-03-31T03:13:22.701198894Z  [2022-03-31T03:13:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:13:22.701210093Z  [2022-03-31T03:13:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:26.342586155Z  [2022-03-31T03:13:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:26.342887448Z  [2022-03-31T03:13:26Z INFO  dt_mqtt_manager] CPU values = "0.11 0.27 0.79 0.70 ", MEM values = "129.64M 131.56M 188.97M 192.26M ", Cluster Size = 4
+2022-03-31T03:13:26.342908640Z  [2022-03-31T03:13:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:13:26.342922459Z  [2022-03-31T03:13:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:29.893987095Z  [2022-03-31T03:13:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:29.894068734Z  [2022-03-31T03:13:29Z INFO  dt_mqtt_manager] CPU values = "0.10 0.25 0.64 0.80 ", MEM values = "129.59M 131.62M 190.39M 192.43M ", Cluster Size = 4
+2022-03-31T03:13:29.894084264Z  [2022-03-31T03:13:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:13:29.894096966Z  [2022-03-31T03:13:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:33.367619870Z  [2022-03-31T03:13:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:33.367841445Z  [2022-03-31T03:13:33Z INFO  dt_mqtt_manager] CPU values = "0.80 0.64 0.23 0.09 ", MEM values = "189.31M 190.24M 131.61M 132.06M ", Cluster Size = 4
+2022-03-31T03:13:33.367977727Z  [2022-03-31T03:13:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:13:33.368073997Z  [2022-03-31T03:13:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:36.798831605Z  [2022-03-31T03:13:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:36.799053007Z  [2022-03-31T03:13:36Z INFO  dt_mqtt_manager] CPU values = "0.09 0.82 0.59 0.23 ", MEM values = "129.60M 190.84M 189.14M 135.07M ", Cluster Size = 4
+2022-03-31T03:13:36.799209672Z  [2022-03-31T03:13:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:13:36.799279252Z  [2022-03-31T03:13:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:40.285741306Z  [2022-03-31T03:13:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:40.286004180Z  [2022-03-31T03:13:40Z INFO  dt_mqtt_manager] CPU values = "0.08 0.21 0.75 0.62 ", MEM values = "129.61M 131.61M 188.49M 193.05M ", Cluster Size = 4
+2022-03-31T03:13:40.286023814Z  [2022-03-31T03:13:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:13:40.286087568Z  [2022-03-31T03:13:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:43.768648228Z  [2022-03-31T03:13:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:43.768879020Z  [2022-03-31T03:13:43Z INFO  dt_mqtt_manager] CPU values = "0.08 0.19 0.65 0.75 ", MEM values = "129.61M 131.62M 192.60M 193.82M ", Cluster Size = 4
+2022-03-31T03:13:43.768943017Z  [2022-03-31T03:13:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:13:43.769093724Z  [2022-03-31T03:13:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:47.214077661Z  [2022-03-31T03:13:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:47.214210231Z  [2022-03-31T03:13:47Z INFO  dt_mqtt_manager] CPU values = "0.69 0.65 0.19 0.08 ", MEM values = "189.62M 191.53M 131.63M 132.08M ", Cluster Size = 4
+2022-03-31T03:13:47.214240574Z  [2022-03-31T03:13:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:13:47.214258284Z  [2022-03-31T03:13:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:50.881961014Z  [2022-03-31T03:13:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:50.882227966Z  [2022-03-31T03:13:50Z INFO  dt_mqtt_manager] CPU values = "0.07 0.64 0.68 0.18 ", MEM values = "129.61M 191.41M 190.77M 135.08M ", Cluster Size = 4
+2022-03-31T03:13:50.882264872Z  [2022-03-31T03:13:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:13:50.882274123Z  [2022-03-31T03:13:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:54.322396580Z  [2022-03-31T03:13:54Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:54.322646208Z  [2022-03-31T03:13:54Z INFO  dt_mqtt_manager] CPU values = "0.07 0.16 0.67 0.71 ", MEM values = "129.61M 131.59M 191.92M 196.61M ", Cluster Size = 4
+2022-03-31T03:13:54.322684382Z  [2022-03-31T03:13:54Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:13:54.322695001Z  [2022-03-31T03:13:54Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:13:57.804278420Z  [2022-03-31T03:13:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:13:57.804533310Z  [2022-03-31T03:13:57Z INFO  dt_mqtt_manager] CPU values = "0.06 0.15 0.71 0.67 ", MEM values = "129.63M 131.60M 192.17M 194.66M ", Cluster Size = 4
+2022-03-31T03:13:57.804577197Z  [2022-03-31T03:13:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:13:57.804586198Z  [2022-03-31T03:13:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:01.254834041Z  [2022-03-31T03:14:01Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:01.254999153Z  [2022-03-31T03:14:01Z INFO  dt_mqtt_manager] CPU values = "0.61 0.73 0.15 0.06 ", MEM values = "190.91M 191.63M 131.52M 132.08M ", Cluster Size = 4
+2022-03-31T03:14:01.255247585Z  [2022-03-31T03:14:01Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:01.255309833Z  [2022-03-31T03:14:01Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:04.707158141Z  [2022-03-31T03:14:04Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:04.707358864Z  [2022-03-31T03:14:04Z INFO  dt_mqtt_manager] CPU values = "0.06 0.56 0.67 0.14 ", MEM values = "129.61M 191.46M 191.85M 135.02M ", Cluster Size = 4
+2022-03-31T03:14:04.707401981Z  [2022-03-31T03:14:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:14:04.707411050Z  [2022-03-31T03:14:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:08.339052886Z  [2022-03-31T03:14:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:08.339127017Z  [2022-03-31T03:14:08Z INFO  dt_mqtt_manager] CPU values = "0.05 0.13 0.56 0.67 ", MEM values = "129.59M 131.56M 192.49M 195.20M ", Cluster Size = 4
+2022-03-31T03:14:08.339136236Z  [2022-03-31T03:14:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:08.339143598Z  [2022-03-31T03:14:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:11.794747194Z  [2022-03-31T03:14:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:11.795007601Z  [2022-03-31T03:14:11Z INFO  dt_mqtt_manager] CPU values = "0.05 0.13 0.62 0.60 ", MEM values = "129.60M 131.54M 191.00M 197.18M ", Cluster Size = 4
+2022-03-31T03:14:11.795027355Z  [2022-03-31T03:14:11Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:11.795036366Z  [2022-03-31T03:14:11Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:15.222633057Z  [2022-03-31T03:14:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:15.222719851Z  [2022-03-31T03:14:15Z INFO  dt_mqtt_manager] CPU values = "0.63 0.57 0.12 0.05 ", MEM values = "191.40M 189.37M 131.52M 132.08M ", Cluster Size = 4
+2022-03-31T03:14:15.222753300Z  [2022-03-31T03:14:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:15.222796749Z  [2022-03-31T03:14:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:18.627770153Z  [2022-03-31T03:14:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:18.628080910Z  [2022-03-31T03:14:18Z INFO  dt_mqtt_manager] CPU values = "0.04 0.63 0.60 0.11 ", MEM values = "129.62M 189.94M 188.19M 135.01M ", Cluster Size = 4
+2022-03-31T03:14:18.628141452Z  [2022-03-31T03:14:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:18.628236345Z  [2022-03-31T03:14:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:22.112988755Z  [2022-03-31T03:14:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:22.113104260Z  [2022-03-31T03:14:22Z INFO  dt_mqtt_manager] CPU values = "0.04 0.11 0.66 0.60 ", MEM values = "129.61M 131.57M 150.11M 146.44M ", Cluster Size = 4
+2022-03-31T03:14:22.113162429Z  [2022-03-31T03:14:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:22.113242195Z  [2022-03-31T03:14:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:25.949696770Z  [2022-03-31T03:14:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:25.949967707Z  [2022-03-31T03:14:25Z INFO  dt_mqtt_manager] CPU values = "0.04 0.10 0.56 0.61 ", MEM values = "129.62M 131.57M 143.69M 153.47M ", Cluster Size = 4
+2022-03-31T03:14:25.950042244Z  [2022-03-31T03:14:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:25.950175741Z  [2022-03-31T03:14:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:29.370786153Z  [2022-03-31T03:14:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:29.370893929Z  [2022-03-31T03:14:29Z INFO  dt_mqtt_manager] CPU values = "0.56 0.51 0.09 0.04 ", MEM values = "150.77M 143.54M 131.61M 132.09M ", Cluster Size = 4
+2022-03-31T03:14:29.370955020Z  [2022-03-31T03:14:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:29.370980270Z  [2022-03-31T03:14:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:32.775250023Z  [2022-03-31T03:14:32Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:32.775489222Z  [2022-03-31T03:14:32Z INFO  dt_mqtt_manager] CPU values = "0.03 0.56 0.51 0.08 ", MEM values = "129.63M 153.73M 145.93M 133.15M ", Cluster Size = 4
+2022-03-31T03:14:32.775529936Z  [2022-03-31T03:14:32Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:32.775540428Z  [2022-03-31T03:14:32Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:36.193423963Z  [2022-03-31T03:14:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:36.193682350Z  [2022-03-31T03:14:36Z INFO  dt_mqtt_manager] CPU values = "0.03 0.08 0.51 0.55 ", MEM values = "129.64M 130.64M 155.93M 151.31M ", Cluster Size = 4
+2022-03-31T03:14:36.193726801Z  [2022-03-31T03:14:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:36.193738280Z  [2022-03-31T03:14:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:39.640277003Z  [2022-03-31T03:14:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:39.640335030Z  [2022-03-31T03:14:39Z INFO  dt_mqtt_manager] CPU values = "0.03 0.08 0.59 0.55 ", MEM values = "129.64M 130.63M 156.87M 167.58M ", Cluster Size = 4
+2022-03-31T03:14:39.640348654Z  [2022-03-31T03:14:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:39.640360140Z  [2022-03-31T03:14:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:43.066756704Z  [2022-03-31T03:14:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:43.066834543Z  [2022-03-31T03:14:43Z INFO  dt_mqtt_manager] CPU values = "0.55 0.59 0.07 0.03 ", MEM values = "168.07M 161.18M 130.64M 132.12M ", Cluster Size = 4
+2022-03-31T03:14:43.066845348Z  [2022-03-31T03:14:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:43.066853456Z  [2022-03-31T03:14:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:46.520035938Z  [2022-03-31T03:14:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:46.520102753Z  [2022-03-31T03:14:46Z INFO  dt_mqtt_manager] CPU values = "0.03 0.51 0.54 0.07 ", MEM values = "129.65M 168.54M 160.79M 133.18M ", Cluster Size = 4
+2022-03-31T03:14:46.520151129Z  [2022-03-31T03:14:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:46.520159988Z  [2022-03-31T03:14:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:49.982296379Z  [2022-03-31T03:14:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:49.982538114Z  [2022-03-31T03:14:49Z INFO  dt_mqtt_manager] CPU values = "0.02 0.06 0.55 0.50 ", MEM values = "129.63M 130.70M 167.97M 164.16M ", Cluster Size = 4
+2022-03-31T03:14:49.982597248Z  [2022-03-31T03:14:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:49.982620711Z  [2022-03-31T03:14:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:53.588738891Z  [2022-03-31T03:14:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:53.588932725Z  [2022-03-31T03:14:53Z INFO  dt_mqtt_manager] CPU values = "0.02 0.06 0.45 0.55 ", MEM values = "129.64M 130.72M 163.31M 171.70M ", Cluster Size = 4
+2022-03-31T03:14:53.588951145Z  [2022-03-31T03:14:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:53.588962841Z  [2022-03-31T03:14:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:14:57.060640717Z  [2022-03-31T03:14:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:14:57.060846102Z  [2022-03-31T03:14:57Z INFO  dt_mqtt_manager] CPU values = "0.50 0.45 0.06 0.02 ", MEM values = "169.11M 163.78M 130.73M 132.07M ", Cluster Size = 4
+2022-03-31T03:14:57.060861986Z  [2022-03-31T03:14:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:14:57.060870146Z  [2022-03-31T03:14:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:00.473144299Z  [2022-03-31T03:15:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:00.473194647Z  [2022-03-31T03:15:00Z INFO  dt_mqtt_manager] CPU values = "0.02 0.54 0.50 0.05 ", MEM values = "129.62M 168.96M 163.71M 133.28M ", Cluster Size = 4
+2022-03-31T03:15:00.473204471Z  [2022-03-31T03:15:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:15:00.473212396Z  [2022-03-31T03:15:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:03.956919077Z  [2022-03-31T03:15:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:03.957071429Z  [2022-03-31T03:15:03Z INFO  dt_mqtt_manager] CPU values = "0.02 0.05 0.54 0.54 ", MEM values = "129.60M 130.81M 170.39M 166.56M ", Cluster Size = 4
+2022-03-31T03:15:03.957122766Z  [2022-03-31T03:15:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:15:03.957132725Z  [2022-03-31T03:15:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:07.499167443Z  [2022-03-31T03:15:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:07.499462296Z  [2022-03-31T03:15:07Z INFO  dt_mqtt_manager] CPU values = "0.02 0.04 0.54 0.58 ", MEM values = "129.61M 129.80M 164.39M 172.75M ", Cluster Size = 4
+2022-03-31T03:15:07.499611042Z  [2022-03-31T03:15:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:15:07.499734590Z  [2022-03-31T03:15:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:10.873409084Z  [2022-03-31T03:15:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:10.873814616Z  [2022-03-31T03:15:10Z INFO  dt_mqtt_manager] CPU values = "0.53 0.66 0.04 0.02 ", MEM values = "167.83M 163.48M 129.78M 132.08M ", Cluster Size = 4
+2022-03-31T03:15:10.873855104Z  [2022-03-31T03:15:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:15:10.874002876Z  [2022-03-31T03:15:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:14.263100234Z  [2022-03-31T03:15:14Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:14.263400795Z  [2022-03-31T03:15:14Z INFO  dt_mqtt_manager] CPU values = "0.02 0.53 0.68 0.04 ", MEM values = "129.62M 168.56M 163.07M 132.33M ", Cluster Size = 4
+2022-03-31T03:15:14.263566229Z  [2022-03-31T03:15:14Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:15:14.263719216Z  [2022-03-31T03:15:14Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:17.646306636Z  [2022-03-31T03:15:17Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:17.646656963Z  [2022-03-31T03:15:17Z INFO  dt_mqtt_manager] CPU values = "0.01 0.04 0.57 0.68 ", MEM values = "129.63M 129.85M 168.35M 165.30M ", Cluster Size = 4
+2022-03-31T03:15:17.646765612Z  [2022-03-31T03:15:17Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:15:17.646900960Z  [2022-03-31T03:15:17Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:21.134269564Z  [2022-03-31T03:15:21Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:21.134312574Z  [2022-03-31T03:15:21Z INFO  dt_mqtt_manager] CPU values = "0.01 0.04 0.63 0.61 ", MEM values = "129.64M 129.86M 161.89M 171.92M ", Cluster Size = 4
+2022-03-31T03:15:21.134321447Z  [2022-03-31T03:15:21Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:21.134328649Z  [2022-03-31T03:15:21Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:24.575069373Z  [2022-03-31T03:15:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:24.575266171Z  [2022-03-31T03:15:24Z INFO  dt_mqtt_manager] CPU values = "0.64 0.58 0.03 0.01 ", MEM values = "169.38M 160.03M 129.85M 132.07M ", Cluster Size = 4
+2022-03-31T03:15:24.575407283Z  [2022-03-31T03:15:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:24.575492455Z  [2022-03-31T03:15:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:27.993843278Z  [2022-03-31T03:15:27Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:27.993963957Z  [2022-03-31T03:15:27Z INFO  dt_mqtt_manager] CPU values = "0.01 0.64 0.58 0.03 ", MEM values = "129.58M 169.32M 161.92M 132.31M ", Cluster Size = 4
+2022-03-31T03:15:27.993976227Z  [2022-03-31T03:15:27Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:27.994053954Z  [2022-03-31T03:15:27Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:31.474773581Z  [2022-03-31T03:15:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:31.474865610Z  [2022-03-31T03:15:31Z INFO  dt_mqtt_manager] CPU values = "0.01 0.03 0.67 0.61 ", MEM values = "129.57M 129.86M 169.17M 165.20M ", Cluster Size = 4
+2022-03-31T03:15:31.474912124Z  [2022-03-31T03:15:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:31.474932659Z  [2022-03-31T03:15:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:35.033593390Z  [2022-03-31T03:15:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:35.033980471Z  [2022-03-31T03:15:35Z INFO  dt_mqtt_manager] CPU values = "0.01 0.03 0.56 0.69 ", MEM values = "129.57M 130.71M 162.75M 172.48M ", Cluster Size = 4
+2022-03-31T03:15:35.034030520Z  [2022-03-31T03:15:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:35.034040975Z  [2022-03-31T03:15:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:38.454232450Z  [2022-03-31T03:15:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:38.454285209Z  [2022-03-31T03:15:38Z INFO  dt_mqtt_manager] CPU values = "0.69 0.56 0.03 0.01 ", MEM values = "173.05M 166.93M 130.65M 132.04M ", Cluster Size = 4
+2022-03-31T03:15:38.454296735Z  [2022-03-31T03:15:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:15:38.454306065Z  [2022-03-31T03:15:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:15:41.859392760Z  [2022-03-31T03:15:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:41.859736203Z  [2022-03-31T03:15:41Z INFO  dt_mqtt_manager] CPU values = "0.01 0.64 0.60 0.03 ", MEM values = "129.58M 176.03M 168.91M 133.20M ", Cluster Size = 4
+2022-03-31T03:15:41.859765083Z  [2022-03-31T03:15:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:15:41.859778187Z  [2022-03-31T03:15:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:15:45.245040915Z  [2022-03-31T03:15:45Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:45.245110912Z  [2022-03-31T03:15:45Z INFO  dt_mqtt_manager] CPU values = "0.01 0.02 0.67 0.55 ", MEM values = "129.59M 130.74M 176.04M 171.31M ", Cluster Size = 4
+2022-03-31T03:15:45.245128927Z  [2022-03-31T03:15:45Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:15:45.245144080Z  [2022-03-31T03:15:45Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:15:48.657416949Z  [2022-03-31T03:15:48Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:48.657656805Z  [2022-03-31T03:15:48Z INFO  dt_mqtt_manager] CPU values = "0.01 0.02 0.51 0.67 ", MEM values = "129.60M 130.73M 169.79M 179.71M ", Cluster Size = 4
+2022-03-31T03:15:48.657675942Z  [2022-03-31T03:15:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 5
+2022-03-31T03:15:48.657684583Z  [2022-03-31T03:15:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 1
+2022-03-31T03:15:52.082080550Z  [2022-03-31T03:15:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:52.082243056Z  [2022-03-31T03:15:52Z INFO  dt_mqtt_manager] CPU values = "0.61 0.51 0.02 0.01 ", MEM values = "177.45M 169.31M 130.71M 132.14M ", Cluster Size = 4
+2022-03-31T03:15:52.082263174Z  [2022-03-31T03:15:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:52.082271722Z  [2022-03-31T03:15:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:55.540216543Z  [2022-03-31T03:15:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:55.540445422Z  [2022-03-31T03:15:55Z INFO  dt_mqtt_manager] CPU values = "0.01 0.81 0.47 0.02 ", MEM values = "129.63M 174.53M 170.28M 133.17M ", Cluster Size = 4
+2022-03-31T03:15:55.540464897Z  [2022-03-31T03:15:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:55.540473378Z  [2022-03-31T03:15:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:15:59.063019370Z  [2022-03-31T03:15:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:15:59.063087982Z  [2022-03-31T03:15:59Z INFO  dt_mqtt_manager] CPU values = "0.01 0.02 0.81 0.43 ", MEM values = "129.68M 130.57M 175.47M 172.14M ", Cluster Size = 4
+2022-03-31T03:15:59.063098244Z  [2022-03-31T03:15:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:15:59.063105636Z  [2022-03-31T03:15:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:02.643194533Z  [2022-03-31T03:16:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:02.643306328Z  [2022-03-31T03:16:02Z INFO  dt_mqtt_manager] CPU values = "0.00 0.02 0.43 0.74 ", MEM values = "129.57M 130.60M 170.54M 180.27M ", Cluster Size = 4
+2022-03-31T03:16:02.643367560Z  [2022-03-31T03:16:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:16:02.643378213Z  [2022-03-31T03:16:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:06.097560937Z  [2022-03-31T03:16:06Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:06.097933326Z  [2022-03-31T03:16:06Z INFO  dt_mqtt_manager] CPU values = "0.68 0.39 0.02 0.00 ", MEM values = "176.51M 169.76M 129.60M 132.05M ", Cluster Size = 4
+2022-03-31T03:16:06.098095494Z  [2022-03-31T03:16:06Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:06.098202646Z  [2022-03-31T03:16:06Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:09.524015129Z  [2022-03-31T03:16:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:09.524268534Z  [2022-03-31T03:16:09Z INFO  dt_mqtt_manager] CPU values = "0.00 0.63 0.44 0.01 ", MEM values = "129.56M 176.49M 170.34M 132.11M ", Cluster Size = 4
+2022-03-31T03:16:09.524380720Z  [2022-03-31T03:16:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:09.524539059Z  [2022-03-31T03:16:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:12.972148100Z  [2022-03-31T03:16:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:12.972200701Z  [2022-03-31T03:16:12Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.63 0.44 ", MEM values = "129.58M 129.62M 176.65M 173.41M ", Cluster Size = 4
+2022-03-31T03:16:12.972212606Z  [2022-03-31T03:16:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:12.972222525Z  [2022-03-31T03:16:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:16.476736822Z  [2022-03-31T03:16:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:16.476786416Z  [2022-03-31T03:16:16Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.41 0.66 ", MEM values = "129.59M 129.63M 170.74M 180.53M ", Cluster Size = 4
+2022-03-31T03:16:16.476795870Z  [2022-03-31T03:16:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:16.476803758Z  [2022-03-31T03:16:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:19.891992191Z  [2022-03-31T03:16:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:19.892055936Z  [2022-03-31T03:16:19Z INFO  dt_mqtt_manager] CPU values = "0.68 0.37 0.01 0.00 ", MEM values = "176.22M 170.49M 129.64M 132.03M ", Cluster Size = 4
+2022-03-31T03:16:19.892065702Z  [2022-03-31T03:16:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:19.892074220Z  [2022-03-31T03:16:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:23.264854723Z  [2022-03-31T03:16:23Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:23.264945349Z  [2022-03-31T03:16:23Z INFO  dt_mqtt_manager] CPU values = "0.00 0.68 0.37 0.01 ", MEM values = "129.59M 174.65M 170.54M 132.11M ", Cluster Size = 4
+2022-03-31T03:16:23.264956286Z  [2022-03-31T03:16:23Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:23.264980135Z  [2022-03-31T03:16:23Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:26.645739480Z  [2022-03-31T03:16:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:26.645788985Z  [2022-03-31T03:16:26Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.63 0.34 ", MEM values = "129.60M 129.67M 175.75M 171.99M ", Cluster Size = 4
+2022-03-31T03:16:26.645798218Z  [2022-03-31T03:16:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:26.645805842Z  [2022-03-31T03:16:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:30.040190307Z  [2022-03-31T03:16:30Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:30.040243748Z  [2022-03-31T03:16:30Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.32 0.66 ", MEM values = "129.62M 129.67M 168.75M 179.20M ", Cluster Size = 4
+2022-03-31T03:16:30.040255525Z  [2022-03-31T03:16:30Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:30.040305440Z  [2022-03-31T03:16:30Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:33.398214990Z  [2022-03-31T03:16:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:33.398326227Z  [2022-03-31T03:16:33Z INFO  dt_mqtt_manager] CPU values = "0.66 0.32 0.01 0.00 ", MEM values = "175.96M 169.13M 129.65M 132.07M ", Cluster Size = 4
+2022-03-31T03:16:33.398376079Z  [2022-03-31T03:16:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:16:33.398413668Z  [2022-03-31T03:16:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:36.768989707Z  [2022-03-31T03:16:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:36.769048974Z  [2022-03-31T03:16:36Z INFO  dt_mqtt_manager] CPU values = "0.00 0.61 0.37 0.01 ", MEM values = "129.62M 175.78M 169.44M 133.06M ", Cluster Size = 4
+2022-03-31T03:16:36.769111993Z  [2022-03-31T03:16:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:16:36.769173825Z  [2022-03-31T03:16:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:40.140235773Z  [2022-03-31T03:16:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:40.140571019Z  [2022-03-31T03:16:40Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.56 0.34 ", MEM values = "129.62M 130.61M 176.20M 171.55M ", Cluster Size = 4
+2022-03-31T03:16:40.140590524Z  [2022-03-31T03:16:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:16:40.140602707Z  [2022-03-31T03:16:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:43.573857071Z  [2022-03-31T03:16:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:43.574141893Z  [2022-03-31T03:16:43Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.31 0.56 ", MEM values = "129.62M 130.62M 168.96M 180.41M ", Cluster Size = 4
+2022-03-31T03:16:43.574286064Z  [2022-03-31T03:16:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:16:43.574301166Z  [2022-03-31T03:16:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:46.965988937Z  [2022-03-31T03:16:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:46.966273558Z  [2022-03-31T03:16:46Z INFO  dt_mqtt_manager] CPU values = "0.51 0.31 0.01 0.00 ", MEM values = "176.93M 169.35M 130.60M 132.10M ", Cluster Size = 4
+2022-03-31T03:16:46.966316967Z  [2022-03-31T03:16:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:16:46.966329823Z  [2022-03-31T03:16:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:50.354623302Z  [2022-03-31T03:16:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:50.354825245Z  [2022-03-31T03:16:50Z INFO  dt_mqtt_manager] CPU values = "0.00 0.55 0.29 0.01 ", MEM values = "129.61M 177.05M 169.52M 133.09M ", Cluster Size = 4
+2022-03-31T03:16:50.354846591Z  [2022-03-31T03:16:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 2
+2022-03-31T03:16:50.354874335Z  [2022-03-31T03:16:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:53.758880166Z  [2022-03-31T03:16:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:53.759176737Z  [2022-03-31T03:16:53Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.55 0.43 ", MEM values = "129.59M 130.65M 179.47M 170.23M ", Cluster Size = 4
+2022-03-31T03:16:53.759269482Z  [2022-03-31T03:16:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:16:53.759377433Z  [2022-03-31T03:16:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:16:57.129423631Z  [2022-03-31T03:16:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:16:57.129515740Z  [2022-03-31T03:16:57Z INFO  dt_mqtt_manager] CPU values = "0.00 0.01 0.43 0.59 ", MEM values = "129.64M 130.64M 167.81M 181.43M ", Cluster Size = 4
+2022-03-31T03:16:57.129639535Z  [2022-03-31T03:16:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:16:57.129684396Z  [2022-03-31T03:16:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:00.527242645Z  [2022-03-31T03:17:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:00.527529372Z  [2022-03-31T03:17:00Z INFO  dt_mqtt_manager] CPU values = "0.62 0.39 0.00 0.00 ", MEM values = "178.24M 168.16M 130.71M 132.07M ", Cluster Size = 4
+2022-03-31T03:17:00.527642768Z  [2022-03-31T03:17:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:00.527773632Z  [2022-03-31T03:17:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:03.951669862Z  [2022-03-31T03:17:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:03.951919038Z  [2022-03-31T03:17:03Z INFO  dt_mqtt_manager] CPU values = "0.00 0.62 0.36 0.00 ", MEM values = "129.56M 177.43M 168.20M 133.15M ", Cluster Size = 4
+2022-03-31T03:17:03.952128231Z  [2022-03-31T03:17:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:03.952150399Z  [2022-03-31T03:17:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:07.399905893Z  [2022-03-31T03:17:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:07.399953914Z  [2022-03-31T03:17:07Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.65 0.36 ", MEM values = "129.57M 129.71M 171.99M 164.00M ", Cluster Size = 4
+2022-03-31T03:17:07.399963467Z  [2022-03-31T03:17:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:07.399971239Z  [2022-03-31T03:17:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:10.924769755Z  [2022-03-31T03:17:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:10.924833676Z  [2022-03-31T03:17:10Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.33 0.60 ", MEM values = "129.57M 129.72M 153.48M 165.33M ", Cluster Size = 4
+2022-03-31T03:17:10.924844161Z  [2022-03-31T03:17:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:10.924851782Z  [2022-03-31T03:17:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:14.410371199Z  [2022-03-31T03:17:14Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:14.410422661Z  [2022-03-31T03:17:14Z INFO  dt_mqtt_manager] CPU values = "0.60 0.38 0.00 0.00 ", MEM values = "161.96M 152.51M 129.73M 132.04M ", Cluster Size = 4
+2022-03-31T03:17:14.410453322Z  [2022-03-31T03:17:14Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:14.410461938Z  [2022-03-31T03:17:14Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:17.797588429Z  [2022-03-31T03:17:17Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:17.797634854Z  [2022-03-31T03:17:17Z INFO  dt_mqtt_manager] CPU values = "0.00 0.63 0.38 0.00 ", MEM values = "129.60M 162.41M 152.98M 132.23M ", Cluster Size = 4
+2022-03-31T03:17:17.797643647Z  [2022-03-31T03:17:17Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:17.797651021Z  [2022-03-31T03:17:17Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:21.156032069Z  [2022-03-31T03:17:21Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:21.156081115Z  [2022-03-31T03:17:21Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.66 0.35 ", MEM values = "129.61M 129.76M 161.58M 155.53M ", Cluster Size = 4
+2022-03-31T03:17:21.156092698Z  [2022-03-31T03:17:21Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:21.156102312Z  [2022-03-31T03:17:21Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:24.552718591Z  [2022-03-31T03:17:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:24.553095416Z  [2022-03-31T03:17:24Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.32 0.69 ", MEM values = "129.61M 129.78M 154.09M 163.87M ", Cluster Size = 4
+2022-03-31T03:17:24.553120203Z  [2022-03-31T03:17:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:24.553185280Z  [2022-03-31T03:17:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:27.942418160Z  [2022-03-31T03:17:27Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:27.942876614Z  [2022-03-31T03:17:27Z INFO  dt_mqtt_manager] CPU values = "0.69 0.32 0.00 0.00 ", MEM values = "163.09M 154.60M 129.79M 132.06M ", Cluster Size = 4
+2022-03-31T03:17:27.942936081Z  [2022-03-31T03:17:27Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:27.942951389Z  [2022-03-31T03:17:27Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:31.326748202Z  [2022-03-31T03:17:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:31.326805412Z  [2022-03-31T03:17:31Z INFO  dt_mqtt_manager] CPU values = "0.00 0.63 0.38 0.00 ", MEM values = "129.58M 161.58M 153.59M 132.28M ", Cluster Size = 4
+2022-03-31T03:17:31.326820054Z  [2022-03-31T03:17:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:31.326833887Z  [2022-03-31T03:17:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:34.671651656Z  [2022-03-31T03:17:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:34.671751080Z  [2022-03-31T03:17:34Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.66 0.35 ", MEM values = "129.58M 120.51M 160.49M 154.98M ", Cluster Size = 4
+2022-03-31T03:17:34.671778505Z  [2022-03-31T03:17:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:34.671815785Z  [2022-03-31T03:17:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:38.086726450Z  [2022-03-31T03:17:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:38.086785437Z  [2022-03-31T03:17:38Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.35 0.66 ", MEM values = "129.55M 120.55M 152.54M 162.74M ", Cluster Size = 4
+2022-03-31T03:17:38.086795157Z  [2022-03-31T03:17:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:38.086802998Z  [2022-03-31T03:17:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:41.496228351Z  [2022-03-31T03:17:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:41.496282087Z  [2022-03-31T03:17:41Z INFO  dt_mqtt_manager] CPU values = "0.61 0.40 0.00 0.00 ", MEM values = "160.92M 152.80M 120.57M 132.02M ", Cluster Size = 4
+2022-03-31T03:17:41.496293938Z  [2022-03-31T03:17:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:41.496303669Z  [2022-03-31T03:17:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:44.876062414Z  [2022-03-31T03:17:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:44.876299080Z  [2022-03-31T03:17:44Z INFO  dt_mqtt_manager] CPU values = "0.00 0.56 0.37 0.00 ", MEM values = "129.57M 160.87M 152.70M 123.42M ", Cluster Size = 4
+2022-03-31T03:17:44.876329686Z  [2022-03-31T03:17:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:44.876342606Z  [2022-03-31T03:17:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:48.208482295Z  [2022-03-31T03:17:48Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:48.208576596Z  [2022-03-31T03:17:48Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.56 0.37 ", MEM values = "119.64M 120.97M 160.16M 154.90M ", Cluster Size = 4
+2022-03-31T03:17:48.208586166Z  [2022-03-31T03:17:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 1
+2022-03-31T03:17:48.208593417Z  [2022-03-31T03:17:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:51.631199177Z  [2022-03-31T03:17:51Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:51.631268702Z  [2022-03-31T03:17:51Z INFO  dt_mqtt_manager] CPU values = "0.00 0.00 0.34 0.52 ", MEM values = "119.82M 121.13M 154.32M 166.23M ", Cluster Size = 4
+2022-03-31T03:17:51.631283206Z  [2022-03-31T03:17:51Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:51.631294464Z  [2022-03-31T03:17:51Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:55.019756882Z  [2022-03-31T03:17:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:55.019808833Z  [2022-03-31T03:17:55Z INFO  dt_mqtt_manager] CPU values = "0.47 0.31 0.00 0.00 ", MEM values = "165.32M 156.54M 121.18M 122.65M ", Cluster Size = 4
+2022-03-31T03:17:55.019819287Z  [2022-03-31T03:17:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:55.019827988Z  [2022-03-31T03:17:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T03:17:58.396724896Z  [2022-03-31T03:17:58Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T03:17:58.397022040Z  [2022-03-31T03:17:58Z INFO  dt_mqtt_manager] CPU values = "0.00 0.47 0.31 0.00 ", MEM values = "120.38M 165.40M 157.49M 123.86M ", Cluster Size = 4
+2022-03-31T03:17:58.397065152Z  [2022-03-31T03:17:58Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T03:17:58.397086400Z  [2022-03-31T03:17:58Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0

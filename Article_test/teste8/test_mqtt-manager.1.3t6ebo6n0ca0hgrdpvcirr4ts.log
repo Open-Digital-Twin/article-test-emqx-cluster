@@ -1,0 +1,1566 @@
+2022-03-31T06:22:39.121500908Z  [2022-03-31T06:22:39Z INFO  dt_mqtt_manager] Searching for mqtt broker at : mqtt-cluster:8081
+2022-03-31T06:22:39.140002005Z  [2022-03-31T06:22:39Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:22:39.205905782Z  [2022-03-31T06:22:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:22:39.205933462Z  [2022-03-31T06:22:39Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:22:39.205942054Z  [2022-03-31T06:22:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:22:39.205953550Z  [2022-03-31T06:22:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:22:42.218986716Z  [2022-03-31T06:22:42Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:22:42.277712808Z  [2022-03-31T06:22:42Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:22:42.277757298Z  [2022-03-31T06:22:42Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:22:42.277765830Z  [2022-03-31T06:22:42Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:22:42.277773214Z  [2022-03-31T06:22:42Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:22:45.688745627Z  [2022-03-31T06:22:45Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:22:45.719191511Z  [2022-03-31T06:22:45Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:22:45.719246541Z  [2022-03-31T06:22:45Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:22:45.719270774Z  [2022-03-31T06:22:45Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:22:45.719279552Z  [2022-03-31T06:22:45Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:22:48.720863440Z  [2022-03-31T06:22:48Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:22:48.831016209Z  [2022-03-31T06:22:48Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:22:48.831061734Z  [2022-03-31T06:22:48Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:22:48.831070240Z  [2022-03-31T06:22:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:22:48.831077815Z  [2022-03-31T06:22:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:22:52.349760181Z  [2022-03-31T06:22:52Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:22:52.542324385Z  [2022-03-31T06:22:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:22:52.542378397Z  [2022-03-31T06:22:52Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:22:52.542413389Z  [2022-03-31T06:22:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:22:52.542429404Z  [2022-03-31T06:22:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:22:56.276418503Z  [2022-03-31T06:22:56Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:22:56.302632543Z  [2022-03-31T06:22:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:22:56.302693311Z  [2022-03-31T06:22:56Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:22:56.302702531Z  [2022-03-31T06:22:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:22:56.302710127Z  [2022-03-31T06:22:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:22:59.304821705Z  [2022-03-31T06:22:59Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:22:59.342465218Z  [2022-03-31T06:22:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:22:59.342506565Z  [2022-03-31T06:22:59Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:22:59.342514948Z  [2022-03-31T06:22:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:22:59.342522144Z  [2022-03-31T06:22:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:02.354948112Z  [2022-03-31T06:23:02Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:02.382782949Z  [2022-03-31T06:23:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:02.382872295Z  [2022-03-31T06:23:02Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:02.382971848Z  [2022-03-31T06:23:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:02.382992148Z  [2022-03-31T06:23:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:05.830136814Z  [2022-03-31T06:23:05Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:05.865117986Z  [2022-03-31T06:23:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:05.865237121Z  [2022-03-31T06:23:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:05.865248475Z  [2022-03-31T06:23:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:05.865255998Z  [2022-03-31T06:23:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:08.867041516Z  [2022-03-31T06:23:08Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:23:08.968869689Z  [2022-03-31T06:23:08Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:08.968911957Z  [2022-03-31T06:23:08Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:08.968920303Z  [2022-03-31T06:23:08Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:08.968927757Z  [2022-03-31T06:23:08Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:11.999354071Z  [2022-03-31T06:23:11Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:12.091426691Z  [2022-03-31T06:23:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:12.091495840Z  [2022-03-31T06:23:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:12.091505262Z  [2022-03-31T06:23:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:12.091512697Z  [2022-03-31T06:23:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:15.532081503Z  [2022-03-31T06:23:15Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:15.560637223Z  [2022-03-31T06:23:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:15.560685177Z  [2022-03-31T06:23:15Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:15.560693662Z  [2022-03-31T06:23:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:15.560700889Z  [2022-03-31T06:23:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:18.562706805Z  [2022-03-31T06:23:18Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:23:18.602152199Z  [2022-03-31T06:23:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:18.602201596Z  [2022-03-31T06:23:18Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:18.602218920Z  [2022-03-31T06:23:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:18.602234650Z  [2022-03-31T06:23:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:21.655095868Z  [2022-03-31T06:23:21Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:21.778222024Z  [2022-03-31T06:23:21Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:21.778271537Z  [2022-03-31T06:23:21Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:21.778280503Z  [2022-03-31T06:23:21Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:21.778287776Z  [2022-03-31T06:23:21Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:25.930525274Z  [2022-03-31T06:23:25Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:26.180102267Z  [2022-03-31T06:23:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:26.180142341Z  [2022-03-31T06:23:26Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:26.180150668Z  [2022-03-31T06:23:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:26.180157911Z  [2022-03-31T06:23:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:29.182265895Z  [2022-03-31T06:23:29Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:23:29.223034887Z  [2022-03-31T06:23:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:29.223115218Z  [2022-03-31T06:23:29Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:29.223141099Z  [2022-03-31T06:23:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:29.223151221Z  [2022-03-31T06:23:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:32.240638615Z  [2022-03-31T06:23:32Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:32.289531118Z  [2022-03-31T06:23:32Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:32.289577356Z  [2022-03-31T06:23:32Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:32.289585692Z  [2022-03-31T06:23:32Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:32.289593065Z  [2022-03-31T06:23:32Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:35.863829278Z  [2022-03-31T06:23:35Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:35.991519435Z  [2022-03-31T06:23:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:35.991563919Z  [2022-03-31T06:23:35Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:35.991572316Z  [2022-03-31T06:23:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:35.991579540Z  [2022-03-31T06:23:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:38.993181604Z  [2022-03-31T06:23:38Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:23:39.195844684Z  [2022-03-31T06:23:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:39.195886977Z  [2022-03-31T06:23:39Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:39.195895382Z  [2022-03-31T06:23:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:39.195902683Z  [2022-03-31T06:23:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:42.385845541Z  [2022-03-31T06:23:42Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:42.602907367Z  [2022-03-31T06:23:42Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:42.602959645Z  [2022-03-31T06:23:42Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:42.602970791Z  [2022-03-31T06:23:42Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:42.602980423Z  [2022-03-31T06:23:42Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:46.555848471Z  [2022-03-31T06:23:46Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:46.655643036Z  [2022-03-31T06:23:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:46.655733665Z  [2022-03-31T06:23:46Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:46.655745456Z  [2022-03-31T06:23:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:46.655794643Z  [2022-03-31T06:23:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:49.657900887Z  [2022-03-31T06:23:49Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:23:49.781484019Z  [2022-03-31T06:23:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:49.781565468Z  [2022-03-31T06:23:49Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:49.781609870Z  [2022-03-31T06:23:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:49.781628491Z  [2022-03-31T06:23:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:52.846420769Z  [2022-03-31T06:23:52Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:53.112946863Z  [2022-03-31T06:23:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:53.113009119Z  [2022-03-31T06:23:53Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:53.113017719Z  [2022-03-31T06:23:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:53.113025107Z  [2022-03-31T06:23:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:23:57.251872393Z  [2022-03-31T06:23:57Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:23:57.288983349Z  [2022-03-31T06:23:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:23:57.289027562Z  [2022-03-31T06:23:57Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:23:57.289035906Z  [2022-03-31T06:23:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:23:57.289043131Z  [2022-03-31T06:23:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:00.290901440Z  [2022-03-31T06:24:00Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:24:00.412191624Z  [2022-03-31T06:24:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:00.412251288Z  [2022-03-31T06:24:00Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:00.412264970Z  [2022-03-31T06:24:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:00.412277273Z  [2022-03-31T06:24:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:03.441378341Z  [2022-03-31T06:24:03Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:03.492421871Z  [2022-03-31T06:24:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:03.492476269Z  [2022-03-31T06:24:03Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:03.492485654Z  [2022-03-31T06:24:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:03.492526758Z  [2022-03-31T06:24:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:07.615679967Z  [2022-03-31T06:24:07Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:07.658441563Z  [2022-03-31T06:24:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:07.658485726Z  [2022-03-31T06:24:07Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:07.658494257Z  [2022-03-31T06:24:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:07.658501687Z  [2022-03-31T06:24:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:10.660477554Z  [2022-03-31T06:24:10Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:24:10.745856680Z  [2022-03-31T06:24:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:10.746066480Z  [2022-03-31T06:24:10Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:10.746085275Z  [2022-03-31T06:24:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:10.746093832Z  [2022-03-31T06:24:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:13.859616648Z  [2022-03-31T06:24:13Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:14.502590828Z  [2022-03-31T06:24:14Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:14.502637900Z  [2022-03-31T06:24:14Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:14.502676103Z  [2022-03-31T06:24:14Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:14.502687348Z  [2022-03-31T06:24:14Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:18.728011284Z  [2022-03-31T06:24:18Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:19.026105621Z  [2022-03-31T06:24:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:19.026181128Z  [2022-03-31T06:24:19Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:19.026190394Z  [2022-03-31T06:24:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:19.026226264Z  [2022-03-31T06:24:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:22.027991534Z  [2022-03-31T06:24:22Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:24:22.342086621Z  [2022-03-31T06:24:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:22.342159524Z  [2022-03-31T06:24:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:22.342171517Z  [2022-03-31T06:24:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:22.342179590Z  [2022-03-31T06:24:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:25.367022582Z  [2022-03-31T06:24:25Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:25.433395062Z  [2022-03-31T06:24:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:25.433454874Z  [2022-03-31T06:24:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:25.433464603Z  [2022-03-31T06:24:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:25.433471880Z  [2022-03-31T06:24:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:29.797291476Z  [2022-03-31T06:24:29Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:30.285011960Z  [2022-03-31T06:24:30Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:30.285077313Z  [2022-03-31T06:24:30Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:30.285088064Z  [2022-03-31T06:24:30Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:30.285095762Z  [2022-03-31T06:24:30Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:33.286764140Z  [2022-03-31T06:24:33Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:24:33.320825893Z  [2022-03-31T06:24:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:33.320866553Z  [2022-03-31T06:24:33Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:33.320875084Z  [2022-03-31T06:24:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:33.320882583Z  [2022-03-31T06:24:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:36.374887096Z  [2022-03-31T06:24:36Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:36.454146221Z  [2022-03-31T06:24:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:36.454192060Z  [2022-03-31T06:24:36Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:36.454200685Z  [2022-03-31T06:24:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:36.454208040Z  [2022-03-31T06:24:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:40.744215974Z  [2022-03-31T06:24:40Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:40.922133125Z  [2022-03-31T06:24:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:40.922195621Z  [2022-03-31T06:24:40Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:40.922204289Z  [2022-03-31T06:24:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:40.922211544Z  [2022-03-31T06:24:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:43.924402776Z  [2022-03-31T06:24:43Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:24:44.374235080Z  [2022-03-31T06:24:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:44.374290974Z  [2022-03-31T06:24:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:44.374300355Z  [2022-03-31T06:24:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:44.374308927Z  [2022-03-31T06:24:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:47.425111627Z  [2022-03-31T06:24:47Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:47.544046689Z  [2022-03-31T06:24:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:47.544111787Z  [2022-03-31T06:24:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:47.544121558Z  [2022-03-31T06:24:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:47.544129569Z  [2022-03-31T06:24:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:51.832949155Z  [2022-03-31T06:24:51Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:52.275014524Z  [2022-03-31T06:24:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:52.275062560Z  [2022-03-31T06:24:52Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:52.275071807Z  [2022-03-31T06:24:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:52.275079653Z  [2022-03-31T06:24:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:55.276811088Z  [2022-03-31T06:24:55Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:24:55.370783912Z  [2022-03-31T06:24:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:55.370828787Z  [2022-03-31T06:24:55Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:55.370837835Z  [2022-03-31T06:24:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:55.370845601Z  [2022-03-31T06:24:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:24:58.405943442Z  [2022-03-31T06:24:58Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:24:58.455719085Z  [2022-03-31T06:24:58Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:24:58.455765866Z  [2022-03-31T06:24:58Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:24:58.455774725Z  [2022-03-31T06:24:58Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:24:58.455782580Z  [2022-03-31T06:24:58Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:11.269668970Z  [2022-03-31T06:25:11Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:11.499286202Z  [2022-03-31T06:25:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:11.499357892Z  [2022-03-31T06:25:11Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:11.499367355Z  [2022-03-31T06:25:11Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:11.499374387Z  [2022-03-31T06:25:11Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:14.502314442Z  [2022-03-31T06:25:14Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:25:14.657748707Z  [2022-03-31T06:25:14Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:14.657791045Z  [2022-03-31T06:25:14Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:14.657799339Z  [2022-03-31T06:25:14Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:14.657826271Z  [2022-03-31T06:25:14Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:17.747980395Z  [2022-03-31T06:25:17Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:18.130620986Z  [2022-03-31T06:25:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:18.130667129Z  [2022-03-31T06:25:18Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:18.130676376Z  [2022-03-31T06:25:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:18.130684133Z  [2022-03-31T06:25:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:22.557724246Z  [2022-03-31T06:25:22Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:22.694057030Z  [2022-03-31T06:25:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:22.694147829Z  [2022-03-31T06:25:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:22.694168801Z  [2022-03-31T06:25:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:22.694186896Z  [2022-03-31T06:25:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:25.696371311Z  [2022-03-31T06:25:25Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:25:25.803208245Z  [2022-03-31T06:25:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:25.803254545Z  [2022-03-31T06:25:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:25.803263367Z  [2022-03-31T06:25:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:25.803271045Z  [2022-03-31T06:25:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:28.891102869Z  [2022-03-31T06:25:28Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:29.240011673Z  [2022-03-31T06:25:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:29.240058666Z  [2022-03-31T06:25:29Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:29.240100000Z  [2022-03-31T06:25:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:29.240109509Z  [2022-03-31T06:25:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:33.455528121Z  [2022-03-31T06:25:33Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:33.548425262Z  [2022-03-31T06:25:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:33.548470666Z  [2022-03-31T06:25:33Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:33.548479131Z  [2022-03-31T06:25:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:33.548486365Z  [2022-03-31T06:25:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:36.550769287Z  [2022-03-31T06:25:36Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:25:36.675424072Z  [2022-03-31T06:25:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:36.675630239Z  [2022-03-31T06:25:36Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:36.675769082Z  [2022-03-31T06:25:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:36.675911589Z  [2022-03-31T06:25:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:39.730259651Z  [2022-03-31T06:25:39Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:39.854596965Z  [2022-03-31T06:25:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:39.854643920Z  [2022-03-31T06:25:39Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:39.854655207Z  [2022-03-31T06:25:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:39.854669532Z  [2022-03-31T06:25:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:44.301706786Z  [2022-03-31T06:25:44Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:44.445964751Z  [2022-03-31T06:25:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:44.446201582Z  [2022-03-31T06:25:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:44.446421041Z  [2022-03-31T06:25:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:44.446715838Z  [2022-03-31T06:25:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:47.449021824Z  [2022-03-31T06:25:47Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:25:47.570196358Z  [2022-03-31T06:25:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:47.570416509Z  [2022-03-31T06:25:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:47.570637796Z  [2022-03-31T06:25:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:47.570767386Z  [2022-03-31T06:25:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:50.619157113Z  [2022-03-31T06:25:50Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:50.743929729Z  [2022-03-31T06:25:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:50.744086216Z  [2022-03-31T06:25:50Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:50.744177587Z  [2022-03-31T06:25:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:50.744296717Z  [2022-03-31T06:25:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:55.228027587Z  [2022-03-31T06:25:55Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:25:55.392175968Z  [2022-03-31T06:25:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:55.392239250Z  [2022-03-31T06:25:55Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:55.392290921Z  [2022-03-31T06:25:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:55.392302776Z  [2022-03-31T06:25:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:25:58.395086070Z  [2022-03-31T06:25:58Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:25:58.496280329Z  [2022-03-31T06:25:58Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:25:58.496342161Z  [2022-03-31T06:25:58Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:25:58.496355649Z  [2022-03-31T06:25:58Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:25:58.496369008Z  [2022-03-31T06:25:58Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:01.548028598Z  [2022-03-31T06:26:01Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:01.678805422Z  [2022-03-31T06:26:01Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:01.678870058Z  [2022-03-31T06:26:01Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:01.678881012Z  [2022-03-31T06:26:01Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:01.678888958Z  [2022-03-31T06:26:01Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:05.784762922Z  [2022-03-31T06:26:05Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:05.935580241Z  [2022-03-31T06:26:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:05.935626348Z  [2022-03-31T06:26:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:05.935635348Z  [2022-03-31T06:26:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:05.935643092Z  [2022-03-31T06:26:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:08.937757446Z  [2022-03-31T06:26:08Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:26:09.220578023Z  [2022-03-31T06:26:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:09.220643545Z  [2022-03-31T06:26:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:09.220653460Z  [2022-03-31T06:26:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:09.220660956Z  [2022-03-31T06:26:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:12.278863296Z  [2022-03-31T06:26:12Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:12.431047357Z  [2022-03-31T06:26:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:12.431129417Z  [2022-03-31T06:26:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:12.431147946Z  [2022-03-31T06:26:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:12.431162427Z  [2022-03-31T06:26:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:16.536630297Z  [2022-03-31T06:26:16Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:16.568293587Z  [2022-03-31T06:26:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:16.568344203Z  [2022-03-31T06:26:16Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:16.568357363Z  [2022-03-31T06:26:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:16.568369537Z  [2022-03-31T06:26:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:19.570249273Z  [2022-03-31T06:26:19Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:26:19.605136570Z  [2022-03-31T06:26:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:19.605179828Z  [2022-03-31T06:26:19Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:19.605188522Z  [2022-03-31T06:26:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:19.605196130Z  [2022-03-31T06:26:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:22.638393665Z  [2022-03-31T06:26:22Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:22.708188679Z  [2022-03-31T06:26:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:22.708251154Z  [2022-03-31T06:26:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:22.708260023Z  [2022-03-31T06:26:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:22.708267504Z  [2022-03-31T06:26:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:26.791943817Z  [2022-03-31T06:26:26Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:26.863596381Z  [2022-03-31T06:26:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:26.863661921Z  [2022-03-31T06:26:26Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:26.863672738Z  [2022-03-31T06:26:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:26.863680528Z  [2022-03-31T06:26:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:29.865827090Z  [2022-03-31T06:26:29Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:26:29.999577991Z  [2022-03-31T06:26:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:29.999655488Z  [2022-03-31T06:26:29Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:29.999717766Z  [2022-03-31T06:26:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:29.999738612Z  [2022-03-31T06:26:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:33.090257248Z  [2022-03-31T06:26:33Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:33.298584910Z  [2022-03-31T06:26:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:33.298630299Z  [2022-03-31T06:26:33Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:33.298639498Z  [2022-03-31T06:26:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:33.298647470Z  [2022-03-31T06:26:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:37.337440000Z  [2022-03-31T06:26:37Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:37.434269744Z  [2022-03-31T06:26:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:37.434329568Z  [2022-03-31T06:26:37Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:37.434339730Z  [2022-03-31T06:26:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:37.434347570Z  [2022-03-31T06:26:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:40.436461873Z  [2022-03-31T06:26:40Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:26:40.469857306Z  [2022-03-31T06:26:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:40.469898631Z  [2022-03-31T06:26:40Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:40.469907242Z  [2022-03-31T06:26:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:40.469914738Z  [2022-03-31T06:26:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:43.505151161Z  [2022-03-31T06:26:43Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:43.559282294Z  [2022-03-31T06:26:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:43.559445579Z  [2022-03-31T06:26:43Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:43.559579893Z  [2022-03-31T06:26:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:43.559598683Z  [2022-03-31T06:26:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:47.425156983Z  [2022-03-31T06:26:47Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:47.464432658Z  [2022-03-31T06:26:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:47.464533990Z  [2022-03-31T06:26:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:47.464620730Z  [2022-03-31T06:26:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:47.464741204Z  [2022-03-31T06:26:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:50.467029296Z  [2022-03-31T06:26:50Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:26:50.521763480Z  [2022-03-31T06:26:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:50.521807443Z  [2022-03-31T06:26:50Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:50.521815929Z  [2022-03-31T06:26:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:50.521823175Z  [2022-03-31T06:26:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:53.543156644Z  [2022-03-31T06:26:53Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:53.594789636Z  [2022-03-31T06:26:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:53.594834137Z  [2022-03-31T06:26:53Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:53.594842619Z  [2022-03-31T06:26:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:53.594849894Z  [2022-03-31T06:26:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:26:57.448728886Z  [2022-03-31T06:26:57Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:26:57.511889199Z  [2022-03-31T06:26:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:26:57.511955412Z  [2022-03-31T06:26:57Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:26:57.511965696Z  [2022-03-31T06:26:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:26:57.511973497Z  [2022-03-31T06:26:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:00.513884672Z  [2022-03-31T06:27:00Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:27:00.554136130Z  [2022-03-31T06:27:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:00.554180186Z  [2022-03-31T06:27:00Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:00.554188891Z  [2022-03-31T06:27:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:00.554196418Z  [2022-03-31T06:27:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:03.577694723Z  [2022-03-31T06:27:03Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:03.618527345Z  [2022-03-31T06:27:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:03.618596953Z  [2022-03-31T06:27:03Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:03.618607954Z  [2022-03-31T06:27:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:03.618615456Z  [2022-03-31T06:27:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:07.685554821Z  [2022-03-31T06:27:07Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:07.718024218Z  [2022-03-31T06:27:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:07.718084822Z  [2022-03-31T06:27:07Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:07.718093417Z  [2022-03-31T06:27:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:07.718101075Z  [2022-03-31T06:27:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:10.719995907Z  [2022-03-31T06:27:10Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:27:10.767851852Z  [2022-03-31T06:27:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:10.767895413Z  [2022-03-31T06:27:10Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:10.767921440Z  [2022-03-31T06:27:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:10.767931480Z  [2022-03-31T06:27:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:13.804948842Z  [2022-03-31T06:27:13Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:13.850713374Z  [2022-03-31T06:27:13Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:13.850755879Z  [2022-03-31T06:27:13Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:13.850764357Z  [2022-03-31T06:27:13Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:13.850771586Z  [2022-03-31T06:27:13Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:17.853687286Z  [2022-03-31T06:27:17Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:17.885715797Z  [2022-03-31T06:27:17Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:17.885759207Z  [2022-03-31T06:27:17Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:17.885791196Z  [2022-03-31T06:27:17Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:17.885799147Z  [2022-03-31T06:27:17Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:20.887784844Z  [2022-03-31T06:27:20Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:27:20.945555439Z  [2022-03-31T06:27:20Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:20.945600861Z  [2022-03-31T06:27:20Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:20.945609402Z  [2022-03-31T06:27:20Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:20.945616797Z  [2022-03-31T06:27:20Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:23.980614854Z  [2022-03-31T06:27:23Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:24.314549854Z  [2022-03-31T06:27:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:24.314615665Z  [2022-03-31T06:27:24Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:24.314624310Z  [2022-03-31T06:27:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:24.314631676Z  [2022-03-31T06:27:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:28.348053278Z  [2022-03-31T06:27:28Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:28.415597143Z  [2022-03-31T06:27:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:28.415671307Z  [2022-03-31T06:27:28Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:28.415681620Z  [2022-03-31T06:27:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:28.415689409Z  [2022-03-31T06:27:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:31.417718938Z  [2022-03-31T06:27:31Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:27:31.462917531Z  [2022-03-31T06:27:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:31.462961939Z  [2022-03-31T06:27:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:31.462970927Z  [2022-03-31T06:27:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:31.462978593Z  [2022-03-31T06:27:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:34.488968039Z  [2022-03-31T06:27:34Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:34.535285804Z  [2022-03-31T06:27:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:34.535338030Z  [2022-03-31T06:27:34Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:34.535348360Z  [2022-03-31T06:27:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:34.535380287Z  [2022-03-31T06:27:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:38.551907122Z  [2022-03-31T06:27:38Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:38.610724790Z  [2022-03-31T06:27:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:38.610786319Z  [2022-03-31T06:27:38Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:38.610796204Z  [2022-03-31T06:27:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:38.610803728Z  [2022-03-31T06:27:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:41.612779375Z  [2022-03-31T06:27:41Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:27:41.649878979Z  [2022-03-31T06:27:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:41.649942027Z  [2022-03-31T06:27:41Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:41.649950918Z  [2022-03-31T06:27:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:41.649958228Z  [2022-03-31T06:27:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:44.678003035Z  [2022-03-31T06:27:44Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:44.718536782Z  [2022-03-31T06:27:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:44.718604490Z  [2022-03-31T06:27:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:44.718619861Z  [2022-03-31T06:27:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:44.718627846Z  [2022-03-31T06:27:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:49.091706234Z  [2022-03-31T06:27:49Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:49.287955445Z  [2022-03-31T06:27:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:49.288028659Z  [2022-03-31T06:27:49Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:49.288038771Z  [2022-03-31T06:27:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:49.288046139Z  [2022-03-31T06:27:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:52.290209988Z  [2022-03-31T06:27:52Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:27:52.414536510Z  [2022-03-31T06:27:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:52.414596996Z  [2022-03-31T06:27:52Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:52.414607585Z  [2022-03-31T06:27:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:52.414636475Z  [2022-03-31T06:27:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:55.443377958Z  [2022-03-31T06:27:55Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:55.485517679Z  [2022-03-31T06:27:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:55.485562323Z  [2022-03-31T06:27:55Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:55.485571089Z  [2022-03-31T06:27:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:55.485578328Z  [2022-03-31T06:27:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:27:59.313036633Z  [2022-03-31T06:27:59Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:27:59.348414942Z  [2022-03-31T06:27:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:27:59.348460461Z  [2022-03-31T06:27:59Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:27:59.348469533Z  [2022-03-31T06:27:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:27:59.348477170Z  [2022-03-31T06:27:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:02.350448091Z  [2022-03-31T06:28:02Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:28:02.401973379Z  [2022-03-31T06:28:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:02.402023490Z  [2022-03-31T06:28:02Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:02.402036102Z  [2022-03-31T06:28:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:02.402044340Z  [2022-03-31T06:28:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:05.482604791Z  [2022-03-31T06:28:05Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:05.682413900Z  [2022-03-31T06:28:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:05.682458480Z  [2022-03-31T06:28:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:05.682468731Z  [2022-03-31T06:28:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:05.682496264Z  [2022-03-31T06:28:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:10.472039988Z  [2022-03-31T06:28:10Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:10.602938004Z  [2022-03-31T06:28:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:10.602983361Z  [2022-03-31T06:28:10Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:10.602992062Z  [2022-03-31T06:28:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:10.602999762Z  [2022-03-31T06:28:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:13.605296460Z  [2022-03-31T06:28:13Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:28:13.731838759Z  [2022-03-31T06:28:13Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:13.731881946Z  [2022-03-31T06:28:13Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:13.731890147Z  [2022-03-31T06:28:13Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:13.731898039Z  [2022-03-31T06:28:13Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:16.757262294Z  [2022-03-31T06:28:16Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:16.807076363Z  [2022-03-31T06:28:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:16.807131529Z  [2022-03-31T06:28:16Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:16.807140486Z  [2022-03-31T06:28:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:16.807148033Z  [2022-03-31T06:28:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:20.797556838Z  [2022-03-31T06:28:20Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:20.828182151Z  [2022-03-31T06:28:20Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:20.828254293Z  [2022-03-31T06:28:20Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:20.828264906Z  [2022-03-31T06:28:20Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:20.828272393Z  [2022-03-31T06:28:20Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:23.830030166Z  [2022-03-31T06:28:23Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:28:23.868701549Z  [2022-03-31T06:28:23Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:23.868773445Z  [2022-03-31T06:28:23Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:23.868782582Z  [2022-03-31T06:28:23Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:23.868790275Z  [2022-03-31T06:28:23Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:26.926020986Z  [2022-03-31T06:28:26Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:27.024547291Z  [2022-03-31T06:28:27Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:27.024608496Z  [2022-03-31T06:28:27Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:27.024618370Z  [2022-03-31T06:28:27Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:27.024626035Z  [2022-03-31T06:28:27Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:31.366932573Z  [2022-03-31T06:28:31Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:31.480308570Z  [2022-03-31T06:28:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:31.480358096Z  [2022-03-31T06:28:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:31.480366433Z  [2022-03-31T06:28:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:31.480373681Z  [2022-03-31T06:28:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:34.482307382Z  [2022-03-31T06:28:34Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:28:34.524949279Z  [2022-03-31T06:28:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:34.525011604Z  [2022-03-31T06:28:34Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:34.525021466Z  [2022-03-31T06:28:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:34.525028689Z  [2022-03-31T06:28:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:37.555165675Z  [2022-03-31T06:28:37Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:37.608387272Z  [2022-03-31T06:28:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:37.608432156Z  [2022-03-31T06:28:37Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:37.608440523Z  [2022-03-31T06:28:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:37.608447723Z  [2022-03-31T06:28:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:41.477936824Z  [2022-03-31T06:28:41Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:41.516742014Z  [2022-03-31T06:28:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:41.516805466Z  [2022-03-31T06:28:41Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:41.516814268Z  [2022-03-31T06:28:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:41.516821738Z  [2022-03-31T06:28:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:44.518855202Z  [2022-03-31T06:28:44Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:28:44.553782800Z  [2022-03-31T06:28:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:44.553822470Z  [2022-03-31T06:28:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:44.553831075Z  [2022-03-31T06:28:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:44.553838504Z  [2022-03-31T06:28:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:47.581100646Z  [2022-03-31T06:28:47Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:47.626084299Z  [2022-03-31T06:28:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:47.626187370Z  [2022-03-31T06:28:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:47.626207759Z  [2022-03-31T06:28:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:47.626223837Z  [2022-03-31T06:28:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:51.545548045Z  [2022-03-31T06:28:51Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:51.586293559Z  [2022-03-31T06:28:51Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:51.586339577Z  [2022-03-31T06:28:51Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:51.586347934Z  [2022-03-31T06:28:51Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:51.586355251Z  [2022-03-31T06:28:51Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:54.588512814Z  [2022-03-31T06:28:54Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:28:54.633067956Z  [2022-03-31T06:28:54Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:54.633129893Z  [2022-03-31T06:28:54Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:54.633139760Z  [2022-03-31T06:28:54Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:54.633156580Z  [2022-03-31T06:28:54Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:28:57.656361385Z  [2022-03-31T06:28:57Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:28:57.695843920Z  [2022-03-31T06:28:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:28:57.695903851Z  [2022-03-31T06:28:57Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:28:57.695913811Z  [2022-03-31T06:28:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:28:57.695921315Z  [2022-03-31T06:28:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:01.586865350Z  [2022-03-31T06:29:01Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:01.620671639Z  [2022-03-31T06:29:01Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:01.620715032Z  [2022-03-31T06:29:01Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:01.620723288Z  [2022-03-31T06:29:01Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:01.620740265Z  [2022-03-31T06:29:01Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:04.622686866Z  [2022-03-31T06:29:04Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:29:04.661065027Z  [2022-03-31T06:29:04Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:04.661125062Z  [2022-03-31T06:29:04Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:04.661157073Z  [2022-03-31T06:29:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:04.661165355Z  [2022-03-31T06:29:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:07.695362944Z  [2022-03-31T06:29:07Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:07.742931226Z  [2022-03-31T06:29:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:07.743003687Z  [2022-03-31T06:29:07Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:07.743012884Z  [2022-03-31T06:29:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:07.743020748Z  [2022-03-31T06:29:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:11.747358922Z  [2022-03-31T06:29:11Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:11.778845587Z  [2022-03-31T06:29:11Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:11.778901675Z  [2022-03-31T06:29:11Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:11.778920464Z  [2022-03-31T06:29:11Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:11.778935159Z  [2022-03-31T06:29:11Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:14.781140154Z  [2022-03-31T06:29:14Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:29:14.821203634Z  [2022-03-31T06:29:14Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:14.821249120Z  [2022-03-31T06:29:14Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:14.821258169Z  [2022-03-31T06:29:14Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:14.821266035Z  [2022-03-31T06:29:14Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:17.845580925Z  [2022-03-31T06:29:17Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:17.881961242Z  [2022-03-31T06:29:17Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:17.882019537Z  [2022-03-31T06:29:17Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:17.882041318Z  [2022-03-31T06:29:17Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:17.882058604Z  [2022-03-31T06:29:17Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:21.916208004Z  [2022-03-31T06:29:21Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:21.951309305Z  [2022-03-31T06:29:21Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:21.951378616Z  [2022-03-31T06:29:21Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:21.951390236Z  [2022-03-31T06:29:21Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:21.951422192Z  [2022-03-31T06:29:21Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:24.953220717Z  [2022-03-31T06:29:24Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:29:25.007980543Z  [2022-03-31T06:29:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:25.008043632Z  [2022-03-31T06:29:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:25.008053877Z  [2022-03-31T06:29:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:25.008061475Z  [2022-03-31T06:29:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:28.046706848Z  [2022-03-31T06:29:28Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:28.154353007Z  [2022-03-31T06:29:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:28.154398277Z  [2022-03-31T06:29:28Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:28.154406536Z  [2022-03-31T06:29:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:28.154413718Z  [2022-03-31T06:29:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:31.915285954Z  [2022-03-31T06:29:31Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:31.950313445Z  [2022-03-31T06:29:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:31.950382785Z  [2022-03-31T06:29:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:31.950400087Z  [2022-03-31T06:29:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:31.950439446Z  [2022-03-31T06:29:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:34.952296165Z  [2022-03-31T06:29:34Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:29:35.003565508Z  [2022-03-31T06:29:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:35.003628019Z  [2022-03-31T06:29:35Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:35.003636962Z  [2022-03-31T06:29:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:35.003644403Z  [2022-03-31T06:29:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:38.070883124Z  [2022-03-31T06:29:38Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:38.324076289Z  [2022-03-31T06:29:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:38.324126294Z  [2022-03-31T06:29:38Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:38.324135077Z  [2022-03-31T06:29:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:38.324142347Z  [2022-03-31T06:29:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:41.894730752Z  [2022-03-31T06:29:41Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:41.927010394Z  [2022-03-31T06:29:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:41.927055568Z  [2022-03-31T06:29:41Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:41.927064375Z  [2022-03-31T06:29:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:41.927073009Z  [2022-03-31T06:29:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:44.929385891Z  [2022-03-31T06:29:44Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:29:45.004748832Z  [2022-03-31T06:29:45Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:45.004831213Z  [2022-03-31T06:29:45Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:45.004851439Z  [2022-03-31T06:29:45Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:45.004866776Z  [2022-03-31T06:29:45Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:48.300097203Z  [2022-03-31T06:29:48Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:48.662094393Z  [2022-03-31T06:29:48Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:48.662177862Z  [2022-03-31T06:29:48Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:48.662193456Z  [2022-03-31T06:29:48Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:48.662206535Z  [2022-03-31T06:29:48Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:52.445193436Z  [2022-03-31T06:29:52Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:52.479276981Z  [2022-03-31T06:29:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:52.479325644Z  [2022-03-31T06:29:52Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:52.479341051Z  [2022-03-31T06:29:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:52.479349098Z  [2022-03-31T06:29:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:55.481052207Z  [2022-03-31T06:29:55Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:29:55.526585171Z  [2022-03-31T06:29:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:55.526646996Z  [2022-03-31T06:29:55Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:55.526670492Z  [2022-03-31T06:29:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:55.526689352Z  [2022-03-31T06:29:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:29:58.552407199Z  [2022-03-31T06:29:58Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:29:58.597691229Z  [2022-03-31T06:29:58Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:29:58.597736679Z  [2022-03-31T06:29:58Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:29:58.597744916Z  [2022-03-31T06:29:58Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:29:58.597752385Z  [2022-03-31T06:29:58Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:02.558997585Z  [2022-03-31T06:30:02Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:02.655605978Z  [2022-03-31T06:30:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:02.655650045Z  [2022-03-31T06:30:02Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:02.655658361Z  [2022-03-31T06:30:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:02.655665533Z  [2022-03-31T06:30:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:05.658470635Z  [2022-03-31T06:30:05Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:30:05.903726561Z  [2022-03-31T06:30:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:05.903771309Z  [2022-03-31T06:30:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:05.903779852Z  [2022-03-31T06:30:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:05.903787251Z  [2022-03-31T06:30:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:08.937294182Z  [2022-03-31T06:30:08Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:09.040257357Z  [2022-03-31T06:30:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:09.040324522Z  [2022-03-31T06:30:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:09.040386131Z  [2022-03-31T06:30:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:09.040444102Z  [2022-03-31T06:30:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:13.080354017Z  [2022-03-31T06:30:13Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:13.222398201Z  [2022-03-31T06:30:13Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:13.222467048Z  [2022-03-31T06:30:13Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:13.222536155Z  [2022-03-31T06:30:13Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:13.222660333Z  [2022-03-31T06:30:13Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:16.224491073Z  [2022-03-31T06:30:16Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:30:16.323544657Z  [2022-03-31T06:30:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:16.323718887Z  [2022-03-31T06:30:16Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:16.323827665Z  [2022-03-31T06:30:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:16.323936445Z  [2022-03-31T06:30:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:19.350093763Z  [2022-03-31T06:30:19Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:19.386475951Z  [2022-03-31T06:30:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:19.386529159Z  [2022-03-31T06:30:19Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:19.386538672Z  [2022-03-31T06:30:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:19.386546030Z  [2022-03-31T06:30:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:23.366496056Z  [2022-03-31T06:30:23Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:23.488714177Z  [2022-03-31T06:30:23Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:23.488758446Z  [2022-03-31T06:30:23Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:23.488766620Z  [2022-03-31T06:30:23Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:23.488774056Z  [2022-03-31T06:30:23Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:26.490760735Z  [2022-03-31T06:30:26Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:30:26.531143479Z  [2022-03-31T06:30:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:26.531189635Z  [2022-03-31T06:30:26Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:26.531197894Z  [2022-03-31T06:30:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:26.531205511Z  [2022-03-31T06:30:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:29.562616399Z  [2022-03-31T06:30:29Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:29.611798700Z  [2022-03-31T06:30:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:29.611854642Z  [2022-03-31T06:30:29Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:29.611864156Z  [2022-03-31T06:30:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:29.611871597Z  [2022-03-31T06:30:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:33.803264198Z  [2022-03-31T06:30:33Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:33.930965661Z  [2022-03-31T06:30:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:33.931041535Z  [2022-03-31T06:30:33Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:33.931052111Z  [2022-03-31T06:30:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:33.931059361Z  [2022-03-31T06:30:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:36.932955188Z  [2022-03-31T06:30:36Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:30:37.055713820Z  [2022-03-31T06:30:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:37.055787005Z  [2022-03-31T06:30:37Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:37.055797275Z  [2022-03-31T06:30:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:37.055804895Z  [2022-03-31T06:30:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:40.113746832Z  [2022-03-31T06:30:40Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:40.262064893Z  [2022-03-31T06:30:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:40.262164992Z  [2022-03-31T06:30:40Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:40.262274527Z  [2022-03-31T06:30:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:40.262333728Z  [2022-03-31T06:30:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:43.814438809Z  [2022-03-31T06:30:43Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:43.848393339Z  [2022-03-31T06:30:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:43.848696835Z  [2022-03-31T06:30:43Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:43.848716626Z  [2022-03-31T06:30:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:43.848834155Z  [2022-03-31T06:30:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:46.850823376Z  [2022-03-31T06:30:46Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:30:46.884518221Z  [2022-03-31T06:30:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:46.884560513Z  [2022-03-31T06:30:46Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:46.884593989Z  [2022-03-31T06:30:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:46.884701504Z  [2022-03-31T06:30:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:49.908231499Z  [2022-03-31T06:30:49Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:49.955934543Z  [2022-03-31T06:30:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:49.955995363Z  [2022-03-31T06:30:49Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:49.956028766Z  [2022-03-31T06:30:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:49.956037107Z  [2022-03-31T06:30:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:54.080425175Z  [2022-03-31T06:30:54Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:30:54.230634438Z  [2022-03-31T06:30:54Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:54.230679397Z  [2022-03-31T06:30:54Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:54.230687867Z  [2022-03-31T06:30:54Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:54.230695120Z  [2022-03-31T06:30:54Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:30:57.232498581Z  [2022-03-31T06:30:57Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:30:57.277729017Z  [2022-03-31T06:30:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:30:57.277774646Z  [2022-03-31T06:30:57Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:30:57.277783054Z  [2022-03-31T06:30:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:30:57.277790461Z  [2022-03-31T06:30:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:00.325033192Z  [2022-03-31T06:31:00Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:00.376094816Z  [2022-03-31T06:31:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:00.376139268Z  [2022-03-31T06:31:00Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:00.376147820Z  [2022-03-31T06:31:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:00.376155271Z  [2022-03-31T06:31:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:03.928554193Z  [2022-03-31T06:31:03Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:03.959620484Z  [2022-03-31T06:31:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:03.959687457Z  [2022-03-31T06:31:03Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:03.959699625Z  [2022-03-31T06:31:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:03.959707224Z  [2022-03-31T06:31:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:06.961774282Z  [2022-03-31T06:31:06Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:31:07.145095616Z  [2022-03-31T06:31:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:07.145155130Z  [2022-03-31T06:31:07Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:07.145187408Z  [2022-03-31T06:31:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:07.145195678Z  [2022-03-31T06:31:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:10.181358515Z  [2022-03-31T06:31:10Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:10.301204659Z  [2022-03-31T06:31:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:10.301273809Z  [2022-03-31T06:31:10Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:10.301283744Z  [2022-03-31T06:31:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:10.301291277Z  [2022-03-31T06:31:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:13.967183393Z  [2022-03-31T06:31:13Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:14.010774254Z  [2022-03-31T06:31:14Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:14.010819055Z  [2022-03-31T06:31:14Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:14.010827645Z  [2022-03-31T06:31:14Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:14.010835002Z  [2022-03-31T06:31:14Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:17.012646369Z  [2022-03-31T06:31:17Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:31:17.065902586Z  [2022-03-31T06:31:17Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:17.065988828Z  [2022-03-31T06:31:17Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:17.065999146Z  [2022-03-31T06:31:17Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:17.066007291Z  [2022-03-31T06:31:17Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:20.113259965Z  [2022-03-31T06:31:20Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:20.262376450Z  [2022-03-31T06:31:20Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:20.262427035Z  [2022-03-31T06:31:20Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:20.262441573Z  [2022-03-31T06:31:20Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:20.262449104Z  [2022-03-31T06:31:20Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:24.168368928Z  [2022-03-31T06:31:24Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:24.275220221Z  [2022-03-31T06:31:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:24.275283362Z  [2022-03-31T06:31:24Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:24.275292628Z  [2022-03-31T06:31:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:24.275300487Z  [2022-03-31T06:31:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:27.280486547Z  [2022-03-31T06:31:27Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:31:27.319773270Z  [2022-03-31T06:31:27Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:27.319825743Z  [2022-03-31T06:31:27Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:27.319863189Z  [2022-03-31T06:31:27Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:27.320016507Z  [2022-03-31T06:31:27Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:30.346397383Z  [2022-03-31T06:31:30Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:30.385405037Z  [2022-03-31T06:31:30Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:30.385450422Z  [2022-03-31T06:31:30Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:30.385459045Z  [2022-03-31T06:31:30Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:30.385466370Z  [2022-03-31T06:31:30Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:34.001200767Z  [2022-03-31T06:31:34Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:34.031366386Z  [2022-03-31T06:31:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:34.031411342Z  [2022-03-31T06:31:34Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:34.031419941Z  [2022-03-31T06:31:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:34.031427531Z  [2022-03-31T06:31:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:37.033228240Z  [2022-03-31T06:31:37Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:31:37.101379570Z  [2022-03-31T06:31:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:37.101440001Z  [2022-03-31T06:31:37Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:37.101452593Z  [2022-03-31T06:31:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:37.101460167Z  [2022-03-31T06:31:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:40.133298709Z  [2022-03-31T06:31:40Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:40.291354810Z  [2022-03-31T06:31:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:40.291427230Z  [2022-03-31T06:31:40Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:40.291437569Z  [2022-03-31T06:31:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:40.291445531Z  [2022-03-31T06:31:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:43.867137562Z  [2022-03-31T06:31:43Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:43.897395047Z  [2022-03-31T06:31:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:43.897438441Z  [2022-03-31T06:31:43Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:43.897446867Z  [2022-03-31T06:31:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:43.897454418Z  [2022-03-31T06:31:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:46.900249269Z  [2022-03-31T06:31:46Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:31:47.094018419Z  [2022-03-31T06:31:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:47.094091253Z  [2022-03-31T06:31:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:47.094102473Z  [2022-03-31T06:31:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:47.094110435Z  [2022-03-31T06:31:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:50.345077821Z  [2022-03-31T06:31:50Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:50.510650477Z  [2022-03-31T06:31:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:50.510718265Z  [2022-03-31T06:31:50Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:50.510727653Z  [2022-03-31T06:31:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:50.510735014Z  [2022-03-31T06:31:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:54.172366391Z  [2022-03-31T06:31:54Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:31:54.277671292Z  [2022-03-31T06:31:54Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:54.277717227Z  [2022-03-31T06:31:54Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:54.277725499Z  [2022-03-31T06:31:54Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:54.277732666Z  [2022-03-31T06:31:54Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:31:57.279403616Z  [2022-03-31T06:31:57Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:31:57.311720303Z  [2022-03-31T06:31:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:31:57.311799294Z  [2022-03-31T06:31:57Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:31:57.311809801Z  [2022-03-31T06:31:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:31:57.311817338Z  [2022-03-31T06:31:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:00.343572588Z  [2022-03-31T06:32:00Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:00.387121147Z  [2022-03-31T06:32:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:00.387164995Z  [2022-03-31T06:32:00Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:00.387173410Z  [2022-03-31T06:32:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:00.387186228Z  [2022-03-31T06:32:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:03.985665901Z  [2022-03-31T06:32:03Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:04.022785585Z  [2022-03-31T06:32:04Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:04.022840578Z  [2022-03-31T06:32:04Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:04.022850412Z  [2022-03-31T06:32:04Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:04.022857657Z  [2022-03-31T06:32:04Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:07.024979003Z  [2022-03-31T06:32:07Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:32:07.094056445Z  [2022-03-31T06:32:07Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:07.094102230Z  [2022-03-31T06:32:07Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:07.094111091Z  [2022-03-31T06:32:07Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:07.094118663Z  [2022-03-31T06:32:07Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:10.130709568Z  [2022-03-31T06:32:10Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:10.187963428Z  [2022-03-31T06:32:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:10.188014132Z  [2022-03-31T06:32:10Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:10.188069789Z  [2022-03-31T06:32:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:10.188105114Z  [2022-03-31T06:32:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:13.729420290Z  [2022-03-31T06:32:13Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:13.762266335Z  [2022-03-31T06:32:13Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:13.762358495Z  [2022-03-31T06:32:13Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:13.762467073Z  [2022-03-31T06:32:13Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:13.762507594Z  [2022-03-31T06:32:13Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:16.764583323Z  [2022-03-31T06:32:16Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:32:16.797290126Z  [2022-03-31T06:32:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:16.797472674Z  [2022-03-31T06:32:16Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:16.797549788Z  [2022-03-31T06:32:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:16.797645565Z  [2022-03-31T06:32:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:19.828300079Z  [2022-03-31T06:32:19Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:19.871521926Z  [2022-03-31T06:32:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:19.871565969Z  [2022-03-31T06:32:19Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:19.871574420Z  [2022-03-31T06:32:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:19.871581780Z  [2022-03-31T06:32:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:23.687944848Z  [2022-03-31T06:32:23Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:23.723989798Z  [2022-03-31T06:32:23Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:23.724043525Z  [2022-03-31T06:32:23Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:23.724052846Z  [2022-03-31T06:32:23Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:23.724060084Z  [2022-03-31T06:32:23Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:26.726129973Z  [2022-03-31T06:32:26Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:32:26.771406162Z  [2022-03-31T06:32:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:26.771480086Z  [2022-03-31T06:32:26Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:26.771489317Z  [2022-03-31T06:32:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:26.771496870Z  [2022-03-31T06:32:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:29.797741588Z  [2022-03-31T06:32:29Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:29.838423781Z  [2022-03-31T06:32:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:29.838481542Z  [2022-03-31T06:32:29Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:29.838490019Z  [2022-03-31T06:32:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:29.838497373Z  [2022-03-31T06:32:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:33.445628518Z  [2022-03-31T06:32:33Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:33.483841810Z  [2022-03-31T06:32:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:33.483903401Z  [2022-03-31T06:32:33Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:33.483938463Z  [2022-03-31T06:32:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:33.483946623Z  [2022-03-31T06:32:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:36.486054080Z  [2022-03-31T06:32:36Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:32:36.630600857Z  [2022-03-31T06:32:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:36.630653112Z  [2022-03-31T06:32:36Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:36.630664304Z  [2022-03-31T06:32:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:36.630674043Z  [2022-03-31T06:32:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:39.657625591Z  [2022-03-31T06:32:39Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:39.691642205Z  [2022-03-31T06:32:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:39.691680992Z  [2022-03-31T06:32:39Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:39.691689521Z  [2022-03-31T06:32:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:39.691697125Z  [2022-03-31T06:32:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:43.307885013Z  [2022-03-31T06:32:43Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:43.342416750Z  [2022-03-31T06:32:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:43.342461248Z  [2022-03-31T06:32:43Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:43.342469788Z  [2022-03-31T06:32:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:43.342477105Z  [2022-03-31T06:32:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:46.344718749Z  [2022-03-31T06:32:46Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:32:46.398288657Z  [2022-03-31T06:32:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:46.398333226Z  [2022-03-31T06:32:46Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:46.398341470Z  [2022-03-31T06:32:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:46.398348980Z  [2022-03-31T06:32:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:49.423975973Z  [2022-03-31T06:32:49Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:49.463337627Z  [2022-03-31T06:32:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:49.463384366Z  [2022-03-31T06:32:49Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:49.463397145Z  [2022-03-31T06:32:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:49.463427419Z  [2022-03-31T06:32:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:52.972616759Z  [2022-03-31T06:32:52Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:53.005122273Z  [2022-03-31T06:32:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:53.005169429Z  [2022-03-31T06:32:53Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:53.005178338Z  [2022-03-31T06:32:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:53.005186159Z  [2022-03-31T06:32:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:56.006850234Z  [2022-03-31T06:32:56Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:32:56.041787375Z  [2022-03-31T06:32:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:56.041852105Z  [2022-03-31T06:32:56Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:56.041863056Z  [2022-03-31T06:32:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:56.041871068Z  [2022-03-31T06:32:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:32:59.068831233Z  [2022-03-31T06:32:59Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:32:59.124608082Z  [2022-03-31T06:32:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:32:59.124661947Z  [2022-03-31T06:32:59Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:32:59.124672904Z  [2022-03-31T06:32:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:32:59.124680838Z  [2022-03-31T06:32:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:02.838988059Z  [2022-03-31T06:33:02Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:02.868942237Z  [2022-03-31T06:33:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:02.868996367Z  [2022-03-31T06:33:02Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:02.869015128Z  [2022-03-31T06:33:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:02.869031122Z  [2022-03-31T06:33:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:05.870687911Z  [2022-03-31T06:33:05Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:33:05.906830930Z  [2022-03-31T06:33:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:05.906873291Z  [2022-03-31T06:33:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:05.906882379Z  [2022-03-31T06:33:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:05.906912733Z  [2022-03-31T06:33:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:08.973248934Z  [2022-03-31T06:33:08Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:09.118618253Z  [2022-03-31T06:33:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:09.118680486Z  [2022-03-31T06:33:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:09.118690281Z  [2022-03-31T06:33:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:09.118697828Z  [2022-03-31T06:33:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:12.661072578Z  [2022-03-31T06:33:12Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:12.686836248Z  [2022-03-31T06:33:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:12.686893391Z  [2022-03-31T06:33:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:12.686902231Z  [2022-03-31T06:33:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:12.686909605Z  [2022-03-31T06:33:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:15.688730509Z  [2022-03-31T06:33:15Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:33:15.722103951Z  [2022-03-31T06:33:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:15.722153314Z  [2022-03-31T06:33:15Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:15.722163334Z  [2022-03-31T06:33:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:15.722170835Z  [2022-03-31T06:33:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:18.743358513Z  [2022-03-31T06:33:18Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:18.778733043Z  [2022-03-31T06:33:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:18.778786365Z  [2022-03-31T06:33:18Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:18.778794873Z  [2022-03-31T06:33:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:18.778802357Z  [2022-03-31T06:33:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:23.061937912Z  [2022-03-31T06:33:23Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:23.172502775Z  [2022-03-31T06:33:23Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:23.172556451Z  [2022-03-31T06:33:23Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:23.172565381Z  [2022-03-31T06:33:23Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:23.172572635Z  [2022-03-31T06:33:23Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:26.174427341Z  [2022-03-31T06:33:26Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:33:26.212031321Z  [2022-03-31T06:33:26Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:26.212088312Z  [2022-03-31T06:33:26Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:26.212097393Z  [2022-03-31T06:33:26Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:26.212104896Z  [2022-03-31T06:33:26Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:29.237942102Z  [2022-03-31T06:33:29Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:29.276040772Z  [2022-03-31T06:33:29Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:29.276102039Z  [2022-03-31T06:33:29Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:29.276112286Z  [2022-03-31T06:33:29Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:29.276120320Z  [2022-03-31T06:33:29Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:33.306127899Z  [2022-03-31T06:33:33Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:33.405892525Z  [2022-03-31T06:33:33Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:33.405939290Z  [2022-03-31T06:33:33Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:33.405948329Z  [2022-03-31T06:33:33Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:33.405956093Z  [2022-03-31T06:33:33Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:36.408119646Z  [2022-03-31T06:33:36Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:33:36.446522122Z  [2022-03-31T06:33:36Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:36.446592404Z  [2022-03-31T06:33:36Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:36.446604640Z  [2022-03-31T06:33:36Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:36.446612764Z  [2022-03-31T06:33:36Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:39.471993552Z  [2022-03-31T06:33:39Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:39.510096163Z  [2022-03-31T06:33:39Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:39.510142855Z  [2022-03-31T06:33:39Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:39.510151924Z  [2022-03-31T06:33:39Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:39.510159678Z  [2022-03-31T06:33:39Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:42.989661218Z  [2022-03-31T06:33:42Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:43.018921599Z  [2022-03-31T06:33:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:43.018965963Z  [2022-03-31T06:33:43Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:43.018974480Z  [2022-03-31T06:33:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:43.018981961Z  [2022-03-31T06:33:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:46.022204062Z  [2022-03-31T06:33:46Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:33:46.058978848Z  [2022-03-31T06:33:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:46.059042189Z  [2022-03-31T06:33:46Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:46.059051309Z  [2022-03-31T06:33:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:46.059058796Z  [2022-03-31T06:33:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:49.190371811Z  [2022-03-31T06:33:49Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:49.421928462Z  [2022-03-31T06:33:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:49.421996230Z  [2022-03-31T06:33:49Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:49.422010214Z  [2022-03-31T06:33:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:49.422022301Z  [2022-03-31T06:33:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:52.884043615Z  [2022-03-31T06:33:52Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:52.911924925Z  [2022-03-31T06:33:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:52.911990432Z  [2022-03-31T06:33:52Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:52.912000242Z  [2022-03-31T06:33:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:52.912007875Z  [2022-03-31T06:33:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:55.914139265Z  [2022-03-31T06:33:55Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:33:55.947313704Z  [2022-03-31T06:33:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:55.947358800Z  [2022-03-31T06:33:55Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:55.947388096Z  [2022-03-31T06:33:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:55.947397084Z  [2022-03-31T06:33:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:33:59.015677194Z  [2022-03-31T06:33:59Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:33:59.117102043Z  [2022-03-31T06:33:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:33:59.117171699Z  [2022-03-31T06:33:59Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:33:59.117185820Z  [2022-03-31T06:33:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:33:59.117193016Z  [2022-03-31T06:33:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:02.852122205Z  [2022-03-31T06:34:02Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:02.887674547Z  [2022-03-31T06:34:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:02.887719997Z  [2022-03-31T06:34:02Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:02.887746071Z  [2022-03-31T06:34:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:02.887755192Z  [2022-03-31T06:34:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:05.889492532Z  [2022-03-31T06:34:05Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:34:05.921602770Z  [2022-03-31T06:34:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:05.921647174Z  [2022-03-31T06:34:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:05.921656434Z  [2022-03-31T06:34:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:05.921664347Z  [2022-03-31T06:34:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:08.985652837Z  [2022-03-31T06:34:08Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:09.174806564Z  [2022-03-31T06:34:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:09.174841752Z  [2022-03-31T06:34:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:09.174868466Z  [2022-03-31T06:34:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:09.174877826Z  [2022-03-31T06:34:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:12.757863998Z  [2022-03-31T06:34:12Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:12.784974444Z  [2022-03-31T06:34:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:12.785019107Z  [2022-03-31T06:34:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:12.785028219Z  [2022-03-31T06:34:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:12.785035783Z  [2022-03-31T06:34:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:15.787237806Z  [2022-03-31T06:34:15Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:34:15.819186732Z  [2022-03-31T06:34:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:15.819224088Z  [2022-03-31T06:34:15Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:15.819273758Z  [2022-03-31T06:34:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:15.819283174Z  [2022-03-31T06:34:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:18.844110358Z  [2022-03-31T06:34:18Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:18.873977354Z  [2022-03-31T06:34:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:18.874022095Z  [2022-03-31T06:34:18Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:18.874030433Z  [2022-03-31T06:34:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:18.874037723Z  [2022-03-31T06:34:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:22.316420894Z  [2022-03-31T06:34:22Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:22.343459254Z  [2022-03-31T06:34:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:22.343504553Z  [2022-03-31T06:34:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:22.343519271Z  [2022-03-31T06:34:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:22.343527058Z  [2022-03-31T06:34:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:25.345620403Z  [2022-03-31T06:34:25Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:34:25.383499748Z  [2022-03-31T06:34:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:25.383559883Z  [2022-03-31T06:34:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:25.383570472Z  [2022-03-31T06:34:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:25.383593951Z  [2022-03-31T06:34:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:28.447346639Z  [2022-03-31T06:34:28Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:28.578316207Z  [2022-03-31T06:34:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:28.578383495Z  [2022-03-31T06:34:28Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:28.578392176Z  [2022-03-31T06:34:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:28.578399988Z  [2022-03-31T06:34:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:31.973547800Z  [2022-03-31T06:34:31Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:31.999606500Z  [2022-03-31T06:34:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:31.999644841Z  [2022-03-31T06:34:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:31.999653501Z  [2022-03-31T06:34:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:31.999683624Z  [2022-03-31T06:34:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:35.001498612Z  [2022-03-31T06:34:35Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:34:35.040021883Z  [2022-03-31T06:34:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:35.040076940Z  [2022-03-31T06:34:35Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:35.040087026Z  [2022-03-31T06:34:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:35.040094871Z  [2022-03-31T06:34:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:38.061394062Z  [2022-03-31T06:34:38Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:38.096449485Z  [2022-03-31T06:34:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:38.096494010Z  [2022-03-31T06:34:38Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:38.096503606Z  [2022-03-31T06:34:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:38.096511998Z  [2022-03-31T06:34:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:41.484189667Z  [2022-03-31T06:34:41Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:41.511989360Z  [2022-03-31T06:34:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:41.512038638Z  [2022-03-31T06:34:41Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:41.512054790Z  [2022-03-31T06:34:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:41.512075213Z  [2022-03-31T06:34:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:44.514126374Z  [2022-03-31T06:34:44Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:34:44.546829428Z  [2022-03-31T06:34:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:44.546878430Z  [2022-03-31T06:34:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:44.546892503Z  [2022-03-31T06:34:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:44.546900393Z  [2022-03-31T06:34:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:47.568321884Z  [2022-03-31T06:34:47Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:47.599740105Z  [2022-03-31T06:34:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:47.599782337Z  [2022-03-31T06:34:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:47.599791104Z  [2022-03-31T06:34:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:47.599798740Z  [2022-03-31T06:34:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:51.009860851Z  [2022-03-31T06:34:51Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:51.039391004Z  [2022-03-31T06:34:51Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:51.039464388Z  [2022-03-31T06:34:51Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:51.039473229Z  [2022-03-31T06:34:51Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:51.039480608Z  [2022-03-31T06:34:51Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:54.041327246Z  [2022-03-31T06:34:54Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:34:54.074117654Z  [2022-03-31T06:34:54Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:54.074162906Z  [2022-03-31T06:34:54Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:54.074179512Z  [2022-03-31T06:34:54Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:54.074193725Z  [2022-03-31T06:34:54Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:34:57.094859649Z  [2022-03-31T06:34:57Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:34:57.131661107Z  [2022-03-31T06:34:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:34:57.131721683Z  [2022-03-31T06:34:57Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:34:57.131731443Z  [2022-03-31T06:34:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:34:57.131739161Z  [2022-03-31T06:34:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:00.533320408Z  [2022-03-31T06:35:00Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:00.560650175Z  [2022-03-31T06:35:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:00.560712079Z  [2022-03-31T06:35:00Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:00.560731982Z  [2022-03-31T06:35:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:00.560748587Z  [2022-03-31T06:35:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:03.562372646Z  [2022-03-31T06:35:03Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:35:03.595929333Z  [2022-03-31T06:35:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:03.595984684Z  [2022-03-31T06:35:03Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:03.595993844Z  [2022-03-31T06:35:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:03.596001804Z  [2022-03-31T06:35:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:06.618181611Z  [2022-03-31T06:35:06Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:06.645108999Z  [2022-03-31T06:35:06Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:06.645160996Z  [2022-03-31T06:35:06Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:06.645169957Z  [2022-03-31T06:35:06Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:06.645178102Z  [2022-03-31T06:35:06Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:10.004179477Z  [2022-03-31T06:35:10Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:10.033439244Z  [2022-03-31T06:35:10Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:10.033486021Z  [2022-03-31T06:35:10Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:10.033496756Z  [2022-03-31T06:35:10Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:10.033506068Z  [2022-03-31T06:35:10Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:13.035128654Z  [2022-03-31T06:35:13Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:35:13.065847891Z  [2022-03-31T06:35:13Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:13.065914596Z  [2022-03-31T06:35:13Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:13.065924752Z  [2022-03-31T06:35:13Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:13.065932553Z  [2022-03-31T06:35:13Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:16.088516506Z  [2022-03-31T06:35:16Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:16.118101867Z  [2022-03-31T06:35:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:16.118155238Z  [2022-03-31T06:35:16Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:16.118164032Z  [2022-03-31T06:35:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:16.118171860Z  [2022-03-31T06:35:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:19.472003159Z  [2022-03-31T06:35:19Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:19.496969658Z  [2022-03-31T06:35:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:19.497012890Z  [2022-03-31T06:35:19Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:19.497022471Z  [2022-03-31T06:35:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:19.497030752Z  [2022-03-31T06:35:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:22.498854178Z  [2022-03-31T06:35:22Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:35:22.535546082Z  [2022-03-31T06:35:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:22.535584122Z  [2022-03-31T06:35:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:22.535592654Z  [2022-03-31T06:35:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:22.535599924Z  [2022-03-31T06:35:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:25.556762369Z  [2022-03-31T06:35:25Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:25.585163263Z  [2022-03-31T06:35:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:25.585236575Z  [2022-03-31T06:35:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:25.585251065Z  [2022-03-31T06:35:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:25.585258841Z  [2022-03-31T06:35:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:28.926277510Z  [2022-03-31T06:35:28Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:28.954507326Z  [2022-03-31T06:35:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:28.954665722Z  [2022-03-31T06:35:28Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:28.954698620Z  [2022-03-31T06:35:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:28.954720587Z  [2022-03-31T06:35:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:31.957170245Z  [2022-03-31T06:35:31Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:35:31.992311321Z  [2022-03-31T06:35:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:31.992379453Z  [2022-03-31T06:35:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:31.992409185Z  [2022-03-31T06:35:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:31.992425404Z  [2022-03-31T06:35:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:35.017691651Z  [2022-03-31T06:35:35Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:35.046753281Z  [2022-03-31T06:35:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:35.046817231Z  [2022-03-31T06:35:35Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:35.046825652Z  [2022-03-31T06:35:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:35.046833116Z  [2022-03-31T06:35:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:38.404791672Z  [2022-03-31T06:35:38Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:38.435666640Z  [2022-03-31T06:35:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:38.435733176Z  [2022-03-31T06:35:38Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:38.435824156Z  [2022-03-31T06:35:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:38.435834444Z  [2022-03-31T06:35:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:41.437975000Z  [2022-03-31T06:35:41Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:35:41.469000537Z  [2022-03-31T06:35:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:41.469053944Z  [2022-03-31T06:35:41Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:41.469066266Z  [2022-03-31T06:35:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:41.469091746Z  [2022-03-31T06:35:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:44.489779329Z  [2022-03-31T06:35:44Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:44.527867377Z  [2022-03-31T06:35:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:44.527914535Z  [2022-03-31T06:35:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:44.527924501Z  [2022-03-31T06:35:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:44.527933207Z  [2022-03-31T06:35:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:47.847559822Z  [2022-03-31T06:35:47Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:47.877253846Z  [2022-03-31T06:35:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:47.877314206Z  [2022-03-31T06:35:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:47.877323801Z  [2022-03-31T06:35:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:47.877331593Z  [2022-03-31T06:35:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:50.879178977Z  [2022-03-31T06:35:50Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:35:50.921297069Z  [2022-03-31T06:35:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:50.921339314Z  [2022-03-31T06:35:50Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:50.921348350Z  [2022-03-31T06:35:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:50.921356379Z  [2022-03-31T06:35:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:53.942332470Z  [2022-03-31T06:35:53Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:53.972300700Z  [2022-03-31T06:35:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:53.972367375Z  [2022-03-31T06:35:53Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:53.972404788Z  [2022-03-31T06:35:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:53.972445496Z  [2022-03-31T06:35:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:35:57.290786195Z  [2022-03-31T06:35:57Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:35:57.321189591Z  [2022-03-31T06:35:57Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:35:57.321238119Z  [2022-03-31T06:35:57Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:35:57.321256452Z  [2022-03-31T06:35:57Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:35:57.321272270Z  [2022-03-31T06:35:57Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:00.323566846Z  [2022-03-31T06:36:00Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:36:00.358994974Z  [2022-03-31T06:36:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:00.359044075Z  [2022-03-31T06:36:00Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:00.359053753Z  [2022-03-31T06:36:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:00.359061198Z  [2022-03-31T06:36:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:03.385808334Z  [2022-03-31T06:36:03Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:03.416886909Z  [2022-03-31T06:36:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:03.416929423Z  [2022-03-31T06:36:03Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:03.416937688Z  [2022-03-31T06:36:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:03.416944860Z  [2022-03-31T06:36:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:06.728374064Z  [2022-03-31T06:36:06Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:06.754426863Z  [2022-03-31T06:36:06Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:06.754512371Z  [2022-03-31T06:36:06Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:06.754533722Z  [2022-03-31T06:36:06Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:06.754551624Z  [2022-03-31T06:36:06Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:09.756263407Z  [2022-03-31T06:36:09Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:36:09.798600995Z  [2022-03-31T06:36:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:09.798649702Z  [2022-03-31T06:36:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:09.798662462Z  [2022-03-31T06:36:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:09.798894393Z  [2022-03-31T06:36:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:12.820240737Z  [2022-03-31T06:36:12Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:12.850224108Z  [2022-03-31T06:36:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:12.850264150Z  [2022-03-31T06:36:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:12.850285246Z  [2022-03-31T06:36:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:12.850293108Z  [2022-03-31T06:36:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:16.131731914Z  [2022-03-31T06:36:16Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:16.159870270Z  [2022-03-31T06:36:16Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:16.159911558Z  [2022-03-31T06:36:16Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:16.159920227Z  [2022-03-31T06:36:16Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:16.159927650Z  [2022-03-31T06:36:16Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:19.161828766Z  [2022-03-31T06:36:19Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:36:19.190288468Z  [2022-03-31T06:36:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:19.190338824Z  [2022-03-31T06:36:19Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:19.190353433Z  [2022-03-31T06:36:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:19.190364365Z  [2022-03-31T06:36:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:22.209749546Z  [2022-03-31T06:36:22Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:22.238070150Z  [2022-03-31T06:36:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:22.238112794Z  [2022-03-31T06:36:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:22.238128831Z  [2022-03-31T06:36:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:22.238137199Z  [2022-03-31T06:36:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:25.553254695Z  [2022-03-31T06:36:25Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:25.580774188Z  [2022-03-31T06:36:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:25.580833097Z  [2022-03-31T06:36:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:25.580852379Z  [2022-03-31T06:36:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:25.580866216Z  [2022-03-31T06:36:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:28.583020912Z  [2022-03-31T06:36:28Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:36:28.622043306Z  [2022-03-31T06:36:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:28.622221329Z  [2022-03-31T06:36:28Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:28.622385867Z  [2022-03-31T06:36:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:28.622555009Z  [2022-03-31T06:36:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:31.645685393Z  [2022-03-31T06:36:31Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:31.671382741Z  [2022-03-31T06:36:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:31.671442303Z  [2022-03-31T06:36:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:31.671452057Z  [2022-03-31T06:36:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:31.671459960Z  [2022-03-31T06:36:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:34.971571106Z  [2022-03-31T06:36:34Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:35.005257827Z  [2022-03-31T06:36:35Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:35.005305622Z  [2022-03-31T06:36:35Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:35.005316282Z  [2022-03-31T06:36:35Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:35.005325442Z  [2022-03-31T06:36:35Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:38.007722302Z  [2022-03-31T06:36:38Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:36:38.044551598Z  [2022-03-31T06:36:38Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:38.044594694Z  [2022-03-31T06:36:38Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:38.044603224Z  [2022-03-31T06:36:38Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:38.044610651Z  [2022-03-31T06:36:38Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:41.064093324Z  [2022-03-31T06:36:41Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:41.098335690Z  [2022-03-31T06:36:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:41.098410464Z  [2022-03-31T06:36:41Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:41.098424440Z  [2022-03-31T06:36:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:41.098431978Z  [2022-03-31T06:36:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:44.372377196Z  [2022-03-31T06:36:44Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:44.399889463Z  [2022-03-31T06:36:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:44.399943981Z  [2022-03-31T06:36:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:44.399952752Z  [2022-03-31T06:36:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:44.399960064Z  [2022-03-31T06:36:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:47.402153717Z  [2022-03-31T06:36:47Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:36:47.433976368Z  [2022-03-31T06:36:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:47.434017240Z  [2022-03-31T06:36:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:47.434025839Z  [2022-03-31T06:36:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:47.434033083Z  [2022-03-31T06:36:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:50.459499534Z  [2022-03-31T06:36:50Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:50.494057774Z  [2022-03-31T06:36:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:50.494131224Z  [2022-03-31T06:36:50Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:50.494275112Z  [2022-03-31T06:36:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:50.494443237Z  [2022-03-31T06:36:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:53.820074492Z  [2022-03-31T06:36:53Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:53.850853203Z  [2022-03-31T06:36:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:53.850899347Z  [2022-03-31T06:36:53Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:53.850909734Z  [2022-03-31T06:36:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:53.850918894Z  [2022-03-31T06:36:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:56.853353374Z  [2022-03-31T06:36:56Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:36:56.891342226Z  [2022-03-31T06:36:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:56.891384502Z  [2022-03-31T06:36:56Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:56.891394470Z  [2022-03-31T06:36:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:56.891402427Z  [2022-03-31T06:36:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:36:59.911850891Z  [2022-03-31T06:36:59Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:36:59.938638971Z  [2022-03-31T06:36:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:36:59.938688034Z  [2022-03-31T06:36:59Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:36:59.938700314Z  [2022-03-31T06:36:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:36:59.938710771Z  [2022-03-31T06:36:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:03.211152787Z  [2022-03-31T06:37:03Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:03.239519952Z  [2022-03-31T06:37:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:03.239567466Z  [2022-03-31T06:37:03Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:03.239580387Z  [2022-03-31T06:37:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:03.239591753Z  [2022-03-31T06:37:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:06.242249934Z  [2022-03-31T06:37:06Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:37:06.276513532Z  [2022-03-31T06:37:06Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:06.276575166Z  [2022-03-31T06:37:06Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:06.276584036Z  [2022-03-31T06:37:06Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:06.276591495Z  [2022-03-31T06:37:06Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:09.296739834Z  [2022-03-31T06:37:09Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:09.323418320Z  [2022-03-31T06:37:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:09.323459809Z  [2022-03-31T06:37:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:09.323469652Z  [2022-03-31T06:37:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:09.323477936Z  [2022-03-31T06:37:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:12.724040158Z  [2022-03-31T06:37:12Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:12.752389802Z  [2022-03-31T06:37:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:12.752458395Z  [2022-03-31T06:37:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:12.752467118Z  [2022-03-31T06:37:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:12.752474619Z  [2022-03-31T06:37:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:15.754133517Z  [2022-03-31T06:37:15Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:37:15.788140008Z  [2022-03-31T06:37:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:15.788199643Z  [2022-03-31T06:37:15Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:15.788208842Z  [2022-03-31T06:37:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:15.788216226Z  [2022-03-31T06:37:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:18.810115341Z  [2022-03-31T06:37:18Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:18.840033658Z  [2022-03-31T06:37:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:18.840073411Z  [2022-03-31T06:37:18Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:18.840084219Z  [2022-03-31T06:37:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:18.840093353Z  [2022-03-31T06:37:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:22.442405552Z  [2022-03-31T06:37:22Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:22.472500882Z  [2022-03-31T06:37:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:22.472563205Z  [2022-03-31T06:37:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:22.472575231Z  [2022-03-31T06:37:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:22.472585650Z  [2022-03-31T06:37:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:25.475430913Z  [2022-03-31T06:37:25Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:37:25.508530437Z  [2022-03-31T06:37:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:25.508589551Z  [2022-03-31T06:37:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:25.508601765Z  [2022-03-31T06:37:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:25.508612217Z  [2022-03-31T06:37:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:28.527179489Z  [2022-03-31T06:37:28Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:28.554463355Z  [2022-03-31T06:37:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:28.554507893Z  [2022-03-31T06:37:28Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:28.554544864Z  [2022-03-31T06:37:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:28.554557900Z  [2022-03-31T06:37:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:31.827003786Z  [2022-03-31T06:37:31Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:31.856486864Z  [2022-03-31T06:37:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:31.856527737Z  [2022-03-31T06:37:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:31.856569410Z  [2022-03-31T06:37:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:31.856581609Z  [2022-03-31T06:37:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:34.860151744Z  [2022-03-31T06:37:34Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:37:34.903194804Z  [2022-03-31T06:37:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:34.903305849Z  [2022-03-31T06:37:34Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:34.903353516Z  [2022-03-31T06:37:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:34.903377828Z  [2022-03-31T06:37:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:37.928758794Z  [2022-03-31T06:37:37Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:37.956923793Z  [2022-03-31T06:37:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:37.956996510Z  [2022-03-31T06:37:37Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:37.957009970Z  [2022-03-31T06:37:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:37.957020416Z  [2022-03-31T06:37:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:41.194618478Z  [2022-03-31T06:37:41Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:41.220670204Z  [2022-03-31T06:37:41Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:41.220711539Z  [2022-03-31T06:37:41Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:41.220723443Z  [2022-03-31T06:37:41Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:41.220733526Z  [2022-03-31T06:37:41Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:44.224731763Z  [2022-03-31T06:37:44Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:37:44.255167847Z  [2022-03-31T06:37:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:44.255208470Z  [2022-03-31T06:37:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:44.255217577Z  [2022-03-31T06:37:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:44.255226214Z  [2022-03-31T06:37:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:47.282511174Z  [2022-03-31T06:37:47Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:47.313227952Z  [2022-03-31T06:37:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:47.313270715Z  [2022-03-31T06:37:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:47.313282853Z  [2022-03-31T06:37:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:47.313386972Z  [2022-03-31T06:37:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:50.689150142Z  [2022-03-31T06:37:50Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:50.716912175Z  [2022-03-31T06:37:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:50.716964096Z  [2022-03-31T06:37:50Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:50.716976785Z  [2022-03-31T06:37:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:50.716987808Z  [2022-03-31T06:37:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:53.719348887Z  [2022-03-31T06:37:53Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:37:53.753921809Z  [2022-03-31T06:37:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:53.753954085Z  [2022-03-31T06:37:53Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:53.753963676Z  [2022-03-31T06:37:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:53.753988737Z  [2022-03-31T06:37:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:37:56.778105987Z  [2022-03-31T06:37:56Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:37:56.809107025Z  [2022-03-31T06:37:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:37:56.809418881Z  [2022-03-31T06:37:56Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:37:56.809487347Z  [2022-03-31T06:37:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:37:56.809561112Z  [2022-03-31T06:37:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:00.178538641Z  [2022-03-31T06:38:00Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:00.207893767Z  [2022-03-31T06:38:00Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:00.208097892Z  [2022-03-31T06:38:00Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:00.208177624Z  [2022-03-31T06:38:00Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:00.208247219Z  [2022-03-31T06:38:00Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:03.211590123Z  [2022-03-31T06:38:03Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:38:03.253289038Z  [2022-03-31T06:38:03Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:03.253353540Z  [2022-03-31T06:38:03Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:03.253362902Z  [2022-03-31T06:38:03Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:03.253392414Z  [2022-03-31T06:38:03Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:06.279204254Z  [2022-03-31T06:38:06Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:06.306934179Z  [2022-03-31T06:38:06Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:06.306982345Z  [2022-03-31T06:38:06Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:06.306995203Z  [2022-03-31T06:38:06Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:06.307006466Z  [2022-03-31T06:38:06Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:09.635266532Z  [2022-03-31T06:38:09Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:09.674576419Z  [2022-03-31T06:38:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:09.674682830Z  [2022-03-31T06:38:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:09.674695672Z  [2022-03-31T06:38:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:09.674757581Z  [2022-03-31T06:38:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:12.677269770Z  [2022-03-31T06:38:12Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:38:12.722088665Z  [2022-03-31T06:38:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:12.722128570Z  [2022-03-31T06:38:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:12.722137746Z  [2022-03-31T06:38:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:12.722163838Z  [2022-03-31T06:38:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:15.749118124Z  [2022-03-31T06:38:15Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:15.778403670Z  [2022-03-31T06:38:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:15.778455436Z  [2022-03-31T06:38:15Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:15.778468400Z  [2022-03-31T06:38:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:15.778479631Z  [2022-03-31T06:38:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:19.086504757Z  [2022-03-31T06:38:19Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:19.116905003Z  [2022-03-31T06:38:19Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:19.116959637Z  [2022-03-31T06:38:19Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:19.116982652Z  [2022-03-31T06:38:19Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:19.117002910Z  [2022-03-31T06:38:19Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:22.119817423Z  [2022-03-31T06:38:22Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:38:22.157552113Z  [2022-03-31T06:38:22Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:22.157640504Z  [2022-03-31T06:38:22Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:22.157686316Z  [2022-03-31T06:38:22Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:22.157705627Z  [2022-03-31T06:38:22Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:25.178290816Z  [2022-03-31T06:38:25Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:25.211996105Z  [2022-03-31T06:38:25Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:25.212038336Z  [2022-03-31T06:38:25Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:25.212047168Z  [2022-03-31T06:38:25Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:25.212054764Z  [2022-03-31T06:38:25Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:28.490062101Z  [2022-03-31T06:38:28Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:28.518390050Z  [2022-03-31T06:38:28Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:28.518430717Z  [2022-03-31T06:38:28Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:28.518443596Z  [2022-03-31T06:38:28Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:28.518454621Z  [2022-03-31T06:38:28Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:31.521954772Z  [2022-03-31T06:38:31Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:38:31.562372248Z  [2022-03-31T06:38:31Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:31.562482774Z  [2022-03-31T06:38:31Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:31.562496570Z  [2022-03-31T06:38:31Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:31.562646160Z  [2022-03-31T06:38:31Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:34.588389449Z  [2022-03-31T06:38:34Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:34.619315248Z  [2022-03-31T06:38:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:34.619365269Z  [2022-03-31T06:38:34Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:34.619379058Z  [2022-03-31T06:38:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:34.619389730Z  [2022-03-31T06:38:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:37.876724835Z  [2022-03-31T06:38:37Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:37.915570082Z  [2022-03-31T06:38:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:37.915657820Z  [2022-03-31T06:38:37Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:37.915674033Z  [2022-03-31T06:38:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:37.915686393Z  [2022-03-31T06:38:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:40.918931334Z  [2022-03-31T06:38:40Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:38:40.955613659Z  [2022-03-31T06:38:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:40.955660756Z  [2022-03-31T06:38:40Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:40.955670657Z  [2022-03-31T06:38:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:40.955678087Z  [2022-03-31T06:38:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:43.985611378Z  [2022-03-31T06:38:43Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:44.016968830Z  [2022-03-31T06:38:44Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:44.017020095Z  [2022-03-31T06:38:44Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:44.017031154Z  [2022-03-31T06:38:44Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:44.017040828Z  [2022-03-31T06:38:44Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:47.253693203Z  [2022-03-31T06:38:47Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:47.282020151Z  [2022-03-31T06:38:47Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:47.282090805Z  [2022-03-31T06:38:47Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:47.282121491Z  [2022-03-31T06:38:47Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:47.282133706Z  [2022-03-31T06:38:47Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:50.284481676Z  [2022-03-31T06:38:50Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:38:50.326963293Z  [2022-03-31T06:38:50Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:50.327004404Z  [2022-03-31T06:38:50Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:50.327020230Z  [2022-03-31T06:38:50Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:50.327034113Z  [2022-03-31T06:38:50Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:53.346987955Z  [2022-03-31T06:38:53Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:53.374907634Z  [2022-03-31T06:38:53Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:53.374980195Z  [2022-03-31T06:38:53Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:53.374993256Z  [2022-03-31T06:38:53Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:53.375003247Z  [2022-03-31T06:38:53Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:56.600981407Z  [2022-03-31T06:38:56Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:38:56.632452275Z  [2022-03-31T06:38:56Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:56.632496536Z  [2022-03-31T06:38:56Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:56.632509273Z  [2022-03-31T06:38:56Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:56.632520337Z  [2022-03-31T06:38:56Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:38:59.636820721Z  [2022-03-31T06:38:59Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:38:59.669968361Z  [2022-03-31T06:38:59Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:38:59.670253105Z  [2022-03-31T06:38:59Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:38:59.670291539Z  [2022-03-31T06:38:59Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:38:59.670433090Z  [2022-03-31T06:38:59Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:02.692034008Z  [2022-03-31T06:39:02Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:02.723554339Z  [2022-03-31T06:39:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:02.723611960Z  [2022-03-31T06:39:02Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:02.723627995Z  [2022-03-31T06:39:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:02.723638745Z  [2022-03-31T06:39:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:05.958932465Z  [2022-03-31T06:39:05Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:05.988143013Z  [2022-03-31T06:39:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:05.988184629Z  [2022-03-31T06:39:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:05.988196256Z  [2022-03-31T06:39:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:05.988206313Z  [2022-03-31T06:39:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:08.991465668Z  [2022-03-31T06:39:08Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:39:09.027506943Z  [2022-03-31T06:39:09Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:09.027557833Z  [2022-03-31T06:39:09Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:09.027607222Z  [2022-03-31T06:39:09Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:09.027621536Z  [2022-03-31T06:39:09Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:12.057329216Z  [2022-03-31T06:39:12Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:12.083797583Z  [2022-03-31T06:39:12Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:12.083836688Z  [2022-03-31T06:39:12Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:12.083848908Z  [2022-03-31T06:39:12Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:12.083859578Z  [2022-03-31T06:39:12Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:15.314297223Z  [2022-03-31T06:39:15Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:15.339078616Z  [2022-03-31T06:39:15Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:15.339130328Z  [2022-03-31T06:39:15Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:15.339142873Z  [2022-03-31T06:39:15Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:15.339153706Z  [2022-03-31T06:39:15Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:18.341525382Z  [2022-03-31T06:39:18Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:39:18.379146488Z  [2022-03-31T06:39:18Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:18.379197155Z  [2022-03-31T06:39:18Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:18.379206129Z  [2022-03-31T06:39:18Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:18.379213953Z  [2022-03-31T06:39:18Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:21.408550818Z  [2022-03-31T06:39:21Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:21.434724949Z  [2022-03-31T06:39:21Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:21.434771650Z  [2022-03-31T06:39:21Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:21.434819690Z  [2022-03-31T06:39:21Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:21.434839677Z  [2022-03-31T06:39:21Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:24.683009359Z  [2022-03-31T06:39:24Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:24.708624295Z  [2022-03-31T06:39:24Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:24.708683819Z  [2022-03-31T06:39:24Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:24.708694753Z  [2022-03-31T06:39:24Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:24.708890466Z  [2022-03-31T06:39:24Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:27.712630039Z  [2022-03-31T06:39:27Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:39:27.748871924Z  [2022-03-31T06:39:27Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:27.749052408Z  [2022-03-31T06:39:27Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:27.749269774Z  [2022-03-31T06:39:27Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:27.749332699Z  [2022-03-31T06:39:27Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:30.783005866Z  [2022-03-31T06:39:30Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:30.815045409Z  [2022-03-31T06:39:30Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:30.815151578Z  [2022-03-31T06:39:30Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:30.815275958Z  [2022-03-31T06:39:30Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:30.815375333Z  [2022-03-31T06:39:30Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:34.100121164Z  [2022-03-31T06:39:34Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:34.131241546Z  [2022-03-31T06:39:34Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:34.131410665Z  [2022-03-31T06:39:34Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:34.131426346Z  [2022-03-31T06:39:34Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:34.131541611Z  [2022-03-31T06:39:34Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:37.136516210Z  [2022-03-31T06:39:37Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:39:37.175275689Z  [2022-03-31T06:39:37Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:37.175372531Z  [2022-03-31T06:39:37Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:37.175448874Z  [2022-03-31T06:39:37Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:37.175517925Z  [2022-03-31T06:39:37Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:40.205634893Z  [2022-03-31T06:39:40Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:40.235988159Z  [2022-03-31T06:39:40Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:40.236030451Z  [2022-03-31T06:39:40Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:40.236043767Z  [2022-03-31T06:39:40Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:40.236055380Z  [2022-03-31T06:39:40Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:43.468906390Z  [2022-03-31T06:39:43Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:43.499077508Z  [2022-03-31T06:39:43Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:43.499124102Z  [2022-03-31T06:39:43Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:43.499138543Z  [2022-03-31T06:39:43Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:43.499150712Z  [2022-03-31T06:39:43Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:46.502627969Z  [2022-03-31T06:39:46Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:39:46.539075851Z  [2022-03-31T06:39:46Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:46.539108409Z  [2022-03-31T06:39:46Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:46.539119533Z  [2022-03-31T06:39:46Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:46.539129396Z  [2022-03-31T06:39:46Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:49.566932174Z  [2022-03-31T06:39:49Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:49.595494650Z  [2022-03-31T06:39:49Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:49.595539421Z  [2022-03-31T06:39:49Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:49.595552166Z  [2022-03-31T06:39:49Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:49.595563294Z  [2022-03-31T06:39:49Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:52.844262978Z  [2022-03-31T06:39:52Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:52.879426766Z  [2022-03-31T06:39:52Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:52.879473698Z  [2022-03-31T06:39:52Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:52.879485877Z  [2022-03-31T06:39:52Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:52.879496304Z  [2022-03-31T06:39:52Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:55.882519920Z  [2022-03-31T06:39:55Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:39:55.927662375Z  [2022-03-31T06:39:55Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:55.927722612Z  [2022-03-31T06:39:55Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:55.927732899Z  [2022-03-31T06:39:55Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:55.927741546Z  [2022-03-31T06:39:55Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:39:58.959765740Z  [2022-03-31T06:39:58Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:39:58.991590649Z  [2022-03-31T06:39:58Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:39:58.991631553Z  [2022-03-31T06:39:58Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:39:58.991644414Z  [2022-03-31T06:39:58Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:39:58.991655619Z  [2022-03-31T06:39:58Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:40:02.216860672Z  [2022-03-31T06:40:02Z INFO  dt_mqtt_manager] Error in Messages contents
+2022-03-31T06:40:02.244391218Z  [2022-03-31T06:40:02Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:40:02.244429816Z  [2022-03-31T06:40:02Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:40:02.244460876Z  [2022-03-31T06:40:02Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:40:02.244471530Z  [2022-03-31T06:40:02Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0
+2022-03-31T06:40:05.248280968Z  [2022-03-31T06:40:05Z INFO  dt_mqtt_manager] Error Reaching MQTT Broker Clients (error sending request for url (http://mqtt-cluster:8081/api/v4/clients/): error trying to connect: tcp connect error: Connection refused (os error 111))
+2022-03-31T06:40:05.289629264Z  [2022-03-31T06:40:05Z INFO  dt_mqtt_manager] Success Nodes 1
+2022-03-31T06:40:05.289677451Z  [2022-03-31T06:40:05Z INFO  dt_mqtt_manager] CPU values = " ", MEM values = " ", Cluster Size = 1
+2022-03-31T06:40:05.289696168Z  [2022-03-31T06:40:05Z INFO  dt_mqtt_manager] All Queue = 0, All Inflight = 0
+2022-03-31T06:40:05.289712097Z  [2022-03-31T06:40:05Z INFO  dt_mqtt_manager] Avg Queue = 0, Avg Inflight = 0

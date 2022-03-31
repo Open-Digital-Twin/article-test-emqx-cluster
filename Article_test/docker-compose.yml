@@ -34,7 +34,7 @@ services:
       replicas: 0
       placement:
         constraints:
-          - node.labels.name==cluster
+          - node.labels.type==cluster
 
   mqtt-manager:
     image: "dt-mqtt-manager:latest"
@@ -83,7 +83,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w01
+          - node.labels.name==w04
     command: dt-client-bytes
 
 
@@ -111,7 +111,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w04
+          - node.labels.name==w05
     command: dt-client-bytes
 
 # Twins E e F usam padrões de automacão discretos (?????)
@@ -137,7 +137,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w05
+          - node.labels.name==w06
     command: dt-client-bytes
 
   clients-DAB:
@@ -162,7 +162,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w06
+          - node.labels.name==w07
     command: dt-client-bytes
 
   clients-MC:
@@ -187,7 +187,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w07
+          - node.labels.name==w08
     command: dt-client-bytes
 
 ###########################################################################################################
@@ -210,7 +210,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w01
+          - node.labels.name==w04
     command: dt-instance
 
   twin-Cam:
@@ -233,7 +233,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w04
+          - node.labels.name==w05
     command: dt-instance
 
   twin-DAS:
@@ -255,7 +255,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w05
+          - node.labels.name==w06
     command: dt-instance
 
   twin-DAB:
@@ -277,7 +277,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w06
+          - node.labels.name==w07
     command: dt-instance
  
   twin-MC:
@@ -299,7 +299,7 @@ services:
       replicas: 0
       placement:    
         constraints:
-          - node.labels.name==w07
+          - node.labels.name==w08
     command: dt-instance
 
 networks:
