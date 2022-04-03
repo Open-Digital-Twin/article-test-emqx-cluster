@@ -18,6 +18,7 @@ sleep 1
 i=$(( $i+1 ))
 done
 
+cd test25k
 mkdir "teste${j}"
 cd "teste${j}"
 docker container ls --format {{.Names}} | grep manager| xargs -I {} sh -c 'docker logs {} -t --details 2>&1 | tee {}.log'
@@ -26,6 +27,7 @@ docker -H dtwins-w05 container ls --format {{.Names}} | grep twin| xargs -I {} s
 docker -H dtwins-w06 container ls --format {{.Names}} | grep twin| xargs -I {} sh -c 'docker -H dtwins-w06 logs {} -t --details 2>&1 | tee {}.log'
 docker -H dtwins-w07 container ls --format {{.Names}} | grep twin| xargs -I {} sh -c 'docker -H dtwins-w07 logs {} -t --details 2>&1 | tee {}.log'
 docker -H dtwins-w08 container ls --format {{.Names}} | grep twin| xargs -I {} sh -c 'docker -H dtwins-w08 logs {} -t --details 2>&1 | tee {}.log'
+cd ..
 cd ..
 
 docker stack rm test

@@ -45,7 +45,7 @@ services:
       - SWARM_API_ADDRESS=192.168.123.229
       - SWARM_API_PORT=2375
       - CLUSTER_SAVES=1
-      - MAX_QUEUE=7500
+      - MAX_QUEUE=2500
       - MAX_INFLIGHT=0
       - SCALE_BLOCK_TIME=30
       - RUST_LOG=info
