@@ -18,7 +18,7 @@ sleep 1
 i=$(( $i+1 ))
 done
 
-cd test25k
+cd test8i
 mkdir "teste${j}"
 cd "teste${j}"
 docker container ls --format {{.Names}} | grep manager| xargs -I {} sh -c 'docker logs {} -t --details 2>&1 | tee {}.log'
